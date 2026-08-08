@@ -1,5 +1,7 @@
 # Best-Tasting Basil Varieties — With US Purchase Links
 
+*Genovese · Salad/Raw · Thai — ranked by taste, with chemistry data*
+
 ## Tier 1 — Pure Best Flavor (Open-Pollinated, Seed-Saveable)
 
 ### #1 Franchi "Italiano Classico"
@@ -309,6 +311,152 @@ stone fruit, floated in lemonade, scattered over goat cheese or ricotta.
 | Fish & seafood salads | Lemon / Lime Basil | Bright citrus complements delicate proteins |
 | Fruit salads | Cinnamon Basil or Lemon Basil | Warm spice or citrus pairs with fruit |
 | Color & visual impact | Dark Opal / Red Rubin | Striking purple against green salads |
+
+---
+
+## Best Thai Basil — For Stir-Fries, Curries, Pho & Raw Garnish
+
+Thai basil (*Ocimum basilicum* var. *thyrsiflora*) is a different beast from
+Genovese. The chemistry explains why: Genovese is **linalool-dominant** — a
+heat-sensitive monoterpene that volatilizes in a hot wok within 30 seconds.
+Thai basil is **estragole-dominant** (methyl chavicol) — a phenylpropanoid
+that's structurally stable at high temperatures. This is why Thai basil holds
+its flavor in stir-fries, curries, and soups where Genovese would turn flat.
+
+A 2025 phytochemical study of 34 *Ocimum* cultivars quantified methyl chavicol
+content for the Thai varieties:
+
+| Variety | Methyl Chavicol % | Flavor Intensity |
+|---------|-------------------|-----------------|
+| **Siam Queen** | **82.0%** | Most potent anise/licorice punch |
+| **Sweet Thai** | 70.2% | Classic balanced Thai basil |
+| **Queenette** | 53.8% | Layered complexity with clove/mint notes |
+
+**(For comparison: Genovese has near-zero methyl chavicol.)**
+
+Thai basil is also excellent raw — served fresh alongside pho, torn into
+summer rolls, shredded into larb and papaya salads. Bon Appétit: "When used
+raw, Thai basil can be a vibrant addition to your salads."
+
+### Important: Thai Basil ≠ Holy Basil
+
+They're completely different:
+- **Thai basil** (*O. basilicum* var. *thyrsiflora*): Sweet, anise/licorice.
+  Purple stems, smooth green leaves. For curries, pho, stir-fries.
+- **Holy basil / Tulsi / Kaphrao** (*O. tenuiflorum*): Peppery, clove-like,
+  slightly bitter. Hairy stems. For pad krapow, drunken noodles, tea.
+  A different species entirely.
+
+In the West, Thai basil often substitutes for holy basil (which is harder to
+find). The flavor is different, but Thai basil is what you'll actually find
+available.
+
+---
+
+### #1 🥇 Siam Queen — Most Intense Flavor
+
+**1997 All-America Selections winner.** Highest methyl chavicol content of any
+basil tested (82%). Bold anise-licorice punch with a meaty, rich aroma. Tall
+(30-40"), bushy, large 3-4" leaves — much larger than standard Thai basil.
+Purple stems and flowers make it highly ornamental. The strain was bred in the
+US and is now the gold standard for Thai basil in American gardens.
+"More tender and intensely flavored than Sweet Basil" (Burpee).
+
+**OP · Seed-saveable · No patents · Heirloom**
+
+| Retailer | Price | Link |
+|----------|-------|------|
+| Burpee | $4.45 | https://www.burpee.com/basil-siam-queen-prod000461.html |
+| Park Seed | $2.95 | https://www.parkseed.com/collections/basil (search "Siam Queen") |
+| Harris Seeds | from $7.16 (1/4 oz) | https://www.harrisseeds.com/products/00937-basil-siam-queen |
+| Diane's Seeds | $3.00 (100 seeds) | https://www.dianeseeds.com/basil.html |
+| Amazon (Liliana's Garden) | Check site (150 seeds) | https://www.amazon.com/Basil-Seeds-Heirloom-Lilianas-Garden/dp/B08746Q2FZ |
+
+---
+
+### #2 🥈 Queenette — Most Complex, Authentic Thai Import
+
+**"The most intense of the sweet basils."** Distinctive appearance: dense
+clusters of tiny 1/2" leaves around purple stems. Compact and tropical-looking.
+Imported directly from Thailand by Renee's Garden. Flavor combines aromatic
+mild sweet spices with clove/mint basil — more layered complexity than Siam
+Queen. One grower: "The nicest variety in a refreshing Jungle Curry or a warming
+creamy Panang." Excellent both raw and cooked.
+
+**OP · Seed-saveable · No patents**
+
+| Retailer | Price | Link |
+|----------|-------|------|
+| Renee's Garden — Exclusive | $2.99 (368 seeds) | https://www.reneesgarden.com/products/basil-thai-queenette |
+| Select Seeds | $3.55 | https://www.selectseeds.com/products/thai-basil-queenette-seeds |
+
+---
+
+### #3 🥉 Sweet Thai — The Classic Standard
+
+**"One of the best flavored Thai basils"** (Red Barn Herb Farm). The
+quintessential Thai basil: 2" green leaves, spicy anise-clove flavor, attractive
+purple stems and blooms. Called "Horapha" in Thailand, "Hung Que" in Vietnam.
+Smaller leaves and more compact (16-20") than Siam Queen. Holds flavor under
+heat — add to stir-fries, curries, and pho. 70.2% methyl chavicol. Organic
+seed available.
+
+**OP · Seed-saveable · No patents**
+
+| Retailer | Price | Link |
+|----------|-------|------|
+| Johnny's — Organic | $6.40 (200 seeds) | https://www.johnnyseeds.com/herbs/basil/asian-basil/sweet-thai-organic-basil-seed-945G.html |
+| Johnny's — Conventional | $5.95 (100 seeds) | https://www.johnnyseeds.com/herbs/basil/asian-basil/sweet-thai-basil-seed-945.html |
+| Botanical Interests | $2.69 (200 seeds) | https://www.botanicalinterests.com/products/sweet-thai-thai-basil-seeds |
+| Reimer Seeds | $4.00 | https://www.reimerseeds.com/sweet-thai-basil-seeds |
+
+---
+
+### #4 Everleaf Thai Towers — Slowest to Bolt, Most Productive
+
+**Flowers 10-12 weeks later than standard Thai basil.** Columnar, upright habit
+(20-24") with purple stems and densely packed 2-3" dark green leaves with
+purple blush. Larger leaves and much more productive than Sweet Thai. "Vibrant
+Thai flavor" with strong Thai/anise aroma (less sweetness than Cinnamon basil).
+Excellent for continuous harvest — bunching, pots, or field. If you want a
+single plant that produces all season without bolting, this is it.
+
+**Check listing for OP vs F1 status**
+
+| Retailer | Price | Link |
+|----------|-------|------|
+| Johnny's | $5.65 (packet) | https://www.johnnyseeds.com/herbs/basil/asian-basil/everleaf-thai-towers-basil-seed-4308.51.html |
+
+---
+
+### #5 Thai Thai Prospera Active DMR — Disease-Resistant
+
+**Thai basil with high resistance to downy mildew.** Semi-compact (18-20"),
+3" medium green leaves on dark purple stems. Traditional Thai aroma. Larger
+leaves and taller, fuller architecture than Sweet Thai. Much slower to bolt
+with higher yield potential. If downy mildew is a problem in your area but
+you want Thai basil, this is the solution.
+
+**F1 Hybrid · Cannot save seed · Patent pending**
+
+| Retailer | Price | Link |
+|----------|-------|------|
+| Johnny's — Organic | Check site | https://www.johnnyseeds.com/herbs/basil/asian-basil/thai-thai-prospera-active-dmr-organic-basil-seed-4968G.html |
+
+---
+
+### Thai Basil Decision Matrix
+
+| Use Case | Best Pick | Why |
+|----------|-----------|-----|
+| Maximum anise/licorice punch | Siam Queen | 82% methyl chavicol — highest ever tested |
+| Most complex, authentic Thai flavor | Queenette | Layered spice/clove/mint, imported Thai genetics |
+| Classic balanced Thai basil | Sweet Thai | The standard "horapha" — works for everything |
+| Continuous harvest, never bolts | Everleaf Thai Towers | 10-12 weeks later to flower, massive production |
+| Humid climate / disease pressure | Thai Thai Prospera Active | Only Thai basil with downy mildew resistance |
+| Pho garnish (raw) | Sweet Thai or Queenette | Classic tableside herb for Vietnamese pho |
+| Stir-fries & curries (cooked) | Siam Queen or Sweet Thai | Heat-stable estragole holds up to wok temperatures |
+| Thai salads (som tum, larb) | Queenette or Sweet Thai | Raw — herbal kick with lime, chili, fish sauce |
 
 ---
 
