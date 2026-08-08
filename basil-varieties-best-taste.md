@@ -2,6 +2,26 @@
 
 *Genovese · Salad/Raw · Thai — ranked by taste, with chemistry data*
 
+---
+
+## 🛒 WILL BUY — 5 Varieties, 3 Shops, All OP
+
+| # | Variety | Type | Why | Shop | Price |
+|---|---------|------|-----|------|-------|
+| 1 | **Thai Magic** | Thai, sweet/mild | Sweetest Thai. "Mild, sweet flavor, hint of anise." Big 4" leaves, late bloomer. | [Hazzard's Greenhouse](https://www.hazzardsgreenhouse.com/basil-thai-magic-ocimum-basilicum.html) | $3.10 |
+| 2 | **Thai Sweet** | Thai, classic | Standard horapha for comparison. Spicy anise-clove, purple stems. | [Hazzard's Greenhouse](https://www.hazzardsgreenhouse.com/basil-thai-sweet-ocimum-basilicum.html) | $2.40 |
+| 3 | **Italiano Classico** | Italian Genovese | The pesto benchmark. Franchi heirloom since 1783. 3,000 seeds/pack. | [Seeds from Italy](https://www.growitalian.com/products/basil-italiano-classico-13-2) | $5.50 |
+| 4 | **Bolloso Napoletano** | Italian large-leaf | Best for raw salads/Caprese. Hand-sized crinkled leaves, intense sweet basil flavor. | [Seeds from Italy](https://www.growitalian.com/products/basil-bolloso-napoletano-13-8) | $5.50 |
+| 5 | **Rutgers Obsession DMR** | DMR Genovese | #1 in blind taste tests against Genovese. Downy mildew resistance. | [Burpee](https://www.burpee.com/herb-basil-obsession-dmr-prod600315.html) | $4.45+ |
+
+**All five are open-pollinated.** Thai Magic, Thai Sweet, Italiano Classico, and Napoletano are fully seed-saveable with no restrictions. Rutgers Obsession is OP but US Utility Patent No. 10,159,212 (valid through ~2038) — biologically saveable, legally restricted for commercial propagation.
+
+**Covers all use cases:** Asian cooking + pho garnish (Thai Magic, Thai Sweet) · pesto + cooked Italian (Italiano Classico) · Caprese + raw salads + wraps (Bolloso Napoletano) · disease-resistant backup with proven flavor (Rutgers Obsession).
+
+**Total: ~$21 from 3 shops.** Hazzard's ships both Thai varieties together. growitalian.com ships both Italian Franchi varieties together.
+
+---
+
 ## Tier 1 — Pure Best Flavor (Open-Pollinated, Seed-Saveable)
 
 ### #1 Franchi "Italiano Classico"
@@ -328,9 +348,19 @@ content for the Thai varieties:
 
 | Variety | Methyl Chavicol % | Flavor Intensity |
 |---------|-------------------|-----------------|
-| **Siam Queen** | **82.0%** | Most potent anise/licorice punch |
-| **Sweet Thai** | 70.2% | Classic balanced Thai basil |
+| **Thai Magic** | **Not tested** | Mildest — "hint of anise" |
 | **Queenette** | 53.8% | Layered complexity with clove/mint notes |
+| **Sweet Thai** | 70.2% | Classic balanced Thai basil |
+| **Siam Queen** | **82.0%** | Most potent anise/licorice punch |
+
+**Sweetness spectrum (sweetest/mildest → strongest):**
+
+```
+Thai Magic  ████████░░░░░░░░░░░░  mild, sweet, hint of anise
+Queenette   ████████████░░░░░░░░  layered clove + spice + anise
+Sweet Thai  ████████████████░░░░  classic horapha anise-clove
+Siam Queen  ████████████████████  intense licorice punch (82%)
+```
 
 **(For comparison: Genovese has near-zero methyl chavicol.)**
 
@@ -412,7 +442,24 @@ seed available.
 
 ---
 
-### #4 Everleaf Thai Towers — Slowest to Bolt, Most Productive
+### #4 Thai Magic — Sweetest, Mildest Thai Basil
+
+**"Mild, sweet flavor with a hint of anise"** (Henry's Plant Farm). The best
+choice when you want Thai basil character without the aggressive licorice punch.
+Glossy 4" leaves — larger than most Thai basils. Brilliant magenta flower
+clusters. Late-blooming, extending the leaf harvest. "Milder and sweeter than
+other basils" (Siebenthaler's). Thick succulent leaves with a sweet, subtle
+anise note rather than the sharp licorice of Siam Queen.
+
+**OP · Seed-saveable · No F1 designation from any seller**
+
+| Retailer | Price | Link |
+|----------|-------|------|
+| Hazzard's Greenhouse | $3.10 (20 seeds) | https://www.hazzardsgreenhouse.com/basil-thai-magic-ocimum-basilicum.html |
+
+---
+
+### #5 Everleaf Thai Towers — Slowest to Bolt, Most Productive
 
 **Flowers 10-12 weeks later than standard Thai basil.** Columnar, upright habit
 (20-24") with purple stems and densely packed 2-3" dark green leaves with
@@ -429,7 +476,7 @@ single plant that produces all season without bolting, this is it.
 
 ---
 
-### #5 Thai Thai Prospera Active DMR — Disease-Resistant
+### #6 Thai Thai Prospera Active DMR — Disease-Resistant
 
 **Thai basil with high resistance to downy mildew.** Semi-compact (18-20"),
 3" medium green leaves on dark purple stems. Traditional Thai aroma. Larger
@@ -449,14 +496,15 @@ you want Thai basil, this is the solution.
 
 | Use Case | Best Pick | Why |
 |----------|-----------|-----|
+| **Sweetest, mildest Thai flavor** | Thai Magic | Hint of anise, not a punch. Big 4" leaves. |
 | Maximum anise/licorice punch | Siam Queen | 82% methyl chavicol — highest ever tested |
 | Most complex, authentic Thai flavor | Queenette | Layered spice/clove/mint, imported Thai genetics |
 | Classic balanced Thai basil | Sweet Thai | The standard "horapha" — works for everything |
 | Continuous harvest, never bolts | Everleaf Thai Towers | 10-12 weeks later to flower, massive production |
 | Humid climate / disease pressure | Thai Thai Prospera Active | Only Thai basil with downy mildew resistance |
-| Pho garnish (raw) | Sweet Thai or Queenette | Classic tableside herb for Vietnamese pho |
+| Pho garnish (raw) | Thai Magic or Sweet Thai | Mild + sweet or classic anise |
 | Stir-fries & curries (cooked) | Siam Queen or Sweet Thai | Heat-stable estragole holds up to wok temperatures |
-| Thai salads (som tum, larb) | Queenette or Sweet Thai | Raw — herbal kick with lime, chili, fish sauce |
+| Thai salads (som tum, larb) | Queenette or Thai Magic | Raw — complex or mild herbal kick |
 
 ---
 
