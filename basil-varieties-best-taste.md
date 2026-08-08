@@ -175,6 +175,143 @@ and aromatic.
 
 ---
 
+## Best Basil for Eating Raw — Salads, Caprese, Fresh Use
+
+The chemistry matters. Genovese basil's signature flavor comes from **linalool**,
+a heat-sensitive monoterpene that volatilizes within minutes of high-temperature
+cooking. This is why Genovese tastes extraordinary raw over sliced tomatoes but
+flat after simmering in a saucepan. For raw eating, you want varieties that shine
+uncooked.
+
+### #1 🥇 Bolloso Napoletano — The King of Raw Basil
+
+**The ultimate salad basil.** Huge crinkled ("blistered") leaves up to 5-6" across —
+the size of a hand. From Naples, where it's traditionally used to wrap buffalo
+mozzarella balls with a drizzle of olive oil. Unlike most large-leaf basils that
+go mild, Napoletano has **very intense flavor and aroma**. Mild, buttery, subtly
+sweet with a traditional anise note. The crinkled texture holds dressings and
+olive oil beautifully. La Cucina Italiana specifically recommends "large-leaf
+basil like the Neapolitan variety" for Caprese salad.
+
+**OP · Seed-saveable · No patents**
+
+| Retailer | Price | Link |
+|----------|-------|------|
+| Seeds from Italy (Franchi) | $5.50 (8g, ~4,800 seeds) | https://www.growitalian.com/products/basil-bolloso-napoletano-13-8 |
+| Restoration Seeds — Organic | Check site | https://www.restorationseeds.com/products/baloso-napolatano-basil |
+
+---
+
+### #2 🥈 Genovese / Italiano Classico — The Classic
+
+**Best raw basil for classic Italian dishes.** Caprese salad, Insalata, torn
+over tomatoes and mozzarella. The linalool-rich flavor peaks when uncooked.
+Large tender leaves perfect for layering. NC State blind taste tests used
+Caprese salad as the judging format — Genovese was the reference standard.
+Rutgers Obsession DMR beat it in those tests for taste, but Genovese remains
+the benchmark.
+
+**OP · Seed-saveable · No patents** (see Tier 1 above for all purchase links)
+
+---
+
+### #3 🥉 Lettuce Leaf / Toscano / a Foglie di Lattuga
+
+**Use as a lettuce substitute.** Mild, sweet, buttery flavor — less intense
+than Genovese, making it ideal when you want basil flavor without basil
+dominance. 4-5" crinkled leaves hold dressing well. Perfect for:
+sandwiches (replacing lettuce), wraps, shredding into green salads, layering
+on burgers. "Great addition to sandwiches or salads" (Almanac). "The huge
+tender green leaves are sweetly fragrant" (SmartGardener). Very slow to bolt.
+
+**OP · Seed-saveable · No patents**
+
+| Retailer | Price | Link |
+|----------|-------|------|
+| Seeds from Italy (Franchi) | $5.50 (6g, ~3,600 seeds) | https://www.growitalian.com/products/basil-lettuce-leaf-a-foglie-di-lattuga-13-3 |
+| Botanical Interests | $2.69 (~480 seeds) | https://www.botanicalinterests.com/products/lettuce-leaf-basil-seeds |
+| True Leaf Market | $2.79 | https://trueleafmarket.com/products/basil-seeds-lettuce-leaf-1 |
+| Mary's Heirloom Seeds | $2.50 (50 seeds) | https://www.marysheirloomseeds.com/products/lettuce-leaf-basil |
+| Seedville USA | $2.95 (500 seeds) | https://seedvilleusa.com/products/500-lettuce-leaf-basil-ocimum-basilicum-herb-seeds-comb-ship-338421676 |
+
+---
+
+### #4 Fino Verde / Spicy Globe / Greek Bush Basil
+
+**Small leaves, big flavor, no chopping needed.** Compact 8-12" bushes with
+tiny 1" leaves. Concentrated sweet-spicy flavor, less pungent than large-leaf
+types. Stems are tender and succulent — you can chop the sprigs stems and all.
+Best raw because the delicate flavor washes out when cooked. Scatter whole leaves
+over salads, use as garnish, add fresh at the table. The basil most used for
+cooking in Italy (Fino Verde).
+
+**OP · Seed-saveable · No patents**
+
+| Retailer | Price | Link |
+|----------|-------|------|
+| Reimer Seeds — Fino Verde | $3.50 | https://www.reimerseeds.com/fino-verde-basil-seeds |
+| Thresh Seed Co. — Fino Verde | $3.99 | https://www.threshseed.com/products/large-leaf-italian-basil |
+
+---
+
+### #5 Lemon & Lime Basils
+
+**Bright citrus notes for raw applications.** Excellent raw in salads, especially
+with fish, chicken, fruit, or citrus vinaigrettes. "Can be used in many different
+ways — for example eaten raw with a salad" (The Chef's Gardener). Not a cooked
+basil — the citrus volatiles are even more heat-sensitive than linalool. Mrs.
+Burns' Lemon is the standout (New Mexico heirloom, fresh light lemon with mint).
+
+| Retailer | Price | Link |
+|----------|-------|------|
+| Johnny's — Mrs. Burns' Lemon | Check site | https://www.johnnyseeds.com/herbs/basil/ (search "Mrs. Burns") |
+| Johnny's — Lemon Basil | Check site | https://www.johnnyseeds.com/herbs/basil/ (search "Lemon") |
+| Johnny's — Lime Basil | Check site | https://www.johnnyseeds.com/herbs/basil/ (search "Lime") |
+
+---
+
+### #6 Cinnamon Basil
+
+**Warm spicy notes for fruit salads and desserts.** Best raw — the cinnamon
+notes are delicate and heat-sensitive. Tear into fruit salads, add to
+lemonade, infuse in syrups and honey. Also called Mexican Spice basil.
+
+| Retailer | Price | Link |
+|----------|-------|------|
+| Johnny's | Check site | https://www.johnnyseeds.com/herbs/basil/ (search "Cinnamon") |
+
+---
+
+### #7 Purple Basils (Dark Opal, Red Rubin, Amethyst)
+
+**Color and bold flavor for raw presentations.** "Especially effective when
+used fresh" — color darkens or fades with prolonged cooking. Peppery, clove-like,
+less sweet than green basil. Torn into green salads, paired with tomatoes and
+stone fruit, floated in lemonade, scattered over goat cheese or ricotta.
+
+| Retailer | Price | Link |
+|----------|-------|------|
+| Johnny's — Red Rubin | Check site | https://www.johnnyseeds.com/herbs/basil/ (search "Red Rubin") |
+| Johnny's — Amethyst | Check site | https://www.johnnyseeds.com/herbs/basil/ (search "Amethyst") |
+| Johnny's — Dark Opal | Check site | https://www.johnnyseeds.com/herbs/basil/ (search "Dark Opal") |
+
+---
+
+### Raw/Salad Decision Matrix
+
+| Salad Style | Best Pick | Why |
+|-------------|-----------|-----|
+| Classic Caprese | Bolloso Napoletano or Genovese | Large leaves for layering, authentic Italian flavor |
+| Green salads (shredded/torn) | Lettuce Leaf / Toscano | Mild, buttery, holds dressing, doesn't dominate |
+| Mozzarella wraps / appetizers | Bolloso Napoletano | Huge leaves, intense flavor, traditional Neapolitan use |
+| Sandwich/wrap lettuce replacement | Lettuce Leaf / Mammoth | Mild, crispy, large leaves |
+| Garnish (scattered whole) | Fino Verde / Spicy Globe | Tiny leaves, no chopping, concentrated flavor |
+| Fish & seafood salads | Lemon / Lime Basil | Bright citrus complements delicate proteins |
+| Fruit salads | Cinnamon Basil or Lemon Basil | Warm spice or citrus pairs with fruit |
+| Color & visual impact | Dark Opal / Red Rubin | Striking purple against green salads |
+
+---
+
 ## Key Notes
 
 - **Hydroponic vs. Soil**: Genovese varieties develop their best essential oil profile
