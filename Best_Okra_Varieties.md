@@ -235,3 +235,33 @@ If you're trying okra varieties for the first time, this three-pack covers the s
 3. **Emerald Green Velvet** — classic green velvet type, stays tender forever, commercial-grade reliability
 
 All three are open-pollinated, widely available, and consistently ranked among the very best in independent taste trials and grower reviews.
+
+---
+
+## Minimal-Seller Buying Strategy
+
+If buying only 3 varieties from as few sellers as possible:
+
+### Tier 1 Champions (Burmese, Yalova Akköy, Jing Orange) — 2 sellers
+
+Yalova Akköy is single-sourced, so 2 sellers is the minimum.
+
+| Seller | Variety | Price |
+|---|---|---|
+| [Two Seeds in a Pod](https://twoseedsinapod.com/product/yalova-akkoy-turkish-okra-seeds/) | Yalova Akköy | $3.50 |
+| [Baker Creek](https://www.rareseeds.com/okra-burmese) | Burmese | $3.25 |
+| [Baker Creek](https://www.rareseeds.com/okra-jing-orange) | Jing Orange | $3.50 |
+| **Total** | | **$10.25** |
+
+### Recommended Starting Set (Burmese, Jing Orange, Emerald Green Velvet) — 2 sellers
+
+Cheapest 2-seller combo (Mary's Heirloom + Reimer Seeds):
+
+| Seller | Variety | Price |
+|---|---|---|
+| [Mary's Heirloom](https://www.marysheirloomseeds.com/products/jing-orange-okra) | Jing Orange | $2.50 |
+| [Mary's Heirloom](https://www.marysheirloomseeds.com/products/louisiana-green-velvet-okra) | Emerald (Louisiana Green Velvet) | $2.00 |
+| [Reimer Seeds](https://www.reimerseeds.com/burmese-okra-seeds) | Burmese | $2.50 |
+| **Total** | | **$7.00** |
+
+The core constraint is that no single seller carries both **Burmese** and **Jing Orange** together, so 2 sellers is the minimum for any set containing both.
