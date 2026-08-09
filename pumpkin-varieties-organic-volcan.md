@@ -227,6 +227,39 @@ F1 C. moschata, 2–3kg long pear-shaped fruits with yellowish brown skin and li
 | **Disease** | Good general adaptation to cool, short-season |
 | **Habit** | Vining |
 
+#### Beimi No.2 (北蜜2号) 🇨🇳 ⚠️ SHIPS TO US
+F1 hybrid C. moschata. Pear-shaped fruits 2–3kg, dark green young turning yellow-brown mature, sweet excellent quality. Strong growth, both main and side vines fruit. 120-day season, harvest 35–40 days after flowering. Disease-resistant (general adaptation). Available from Chinese export sellers that ship to the US — one of the few Asian commercial varieties you can actually order.
+
+| Trait | Detail |
+|---|---|
+| **Type** | F1 hybrid |
+| **Days** | 120 (harvest 35–40d post-flowering) |
+| **Fruit weight** | 2.0–3.0 kg |
+| **Flesh** | Sweet, yellow-orange |
+| **Disease** | Good general disease resistance |
+| **Habit** | Vining, vigorous |
+
+| Seed Source | Price | Organic |
+|---|---|---|
+| [Deargogo / Bellfarm](https://www.deargogo.com/Beimi-No-2-Pumpkin-Seeds-Chinese-Pumpkin-Seeds-Hybrid-Pumpkin-Pear-Shaped-Pumpkin-Sweet-Flesh-p1082183.html) | $12.99 (20g) | No |
+
+#### Chinese Miben F1 (蜜本南瓜) 🇨🇳 ⚠️ SHIPS TO US
+The most widely grown commercial C. moschata in China. Elongated cylindrical fruits (~36cm), 2.5–3.5kg, thick orange-red flesh, low moisture, dense and sweet. Early maturity (80–90 days). Robust resistance, wide adaptability, high yield. Good for shipping and storage. Available from multiple Chinese export sellers at budget prices.
+
+| Trait | Detail |
+|---|---|
+| **Type** | F1 hybrid |
+| **Days** | 80–90 |
+| **Fruit weight** | 2.5–3.5 kg |
+| **Flesh** | Orange-red, thick, dense, sweet, low moisture |
+| **Disease** | Robust general resistance, wide adaptability |
+| **Habit** | Vining, strongly branching |
+
+| Seed Source | Price | Organic |
+|---|---|---|
+| [Agrohaitai](https://agrohaitai.com/products/chinese-miben-f1) | $2.99/pkt (10 seeds) | No |
+| [Deargogo / Bellfarm](https://www.deargogo.com/Chinese-Miben-Pumpkin-Seeds-p1051266.html) | $1.30/pkt (50 seeds) | No |
+
 ---
 
 ### Vietnam — Northern Highland Landraces
@@ -388,6 +421,64 @@ Developed by the World Vegetable Center (Taiwan) from a Bangladeshi landrace thr
 | Seed Source | Price | Organic |
 |---|---|---|
 | [World Vegetable Center](https://avrdc.org/) | Germplasm | No |
+
+---
+
+## US Seed Availability — What You Can Actually Buy
+
+### ✅ Available from US-Based Seed Companies
+
+| Variety | Source | Price | Notes |
+|---|---|---|---|
+| **South Anna Butternut** | [Common Wealth Seed Growers](https://commonwealthseeds.com/) (VA) | ~$4.00 | OP, ongoing selection, certified organic |
+| **Chinese Tropical Pumpkin** | [Common Wealth Seed Growers](https://commonwealthseeds.com/) (VA) | ~$4.00 | OP, bred for humid Southeast |
+| **Guatemalan Green Ayote** | [Common Wealth Seed Growers](https://commonwealthseeds.com/) (VA) | ~$4.00 | OP, certified organic |
+| **Guatemalan Green Ayote** | [Experimental Farm Network](https://store.experimentalfarmnetwork.org/) (NJ) | $5.00 | OP, same genetics |
+| **Seminole Pumpkin** | [Southern Exposure Seed Exchange](https://www.southernexposure.com/) | ~$3.50 | OP, classic Florida landrace |
+| **Thai Kang Kob** | [Common Wealth Seed Growers](https://commonwealthseeds.com/) | ~$4.00 | OP, DM-resistant, rich flavor |
+| **Thai Kang Kob** | [ECHO Global Seed Bank](https://www.echobooks.net/) (FL) | Varies | OP, nonprofit, tropical smallholder focus |
+| **Soler** | [UPR Agricultural Experiment Station](https://www.uprm.edu/eea/) (PR) | Inquire | OP, Puerto Rico = US territory. Request from breeding program. |
+| **Taina Dorada** | [UPR Agricultural Experiment Station](https://www.uprm.edu/eea/) (PR) | Inquire | OP, semi-bush, Puerto Rico = US territory |
+
+### ⚠️ Available via Chinese Export Sellers (ships to US)
+
+| Variety | Source | Price | Notes |
+|---|---|---|---|
+| **Beimi No.2** (北蜜2号) | [Deargogo / Bellfarm](https://www.deargogo.com/) | $12.99 | F1 hybrid, pear-shaped, sweet. Ships from China. 120-day maturity. |
+| **Beimi No.3** (北蜜3号) | [Deargogo / Bellfarm](https://www.deargogo.com/) | $9.99 | F1 hybrid, long stick-shaped, edible young + mature. Ships from China. |
+| **Chinese Miben F1** (蜜本) | [Agrohaitai](https://agrohaitai.com/) / [Deargogo](https://www.deargogo.com/) | $2.99–$12.99 | F1 hybrid, most common Chinese commercial pumpkin. 80–90 day, 2.5–3.5kg, sweet orange flesh. Wide adaptability. |
+
+> **⚠️ Customs note:** Importing seeds into the US requires a phytosanitary certificate and may need a USDA-APHIS small lots of seed permit. Chinese export sellers usually handle the phyto certificate, but check before ordering.
+
+### ❌ NOT Available in the US (no distributor found)
+
+| Variety | Source Country | Why Not Available |
+|---|---|---|
+| **Baimi 2** (百蜜2号) | China | Henan breeding program only. No US-compatible seller identified. |
+| **Suprema F1** | Philippines | East-West Seed distributes in Asia/Africa/LATAM only. No US retail channel. Could potentially order wholesale via [eastwestseed.com/contact](https://www.eastwestseed.com/contact-us/) (US is in their country list). |
+| **Bella F1** | Philippines | Same as Suprema — East-West Seed, no US retail. |
+| **Thong Siam** | Thailand | Chia Tai exports to 40+ countries including North America, but no US retail distributor found. Possible via [chiataigroup.com](https://www.chiataigroup.com/) international inquiry. |
+| **Thong Ampai 426** | Thailand | Chia Tai, same situation. |
+| **Khai Nao** | Thailand | Local Nan province organic network only. No international distribution. |
+| **Mat Sao 2** | Vietnam | FCRI Vietnam only. No international seed catalog. Possible via direct inquiry to [fcri.com.vn](https://fcri.com.vn/). |
+| **Duong Long 77** | Vietnam | Vietnamese domestic seed companies only. |
+| **San Leonardo / Nueva Vizcaya** | Philippines | Philippine Department of Agriculture / local growers only. |
+| **AVPU1426** | Bangladesh/Taiwan | World Vegetable Center genebank. Available upon research request at [avrdc.org/seed/seeds](https://avrdc.org/seed/seeds/) — not retail. |
+
+### 🥇 Best Strategy: Buy American, Supplement Chinese
+
+The **Common Wealth Seed Growers** catalog gives you 4 of the best humid-climate varieties from one US source:
+
+1. **South Anna Butternut** — downy mildew resistant butternut ($4)
+2. **Chinese Tropical Pumpkin** — max yield + DM resistance + dessert quality ($4)
+3. **Guatemalan Green Ayote** — exceptional flavor + keeping quality ($4)
+4. **Thai Kang Kob** — rich Thai pumpkin flavor + DM resistance ($4)
+
+**Total: ~$16 from one seller in Virginia.** All OP — save your own seed.
+
+Add **Seminole Pumpkin** from Southern Exposure ($3.50) for the ultimate disease-survival insurance, and you have a complete starter kit for under $25 all from US sources.
+
+If you want to experiment with Asian genetics, **Beimi No.2** ($13 from Chinese export) or **Chinese Miben F1** ($3 from Agrohaitai) are the most accessible — both are mainstream commercial Chinese pumpkins with wide adaptability.
 
 ---
 
