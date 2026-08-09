@@ -1,0 +1,415 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#MainContent"
+  - region "Announcement" [ref=e6]:
+    - paragraph [ref=e9]:
+      - text: If you have any issues with the website
+      - link "Click here" [ref=e10] [cursor=pointer]:
+        - /url: "#modal-popup"
+  - banner [ref=e13]:
+    - link [ref=e14] [cursor=pointer]:
+      - /url: /
+      - img "Whitwam Organics" [ref=e16]
+    - navigation [ref=e17]:
+      - list [ref=e18]:
+        - listitem [ref=e19]:
+          - group [ref=e21]:
+            - button "Shop" [ref=e22] [cursor=pointer]
+        - listitem [ref=e26]:
+          - link "Services" [ref=e27] [cursor=pointer]:
+            - /url: /pages/services
+        - listitem [ref=e29]:
+          - link "Blogs" [ref=e30] [cursor=pointer]:
+            - /url: /blogs/news
+        - listitem [ref=e32]:
+          - link "About Us" [ref=e33] [cursor=pointer]:
+            - /url: /pages/about-us
+        - listitem [ref=e35]:
+          - link "Contact Us" [ref=e36] [cursor=pointer]:
+            - /url: /pages/contact-us
+    - generic [ref=e38]:
+      - group [ref=e40]:
+        - button "Search" [ref=e41] [cursor=pointer]
+      - link "Log in" [ref=e46] [cursor=pointer]:
+        - /url: /account/login
+      - link "Cart" [ref=e52] [cursor=pointer]:
+        - /url: /cart
+  - main [ref=e57]:
+    - generic [ref=e61]:
+      - region "Gallery Viewer" [ref=e63]:
+        - generic [ref=e64]:
+          - link "Skip to product information" [ref=e65] [cursor=pointer]:
+            - /url: "#ProductInfo-template--22401326514405__main"
+          - list [ref=e66]:
+            - listitem [ref=e67]:
+              - generic [ref=e69]:
+                - img "Basil - Sweet Basil - Rutgers Obsession Downy Mildew Resistant - Whitwam Organics" [ref=e77]
+                - button "Open media 1 in modal"
+      - generic [ref=e80]:
+        - paragraph [ref=e81]: Whitwam Organics
+        - heading "Basil- Sweet Basil - Rutgers Obsession Downy Mildew Resistant" [level=1] [ref=e83]
+        - status [ref=e84]:
+          - generic [ref=e87]:
+            - generic [ref=e88]: Regular price
+            - generic [ref=e89]: $5.99 USD
+        - generic [ref=e90]:
+          - link "Shipping" [ref=e91] [cursor=pointer]:
+            - /url: /policies/shipping-policy
+          - text: calculated at checkout.
+        - generic [ref=e92]:
+          - group "Seeds or Plants" [ref=e93]:
+            - radio "Seeds" [checked] [ref=e95]
+            - generic [ref=e96] [cursor=pointer]: Seeds
+            - radio "Plants" [ref=e97]
+            - generic [ref=e98] [cursor=pointer]: Plants
+          - group "Size" [ref=e99]:
+            - radio ".5g Seed Packet" [checked] [ref=e101]
+            - generic [ref=e102] [cursor=pointer]: .5g Seed Packet
+            - radio "Small Seedling (2inx3in Pot) Variant sold out or unavailable" [disabled] [ref=e103]
+            - radio "Large Seedling (4in Pot) Variant sold out or unavailable" [disabled] [ref=e104]
+            - radio "Plant (1gal) Variant sold out or unavailable" [disabled] [ref=e105]
+        - generic [ref=e106]:
+          - generic [ref=e107]: Quantity
+          - generic "Quantity" [ref=e108]
+          - generic [ref=e110]:
+            - button "Decrease quantity for Basil- Sweet Basil - Rutgers Obsession Downy Mildew Resistant" [ref=e111]
+            - spinbutton "Quantity" [ref=e113]: "1"
+            - button "Increase quantity for Basil- Sweet Basil - Rutgers Obsession Downy Mildew Resistant" [ref=e114] [cursor=pointer]
+        - generic [ref=e116]:
+          - button "Add to cart" [ref=e120] [cursor=pointer]
+          - generic [ref=e127]:
+            - paragraph [ref=e128]: Pickup available at Whitwam Organics
+            - paragraph [ref=e129]: Usually ready in 2-4 days
+            - button "View store information" [ref=e130] [cursor=pointer]
+        - generic [ref=e131]:
+          - heading [level=2] [ref=e132]:
+            - strong [ref=e133]: Rutgers Obsession DMR
+          - paragraph [ref=e134]:
+            - emphasis [ref=e135]: Ocimum basilicum
+          - paragraph [ref=e136]: Downy Mildew Resistant, Productive, Compact, and Fusarium Resistant.
+          - paragraph [ref=e137]: High Downy Mildew and Fusarium resistance make this basil a top choice for fresh market and processing growers. Authentic flavor and appearance. Relatively slow to bolt with dark-green leaves about 2.5" long. A high leaf to stem ratio makes this variety a top choice for many open-field producers catering to the fresh market and processing industries. Unmatched Downy Mildew protection provides a solution to growers struggling to produce a crop.
+          - table [ref=e138]:
+            - rowgroup [ref=e139]:
+              - row [ref=e140]:
+                - cell [ref=e141]:
+                  - strong [ref=e142]: Days to germination
+                - cell "5 - 10 days" [ref=e143]
+              - row [ref=e144]:
+                - cell [ref=e145]:
+                  - strong [ref=e146]: Days to maturity
+                - cell "70 - 80 days" [ref=e147]
+              - row [ref=e148]:
+                - cell [ref=e149]:
+                  - strong [ref=e150]: Life cycle
+                - cell "Annual" [ref=e151]
+              - row [ref=e152]:
+                - cell [ref=e153]:
+                  - strong [ref=e154]: Plant time
+                - cell "Early Spring through Summer; harvest through Fall" [ref=e155]
+              - row [ref=e156]:
+                - cell [ref=e157]:
+                  - strong [ref=e158]: Spacing
+                - cell "4\" - 8\"" [ref=e159]
+              - row [ref=e160]:
+                - cell [ref=e161]:
+                  - strong [ref=e162]: Sun
+                - cell "full sun" [ref=e163]
+              - row [ref=e164]:
+                - cell [ref=e165]:
+                  - strong [ref=e166]: Soil temperature
+                - cell "65 - 70 F" [ref=e167]
+              - row [ref=e168]:
+                - cell [ref=e169]:
+                  - strong [ref=e170]: Optimum soil P.H
+                - cell "6 - 6.5" [ref=e171]
+              - row [ref=e172]:
+                - cell [ref=e173]:
+                  - strong [ref=e174]: Height
+                - cell "26\"" [ref=e175]
+          - paragraph [ref=e176]:
+            - strong
+        - group [ref=e178]:
+          - button [ref=e179] [cursor=pointer]
+    - generic [ref=e187]:
+      - heading "Seasonal Staff Picks- Heat Loving" [level=2] [ref=e189]
+      - list "Slider" [ref=e191]:
+        - listitem [ref=e192]:
+          - generic [ref=e194]:
+            - generic [ref=e195]:
+              - link [ref=e196] [cursor=pointer]:
+                - /url: /products/everglade-florida-heirloom-tomato-seedling-1
+                - img "Tomato - Everglade Cherry (Florida heirloom) - Whitwam Organics" [ref=e199]
+              - generic [ref=e200]: Sold out
+            - generic [ref=e204]:
+              - heading [level=3] [ref=e205]:
+                - link "Tomato- Everglade Cherry (Indeterminate)(Florida heirloom) Sold out" [ref=e206] [cursor=pointer]:
+                  - /url: /products/everglade-florida-heirloom-tomato-seedling-1
+                  - text: Tomato- Everglade Cherry (Indeterminate)(Florida heirloom)
+              - generic [ref=e207]:
+                - link "Seeds" [ref=e208] [cursor=pointer]:
+                  - /url: ""
+                - link "Plants" [ref=e209] [cursor=pointer]:
+                  - /url: ""
+        - listitem [ref=e210]:
+          - generic [ref=e212]:
+            - link [ref=e214] [cursor=pointer]:
+              - /url: /products/dark-green-zucchini-seedling
+              - img "Squash - Zucchini Desert (F1) Powdery Mildew Resistant - Whitwam Organics" [ref=e217]
+            - generic [ref=e220]:
+              - heading [level=3] [ref=e221]:
+                - link "Squash- Zucchini Desert (F1) Powdery Mildew Resistant" [ref=e222] [cursor=pointer]:
+                  - /url: /products/dark-green-zucchini-seedling
+              - generic [ref=e223]:
+                - link "Seeds" [ref=e224] [cursor=pointer]:
+                  - /url: /products/dark-green-zucchini-seedling?variant=8269742309421
+                - link "Plants" [ref=e225] [cursor=pointer]:
+                  - /url: ""
+        - listitem [ref=e226]:
+          - generic [ref=e228]:
+            - link [ref=e230] [cursor=pointer]:
+              - /url: /products/jericho-romaine-head-lettuce-seedling
+              - img "Lettuce - Jericho Romaine Head (Heirloom) - Whitwam Organics" [ref=e233]
+            - generic [ref=e236]:
+              - heading [level=3] [ref=e237]:
+                - link "Lettuce- Jericho Romaine Head (Heirloom)" [ref=e238] [cursor=pointer]:
+                  - /url: /products/jericho-romaine-head-lettuce-seedling
+              - generic [ref=e239]:
+                - link "Seeds" [ref=e240] [cursor=pointer]:
+                  - /url: /products/jericho-romaine-head-lettuce-seedling?variant=8269739130925
+                - link "Plants" [ref=e241] [cursor=pointer]:
+                  - /url: ""
+        - listitem [ref=e242]:
+          - generic [ref=e244]:
+            - link [ref=e246] [cursor=pointer]:
+              - /url: /products/summerdance-cucumber-seeds-1
+              - img "Cucumber - Summer Dance - Whitwam Organics" [ref=e249]
+            - generic [ref=e252]:
+              - heading [level=3] [ref=e253]:
+                - link "Cucumber-Summer Dance" [ref=e254] [cursor=pointer]:
+                  - /url: /products/summerdance-cucumber-seeds-1
+              - generic [ref=e255]:
+                - link "Seeds" [ref=e256] [cursor=pointer]:
+                  - /url: /products/summerdance-cucumber-seeds-1?variant=8269747748909
+                - link "Plants" [ref=e257] [cursor=pointer]:
+                  - /url: ""
+        - listitem [ref=e258]:
+          - generic [ref=e260]:
+            - link [ref=e262] [cursor=pointer]:
+              - /url: /products/milkweed-butterfly-weed
+              - img "Milkweed - Butterflyweed (Asclepias tuberosa) (Florida Native) - Whitwam Organics" [ref=e265]
+            - generic [ref=e268]:
+              - heading [level=3] [ref=e269]:
+                - link "Milkweed- Butterflyweed (Asclepias tuberosa) (Florida Native)" [ref=e270] [cursor=pointer]:
+                  - /url: /products/milkweed-butterfly-weed
+              - generic [ref=e271]:
+                - link "Seeds" [ref=e272] [cursor=pointer]:
+                  - /url: /products/milkweed-butterfly-weed?variant=8312665014317
+                - link "Plants" [ref=e273] [cursor=pointer]:
+                  - /url: /products/milkweed-butterfly-weed?variant=8312665079853
+        - listitem [ref=e274]:
+          - generic [ref=e276]:
+            - link [ref=e278] [cursor=pointer]:
+              - /url: /products/milkweed-swamp
+              - img "Milkweed- Swamp (Asclepias incarnata) (Florida Native) - Whitwam Organics" [ref=e281]
+            - generic [ref=e284]:
+              - heading [level=3] [ref=e285]:
+                - link "Milkweed- Swamp (Asclepias incarnata) (Florida Native)" [ref=e286] [cursor=pointer]:
+                  - /url: /products/milkweed-swamp
+              - generic [ref=e287]:
+                - link "Seeds" [ref=e288] [cursor=pointer]:
+                  - /url: /products/milkweed-swamp?variant=15448542478381
+                - link "Plants" [ref=e289] [cursor=pointer]:
+                  - /url: /products/milkweed-swamp?variant=15448542609453
+      - link "View all products in the Heat Loving Greens and Things- Heat tolerant plants for all regions collection" [ref=e291] [cursor=pointer]:
+        - /url: /collections/heat-loving-greens-and-things-1
+        - text: View all
+    - generic [ref=e296]:
+      - heading "We Help Create & Maintain Flourishing Gardens" [level=2] [ref=e297]
+      - paragraph [ref=e299]: We empower people of all ages and experience levels to grow their own food through providing support during every step of the process.
+      - link "Browse Our Services" [ref=e301] [cursor=pointer]:
+        - /url: /collections/services
+    - generic [ref=e304]:
+      - heading "What customers say" [level=2] [ref=e306]
+      - generic [ref=e307]:
+        - list [ref=e308]:
+          - listitem [ref=e309]:
+            - generic [ref=e310]:
+              - generic "5 out of 5" [ref=e311]:
+                - generic [ref=e312]: ★
+                - generic [ref=e313]: ★
+                - generic [ref=e314]: ★
+                - generic [ref=e315]: ★
+                - generic [ref=e316]: ★
+              - paragraph [ref=e317]: “Great local Company! I had a larger order of compost soil delivered and it was quality and clean!”
+              - generic [ref=e318]: Megan Skye Hunter
+          - listitem [ref=e320]:
+            - generic [ref=e321]:
+              - generic "5 out of 5" [ref=e322]:
+                - generic [ref=e323]: ★
+                - generic [ref=e324]: ★
+                - generic [ref=e325]: ★
+                - generic [ref=e326]: ★
+                - generic [ref=e327]: ★
+              - paragraph [ref=e328]: “Plants came in great condition. Dave responds to every question and concern within 24/hr of email. I will order again.”
+              - generic [ref=e329]: Erica luft
+          - listitem [ref=e331]:
+            - generic [ref=e332]:
+              - generic "5 out of 5" [ref=e333]:
+                - generic [ref=e334]: ★
+                - generic [ref=e335]: ★
+                - generic [ref=e336]: ★
+                - generic [ref=e337]: ★
+                - generic [ref=e338]: ★
+              - paragraph [ref=e339]: “Very healthy Tomato plants arrived quickly and well packaged. I will definitely be ordering again.”
+              - generic [ref=e340]: Carol Chewning
+          - listitem [ref=e342]:
+            - generic [ref=e343]:
+              - generic "5 out of 5" [ref=e344]:
+                - generic [ref=e345]: ★
+                - generic [ref=e346]: ★
+                - generic [ref=e347]: ★
+                - generic [ref=e348]: ★
+                - generic [ref=e349]: ★
+              - paragraph [ref=e350]: “So glad Plants were packaged very well as delivery driver did not read the live plants notice. Without the extra packaging the plants would not have survived.”
+              - generic [ref=e351]: Dick-Jean Bruce
+        - generic [ref=e353]:
+          - button "Slide left" [disabled] [ref=e354] [cursor=pointer]
+          - generic [ref=e358]:
+            - generic [ref=e359]: "1"
+            - generic [ref=e360]: /
+            - generic [ref=e361]: of
+            - generic [ref=e362]: "3"
+          - button "Slide right" [ref=e363] [cursor=pointer]
+  - contentinfo [ref=e368]:
+    - generic [ref=e370]:
+      - generic [ref=e371]:
+        - heading "Explore" [level=2] [ref=e372]
+        - list [ref=e373]:
+          - listitem [ref=e374]:
+            - link "New Arrivals" [ref=e375] [cursor=pointer]:
+              - /url: /collections/newest-products
+          - listitem [ref=e376]:
+            - link "Bestsellers" [ref=e377] [cursor=pointer]:
+              - /url: /collections/best-selling-products
+          - listitem [ref=e378]:
+            - link "Our Services" [ref=e379] [cursor=pointer]:
+              - /url: /pages/services
+          - listitem [ref=e380]:
+            - link "Merchandise" [ref=e381] [cursor=pointer]:
+              - /url: /collections/merchandise
+          - listitem [ref=e382]:
+            - link "Gift Cards" [ref=e383] [cursor=pointer]:
+              - /url: /products/gift-card
+      - generic [ref=e384]:
+        - heading "About" [level=2] [ref=e385]
+        - list [ref=e386]:
+          - listitem [ref=e387]:
+            - link "About Us" [ref=e388] [cursor=pointer]:
+              - /url: /pages/about-us
+          - listitem [ref=e389]:
+            - link "Our Blog" [ref=e390] [cursor=pointer]:
+              - /url: /blogs/news
+          - listitem [ref=e391]:
+            - link "Events" [ref=e392] [cursor=pointer]:
+              - /url: /pages/calendar-of-events
+          - listitem [ref=e393]:
+            - link "Contact Us" [ref=e394] [cursor=pointer]:
+              - /url: /pages/contact-us
+      - generic [ref=e395]:
+        - heading "Policies" [level=2] [ref=e396]
+        - list [ref=e397]:
+          - listitem [ref=e398]:
+            - link "Shipping & Orders" [ref=e399] [cursor=pointer]:
+              - /url: /policies/shipping-policy
+          - listitem [ref=e400]:
+            - link "Refund Policy" [ref=e401] [cursor=pointer]:
+              - /url: /policies/refund-policy
+          - listitem [ref=e402]:
+            - link "Privacy Policy" [ref=e403] [cursor=pointer]:
+              - /url: /policies/privacy-policy
+          - listitem [ref=e404]:
+            - link "Terms of Service" [ref=e405] [cursor=pointer]:
+              - /url: /policies/terms-of-service
+      - generic [ref=e407]:
+        - heading [level=2] [ref=e409]:
+          - link "(813) 803-0024" [ref=e410] [cursor=pointer]:
+            - /url: tel:(813) 803-0024
+        - paragraph [ref=e412]:
+          - link "Email us" [ref=e413] [cursor=pointer]:
+            - /url: /pages/contact-us
+        - list [ref=e414]:
+          - listitem [ref=e415]:
+            - link "Facebook" [ref=e416] [cursor=pointer]:
+              - /url: https://facebook.com/whitwamorganics
+          - listitem [ref=e421]:
+            - link "Instagram" [ref=e422] [cursor=pointer]:
+              - /url: https://www.instagram.com/whitwamorganics/
+          - listitem [ref=e427]:
+            - link "YouTube" [ref=e428] [cursor=pointer]:
+              - /url: https://www.youtube.com/user/whitwamorganicstampa
+          - listitem [ref=e433]:
+            - link "X (Twitter)" [ref=e434] [cursor=pointer]:
+              - /url: https://twitter.com/whitwamorganics
+          - listitem [ref=e439]:
+            - link "Pinterest" [ref=e440] [cursor=pointer]:
+              - /url: https://www.pinterest.com/whitwamorganics/
+    - generic [ref=e445]:
+      - generic [ref=e448]:
+        - generic [ref=e449]: Payment methods
+        - list [ref=e450]:
+          - listitem [ref=e451]:
+            - img "American Express" [ref=e452]
+          - listitem [ref=e457]:
+            - img "Apple Pay" [ref=e458]
+          - listitem [ref=e469]:
+            - img "Discover" [ref=e470]
+          - listitem [ref=e479]:
+            - img "Google Pay" [ref=e480]
+          - listitem [ref=e488]:
+            - img "Mastercard" [ref=e489]
+          - listitem [ref=e496]:
+            - img "PayPal" [ref=e497]
+          - listitem [ref=e503]:
+            - img "Venmo" [ref=e504]
+          - listitem [ref=e509]:
+            - img "Visa" [ref=e510]
+      - generic [ref=e516]:
+        - generic [ref=e517]:
+          - text: © 2026,
+          - link "Whitwam Organics" [ref=e518] [cursor=pointer]:
+            - /url: /
+        - link "Powered by Shopify" [ref=e520] [cursor=pointer]:
+          - /url: https://www.shopify.com?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore
+        - list [ref=e521]:
+          - listitem [ref=e522]:
+            - text: ·
+            - link "Refund policy" [ref=e524] [cursor=pointer]:
+              - /url: /policies/refund-policy
+          - listitem [ref=e525]:
+            - text: ·
+            - link "Privacy policy" [ref=e527] [cursor=pointer]:
+              - /url: /policies/privacy-policy
+          - listitem [ref=e528]:
+            - text: ·
+            - link "Terms of service" [ref=e530] [cursor=pointer]:
+              - /url: /policies/terms-of-service
+          - listitem [ref=e531]:
+            - text: ·
+            - link "Shipping policy" [ref=e533] [cursor=pointer]:
+              - /url: /policies/shipping-policy
+          - listitem [ref=e534]:
+            - text: ·
+            - link "Contact information" [ref=e536] [cursor=pointer]:
+              - /url: /policies/contact-information
+  - dialog [ref=e537]:
+    - generic [ref=e538]:
+      - heading "Basil- Sweet Basil - Rutgers Obsession Downy Mildew Resistant" [level=2] [ref=e539]
+      - button "Close" [ref=e540] [cursor=pointer]
+    - paragraph [ref=e543]: "Seeds or Plants: Seeds, Size: .5g Seed Packet"
+    - list [ref=e544]:
+      - listitem [ref=e545]:
+        - heading "Whitwam Organics" [level=3] [ref=e546]
+        - paragraph [ref=e547]: Pickup available, usually ready in 2-4 days
+        - generic [ref=e551]:
+          - paragraph [ref=e552]: 7409 N Highland AveTampa FL 33604-4027United States
+          - paragraph [ref=e553]: "+18138030024"

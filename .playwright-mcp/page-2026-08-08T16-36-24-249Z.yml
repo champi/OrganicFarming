@@ -1,0 +1,84 @@
+- generic [active] [ref=f22e1]:
+  - banner [ref=f22e2]:
+    - paragraph [ref=f22e8]: Canadian owned & operated—Shipping across North America!
+    - generic [ref=f22e10]:
+      - link [ref=f22e12] [cursor=pointer]:
+        - /url: /
+      - generic [ref=f22e182]:
+        - button [ref=f22e183] [cursor=pointer]
+        - link [ref=f22e186] [cursor=pointer]:
+          - /url: /cart
+        - button "Hamburger menu button" [ref=f22e190] [cursor=pointer]
+  - generic [ref=f22e196]:
+    - heading "Related products" [level=2] [ref=f22e198]
+    - heading "Recently viewed" [level=2] [ref=f22e217]
+  - contentinfo [ref=f22e235]:
+    - generic [ref=f22e236]:
+      - generic [ref=f22e237]:
+        - generic [ref=f22e238]:
+          - generic [ref=f22e239]:
+            - heading "Stay in touch" [level=3] [ref=f22e240]
+            - paragraph [ref=f22e241]: Sign up for exclusive offers and tips!
+            - generic [ref=f22e242]:
+              - textbox "Newsletter form email" [ref=f22e244]:
+                - /placeholder: Your email address
+              - button "Button" [ref=f22e245] [cursor=pointer]: Sign up
+          - generic [ref=f22e247]:
+            - link [ref=f22e248] [cursor=pointer]:
+              - /url: https://www.facebook.com/richtersherbs
+            - link [ref=f22e252] [cursor=pointer]:
+              - /url: https://www.instagram.com/richters.herbs
+            - link [ref=f22e258] [cursor=pointer]:
+              - /url: https://www.youtube.com/richtersherbs
+        - generic [ref=f22e261]:
+          - generic [ref=f22e262]:
+            - heading "Customer Support" [level=4] [ref=f22e263]
+            - generic [ref=f22e264]:
+              - link "Contact Us" [ref=f22e265] [cursor=pointer]:
+                - /url: /contact-us
+              - link "Ordering & Shipping" [ref=f22e266] [cursor=pointer]:
+                - /url: /ordering-and-shipping
+              - link "Alerts & Recalls" [ref=f22e267] [cursor=pointer]:
+                - /url: /alerts-and-recalls
+          - generic [ref=f22e268]:
+            - heading "Company" [level=4] [ref=f22e269]
+            - generic [ref=f22e270]:
+              - link "About Us" [ref=f22e271] [cursor=pointer]:
+                - /url: /about-us
+              - link "Careers" [ref=f22e272] [cursor=pointer]:
+                - /url: /careers
+              - link "Affiliates" [ref=f22e273] [cursor=pointer]:
+                - /url: /affiliates
+          - generic [ref=f22e274]:
+            - heading "Resources" [level=4] [ref=f22e275]
+            - generic [ref=f22e276]:
+              - link "News & Articles" [ref=f22e277] [cursor=pointer]:
+                - /url: /news-and-articles
+              - link "Questions & Answers" [ref=f22e278] [cursor=pointer]:
+                - /url: /questions-and-answers
+              - link "Info Sheets" [ref=f22e279] [cursor=pointer]:
+                - /url: /info-sheets
+              - link "Hardiness Zones" [ref=f22e280] [cursor=pointer]:
+                - /url: /hardiness-zones
+          - generic [ref=f22e281]:
+            - heading "Visit Us" [level=4] [ref=f22e282]
+            - generic [ref=f22e283]:
+              - link "Location & Hours" [ref=f22e284] [cursor=pointer]:
+                - /url: /visit-us
+              - link "Events" [ref=f22e285] [cursor=pointer]:
+                - /url: /events
+        - generic [ref=f22e286]:
+          - img "Footer catalog image" [ref=f22e288]
+          - generic [ref=f22e289]:
+            - link "Get a Free Catalogue" [ref=f22e291] [cursor=pointer]:
+              - /url: /get-our-catalog
+            - link "Gift Certificates" [ref=f22e293] [cursor=pointer]:
+              - /url: /products/gift-certificate-xgift
+      - generic [ref=f22e294]:
+        - paragraph [ref=f22e296]: Copyright © 1997-2026 Otto Richter and Sons Limited. All rights reserved. Usage prohibited without expressed written consent.
+        - generic [ref=f22e471]:
+          - link "Privacy Policy" [ref=f22e472] [cursor=pointer]:
+            - /url: /privacy-policy
+          - link "Terms of Use" [ref=f22e473] [cursor=pointer]:
+            - /url: /terms-of-use
+  - region "Notifications Alt+T"

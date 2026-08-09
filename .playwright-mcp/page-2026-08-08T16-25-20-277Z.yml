@@ -1,0 +1,504 @@
+- generic [active] [ref=f11e1]:
+  - generic [ref=f11e2]:
+    - link "Skip to navigation" [ref=f11e3] [cursor=pointer]:
+      - /url: "#menu-mobile-navigation"
+    - link "Skip to main content" [ref=f11e4] [cursor=pointer]:
+      - /url: "#main-content"
+  - generic [ref=f11e5]:
+    - banner [ref=f11e6]:
+      - generic [ref=f11e7]:
+        - generic [ref=f11e8]: 🔥The Delivery Time Is 15-29 Day!🔥
+        - generic [ref=f11e16]:
+          - link "Site logo" [ref=f11e19] [cursor=pointer]:
+            - /url: https://www.bestseedshop.com/
+          - navigation "Main navigation" [ref=f11e21]:
+            - list [ref=f11e22]:
+              - listitem [ref=f11e23]:
+                - link "Home" [ref=f11e24] [cursor=pointer]:
+                  - /url: /
+              - listitem [ref=f11e26]:
+                - link "Flowers " [ref=f11e27] [cursor=pointer]:
+                  - /url: /flowers
+                  - generic [ref=f11e28]: Flowers
+                  - text: 
+              - listitem [ref=f11e29]:
+                - link "Vegetables " [ref=f11e30] [cursor=pointer]:
+                  - /url: /vegetables
+                  - generic [ref=f11e31]: Vegetables
+                  - text: 
+              - listitem [ref=f11e32]:
+                - link "Herbs" [ref=f11e33] [cursor=pointer]:
+                  - /url: /herbs
+              - listitem [ref=f11e35]:
+                - link "All Seed" [ref=f11e36] [cursor=pointer]:
+                  - /url: https://www.bestseedshop.com/shop/
+              - listitem [ref=f11e38]:
+                - link "Return" [ref=f11e39] [cursor=pointer]:
+                  - /url: https://www.bestseedshop.com/return-policy/
+              - listitem [ref=f11e41]:
+                - link "Contact" [ref=f11e42] [cursor=pointer]:
+                  - /url: https://www.bestseedshop.com/contact-us/
+          - generic [ref=f11e44]:
+            - link "Login / Register" [ref=f11e46] [cursor=pointer]:
+              - /url: https://www.bestseedshop.com/my-account/
+            - generic "Search" [ref=f11e48]:
+              - link "Search" [ref=f11e49] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=f11e50]: 
+            - generic "My Wishlist" [ref=f11e51]:
+              - link "Wishlist products" [ref=f11e52] [cursor=pointer]:
+                - /url: https://www.bestseedshop.com/wishlist/
+            - link "0 $0.00" [ref=f11e55] [cursor=pointer]:
+              - /url: https://www.bestseedshop.com/cart/
+              - generic [ref=f11e56]: "0"
+              - generic [ref=f11e58]: $0.00
+    - main [ref=f11e63]:
+      - generic [ref=f11e64]:
+        - generic [ref=f11e66]:
+          - navigation "Breadcrumb" [ref=f11e67]:
+            - link "Home" [ref=f11e68] [cursor=pointer]:
+              - /url: https://www.bestseedshop.com
+            - generic [ref=f11e69]: /
+            - link "Herbs" [ref=f11e70] [cursor=pointer]:
+              - /url: https://www.bestseedshop.com/herbs/
+            - generic [ref=f11e71]: /
+            - link "Basil" [ref=f11e72] [cursor=pointer]:
+              - /url: https://www.bestseedshop.com/basil/
+            - generic [ref=f11e73]: /
+            - generic [ref=f11e74]: Rutgers Obsession DMR – Basil Seed
+          - generic [ref=f11e75]:
+            - link "Previous product" [ref=f11e77] [cursor=pointer]:
+              - /url: https://www.bestseedshop.com/rutgers-devotion-dmr-organic-basil-seed-1/
+              - text: 
+            - link " Back to products" [ref=f11e78] [cursor=pointer]:
+              - /url: https://www.bestseedshop.com/shop/
+              - text: 
+              - generic: Back to products
+            - link "Next product" [ref=f11e80] [cursor=pointer]:
+              - /url: https://www.bestseedshop.com/rutgers-obsession-dmr-basil-seed-1/
+              - text: 
+        - generic [ref=f11e81]:
+          - generic [ref=f11e85]:
+            - generic [ref=f11e87]:
+              - generic [ref=f11e89]:
+                - figure [ref=f11e90]:
+                  - group "1 / 1" [ref=f11e92]:
+                    - figure [ref=f11e93]:
+                      - link "Rutgers Obsession DMR - Basil Seed":
+                        - /url: https://www.bestseedshop.com/wp-content/uploads/2024/06/RutgersObsessionDMRBasilSeed.jpg
+                        - img "Rutgers Obsession DMR - Basil Seed"
+                - generic:
+                  - button "Previous slide" [disabled]:
+                    - generic: 
+                  - button "Next slide" [disabled]:
+                    - generic: 
+              - text:  
+            - generic [ref=f11e95]:
+              - heading "Rutgers Obsession DMR – Basil Seed" [level=1] [ref=f11e96]
+              - paragraph [ref=f11e97]:
+                - generic [ref=f11e98]: $4.30
+              - generic [ref=f11e100]:
+                - generic [ref=f11e101]:
+                  - button "Decrease quantity" [ref=f11e102] [cursor=pointer]: "-"
+                  - generic: Rutgers Obsession DMR - Basil Seed quantity
+                  - spinbutton "Product quantity" [ref=f11e103]: "1"
+                  - button "Increase quantity" [ref=f11e104] [cursor=pointer]: +
+                - button "Add to cart" [ref=f11e105] [cursor=pointer]
+                - button "Buy now" [ref=f11e106] [cursor=pointer]
+              - link " Add to wishlist" [ref=f11e108] [cursor=pointer]:
+                - /url: https://www.bestseedshop.com/wishlist/
+                - generic [ref=f11e109]:  
+                - generic [ref=f11e110]: Add to wishlist
+              - generic [ref=f11e111]:
+                - generic [ref=f11e112]:
+                  - generic [ref=f11e113] [cursor=pointer]:
+                    - generic [ref=f11e114]: Description
+                    - generic [ref=f11e116]: 
+                  - tabpanel [ref=f11e117]:
+                    - generic [ref=f11e118]:
+                      - paragraph [ref=f11e119]: "Compact, downy mildew-resistant basil with a fresh look.Beautiful dark green, glossy leaves are medium size (2–2 1/2″ long), flat, and pointed. High-yielding for field, greenhouse, and container production. Nice Italian aroma and flavor with slightly earthy, spicy notes. Intermediate resistance to Fusarium. Bred by Dr. James Simon and Dr. Robert Pyne at Rutgers University. U.S. Utility patent 10,159,212. Ht. 16–18″. Avg. 20,700 seeds/oz. Packet: 200 seeds.DAYS TO GERMINATION:5-10 days at 65-70°F (18-21°C)."
+                      - paragraph [ref=f11e120]: "SOWING:Direct seed (recommended): Plant seeds 1/4″ deep, 2-3 seeds per inch, in rows 18″ apart. Firm the soil over the seeds. Thinning is not necessary, but a final spacing of 4-8″ apart produces healthy, full plants. Note: Holy Basil requires some light for germination, so sow more shallowly than other basils. Transplant: Sow indoors 6 weeks prior to setting out. Plant 1/4″ deep and keep at 70°F (21°C) for best germination. Transplant to the field when seedlings have 3-4 sets of leaves, spacing at 4-8″ apart in rows 18″ apart."
+                      - paragraph [ref=f11e121]: LIGHT PREFERENCE:Sun.
+                      - paragraph [ref=f11e122]: SOIL REQUIREMENTS:Moderately rich, moist soil. Basil is not drought tolerant and can be damaged by heat stress. Regular moisture throughout the growing season helps to ensure a good crop.
+                      - paragraph [ref=f11e123]: PLANT HEIGHT:Varies. See the product description for exact heights.
+                      - paragraph [ref=f11e124]: PLANT SPACING:4-8″.
+                      - paragraph [ref=f11e125]: HARDINESS ZONES:Annual.
+                      - paragraph [ref=f11e126]: HARVEST:Begin light harvesting after plants have become established. It is best done in the early morning when the temperature is cooler and the leaves are less likely to wilt. A full harvest should be completed just before the plants start to flower. Cut the entire plant 4-6″ above the ground to promote a second growth. Leaves are easily bruised when picking, so handle carefully. Do not store at a temperature less than 50°F (10°C).
+                      - paragraph [ref=f11e127]: PELLETED SEED:If using pelleted seed, we recommend consistent soil moisture during the germination period. seed must be kept cool and dry prior to planting, and should be used within one year of purchase.
+                      - paragraph [ref=f11e128]: SCIENTIFIC NAME:Ocimum spp.
+                - generic [ref=f11e129]: 
+                - generic [ref=f11e131] [cursor=pointer]:
+                  - generic [ref=f11e132]: RETURNS & SHIPPING
+                  - generic [ref=f11e134]: 
+              - generic [ref=f11e135]:
+                - generic [ref=f11e136]: "Share:"
+                - link "Facebook social link" [ref=f11e137] [cursor=pointer]:
+                  - /url: https://www.facebook.com/sharer/sharer.php?u=https://www.bestseedshop.com/rutgers-obsession-dmr-basil-seed/
+                  - generic [ref=f11e138]: 
+                - link "X social link" [ref=f11e139] [cursor=pointer]:
+                  - /url: https://x.com/share?url=https://www.bestseedshop.com/rutgers-obsession-dmr-basil-seed/
+                  - generic [ref=f11e140]: 
+                - link "Email social link" [ref=f11e141] [cursor=pointer]:
+                  - /url: mailto:?subject=Check%20this%20https://www.bestseedshop.com/rutgers-obsession-dmr-basil-seed/
+                  - generic [ref=f11e142]: 
+                - link "Pinterest social link" [ref=f11e143] [cursor=pointer]:
+                  - /url: https://pinterest.com/pin/create/button/?url=https://www.bestseedshop.com/rutgers-obsession-dmr-basil-seed/&media=https://www.bestseedshop.com/wp-content/uploads/2024/06/RutgersObsessionDMRBasilSeed.jpg&description=Rutgers%20Obsession%20DMR%20%26%238211%3B%20Basil%20Seed
+                  - generic [ref=f11e144]: 
+          - generic [ref=f11e148]:
+            - generic [ref=f11e150]:
+              - generic [ref=f11e151]:
+                - img "Rated 0 out of 5" [ref=f11e152]:
+                  - text: 
+                  - generic:
+                    - text:  Rated
+                    - strong [ref=f11e153]: "0"
+                    - text: out of 5
+                - generic [ref=f11e154]: 0 reviews
+              - generic [ref=f11e155]:
+                - generic [ref=f11e156]:
+                  - img "Rated 5 out of 5" [ref=f11e158]:
+                    - text: 
+                    - generic [ref=f11e159]:
+                      - text:  Rated
+                      - strong [ref=f11e160]: "5"
+                      - text: out of 5
+                  - generic [ref=f11e163]: "0"
+                - generic [ref=f11e164]:
+                  - img "Rated 4 out of 5" [ref=f11e166]:
+                    - text: 
+                    - generic [ref=f11e167]:
+                      - text:  Rated
+                      - strong [ref=f11e168]: "4"
+                      - text: out of 5
+                  - generic [ref=f11e171]: "0"
+                - generic [ref=f11e172]:
+                  - img "Rated 3 out of 5" [ref=f11e174]:
+                    - text: 
+                    - generic [ref=f11e175]:
+                      - text:  Rated
+                      - strong [ref=f11e176]: "3"
+                      - text: out of 5
+                  - generic [ref=f11e179]: "0"
+                - generic [ref=f11e180]:
+                  - img "Rated 2 out of 5" [ref=f11e182]:
+                    - text: 
+                    - generic [ref=f11e183]:
+                      - text:  Rated
+                      - strong [ref=f11e184]: "2"
+                      - text: out of 5
+                  - generic [ref=f11e187]: "0"
+                - generic [ref=f11e188]:
+                  - img "Rated 1 out of 5" [ref=f11e190]:
+                    - text: 
+                    - generic [ref=f11e191]:
+                      - text:  Rated
+                      - strong [ref=f11e192]: "1"
+                      - text: out of 5
+                  - generic [ref=f11e195]: "0"
+            - generic [ref=f11e196]:
+              - generic [ref=f11e197]:
+                - generic [ref=f11e198]:
+                  - heading "Reviews" [level=2] [ref=f11e199]
+                  - text: 
+                - combobox "Select reviews sorting" [ref=f11e201]:
+                  - option "Default" [selected]
+                  - option "Newest"
+                  - option "Oldest"
+                  - option "Most helpful"
+                  - option "Highest rated"
+                  - option "Lowest rated"
+              - paragraph [ref=f11e203]: There are no reviews yet.
+            - generic [ref=f11e206]:
+              - heading "Be the first to review “Rutgers Obsession DMR – Basil Seed”" [level=3] [ref=f11e207]
+              - generic [ref=f11e208]:
+                - paragraph [ref=f11e209]:
+                  - text: Your email address will not be published.
+                  - generic [ref=f11e210]: Required fields are marked *
+                - generic [ref=f11e211]:
+                  - generic [ref=f11e212]: "Your rating *:"
+                  - paragraph [ref=f11e213]:
+                    - group "Your rating *:" [ref=f11e214]:
+                      - radio "1 of 5 stars" [ref=f11e215] [cursor=pointer]
+                      - radio "2 of 5 stars" [ref=f11e216] [cursor=pointer]
+                      - radio "3 of 5 stars" [ref=f11e217] [cursor=pointer]
+                      - radio "4 of 5 stars" [ref=f11e218] [cursor=pointer]
+                      - radio "5 of 5 stars" [ref=f11e219] [cursor=pointer]
+                - paragraph [ref=f11e220]:
+                  - generic [ref=f11e221]: Your review *
+                  - textbox "Your review *" [ref=f11e222]
+                - paragraph [ref=f11e223]:
+                  - generic [ref=f11e224]: Name
+                  - textbox "Name" [ref=f11e225]
+                - paragraph [ref=f11e226]:
+                  - generic [ref=f11e227]: Email
+                  - textbox "Email" [ref=f11e228]
+                - paragraph [ref=f11e229]:
+                  - checkbox "Save my name, email, and website in this browser for the next time I comment." [ref=f11e230] [cursor=pointer]
+                  - text: Save my name, email, and website in this browser for the next time I comment.
+                - paragraph [ref=f11e231]: You have to be logged in to be able to add photos to your review.
+                - paragraph [ref=f11e232]:
+                  - button "Submit" [ref=f11e233] [cursor=pointer]
+          - generic [ref=f11e235]:
+            - heading "Related products" [level=2] [ref=f11e236]
+            - generic [ref=f11e238]:
+              - generic [ref=f11e240]:
+                - group "1 / 8" [ref=f11e241]:
+                  - generic [ref=f11e243]:
+                    - generic [ref=f11e244]:
+                      - link "Italian Large Leaf – Basil Seed" [ref=f11e245] [cursor=pointer]:
+                        - /url: https://www.bestseedshop.com/italian-large-leaf-basil-seed/
+                        - img "Italian Large Leaf - Basil Seed" [ref=f11e246]
+                      - generic:
+                        - img "Italian Large Leaf - Basil Seed"
+                    - heading [level=3] [ref=f11e247]:
+                      - link "Italian Large Leaf – Basil Seed" [ref=f11e248] [cursor=pointer]:
+                        - /url: https://www.bestseedshop.com/italian-large-leaf-basil-seed/
+                    - generic [ref=f11e249]: $2.20
+                    - 'button "Add to cart: “Italian Large Leaf - Basil Seed”" [ref=f11e253] [cursor=pointer]':
+                      - text:  
+                      - generic [ref=f11e254]: Add to cart
+                - group "2 / 8" [ref=f11e255]:
+                  - generic [ref=f11e257]:
+                    - generic [ref=f11e258]:
+                      - link "Purple Ruffles – Basil Seed" [ref=f11e259] [cursor=pointer]:
+                        - /url: https://www.bestseedshop.com/purple-ruffles-basil-seed/
+                        - img "Purple Ruffles - Basil Seed" [ref=f11e260]
+                      - generic:
+                        - img "Purple Ruffles - Basil Seed"
+                    - heading [level=3] [ref=f11e261]:
+                      - link "Purple Ruffles – Basil Seed" [ref=f11e262] [cursor=pointer]:
+                        - /url: https://www.bestseedshop.com/purple-ruffles-basil-seed/
+                    - generic [ref=f11e263]: $2.10
+                    - 'button "Add to cart: “Purple Ruffles - Basil Seed”" [ref=f11e267] [cursor=pointer]':
+                      - text:  
+                      - generic [ref=f11e268]: Add to cart
+                - group "3 / 8" [ref=f11e269]:
+                  - generic [ref=f11e271]:
+                    - link "Lime – Organic Basil Seed" [ref=f11e273] [cursor=pointer]:
+                      - /url: https://www.bestseedshop.com/lime-organic-basil-seed/
+                      - img "Lime - Organic Basil Seed" [ref=f11e274]
+                    - heading [level=3] [ref=f11e275]:
+                      - link "Lime – Organic Basil Seed" [ref=f11e276] [cursor=pointer]:
+                        - /url: https://www.bestseedshop.com/lime-organic-basil-seed/
+                    - generic [ref=f11e277]: $4.50
+                    - 'button "Add to cart: “Lime - Organic Basil Seed”" [ref=f11e281] [cursor=pointer]':
+                      - text:  
+                      - generic [ref=f11e282]: Add to cart
+                - group "4 / 8" [ref=f11e283]:
+                  - generic [ref=f11e285]:
+                    - link "Rutgers Devotion DMR – Basil Seed" [ref=f11e287] [cursor=pointer]:
+                      - /url: https://www.bestseedshop.com/rutgers-devotion-dmr-basil-seed/
+                      - img "Rutgers Devotion DMR - Basil Seed" [ref=f11e288]
+                    - heading [level=3] [ref=f11e289]:
+                      - link "Rutgers Devotion DMR – Basil Seed" [ref=f11e290] [cursor=pointer]:
+                        - /url: https://www.bestseedshop.com/rutgers-devotion-dmr-basil-seed/
+                    - generic [ref=f11e291]: $4.30
+                    - 'button "Add to cart: “Rutgers Devotion DMR - Basil Seed”" [ref=f11e295] [cursor=pointer]':
+                      - text:  
+                      - generic [ref=f11e296]: Add to cart
+                - group "5 / 8" [ref=f11e297]:
+                  - generic [ref=f11e299]:
+                    - link "Holy Basil Seeds (Ocimum tenuiflorum)" [ref=f11e301] [cursor=pointer]:
+                      - /url: https://www.bestseedshop.com/holy-basil-seeds-ocimum-tenuiflorum/
+                      - img "Holy Basil Seeds (Ocimum tenuiflorum)" [ref=f11e302]
+                    - heading [level=3] [ref=f11e303]:
+                      - link "Holy Basil Seeds (Ocimum tenuiflorum)" [ref=f11e304] [cursor=pointer]:
+                        - /url: https://www.bestseedshop.com/holy-basil-seeds-ocimum-tenuiflorum/
+                    - generic [ref=f11e305]: $4.30
+                    - 'button "Add to cart: “Holy Basil Seeds (Ocimum tenuiflorum)”" [ref=f11e309] [cursor=pointer]':
+                      - text:  
+                      - generic [ref=f11e310]: Add to cart
+                - group "6 / 8" [ref=f11e311]:
+                  - generic [ref=f11e313]:
+                    - generic [ref=f11e314]:
+                      - link "Dark Opal – Basil Seed" [ref=f11e315] [cursor=pointer]:
+                        - /url: https://www.bestseedshop.com/dark-opal-basil-seed-1/
+                        - img "Dark Opal - Basil Seed" [ref=f11e316]
+                      - generic:
+                        - img "Dark Opal - Basil Seed"
+                    - heading [level=3] [ref=f11e317]:
+                      - link "Dark Opal – Basil Seed" [ref=f11e318] [cursor=pointer]:
+                        - /url: https://www.bestseedshop.com/dark-opal-basil-seed-1/
+                    - generic [ref=f11e319]: $4.30
+                    - 'button "Add to cart: “Dark Opal - Basil Seed”" [ref=f11e323] [cursor=pointer]':
+                      - text:  
+                      - generic [ref=f11e324]: Add to cart
+                - group "7 / 8" [ref=f11e325]:
+                  - generic [ref=f11e327]:
+                    - link "Kapoor Tulsi (Holy Basil) – Basil Seed" [ref=f11e329] [cursor=pointer]:
+                      - /url: https://www.bestseedshop.com/kapoor-tulsi-holy-basil-basil-seed/
+                      - img "Kapoor Tulsi (Holy Basil) - Basil Seed" [ref=f11e330]
+                    - heading [level=3] [ref=f11e331]:
+                      - link "Kapoor Tulsi (Holy Basil) – Basil Seed" [ref=f11e332] [cursor=pointer]:
+                        - /url: https://www.bestseedshop.com/kapoor-tulsi-holy-basil-basil-seed/
+                    - generic [ref=f11e333]: $4.30
+                    - 'button "Add to cart: “Kapoor Tulsi (Holy Basil) - Basil Seed”" [ref=f11e337] [cursor=pointer]':
+                      - text:  
+                      - generic [ref=f11e338]: Add to cart
+                - group "8 / 8" [ref=f11e339]:
+                  - generic [ref=f11e341]:
+                    - generic [ref=f11e342]:
+                      - link "Prospera? Italian Large Leaf DMR (ILL2) – Organic (F1) Basil Seed" [ref=f11e343] [cursor=pointer]:
+                        - /url: https://www.bestseedshop.com/prospera-italian-large-leaf-dmr-ill2-organic-f1-basil-seed/
+                        - img "Prospera? Italian Large Leaf DMR (ILL2) - Organic (F1) Basil Seed" [ref=f11e344]
+                      - generic:
+                        - img "Prospera? Italian Large Leaf DMR (ILL2) - Organic (F1) Basil Seed"
+                    - heading [level=3] [ref=f11e345]:
+                      - link "Prospera? Italian Large Leaf DMR (ILL2) – Organic (F1) Basil Seed" [ref=f11e346] [cursor=pointer]:
+                        - /url: https://www.bestseedshop.com/prospera-italian-large-leaf-dmr-ill2-organic-f1-basil-seed/
+                    - generic [ref=f11e347]: $4.30
+                    - 'button "Add to cart: “Prospera? Italian Large Leaf DMR (ILL2) - Organic (F1) Basil Seed”" [ref=f11e351] [cursor=pointer]':
+                      - text:  
+                      - generic [ref=f11e352]: Add to cart
+              - generic:
+                - button "Previous slide" [disabled]:
+                  - generic: 
+                - button "Next slide":
+                  - generic: 
+            - list [ref=f11e354]:
+              - listitem "Go to slide 1" [ref=f11e355] [cursor=pointer]
+              - listitem "Go to slide 2" [ref=f11e357] [cursor=pointer]
+    - contentinfo [ref=f11e359]:
+      - complementary [ref=f11e361]:
+        - generic [ref=f11e368]:
+          - generic:
+            - generic:
+              - generic:
+                - link "Image link":
+                  - /url: "#"
+          - generic [ref=f11e371]:
+            - heading [level=4] [ref=f11e376]:
+              - text: About
+              - strong [ref=f11e377]: Bestseedshop
+            - paragraph [ref=f11e381]: Bestseedshop offers a broad range of novel and traditional vegetables, herbs, fruits, flowers, perennials, and quality gardening supplies. The delivery time of all orders is 20-35day！Our mission is to supply fresh and true seeds from China. If any Plant seeds for sale online from us turn out to be wrong ones, we will refund you 100%.
+          - list [ref=f11e384]:
+            - listitem [ref=f11e385]:
+              - img "wd-envelope-dark" [ref=f11e387]
+              - generic [ref=f11e388]: seedspay@gmail.com
+        - generic [ref=f11e390]:
+          - heading "Customer Service" [level=5] [ref=f11e391]
+          - list [ref=f11e393]:
+            - listitem [ref=f11e394]:
+              - link "Order Tracking" [ref=f11e395] [cursor=pointer]:
+                - /url: /track-order/
+            - listitem [ref=f11e396]:
+              - link "Wishlist" [ref=f11e397] [cursor=pointer]:
+                - /url: /wishlist
+            - listitem [ref=f11e398]:
+              - link "Checkout" [ref=f11e399] [cursor=pointer]:
+                - /url: /checkout/
+            - listitem [ref=f11e400]:
+              - link "My account" [ref=f11e401] [cursor=pointer]:
+                - /url: /my-account
+            - listitem [ref=f11e402]:
+              - link "Contact Us" [ref=f11e403] [cursor=pointer]:
+                - /url: /contact-us/
+        - generic [ref=f11e405]:
+          - heading "Help & Guide" [level=5] [ref=f11e406]
+          - list [ref=f11e408]:
+            - listitem [ref=f11e409]:
+              - link "Refund Policy" [ref=f11e410] [cursor=pointer]:
+                - /url: /return-policy/
+            - listitem [ref=f11e411]:
+              - link "Shipping Policy" [ref=f11e412] [cursor=pointer]:
+                - /url: /shipping-policy/
+            - listitem [ref=f11e413]:
+              - link "DMCA Report" [ref=f11e414] [cursor=pointer]:
+                - /url: /dcmc/
+            - listitem [ref=f11e415]:
+              - link "Privacy Policy" [ref=f11e416] [cursor=pointer]:
+                - /url: /privacy-policy-2/
+            - listitem [ref=f11e417]:
+              - link "Terms of Service" [ref=f11e418] [cursor=pointer]:
+                - /url: /terms-of-service
+      - generic [ref=f11e420]:
+        - generic [ref=f11e422]:
+          - text: 2025 CREATED BY
+          - link [ref=f11e423] [cursor=pointer]:
+            - /url: https://www.bestseedshop.com
+            - strong [ref=f11e424]: Bestseedshop
+        - img "payments" [ref=f11e426]
+  - link "Scroll to top button":
+    - /url: "#"
+    - text: 
+  - navigation "Mobile navigation" [ref=f11e427]:
+    - search [ref=f11e429]:
+      - textbox "Search" [ref=f11e430]:
+        - /placeholder: Search for products
+      - text: 
+      - button "Search " [ref=f11e431] [cursor=pointer]:
+        - generic: Search
+        - text: 
+    - list [ref=f11e432]:
+      - listitem [ref=f11e433]:
+        - link "Home" [ref=f11e434] [cursor=pointer]:
+          - /url: /
+      - listitem [ref=f11e436]:
+        - link "Flowers" [ref=f11e437] [cursor=pointer]:
+          - /url: /flowers
+        - text: 
+      - listitem [ref=f11e439]:
+        - link "Vegetables" [ref=f11e440] [cursor=pointer]:
+          - /url: /vegetables
+        - text: 
+      - listitem [ref=f11e442]:
+        - link "Herbs" [ref=f11e443] [cursor=pointer]:
+          - /url: /herbs
+      - listitem [ref=f11e445]:
+        - link "All Seed" [ref=f11e446] [cursor=pointer]:
+          - /url: https://www.bestseedshop.com/shop/
+      - listitem [ref=f11e448]:
+        - link "Return" [ref=f11e449] [cursor=pointer]:
+          - /url: https://www.bestseedshop.com/return-policy/
+      - listitem [ref=f11e451]:
+        - link "Contact" [ref=f11e452] [cursor=pointer]:
+          - /url: https://www.bestseedshop.com/contact-us/
+      - listitem [ref=f11e454]:
+        - link " Wishlist" [ref=f11e455] [cursor=pointer]:
+          - /url: https://www.bestseedshop.com/wishlist/
+          - text: 
+          - generic [ref=f11e456]: Wishlist
+      - listitem [ref=f11e457]:
+        - link " Login / Register" [ref=f11e458] [cursor=pointer]:
+          - /url: https://www.bestseedshop.com/my-account/
+  - complementary "Shopping cart sidebar" [ref=f11e459]:
+    - generic [ref=f11e460]:
+      - generic [ref=f11e461]: Shopping cart
+      - link " Close" [ref=f11e463] [cursor=pointer]:
+        - /url: "#"
+        - generic [ref=f11e464]: 
+        - generic [ref=f11e465]: Close
+  - complementary "Login sidebar" [ref=f11e468]:
+    - generic [ref=f11e469]:
+      - generic [ref=f11e470]: Sign in
+      - link " Close" [ref=f11e472] [cursor=pointer]:
+        - /url: "#"
+        - generic [ref=f11e473]: 
+        - generic [ref=f11e474]: Close
+    - text: 
+    - generic [ref=f11e475]:
+      - text: 
+      - paragraph [ref=f11e476]: No account yet?
+      - link "Create an Account" [ref=f11e477] [cursor=pointer]:
+        - /url: https://www.bestseedshop.com/my-account/?action=register
+  - text:    
+  - complementary "Sticky add to cart" [ref=f11e478]:
+    - generic [ref=f11e479]:
+      - generic [ref=f11e480]:
+        - img "Rutgers Obsession DMR - Basil Seed" [ref=f11e482]
+        - heading "Rutgers Obsession DMR – Basil Seed" [level=4] [ref=f11e484]
+      - generic [ref=f11e485]:
+        - generic [ref=f11e486]: $4.30
+        - generic [ref=f11e489]:
+          - generic [ref=f11e490]:
+            - button "Decrease quantity" [ref=f11e491] [cursor=pointer]: "-"
+            - generic: Rutgers Obsession DMR - Basil Seed quantity
+            - spinbutton "Product quantity" [ref=f11e492]: "1"
+            - button "Increase quantity" [ref=f11e493] [cursor=pointer]: +
+          - button "Add to cart" [ref=f11e494] [cursor=pointer]
+          - button "Buy now" [ref=f11e495] [cursor=pointer]
+        - link "" [ref=f11e497] [cursor=pointer]:
+          - /url: https://www.bestseedshop.com/wishlist/
+          - generic [ref=f11e498]:  
+  - generic [ref=f11e499]: desktop
+  - status

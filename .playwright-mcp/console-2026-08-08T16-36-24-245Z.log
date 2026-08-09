@@ -1,0 +1,15 @@
+[     931ms] ReferenceError: HcUpdateCrossedOut is not defined
+    at hcInitCrossedOut (https://whitwamorganics.com/products/genovese-basil-seedling-1?variant=8269748666413:6742:7)
+    at HTMLDocument.<anonymous> (https://whitwamorganics.com/products/genovese-basil-seedling-1?variant=8269748666413:6770:7)
+[     930ms] [LOG] [Klaviyo / Onsite] Initializing. @ https://a.klaviyo.com/media/js/onsite/onsite.js:143
+[     931ms] [LOG] [Klaviyo / Onsite] Executing: init @ https://a.klaviyo.com/media/js/onsite/onsite.js:143
+[     931ms] [LOG] [Klaviyo / Onsite] Executing: enable @ https://a.klaviyo.com/media/js/onsite/onsite.js:143
+[    1105ms] [LOG] [Klaviyo / Onsite] Variants:  4 Unavailable Variants:  2 @ https://a.klaviyo.com/media/js/onsite/onsite.js:143
+[    1111ms] [LOG] [Klaviyo / Onsite] Selected Variant: 8269748666413 @ https://a.klaviyo.com/media/js/onsite/onsite.js:143
+[31939340ms] [ERROR] Failed to load resource: net::ERR_NETWORK_CHANGED @ https://whitwamorganics.com/api/collect:0
+[76455646ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://whitwamorganics.com/api/collect:0
+[76455647ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://whitwamorganics.com/api/collect:0
+[76483762ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://whitwamorganics.com/api/collect:0
+[76483762ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://whitwamorganics.com/api/collect:0
+[76483762ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://whitwamorganics.com/api/collect:0
+[76493747ms] [ERROR] Failed to load resource: net::ERR_NETWORK_CHANGED @ https://whitwamorganics.com/api/collect:0

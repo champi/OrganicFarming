@@ -1,0 +1,460 @@
+- generic [ref=e1]:
+  - paragraph [ref=e10]:
+    - strong [ref=e12]: 20% off Plants, Garlic & Bulbs with code PLANTS826
+  - generic [ref=e13]:
+    - banner [ref=e14]:
+      - link "Skip to Content" [ref=e15] [cursor=pointer]:
+        - /url: "#contentarea"
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - link [ref=e18] [cursor=pointer]:
+            - /url: https://www.burpee.com/
+            - img "Burpee" [ref=e19]
+          - generic [ref=e20]:
+            - link "Shipping Schedule" [ref=e21] [cursor=pointer]:
+              - /url: https://www.burpee.com/shipping-information/
+            - link "Customer Support" [ref=e22] [cursor=pointer]:
+              - /url: https://support.burpee.com/support/home
+            - button "My Account" [ref=e24] [cursor=pointer]
+            - button "Toggle minicart, Cart is empty" [disabled] [ref=e27] [cursor=pointer]
+          - generic [ref=e34]:
+            - generic [ref=e35]: Search seeds, plants & supplies
+            - searchbox "Search seeds, plants & supplies Search seeds, plants & supplies" [ref=e36]
+            - button "Search" [ref=e37] [cursor=pointer]
+        - navigation "Main menu" [ref=e42]:
+          - list [ref=e43]:
+            - listitem [ref=e44]:
+              - button "Vegetables" [ref=e45] [cursor=pointer]
+            - listitem [ref=e46]:
+              - button "Flowers" [ref=e47] [cursor=pointer]
+            - listitem [ref=e48]:
+              - link "Plants" [ref=e49] [cursor=pointer]:
+                - /url: https://www.burpee.com/garden-ready-plants/
+            - listitem [ref=e50]:
+              - button "Herbs" [ref=e51] [cursor=pointer]
+            - listitem [ref=e52]:
+              - button "Fruits" [ref=e53] [cursor=pointer]
+            - listitem [ref=e54]:
+              - button "Perennials" [ref=e55] [cursor=pointer]
+            - listitem [ref=e56]:
+              - button "Supplies" [ref=e57] [cursor=pointer]
+            - listitem [ref=e58]:
+              - link "Farmers Market" [ref=e59] [cursor=pointer]:
+                - /url: https://www.burpee.com/farmersmarket/
+    - navigation "Breadcrumb" [ref=e61]:
+      - list [ref=e63]:
+        - listitem [ref=e64]:
+          - link "Home" [ref=e65] [cursor=pointer]:
+            - /url: https://www.burpee.com/
+        - listitem [ref=e66]:
+          - strong [ref=e71]: Basil Obsession DMR Herb
+    - main [ref=e72]:
+      - generic:
+        - alert
+      - generic [ref=e74]:
+        - generic [ref=e75]:
+          - generic [ref=e78]:
+            - heading "Basil Obsession DMR Herb Seeds" [level=1] [ref=e80]
+            - generic [ref=e82]:
+              - generic [ref=e84]:
+                - img "Basil Obsession DMR Herb Seeds" [ref=e85]
+                - button "Click to view image in fullscreen" [ref=e86] [cursor=pointer]
+              - generic [ref=e89]:
+                - button "View larger image Basil Obsession DMR Herb Seeds" [ref=e91] [cursor=pointer]:
+                  - generic [ref=e92]: View larger image
+                  - img "Basil Obsession DMR Herb Seeds" [ref=e93]
+                - button "View larger image Basil Obsession DMR Herb Seeds" [ref=e96] [cursor=pointer]:
+                  - generic [ref=e97]: View larger image
+                  - img "Basil Obsession DMR Herb Seeds" [ref=e98]
+            - generic [ref=e101]:
+              - generic [ref=e103]: A breakthrough basil with excellent disease resistance.
+              - generic [ref=e104]:
+                - generic [ref=e109]:
+                  - generic [ref=e110]: "Choose an item: 5000 Seeds"
+                  - radiogroup "Pack Size" [ref=e112]:
+                    - generic [ref=e115] [cursor=pointer]:
+                      - generic [ref=e116]: 5000 Seeds
+                      - generic [ref=e117]: $7.95
+                    - generic [ref=e123] [cursor=pointer]:
+                      - generic [ref=e124]: 5000 Organic Seeds
+                      - generic [ref=e125]: $9.95
+                    - generic [ref=e131] [cursor=pointer]:
+                      - generic [ref=e132]: 10000 Seeds
+                      - generic [ref=e133]: $14.95
+                    - generic [ref=e139] [cursor=pointer]:
+                      - generic [ref=e140]: 10000 Organic Seeds
+                      - generic [ref=e141]: $16.95
+                    - generic [ref=e147] [cursor=pointer]:
+                      - generic [ref=e148]: 25000 Seeds
+                      - generic [ref=e149]: $31.25
+                    - generic [ref=e155] [cursor=pointer]:
+                      - generic [ref=e156]: 25000 Organic Seeds
+                      - generic [ref=e157]: $34.25
+                - generic [ref=e162]:
+                  - text: Ships to PA
+                  - generic [ref=e163]: "18974"
+                  - link "ZONE 7" [ref=e165] [cursor=pointer]:
+                    - /url: https://www.burpee.com/shipping-information/
+                    - generic [ref=e166]: ZONE
+                    - generic [ref=e167]: "7"
+                - generic [ref=e168]:
+                  - link "Notify Me" [ref=e171] [cursor=pointer]:
+                    - /url: https://www.burpee.com/productalert/add/stock/product_id/22426/uenc/aHR0cHM6Ly93d3cuYnVycGVlLmNvbS9oZXJiLWJhc2lsLW9ic2Vzc2lvbi1kbXItcHJvZDYwMDMxNS5odG1s/
+                  - button "Add to Wish List" [ref=e173] [cursor=pointer]
+                - paragraph [ref=e176]:
+                  - text: Herb, Basil Obsession DMR 5000 Seed are temporarily out of stock. Please click
+                  - link "Notify Me" [ref=e177] [cursor=pointer]:
+                    - /url: https://www.burpee.com/productalert/add/stock/product_id/22426/uenc/aHR0cHM6Ly93d3cuYnVycGVlLmNvbS9oZXJiLWJhc2lsLW9ic2Vzc2lvbi1kbXItcHJvZDYwMDMxNS5odG1s/
+                  - text: to be emailed when this product is back in stock. In the meantime, take a look at
+                  - link "these recommended products" [ref=e178] [cursor=pointer]:
+                    - /url: "#"
+                  - text: .
+                - generic [ref=e180]:
+                  - term [ref=e181]: "Item Number:"
+                  - definition [ref=e182]: 68930VFM
+                - generic [ref=e183]:
+                  - generic [ref=e184]: "Cannot ship to:"
+                  - generic [ref=e185]: AA,AE,AP,AS,CN,FM,GU,HI,MH,MP,PR,PW,VI,AK
+                  - link "See all shipping restrictions" [ref=e186] [cursor=pointer]:
+                    - /url: "#"
+              - generic [ref=e187]:
+                - heading "Description" [level=2] [ref=e188]
+                - text: Productive and slow-to-bolt plants grow happily in fields and pots alike. A high leaf-to-stem ratio is perfect for pesto-lovers with excellent resistance to downy mildew and fusarium.
+          - generic [ref=e190]:
+            - generic [ref=e191]:
+              - heading "Key Attributes" [level=2] [ref=e192]
+              - generic [ref=e193]:
+                - generic [ref=e195] [cursor=pointer]:
+                  - img "Mature Height" [ref=e196]
+                  - generic [ref=e197]:
+                    - generic [ref=e198]: Mature Height
+                    - generic [ref=e199]: 22 - 26 IN
+                - generic [ref=e201] [cursor=pointer]:
+                  - img "Mature Spread" [ref=e202]
+                  - generic [ref=e203]:
+                    - generic [ref=e204]: Mature Spread
+                    - generic [ref=e205]: 16 - 20 IN
+                - generic [ref=e207] [cursor=pointer]:
+                  - img "Days to Maturity" [ref=e208]
+                  - generic [ref=e209]:
+                    - generic [ref=e210]: Days to Maturity
+                    - generic [ref=e211]: 70 - 80
+                - generic [ref=e213] [cursor=pointer]:
+                  - img "Lifecycle" [ref=e214]
+                  - generic [ref=e215]:
+                    - generic [ref=e216]: Lifecycle
+                    - generic [ref=e217]: Annual
+                - generic [ref=e219] [cursor=pointer]:
+                  - img "Sow Method" [ref=e220]
+                  - generic [ref=e221]:
+                    - generic [ref=e222]: Sow Method
+                    - generic [ref=e223]: Indoor
+                - generic [ref=e225] [cursor=pointer]:
+                  - img "Light Requirement" [ref=e226]
+                  - generic [ref=e227]:
+                    - generic [ref=e228]: Light Requirement
+                    - generic [ref=e229]: Full Sun
+            - generic [ref=e230]:
+              - heading "When You Grow" [level=2] [ref=e231]
+              - generic [ref=e232]:
+                - generic [ref=e233]:
+                  - generic [ref=e234]:
+                    - img "location" [ref=e236]
+                    - generic [ref=e239]:
+                      - text: PA
+                      - generic [ref=e240]: "18974"
+                  - generic [ref=e242]:
+                    - img "thermometer" [ref=e244]
+                    - generic [ref=e248]:
+                      - generic [ref=e249]: Average Last Frost
+                      - generic [ref=e250]: April 15
+                  - generic [ref=e251]:
+                    - img "snowflake" [ref=e253]
+                    - generic [ref=e255]:
+                      - generic [ref=e256]: Average First Frost
+                      - generic [ref=e257]: October 20
+                - generic [ref=e258]:
+                  - generic [ref=e259]:
+                    - generic [ref=e260]: From Seed Indoors
+                    - generic [ref=e261]:
+                      - paragraph [ref=e262]: "Start: February 18 - March 04"
+                      - paragraph [ref=e263]: "Transplant: April 29 - May 13"
+                  - generic [ref=e264]:
+                    - generic [ref=e265]: From Seed Outdoors
+                    - paragraph [ref=e267]: "Start: April 29 - May 13"
+                  - generic [ref=e268]:
+                    - generic [ref=e269]: From Plant
+                    - paragraph [ref=e271]: "Spring: April 29 - May 13"
+            - generic [ref=e272]:
+              - heading "Burpee Garden Guide Tips" [level=2] [ref=e273]
+              - list [ref=e274]:
+                - listitem [ref=e275]:
+                  - img "book" [ref=e277]
+                  - link "How to Grow Basil and Utilize it in Cooking" [ref=e287] [cursor=pointer]:
+                    - /url: https://www.burpee.com/garden-guide/edible-gardening/herbs/how-to-grow-basil-and-utilize-it-in-cooking
+                - listitem [ref=e288]:
+                  - img "book" [ref=e290]
+                  - link "Learn About Basil" [ref=e300] [cursor=pointer]:
+                    - /url: https://www.burpee.com/garden-guide/edible-gardening/herbs/encyclopedia__basil-article
+                - listitem [ref=e301]:
+                  - img "book" [ref=e303]
+                  - link "World Herb Garden" [ref=e313] [cursor=pointer]:
+                    - /url: https://www.burpee.com/garden-guide/edible-gardening/herbs/gardencast-world-herb-garden
+                - listitem [ref=e314]:
+                  - img "lamp" [ref=e316]
+                  - link "More Basil Care Tips" [ref=e326] [cursor=pointer]:
+                    - /url: https://www.burpee.com/catalogsearch/result/?q=Grow+Basil#learn
+        - group "Carousel Related Products" [ref=e330]:
+          - generic [ref=e331]:
+            - heading "Related Products" [level=3] [ref=e333]
+            - generic [ref=e334]: Navigating through the elements of the carousel is possible using the tab key. You can skip the carousel or go straight to carousel navigation using the skip links.
+            - link "Press to skip carousel" [ref=e335] [cursor=pointer]:
+              - /url: "#-slider-end"
+            - button "Press to go to carousel navigation" [ref=e336] [cursor=pointer]
+            - generic [ref=e338]:
+              - group "Item 1" [ref=e339]:
+                - generic [ref=e340]:
+                  - link [ref=e341] [cursor=pointer]:
+                    - /url: https://www.burpee.com/basil-monteverde-late-flowering-prod600358.html
+                    - img "Monteverde Late Flowering Basil" [ref=e342]
+                  - generic [ref=e343]:
+                    - link "Monteverde Late Flowering Basil" [ref=e345] [cursor=pointer]:
+                      - /url: https://www.burpee.com/basil-monteverde-late-flowering-prod600358.html
+                    - generic [ref=e346]: $6.95
+              - group "Item 2" [ref=e351]:
+                - generic [ref=e352]:
+                  - link [ref=e353] [cursor=pointer]:
+                    - /url: https://www.burpee.com/cilantro-coriander-prod000469.html
+                    - img "Cilantro (Coriander)" [ref=e354]
+                  - generic [ref=e355]:
+                    - link "Cilantro (Coriander)" [ref=e357] [cursor=pointer]:
+                      - /url: https://www.burpee.com/cilantro-coriander-prod000469.html
+                    - generic [ref=e361]:
+                      - text: As low as
+                      - generic [ref=e362]: $5.95
+              - group "Item 3" [ref=e363]:
+                - generic [ref=e364]:
+                  - link [ref=e365] [cursor=pointer]:
+                    - /url: https://www.burpee.com/basil-large-leaf-organic-prod000490.html
+                    - img "Large Leaf Organic Basil" [ref=e366]
+                  - generic [ref=e367]:
+                    - link "Large Leaf Organic Basil" [ref=e369] [cursor=pointer]:
+                      - /url: https://www.burpee.com/basil-large-leaf-organic-prod000490.html
+                    - generic [ref=e373]:
+                      - text: As low as
+                      - generic [ref=e374]: $5.45
+              - group "Item 4" [ref=e375]:
+                - generic [ref=e376]:
+                  - link [ref=e377] [cursor=pointer]:
+                    - /url: https://www.burpee.com/parsley-italian-dark-green-organic-prod002124.html
+                    - img "Italian Dark Green Organic Parsley" [ref=e378]
+                  - generic [ref=e379]:
+                    - link "Italian Dark Green Organic Parsley" [ref=e381] [cursor=pointer]:
+                      - /url: https://www.burpee.com/parsley-italian-dark-green-organic-prod002124.html
+                    - generic [ref=e385]:
+                      - text: As low as
+                      - generic [ref=e386]: $4.95
+              - group "Item 5" [ref=e387]:
+                - generic [ref=e388]:
+                  - link [ref=e389] [cursor=pointer]:
+                    - /url: https://www.burpee.com/basil-sweet-prod000460.html
+                    - img "Sweet Basil" [ref=e390]
+                  - generic [ref=e391]:
+                    - link "Sweet Basil" [ref=e393] [cursor=pointer]:
+                      - /url: https://www.burpee.com/basil-sweet-prod000460.html
+                    - generic [ref=e397]:
+                      - text: As low as
+                      - generic [ref=e398]: $5.45
+              - group "Item 6" [ref=e399]:
+                - generic [ref=e400]:
+                  - link [ref=e401] [cursor=pointer]:
+                    - /url: https://www.burpee.com/parsley-single-italian-prod000482.html
+                    - img "Single Italian Parsley" [ref=e402]
+                  - generic [ref=e403]:
+                    - link "Single Italian Parsley" [ref=e405] [cursor=pointer]:
+                      - /url: https://www.burpee.com/parsley-single-italian-prod000482.html
+                    - generic [ref=e409]:
+                      - text: As low as
+                      - generic [ref=e410]: $4.45
+            - generic [ref=e412]:
+              - button "Previous slide" [disabled]
+              - generic [ref=e413]:
+                - button "Display slide 1" [ref=e414] [cursor=pointer]
+                - button "Display slide 2" [ref=e416] [cursor=pointer]
+              - button "Next slide" [ref=e418] [cursor=pointer]
+        - generic [ref=e426]:
+          - heading "Reviews" [level=2] [ref=e429]
+          - generic [ref=e430]:
+            - generic [ref=e431]:
+              - generic [ref=e432]: ☆☆☆☆☆
+              - generic [ref=e433]: No rating value
+            - button "Be the first to review this product . This action will open a modal dialog." [ref=e434] [cursor=pointer]:
+              - text: Be the first to review this product
+              - generic [ref=e435]: . This action will open a modal dialog.
+          - generic:
+            - status
+    - contentinfo [ref=e436]:
+      - generic [ref=e437]:
+        - form "Subscribe to Newsletter" [ref=e439]:
+          - generic [ref=e440]:
+            - paragraph [ref=e441]:
+              - strong [ref=e442]: Stay in the know
+            - paragraph [ref=e443]: Sign up for exclusive offers and tips!
+          - generic [ref=e444]:
+            - generic [ref=e445]:
+              - generic [ref=e446]: Email Address
+              - textbox "Email Address" [ref=e447]:
+                - /placeholder: Enter your email address
+            - button "Subscribe" [ref=e448] [cursor=pointer]
+        - generic [ref=e450]:
+          - generic [ref=e456]:
+            - paragraph [ref=e457]:
+              - strong [ref=e458]: We’re happy to help
+            - paragraph [ref=e459]:
+              - text: View our
+              - link "frequently asked questions" [ref=e460] [cursor=pointer]:
+                - /url: https://www.burpee.com/ordering-faq/
+              - text: ","
+              - link "track your order" [ref=e461] [cursor=pointer]:
+                - /url: https://www.burpee.com/sales/order/history/
+              - text: or
+              - link "get in touch" [ref=e462] [cursor=pointer]:
+                - /url: https://www.burpee.com/contact/
+              - text: with any question you might have.
+          - generic [ref=e463]:
+            - generic [ref=e464]: Follow us
+            - generic [ref=e465]:
+              - link "Follow us on Facebook" [ref=e466] [cursor=pointer]:
+                - /url: https://www.facebook.com/BurpeeGardening
+                - img "Follow us on Facebook" [ref=e467]
+              - link "Follow us on Instagram" [ref=e469] [cursor=pointer]:
+                - /url: https://www.instagram.com/burpeegardening/
+                - img "Follow us on Instagram" [ref=e470]
+              - link "Follow us on Pinterest" [ref=e472] [cursor=pointer]:
+                - /url: https://www.pinterest.com/burpeegardens/
+                - img "Follow us on Pinterest" [ref=e473]
+              - link "Follow us on Twitter" [ref=e475] [cursor=pointer]:
+                - /url: https://twitter.com/burpeegardening?lang=en
+                - img "Follow us on Twitter" [ref=e476]
+        - generic [ref=e480]:
+          - generic [ref=e482]:
+            - generic [ref=e484]:
+              - heading "About" [level=4]
+              - list [ref=e485]:
+                - listitem [ref=e486]:
+                  - link "About Burpee" [ref=e487] [cursor=pointer]:
+                    - /url: /about-us
+                - listitem [ref=e488]:
+                  - link "Garden Guide" [ref=e489] [cursor=pointer]:
+                    - /url: https://www.burpee.com/garden-guide
+                - listitem [ref=e490]:
+                  - link "Company History" [ref=e491] [cursor=pointer]:
+                    - /url: /company-history
+                - listitem [ref=e492]:
+                  - link "Careers" [ref=e493] [cursor=pointer]:
+                    - /url: /careers
+                - listitem [ref=e494]:
+                  - link "Non GMO" [ref=e495] [cursor=pointer]:
+                    - /url: /nongmo-policy
+            - generic [ref=e497]:
+              - heading "Support" [level=4]
+              - list [ref=e498]:
+                - listitem [ref=e499]:
+                  - link "Customer Support" [ref=e500] [cursor=pointer]:
+                    - /url: https://support.burpee.com/
+                - listitem [ref=e501]:
+                  - link "My Account" [ref=e502] [cursor=pointer]:
+                    - /url: /customer/account/login
+                - listitem [ref=e503]:
+                  - link "Order Status" [ref=e504] [cursor=pointer]:
+                    - /url: /sales/guest/form/
+                - listitem [ref=e505]:
+                  - link "Shipping Information" [ref=e506] [cursor=pointer]:
+                    - /url: /shipping-information
+                - listitem [ref=e507]:
+                  - link "FAQ" [ref=e508] [cursor=pointer]:
+                    - /url: /ordering-faq
+                - listitem [ref=e509]:
+                  - link "Public Relations" [ref=e510] [cursor=pointer]:
+                    - /url: /public-relations-contact
+                - listitem [ref=e511]:
+                  - link "Sitemap" [ref=e512] [cursor=pointer]:
+                    - /url: /sitemap.html
+            - generic [ref=e514]:
+              - heading "Policies" [level=4]
+              - list [ref=e515]:
+                - listitem [ref=e516]:
+                  - link "Terms & Conditions" [ref=e517] [cursor=pointer]:
+                    - /url: /terms-and-conditions
+                - listitem [ref=e518]:
+                  - link "Privacy Policy" [ref=e519] [cursor=pointer]:
+                    - /url: /privacy-policy
+                - listitem [ref=e520]:
+                  - link "Cookies Policy" [ref=e521] [cursor=pointer]:
+                    - /url: /about-cookies
+                - listitem [ref=e522]:
+                  - link "Return Policy" [ref=e523] [cursor=pointer]:
+                    - /url: /return-policy
+                - listitem [ref=e524]:
+                  - link "Shipping Rates" [ref=e525] [cursor=pointer]:
+                    - /url: /shippingrates
+                - listitem [ref=e526]:
+                  - link "Sales Tax" [ref=e527] [cursor=pointer]:
+                    - /url: /sales-tax
+            - generic [ref=e529]:
+              - heading "Shop" [level=4]
+              - list [ref=e530]:
+                - listitem [ref=e531]:
+                  - link "Shop Digital Catalog" [ref=e532] [cursor=pointer]:
+                    - /url: https://catalogs.burpee.com/books/gqwr/
+                - listitem [ref=e533]:
+                  - link "Request a Catalog" [ref=e534] [cursor=pointer]:
+                    - /url: /catalogrequest/
+                - listitem [ref=e535]:
+                  - link "Mix & Match" [ref=e536] [cursor=pointer]:
+                    - /url: /mix-and-match-bundle.html
+                - listitem [ref=e537]:
+                  - link "Gift Cards" [ref=e538] [cursor=pointer]:
+                    - /url: /e-gift-card.html
+                - listitem [ref=e539]:
+                  - link "Farmers Market" [ref=e540] [cursor=pointer]:
+                    - /url: /farmers-market
+                - listitem
+            - generic [ref=e541]:
+              - figure [ref=e542]:
+                - link [ref=e543] [cursor=pointer]:
+                  - /url: https://www.burpee.com/catalogrequest/
+                  - img "Request a Burpee Catalog" [ref=e544]
+              - link "Request a Catalog" [ref=e546] [cursor=pointer]:
+                - /url: https://www.burpee.com/catalogrequest/
+          - generic [ref=e547]: "* Some items are excluded from promotion."
+        - generic [ref=e549]:
+          - generic "Payment Providers" [ref=e551]:
+            - img "visa" [ref=e552]
+            - img "mastercard" [ref=e556]
+            - img "paypal" [ref=e562]
+            - img "apple-pay" [ref=e566]
+          - generic [ref=e570]:
+            - generic [ref=e571]: ©2026 W. Atlee Burpee Company
+            - navigation "Legal Menu" [ref=e572]:
+              - link "Terms & Conditions" [ref=e573] [cursor=pointer]:
+                - /url: https://www.burpee.com/terms-and-conditions/
+              - link "Privacy Policy" [ref=e574] [cursor=pointer]:
+                - /url: https://www.burpee.com/privacy-policy/
+  - generic:
+    - region "Cookie banner" [active] [ref=e575]:
+      - dialog "Cookies:" [ref=e576]:
+        - generic [ref=e578]:
+          - generic [ref=e580]:
+            - heading "Cookies:" [level=2] [ref=e581]
+            - generic [ref=e582]:
+              - text: This website uses cookies. Click on "Manage Cookies" to learn more or opt out. By using this site, closing this message or clicking “Manage Cookies” or “Allow” you acknowledge and agree to our
+              - link "More information about your privacy, opens in a new tab" [ref=e583] [cursor=pointer]:
+                - /url: https://www.burpee.com/about-cookies
+                - text: Cookie Policy
+          - generic [ref=e585]:
+            - button "Cookies Settings" [ref=e586] [cursor=pointer]
+            - button "Reject All" [ref=e587] [cursor=pointer]
+            - button "Accept All Cookies" [ref=e588] [cursor=pointer]
+        - button "Close" [ref=e590] [cursor=pointer]
+    - text: Cookies Settings
