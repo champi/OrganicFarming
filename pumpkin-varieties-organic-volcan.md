@@ -547,3 +547,55 @@ Plant **May–Jun**, harvest **Aug–Oct**. Only viable for 1–2 plants per 3×
 | Fu et al., IJMS 25(2024) | Hainan butternut squash powdery mildew resistance genes |
 | Dhillon et al. (2021) | AVPU1426 resistance to three begomoviruses |
 | Frost / SARE FS23-347 (2023–2025) | Continuation of C. moschata breeding — Bakers Branch Butternut, Korean summer squash dehybridization |
+
+---
+
+## Direct Product Links — Buy Seeds Here
+
+### Common Wealth Seed Growers (Virginia, US) — One-Cart Starter Kit
+
+All certified organic or ecologically grown. All open-pollinated. All bred for humid conditions.
+
+| Variety | Product Page | Price |
+|---|---|---|
+| South Anna Butternut | [commonwealthseeds.com/product/south-anna-butternut-certified-organic](https://commonwealthseeds.com/product/south-anna-butternut-certified-organic/) | $4.50 |
+| Chinese Tropical Pumpkin | [commonwealthseeds.com/product/chinese-tropical-pumpkin-certified-organic](https://commonwealthseeds.com/product/chinese-tropical-pumpkin-certified-organic/) | $4.50 |
+| Guatemalan Green Ayote | [commonwealthseeds.com/product/guatemalan-green-ayote-certified-organic](https://commonwealthseeds.com/product/guatemalan-green-ayote-certified-organic/) | $4.50 |
+| Thai Kang Kob Pumpkin | [commonwealthseeds.com/product/thai-kang-kob-pumpkin-certified-organic](https://commonwealthseeds.com/product/thai-kang-kob-pumpkin-certified-organic/) | $4.50 |
+| Seminole Pumpkin | [commonwealthseeds.com/product/seminole-pumpkin-certified-organic](https://commonwealthseeds.com/product/seminole-pumpkin-certified-organic/) | $4.50 |
+| Bakers Branch Butternut | [commonwealthseeds.com/product/bakers-branch-butternut-certified-organic](https://commonwealthseeds.com/product/bakers-branch-butternut-certified-organic/) | $4.50 |
+| **Full catalog (winter squash)** | [commonwealthseeds.com/product-category/winter-squash-tropical-pumpkin](https://commonwealthseeds.com/product-category/winter-squash-tropical-pumpkin/) | — |
+
+### Southern Exposure Seed Exchange (Virginia, US)
+
+| Variety | Product Page | Price |
+|---|---|---|
+| Seminole Pumpkin | [southernexposure.com/products/seminole-pumpkin](https://www.southernexposure.com/products/seminole-pumpkin/) | ~$3.50 |
+
+### Experimental Farm Network (New Jersey, US)
+
+| Variety | Product Page | Price |
+|---|---|---|
+| Guatemalan Green-Fleshed Ayote | [store.experimentalfarmnetwork.org/products/guatemalan-green-fleshed-ayote-squash](https://store.experimentalfarmnetwork.org/products/guatemalan-green-fleshed-ayote-squash) | $5.00 |
+
+### ECHO Global Seed Bank (Florida, US)
+
+| Variety | Product Page | Price |
+|---|---|---|
+| Thai Kang Kob | [echobooks.net](https://www.echobooks.net/) — search "Thai Kang Kob" | Varies (nonprofit) |
+
+### Chinese Export Sellers (ships to US — check customs)
+
+| Variety | Product Page | Price |
+|---|---|---|
+| Chinese Miben F1 | [agrohaitai.com/products/chinese-miben-f1](https://agrohaitai.com/products/chinese-miben-f1) | $2.99 (10 seeds) |
+| Chinese Miben F1 | [deargogo.com/Chinese-Miben-Pumpkin-Seeds-p1051266.html](https://www.deargogo.com/Chinese-Miben-Pumpkin-Seeds-p1051266.html) | $1.30 (50 seeds) |
+| Beimi No.2 (北蜜2号) | [deargogo.com/Beimi-No-2-Pumpkin-Seeds...](https://www.deargogo.com/Beimi-No-2-Pumpkin-Seeds-Chinese-Pumpkin-Seeds-Hybrid-Pumpkin-Pear-Shaped-Pumpkin-Sweet-Flesh-p1082183.html) | $12.99 (20g) |
+| Beimi No.3 (北蜜3号) | [deargogo.com/Beimi-No-3-Pumpkin-Seeds-p1079907.html](https://www.deargogo.com/Beimi-No-3-Pumpkin-Seeds-p1079907.html) | $9.99 |
+
+### Germplasm / Research Request (not retail)
+
+| Variety | Source | How to Request |
+|---|---|---|
+| AVPU1426 (begomovirus-resistant) | World Vegetable Center | [avrdc.org/seed/seeds](https://avrdc.org/seed/seeds/) — research request |
+| Soler / Taina Dorada | UPR Mayagüez | [uprm.edu/eea](https://www.uprm.edu/eea/) — inquire with breeding program |
