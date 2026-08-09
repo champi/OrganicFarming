@@ -30,7 +30,7 @@ The industry-standard tropical pumpkin of Puerto Rico and the Caribbean. Widely 
 
 | Seed Source | Price | Organic |
 |---|---|---|
-| [UPR Agricultural Experiment Station](https://www.uprm.edu/eea/) | Inquire | No |
+| UPR Agricultural Experiment Station | Inquire | No |
 
 > ⚠️ UPR station is the primary source. Seed may need to be requested from the breeding program directly (Dept. of Agronomy and Soils, UPR-Mayagüez).
 
@@ -50,7 +50,7 @@ A downy mildew-resistant butternut bred by Edmund Frost (Common Wealth Seed Grow
 
 | Seed Source | Price | Organic |
 |---|---|---|
-| [Common Wealth Seed Growers](https://commonwealthseeds.com/) | ~$4.00 | Yes |
+| Common Wealth Seed Growers | ~$4.00 | Yes |
 
 ---
 
@@ -68,7 +68,7 @@ Edmund Frost's highest-yielding C. moschata. Flattened, ribbed pumpkin shape sim
 
 | Seed Source | Price | Organic |
 |---|---|---|
-| [Common Wealth Seed Growers](https://commonwealthseeds.com/) | ~$4.00 | Yes |
+| Common Wealth Seed Growers | ~$4.00 | Yes |
 
 ---
 
@@ -86,7 +86,7 @@ Released 2012 by UPR-Mayagüez. Semi-bush habit (compact early, vining later) �
 
 | Seed Source | Price | Organic |
 |---|---|---|
-| [UPR Agricultural Experiment Station](https://www.uprm.edu/eea/) | Inquire | No |
+| UPR Agricultural Experiment Station | Inquire | No |
 
 > ⚠️ Virus-susceptible. Best planted in dry season (Jan–Mar) when aphid pressure is lowest. Not for wet-season planting.
 
@@ -108,8 +108,8 @@ The most unusual squash on this list. Some fruits are **green on the inside** �
 
 | Seed Source | Price | Organic |
 |---|---|---|
-| [Common Wealth Seed Growers](https://commonwealthseeds.com/) | ~$4.00 | Yes |
-| [Experimental Farm Network](https://store.experimentalfarmnetwork.org/products/guatemalan-green-fleshed-ayote-squash) | $5.00 | No |
+| Common Wealth Seed Growers | ~$4.00 | Yes |
+| Experimental Farm Network | $5.00 | No |
 
 ---
 
@@ -127,8 +127,8 @@ A wild-type C. moschata from Florida, cultivated by the Seminole people. Virtual
 
 | Seed Source | Price | Organic |
 |---|---|---|
-| [Southern Exposure Seed Exchange](https://www.southernexposure.com/) | ~$3.50 | Check |
-| [Common Wealth Seed Growers](https://commonwealthseeds.com/) | ~$4.00 | Yes |
+| Southern Exposure Seed Exchange | ~$3.50 | Check |
+| Common Wealth Seed Growers | ~$4.00 | Yes |
 
 ---
 
@@ -146,7 +146,7 @@ ECHO's recommended C. moschata for tropical smallholders. From Thailand. Flat, r
 
 | Seed Source | Price | Organic |
 |---|---|---|
-| [ECHO Global Seed Bank](https://www.echobooks.net/) | Varies (nonprofit) | Check |
+| ECHO Global Seed Bank | Varies (nonprofit) | Check |
 
 ---
 
@@ -241,7 +241,7 @@ F1 hybrid C. moschata. Pear-shaped fruits 2–3kg, dark green young turning yell
 
 | Seed Source | Price | Organic |
 |---|---|---|
-| [Deargogo / Bellfarm](https://www.deargogo.com/Beimi-No-2-Pumpkin-Seeds-Chinese-Pumpkin-Seeds-Hybrid-Pumpkin-Pear-Shaped-Pumpkin-Sweet-Flesh-p1082183.html) | $12.99 (20g) | No |
+| Deargogo / Bellfarm | $12.99 (20g) | No |
 
 #### Chinese Miben F1 (蜜本南瓜) 🇨🇳 ⚠️ SHIPS TO US
 The most widely grown commercial C. moschata in China. Elongated cylindrical fruits (~36cm), 2.5–3.5kg, thick orange-red flesh, low moisture, dense and sweet. Early maturity (80–90 days). Robust resistance, wide adaptability, high yield. Good for shipping and storage. Available from multiple Chinese export sellers at budget prices.
@@ -257,8 +257,8 @@ The most widely grown commercial C. moschata in China. Elongated cylindrical fru
 
 | Seed Source | Price | Organic |
 |---|---|---|
-| [Agrohaitai](https://agrohaitai.com/products/chinese-miben-f1) | $2.99/pkt (10 seeds) | No |
-| [Deargogo / Bellfarm](https://www.deargogo.com/Chinese-Miben-Pumpkin-Seeds-p1051266.html) | $1.30/pkt (50 seeds) | No |
+| Agrohaitai | $2.99/pkt (10 seeds) | No |
+| Deargogo / Bellfarm | $1.30/pkt (50 seeds) | No |
 
 ---
 
@@ -280,7 +280,7 @@ OP variety developed by Vietnam's Field Crops Research Institute (FCRI) from a c
 
 | Seed Source | Price | Organic |
 |---|---|---|
-| [FCRI Vietnam](https://fcri.com.vn/) | Inquire | No |
+| FCRI Vietnam | Inquire | No |
 
 #### Duong Long 77 (Dương Long 77) 🇻🇳
 F1 hybrid, very short season (65–70 days). 1.1–1.5kg elongated fruits, Brix 10.6% (excellent sweetness). Powdery mildew resistant (score 2–3), moderate virus mosaic resistance (score 3–5). Year-round cultivation possible in southern Vietnam — adaptable to various seasons. Yield 30–35 t/ha.
@@ -318,7 +318,7 @@ Chia Tai's landmark variety — **Thailand's first virus-tolerant pumpkin**. F1 
 
 | Seed Source | Price | Organic |
 |---|---|---|
-| [Chia Tai](https://www.chiataigroup.com/) | Commercial | No |
+| Chia Tai | Commercial | No |
 
 #### Khai Nao (ไข่เน่า) 🇹🇭
 OP landrace from Nan Province, northern Thailand. Name means "rotten egg" — referring to its drab **green flesh**. Cultivated for 3+ generations. Unique texture and taste. Now grown as a certified organic crop by the Nan Organic Agriculture Community Enterprise Network (39 community enterprises). Sold through Central Group supermarkets. This is a true cool-highland Thai pumpkin with organic certification pedigree.
@@ -368,7 +368,7 @@ East-West Seed's industry standard — bred in the Philippines ~35 years ago and
 
 | Seed Source | Price | Organic |
 |---|---|---|
-| [East-West Seed](https://www.eastwestseed.com/) | Commercial | No |
+| East-West Seed | Commercial | No |
 
 #### Bella F1 🇵🇭
 East-West Seed's improved successor to Suprema, with **added resistance to Squash Leaf Curl Virus (SLCV)** — the disease causing the heaviest losses in recent Philippine plantings. Round flat, shiny green-skinned fruit, 3–5kg, thick semi-glutinous yellow-orange flesh. If begomoviruses are a concern in Volcán, this is the variety to watch.
@@ -384,7 +384,7 @@ East-West Seed's improved successor to Suprema, with **added resistance to Squas
 
 | Seed Source | Price | Organic |
 |---|---|---|
-| [East-West Seed](https://www.eastwestseed.com/) | Commercial | No |
+| East-West Seed | Commercial | No |
 
 #### San Leonardo / Nueva Vizcaya strain 🇵🇭
 OP strains traditionally recommended for Philippine commercial production. Moderately flat fruit, fine-grain glutinous orange flesh. Tolerant of insect pests and squash mosaic virus. 90 days, 25–35 t/ha. Suited to both dry and wet season planting. These are the open-pollinated workhorses of Philippine highland squash.
@@ -420,7 +420,7 @@ Developed by the World Vegetable Center (Taiwan) from a Bangladeshi landrace thr
 
 | Seed Source | Price | Organic |
 |---|---|---|
-| [World Vegetable Center](https://avrdc.org/) | Germplasm | No |
+| World Vegetable Center | Germplasm | No |
 
 ---
 
@@ -430,23 +430,23 @@ Developed by the World Vegetable Center (Taiwan) from a Bangladeshi landrace thr
 
 | Variety | Source | Price | Notes |
 |---|---|---|---|
-| **South Anna Butternut** | [Common Wealth Seed Growers](https://commonwealthseeds.com/) (VA) | ~$4.00 | OP, ongoing selection, certified organic |
-| **Chinese Tropical Pumpkin** | [Common Wealth Seed Growers](https://commonwealthseeds.com/) (VA) | ~$4.00 | OP, bred for humid Southeast |
-| **Guatemalan Green Ayote** | [Common Wealth Seed Growers](https://commonwealthseeds.com/) (VA) | ~$4.00 | OP, certified organic |
-| **Guatemalan Green Ayote** | [Experimental Farm Network](https://store.experimentalfarmnetwork.org/) (NJ) | $5.00 | OP, same genetics |
-| **Seminole Pumpkin** | [Southern Exposure Seed Exchange](https://www.southernexposure.com/) | ~$3.50 | OP, classic Florida landrace |
-| **Thai Kang Kob** | [Common Wealth Seed Growers](https://commonwealthseeds.com/) | ~$4.00 | OP, DM-resistant, rich flavor |
-| **Thai Kang Kob** | [ECHO Global Seed Bank](https://www.echobooks.net/) (FL) | Varies | OP, nonprofit, tropical smallholder focus |
-| **Soler** | [UPR Agricultural Experiment Station](https://www.uprm.edu/eea/) (PR) | Inquire | OP, Puerto Rico = US territory. Request from breeding program. |
-| **Taina Dorada** | [UPR Agricultural Experiment Station](https://www.uprm.edu/eea/) (PR) | Inquire | OP, semi-bush, Puerto Rico = US territory |
+| **South Anna Butternut** | Common Wealth Seed Growers (VA) | ~$4.00 | OP, ongoing selection, certified organic |
+| **Chinese Tropical Pumpkin** | Common Wealth Seed Growers (VA) | ~$4.00 | OP, bred for humid Southeast |
+| **Guatemalan Green Ayote** | Common Wealth Seed Growers (VA) | ~$4.00 | OP, certified organic |
+| **Guatemalan Green Ayote** | Experimental Farm Network (NJ) | $5.00 | OP, same genetics |
+| **Seminole Pumpkin** | Southern Exposure Seed Exchange | ~$3.50 | OP, classic Florida landrace |
+| **Thai Kang Kob** | Common Wealth Seed Growers | ~$4.00 | OP, DM-resistant, rich flavor |
+| **Thai Kang Kob** | ECHO Global Seed Bank (FL) | Varies | OP, nonprofit, tropical smallholder focus |
+| **Soler** | UPR Agricultural Experiment Station (PR) | Inquire | OP, Puerto Rico = US territory. Request from breeding program. |
+| **Taina Dorada** | UPR Agricultural Experiment Station (PR) | Inquire | OP, semi-bush, Puerto Rico = US territory |
 
 ### ⚠️ Available via Chinese Export Sellers (ships to US)
 
 | Variety | Source | Price | Notes |
 |---|---|---|---|
-| **Beimi No.2** (北蜜2号) | [Deargogo / Bellfarm](https://www.deargogo.com/) | $12.99 | F1 hybrid, pear-shaped, sweet. Ships from China. 120-day maturity. |
-| **Beimi No.3** (北蜜3号) | [Deargogo / Bellfarm](https://www.deargogo.com/) | $9.99 | F1 hybrid, long stick-shaped, edible young + mature. Ships from China. |
-| **Chinese Miben F1** (蜜本) | [Agrohaitai](https://agrohaitai.com/) / [Deargogo](https://www.deargogo.com/) | $2.99–$12.99 | F1 hybrid, most common Chinese commercial pumpkin. 80–90 day, 2.5–3.5kg, sweet orange flesh. Wide adaptability. |
+| **Beimi No.2** (北蜜2号) | Deargogo / Bellfarm | $12.99 | F1 hybrid, pear-shaped, sweet. Ships from China. 120-day maturity. |
+| **Beimi No.3** (北蜜3号) | Deargogo / Bellfarm | $9.99 | F1 hybrid, long stick-shaped, edible young + mature. Ships from China. |
+| **Chinese Miben F1** (蜜本) | Agrohaitai / [Deargogo](https://www.deargogo.com/) | $2.99–$12.99 | F1 hybrid, most common Chinese commercial pumpkin. 80–90 day, 2.5–3.5kg, sweet orange flesh. Wide adaptability. |
 
 > **⚠️ Customs note:** Importing seeds into the US requires a phytosanitary certificate and may need a USDA-APHIS small lots of seed permit. Chinese export sellers usually handle the phyto certificate, but check before ordering.
 
@@ -550,52 +550,30 @@ Plant **May–Jun**, harvest **Aug–Oct**. Only viable for 1–2 plants per 3×
 
 ---
 
-## Direct Product Links — Buy Seeds Here
+## Direct Product Links — Sorted by Variety
 
-### Common Wealth Seed Growers (Virginia, US) — One-Cart Starter Kit
+> All prices in USD. OP = open-pollinated (save your own seed). F1 = hybrid (buy new seed each year).
 
-All certified organic or ecologically grown. All open-pollinated. All bred for humid conditions.
+| Variety | Type | Seller | Direct Link | Price |
+|---|---|---|---|---|
+| **AVPU1426** | OP | World Vegetable Center | [avrdc.org/seed/seeds](https://avrdc.org/seed/seeds/) | Research request |
+| **Bakers Branch Butternut** | OP | Common Wealth Seed Growers | [commonwealthseeds.com/product/bakers-branch-butternut-certified-organic](https://commonwealthseeds.com/product/bakers-branch-butternut-certified-organic/) | $4.50 |
+| **Beimi No.2** (北蜜2号) | F1 | Deargogo / Bellfarm | [deargogo.com/Beimi-No-2-Pumpkin-Seeds...](https://www.deargogo.com/Beimi-No-2-Pumpkin-Seeds-Chinese-Pumpkin-Seeds-Hybrid-Pumpkin-Pear-Shaped-Pumpkin-Sweet-Flesh-p1082183.html) | $12.99 (20g) |
+| **Beimi No.3** (北蜜3号) | F1 | Deargogo / Bellfarm | [deargogo.com/Beimi-No-3-Pumpkin-Seeds-p1079907.html](https://www.deargogo.com/Beimi-No-3-Pumpkin-Seeds-p1079907.html) | $9.99 |
+| **Chinese Miben F1** (蜜本) | F1 | Agrohaitai | [agrohaitai.com/products/chinese-miben-f1](https://agrohaitai.com/products/chinese-miben-f1) | $2.99 (10 seeds) |
+| **Chinese Miben F1** (蜜本) | F1 | Deargogo / Bellfarm | [deargogo.com/Chinese-Miben-Pumpkin-Seeds-p1051266.html](https://www.deargogo.com/Chinese-Miben-Pumpkin-Seeds-p1051266.html) | $1.30 (50 seeds) |
+| **Chinese Tropical Pumpkin** | OP | Common Wealth Seed Growers | [commonwealthseeds.com/product/chinese-tropical-pumpkin-certified-organic](https://commonwealthseeds.com/product/chinese-tropical-pumpkin-certified-organic/) | $4.50 |
+| **Guatemalan Green Ayote** | OP | Common Wealth Seed Growers | [commonwealthseeds.com/product/guatemalan-green-ayote-certified-organic](https://commonwealthseeds.com/product/guatemalan-green-ayote-certified-organic/) | $4.50 |
+| **Guatemalan Green Ayote** | OP | Experimental Farm Network | [store.experimentalfarmnetwork.org/products/guatemalan-green-fleshed-ayote-squash](https://store.experimentalfarmnetwork.org/products/guatemalan-green-fleshed-ayote-squash) | $5.00 |
+| **Seminole Pumpkin** | OP | Common Wealth Seed Growers | [commonwealthseeds.com/product/seminole-pumpkin-certified-organic](https://commonwealthseeds.com/product/seminole-pumpkin-certified-organic/) | $4.50 |
+| **Seminole Pumpkin** | OP | Southern Exposure Seed Exchange | [southernexposure.com/products/seminole-pumpkin](https://www.southernexposure.com/products/seminole-pumpkin/) | ~$3.50 |
+| **Soler** | OP | UPR Mayagüez (Puerto Rico) | [uprm.edu/eea](https://www.uprm.edu/eea/) | Inquire |
+| **South Anna Butternut** | OP | Common Wealth Seed Growers | [commonwealthseeds.com/product/south-anna-butternut-certified-organic](https://commonwealthseeds.com/product/south-anna-butternut-certified-organic/) | $4.50 |
+| **Taina Dorada** | OP | UPR Mayagüez (Puerto Rico) | [uprm.edu/eea](https://www.uprm.edu/eea/) | Inquire |
+| **Thai Kang Kob** | OP | Common Wealth Seed Growers | [commonwealthseeds.com/product/thai-kang-kob-pumpkin-certified-organic](https://commonwealthseeds.com/product/thai-kang-kob-pumpkin-certified-organic/) | $4.50 |
+| **Thai Kang Kob** | OP | ECHO Global Seed Bank | [echobooks.net](https://www.echobooks.net/) — search "Thai Kang Kob" | Varies |
 
-| Variety | Product Page | Price |
-|---|---|---|
-| South Anna Butternut | [commonwealthseeds.com/product/south-anna-butternut-certified-organic](https://commonwealthseeds.com/product/south-anna-butternut-certified-organic/) | $4.50 |
-| Chinese Tropical Pumpkin | [commonwealthseeds.com/product/chinese-tropical-pumpkin-certified-organic](https://commonwealthseeds.com/product/chinese-tropical-pumpkin-certified-organic/) | $4.50 |
-| Guatemalan Green Ayote | [commonwealthseeds.com/product/guatemalan-green-ayote-certified-organic](https://commonwealthseeds.com/product/guatemalan-green-ayote-certified-organic/) | $4.50 |
-| Thai Kang Kob Pumpkin | [commonwealthseeds.com/product/thai-kang-kob-pumpkin-certified-organic](https://commonwealthseeds.com/product/thai-kang-kob-pumpkin-certified-organic/) | $4.50 |
-| Seminole Pumpkin | [commonwealthseeds.com/product/seminole-pumpkin-certified-organic](https://commonwealthseeds.com/product/seminole-pumpkin-certified-organic/) | $4.50 |
-| Bakers Branch Butternut | [commonwealthseeds.com/product/bakers-branch-butternut-certified-organic](https://commonwealthseeds.com/product/bakers-branch-butternut-certified-organic/) | $4.50 |
-| **Full catalog (winter squash)** | [commonwealthseeds.com/product-category/winter-squash-tropical-pumpkin](https://commonwealthseeds.com/product-category/winter-squash-tropical-pumpkin/) | — |
+**Full catalogs:**
+- Common Wealth Seed Growers winter squash: [commonwealthseeds.com/product-category/winter-squash-tropical-pumpkin](https://commonwealthseeds.com/product-category/winter-squash-tropical-pumpkin/)
 
-### Southern Exposure Seed Exchange (Virginia, US)
-
-| Variety | Product Page | Price |
-|---|---|---|
-| Seminole Pumpkin | [southernexposure.com/products/seminole-pumpkin](https://www.southernexposure.com/products/seminole-pumpkin/) | ~$3.50 |
-
-### Experimental Farm Network (New Jersey, US)
-
-| Variety | Product Page | Price |
-|---|---|---|
-| Guatemalan Green-Fleshed Ayote | [store.experimentalfarmnetwork.org/products/guatemalan-green-fleshed-ayote-squash](https://store.experimentalfarmnetwork.org/products/guatemalan-green-fleshed-ayote-squash) | $5.00 |
-
-### ECHO Global Seed Bank (Florida, US)
-
-| Variety | Product Page | Price |
-|---|---|---|
-| Thai Kang Kob | [echobooks.net](https://www.echobooks.net/) — search "Thai Kang Kob" | Varies (nonprofit) |
-
-### Chinese Export Sellers (ships to US — check customs)
-
-| Variety | Product Page | Price |
-|---|---|---|
-| Chinese Miben F1 | [agrohaitai.com/products/chinese-miben-f1](https://agrohaitai.com/products/chinese-miben-f1) | $2.99 (10 seeds) |
-| Chinese Miben F1 | [deargogo.com/Chinese-Miben-Pumpkin-Seeds-p1051266.html](https://www.deargogo.com/Chinese-Miben-Pumpkin-Seeds-p1051266.html) | $1.30 (50 seeds) |
-| Beimi No.2 (北蜜2号) | [deargogo.com/Beimi-No-2-Pumpkin-Seeds...](https://www.deargogo.com/Beimi-No-2-Pumpkin-Seeds-Chinese-Pumpkin-Seeds-Hybrid-Pumpkin-Pear-Shaped-Pumpkin-Sweet-Flesh-p1082183.html) | $12.99 (20g) |
-| Beimi No.3 (北蜜3号) | [deargogo.com/Beimi-No-3-Pumpkin-Seeds-p1079907.html](https://www.deargogo.com/Beimi-No-3-Pumpkin-Seeds-p1079907.html) | $9.99 |
-
-### Germplasm / Research Request (not retail)
-
-| Variety | Source | How to Request |
-|---|---|---|
-| AVPU1426 (begomovirus-resistant) | World Vegetable Center | [avrdc.org/seed/seeds](https://avrdc.org/seed/seeds/) — research request |
-| Soler / Taina Dorada | UPR Mayagüez | [uprm.edu/eea](https://www.uprm.edu/eea/) — inquire with breeding program |
+**Varieties NOT in this table** (Baimi 2, Suprema F1, Bella F1, Thong Siam, Thong Ampai, Khai Nao, Mat Sao 2, Duong Long 77, San Leonardo, Nueva Vizcaya) have no confirmed US-accessible seed source. See the availability section above for inquiry contacts.
