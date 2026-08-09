@@ -174,28 +174,28 @@ The research literature confirms what geography already tells you: *"In the Indo
 
 ---
 
-## Direct Product Links — Sorted by Variety
+## Direct Product Links — Best for Volcán First
 
-> All prices in USD. OP = open-pollinated. C. moschata = vine borer immune.
+> Ranked by climate match, disease resistance, and availability. All prices USD. OP = save your own seed.
 
-| Variety | Type | Species | Seller | Direct Link | Price |
-|---|---|---|---|---|---|
-| **Chayote** | OP (plant the fruit) | Sechium edule | Local market (Panama/Costa Rica) | Walk to any market in Chiriquí | ~$0.50/fruit |
-| **Chilacayote** | OP | C. ficifolia | Carlton Carnivores | [carltoncarnivores.com/product-page/chilacayote-seeds-cucurbita-ficifolia](https://www.carltoncarnivores.com/product-page/chilacayote-seeds-cucurbita-ficifolia) | $6.00 |
-| **Chilacayote** | OP | C. ficifolia | Experimental Farm Network | [store.experimentalfarmnetwork.org/products/renskes-chilacayote-squash-northern-adapted-fig-leaf-gourd](https://store.experimentalfarmnetwork.org/products/renskes-chilacayote-squash-northern-adapted-fig-leaf-gourd) | $5.00 (SOLD OUT) |
-| **Chilacayote** | OP | C. ficifolia | Farmacie Isolde | [farmacieisolde.com/curiosities/chilacayote](https://www.farmacieisolde.com/curiosities/chilacayote) | $3.75 (SOLD OUT) |
-| **Chilacayote** | OP | C. ficifolia | Greenhand Tool | [greenhandtool.com/products/chilacayote-fig-leaf-gourd-seeds-for-easy-planting](https://www.greenhandtool.com/products/chilacayote-fig-leaf-gourd-seeds-for-easy-planting) | $4.20 |
-| **Chilacayote** | OP | C. ficifolia | Grow Your Own Food Nursery | [growyourownfoodnursery.com/products/cucurbita-ficifolia-chilacayote-alcayota-squash-seeds](https://growyourownfoodnursery.com/products/cucurbita-ficifolia-chilacayote-alcayota-squash-seeds) | $14.97 |
-| **Chilacayote** | OP | C. ficifolia | Planting Justice | [plantingjustice.org/products/chilacayote-perennial-squash](https://plantingjustice.org/products/chilacayote-perennial-squash) | $8.00 |
-| **Jin Dong Ae F3** | OP (research) | C. moschata | Common Wealth Seed Growers | [commonwealthseeds.com/product/jin-dong-ae-f3-korean-summer-squash-research-sample-certified-organic](https://commonwealthseeds.com/product/jin-dong-ae-f3-korean-summer-squash-research-sample-certified-organic/) | $4.50 |
-| **Jin Dong Ae × Mini Paulista** | OP (research) | C. moschata | Common Wealth Seed Growers | [commonwealthseeds.com/product/jin-dong-ae-x-mini-paulista-f3-summer-squash-certified-organic](https://commonwealthseeds.com/product/jin-dong-ae-x-mini-paulista-f3-summer-squash-certified-organic/) | $4.50 |
-| **Menina Brasileira Precoce** | OP | C. moschata | Common Wealth Seed Growers | [commonwealthseeds.com/product/menina-brasileira-precoce-early-brazilian-girl-summer-squash-certified-organic](https://commonwealthseeds.com/product/menina-brasileira-precoce-early-brazilian-girl-summer-squash-certified-organic/) | $4.50 |
-| **Mini Paulista** | OP | C. moschata | Common Wealth Seed Growers | [commonwealthseeds.com/product/mini-paulista-summer-squash-certified-organic](https://commonwealthseeds.com/product/mini-paulista-summer-squash-certified-organic/) | $4.50 |
-| **Tatume** | OP | C. pepo | Brim Seed Co. | [brimseed.com/product-page/tatume](https://www.brimseed.com/product-page/tatume) | $3.25 |
-| **Tatume** | OP | C. pepo | Common Wealth Seed Growers | [commonwealthseeds.com/product/tatume-summer-squash-calabacita-certified-organic](https://commonwealthseeds.com/product/tatume-summer-squash-calabacita-certified-organic/) | $4.50 |
-| **Tatume** | OP | C. pepo | Mary's Heirloom Seeds | [marysheirloomseeds.com/products/tatume-squash](https://www.marysheirloomseeds.com/products/tatume-squash) | $2.50 |
-| **Tatume** | OP | C. pepo | Victory Seed Company | [victoryseeds.com/products/tatume-summer-squash](https://victoryseeds.com/products/tatume-summer-squash) | $3.67 |
-| **Tromboncino** | OP | C. moschata | Autumn Prairie Pumpkins | [autumnprairiepumpkins.com/collections/seeds](https://autumnprairiepumpkins.com/collections/seeds) | $4.99 |
-| **Tromboncino** | OP | C. moschata | Fedco Seeds | [fedcoseeds.com/seeds/tromboncino-zucchini-rampicante-1460](https://fedcoseeds.com/seeds/tromboncino-zucchini-rampicante-1460) | ~$3.00 |
-| **Tromboncino** | OP | C. moschata | Nichols Garden Nursery (via Amazon) | [amazon.com/dp/B008AHF4GA](https://www.amazon.com/Tromboncino-Summer-Heirloom-Squash-Seeds/dp/B008AHF4GA) | ~$4.00 |
-| **Tromboncino** | OP | C. moschata | Southern Exposure Seed Exchange | [southernexposure.com/products/tromboncino-summer-squash](https://www.southernexposure.com/products/tromboncino-summer-squash/) | ~$3.50 |
+| Variety | Type | Species | Why Best for Volcán | Seller | Direct Link | Price |
+|---|---|---|---|---|---|---|
+| **Chayote** | OP (plant the fruit) | Sechium edule | Native to this exact climate. Perennial. #1 pick. | Local market (Panama/Costa Rica) | Walk to any market in Chiriquí | ~$0.50/fruit |
+| **Mini Paulista** | OP | C. moschata | Strong DM resistance, vine borer immune, keeps bearing for months | Common Wealth Seed Growers | [product page](https://commonwealthseeds.com/product/mini-paulista-summer-squash-certified-organic/) | $4.50 |
+| **Menina Brasileira Precoce** | OP | C. moschata | Very strong DM resistance, vine borer + plectosporium immune | Common Wealth Seed Growers | [product page](https://commonwealthseeds.com/product/menina-brasileira-precoce-early-brazilian-girl-summer-squash-certified-organic/) | $4.50 |
+| **Tatume** | OP | C. pepo | Most disease-resistant pepo — survived when all others died in SARE trials | Common Wealth Seed Growers | [product page](https://commonwealthseeds.com/product/tatume-summer-squash-calabacita-certified-organic/) | $4.50 |
+| **Tatume** | OP | C. pepo | Same | Mary's Heirloom Seeds | [product page](https://www.marysheirloomseeds.com/products/tatume-squash) | $2.50 |
+| **Tatume** | OP | C. pepo | Same | Victory Seed Company | [product page](https://victoryseeds.com/products/tatume-summer-squash) | $3.67 |
+| **Tatume** | OP | C. pepo | Same | Brim Seed Co. | [product page](https://www.brimseed.com/product-page/tatume) | $3.25 |
+| **Tromboncino** | OP | C. moschata | Italian vining summer squash, vine borer immune, eat young or mature | Fedco Seeds | [product page](https://fedcoseeds.com/seeds/tromboncino-zucchini-rampicante-1460) | ~$3.00 |
+| **Tromboncino** | OP | C. moschata | Same | Southern Exposure Seed Exchange | [product page](https://www.southernexposure.com/products/tromboncino-summer-squash/) | ~$3.50 |
+| **Tromboncino** | OP | C. moschata | Same | Nichols Garden Nursery (Amazon) | [product page](https://www.amazon.com/Tromboncino-Summer-Heirloom-Squash-Seeds/dp/B008AHF4GA) | ~$4.00 |
+| **Tromboncino** | OP | C. moschata | Same | Autumn Prairie Pumpkins | [product page](https://autumnprairiepumpkins.com/collections/seeds) | $4.99 |
+| **Jin Dong Ae F3** | OP (research) | C. moschata | Korean, early + productive, vine borer immune. 54 days. | Common Wealth Seed Growers | [product page](https://commonwealthseeds.com/product/jin-dong-ae-f3-korean-summer-squash-research-sample-certified-organic/) | $4.50 |
+| **Jin Dong Ae × Mini Paulista** | OP (research) | C. moschata | Cross combining Korean productivity + Brazilian DM resistance. 58d. | Common Wealth Seed Growers | [product page](https://commonwealthseeds.com/product/jin-dong-ae-x-mini-paulista-f3-summer-squash-certified-organic/) | $4.50 |
+| **Chilacayote** | OP | C. ficifolia | Evolved for cool humid highlands 1,000–3,000m. 2–5 year fruit storage. | Planting Justice | [product page](https://plantingjustice.org/products/chilacayote-perennial-squash) | $8.00 |
+| **Chilacayote** | OP | C. ficifolia | Same | Greenhand Tool | [product page](https://www.greenhandtool.com/products/chilacayote-fig-leaf-gourd-seeds-for-easy-planting) | $4.20 |
+| **Chilacayote** | OP | C. ficifolia | Same | Carlton Carnivores | [product page](https://www.carltoncarnivores.com/product-page/chilacayote-seeds-cucurbita-ficifolia) | $6.00 |
+| **Chilacayote** | OP | C. ficifolia | Same | Grow Your Own Food Nursery | [product page](https://growyourownfoodnursery.com/products/cucurbita-ficifolia-chilacayote-alcayota-squash-seeds) | $14.97 |
+| **Chilacayote** | OP | C. ficifolia | Same (SOLD OUT) | Experimental Farm Network | [product page](https://store.experimentalfarmnetwork.org/products/renskes-chilacayote-squash-northern-adapted-fig-leaf-gourd) | $5.00 |
+| **Chilacayote** | OP | C. ficifolia | Same (SOLD OUT) | Farmacie Isolde | [product page](https://www.farmacieisolde.com/curiosities/chilacayote) | $3.75 |
