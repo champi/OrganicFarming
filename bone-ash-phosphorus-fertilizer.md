@@ -297,7 +297,7 @@ Ca₅(PO₄)₃(OH) + C₆H₈O₇ → Ca²⁺-citrate complexes (soluble) + H�
 
 | Source | Citric Acid | Water Ratio | Bone:Solution | Time | Temp | P Recovery |
 |---|---|---|---|---|---|---|
-| Patent WO2014141021 [22] | 120–140 g/L (8.5–10% w/v) | Optimized | 126g acid / 1kg bone | 30h | RT | **80%+** |
+| Patent WO2014141021 [22] | 120–140 g/L (8.5–10% w/v) | ~1–1.4 L/kg bone | 117–126g acid / 1kg bone | 30h | RT | **80%+** |
 | Raniro et al. 2026 [10] | 12–15% w/w of feedstock | 1:1 to dry matter | — | 60 min + drying | RT | Max WEP at 15% |
 | Saleh et al. 2023 [23] | 2% w/v (standard test) | 1:100 | 1g:100ml | 1h shaking | RT | 82 g P/kg ash |
 | Robinson et al. 2023 [24] | 2% w/v (standard test) | 1:100 | 0.2g:20ml | 30 min | RT | Variable by material |
@@ -312,8 +312,9 @@ PER 1 KG OF BONE ASH (finely ground, <1mm):
 ├── 120–150g citric acid powder (food grade)
 │   └── Start with 120g and test pH before adding more
 │
-├── 2 liters of water (1:2 bone:water ratio)
-│   └── Creates approximately a 6–7% citric acid solution
+├── 1–1.5 liters of water (~1:1 to 1:1.5 bone:water)
+│   └── Creates an 8.5–10% citric acid solution
+│   └── Patent WO2014141021 optimum: 8.5% = 120 g/L, 10% = 140 g/L [22]
 │
 ├── Process:
 │   1. Dissolve citric acid in water FIRST
@@ -325,46 +326,50 @@ PER 1 KG OF BONE ASH (finely ground, <1mm):
 │   3. Let react at room temperature (20–30°C)
 │      └── Minimum: 24 hours
 │      └── Optimal: 30–48 hours
-│      └── Extended: 7 days with occasional stirring
-│   4. Monitor pH (see below)
+│      └── DO NOT exceed ~48h — patent yield DROPS after 2 days
+│           (87.4% at 2 days → 79.8% at 3 days) as P re-precipitates [22]
+│   4. Monitor pH (see schedule below)
 │   5. Stir 2–3 times per day to expose fresh surfaces
 │
-├── Result: Thick grey-white slurry
-│   ├── ~10–20% of total P dissolved in liquid (FAST release)
-│   ├── ~80–90% of total P remaining in solid (ACTIVATED, slow release)
-│   └── Solid particles now have higher surface area + lower Ca/P ratio
+├── Result: Thick grey-white slurry (thick is expected at 1:1–1:1.5)
+│   ├── ~80%+ of total P dissolves into the liquid — patent WO2014141021 [22]
+│   ├── Some of this re-precipitates once in soil, so the immediately
+│   │   plant-available fraction is lower than the dissolved fraction
+│   └── Solid particles gain surface area + lower Ca/P ratio (slow release)
 │
 └── DO NOT STRAIN — apply the entire slurry
     ├── The liquid gives immediate P availability
     └── The solid provides season-long slow release
 ```
 
-#### Lower Acid, Longer Time (Budget Option)
+#### Lower Acid, Immediate Application (Budget Option)
 
 ```
 PER 1 KG OF BONE ASH:
 
-├── 60–80g citric acid powder (6–8% w/w)
-├── 3 liters water (1:3 bone:water)
-├── Time: 7–14 days (weaker acid needs more time)
+├── 60–80g citric acid powder (6–8% w/w of bone ash)
+├── 1–1.5 liters water (~1:1 to 1:1.5 bone:water)
+├── React 24–48h maximum, then apply immediately
+│   └── Do NOT hold a weak-acid slurry for days — dissolved P
+│       re-precipitates once pH rises above 4 (Sica et al. 2025 [25])
 ├── Stir daily
-├── Monitor pH — if it rises above 5, add more citric acid (10–20g)
-└── Result: gentler on soil life, slower P release, lower cost
+├── Monitor pH — if it rises above 4, add more citric acid (10–20g)
+└── Result: gentler on soil life, less P dissolved than the maximum recipe, lower cost
 ```
 
 #### Quick Reference (Scale-Up)
 
 | Bone Ash | Citric Acid | Water | Time | Good For |
 |---|---|---|---|---|
-| 100g | 12–15g | 200ml | 24–48h | Small garden, potted plants |
-| 500g | 60–75g | 1L | 24–48h | Raised bed treatment |
-| 1 kg | 120–150g | 2L | 30–48h | Standard batch |
-| 5 kg | 600–750g | 10L | 48–72h | Market garden prep |
-| 10 kg | 1.2–1.5 kg | 20L | 48–72h | Field preparation |
+| 100g | 12–15g | 100–150ml | 24–48h | Small garden, potted plants |
+| 500g | 60–75g | 0.5–0.75L | 24–48h | Raised bed treatment |
+| 1 kg | 120–150g | 1–1.5L | 24–48h | Standard batch |
+| 5 kg | 600–750g | 5–7.5L | 24–48h | Market garden prep |
+| 10 kg | 1.2–1.5 kg | 10–15L | 24–48h | Field preparation |
 
 ### pH Monitoring
 
-**Required equipment:** pH test strips (range 0–6) or pH meter.
+**Required equipment:** pH test strips (range 0–6) or pH meter. A meter is unnecessary — cheap strips are sufficient.
 
 | pH Level | Status | Action |
 |---|---|---|
@@ -375,6 +380,26 @@ PER 1 KG OF BONE ASH:
 | **< 2** | Excessive — may harm soil microbes | Dilute before soil application |
 
 > **Critical warning from Sica et al. (2025):** If pH rises above 4 during storage, dissolved P **re-precipitates** onto hydroxyapatite surfaces as less soluble calcium phosphates, undoing your work [25]. Monitor pH at 24h, 48h, and weekly if storing. If pH drifts up, add more acid.
+
+### When to Monitor pH
+
+pH is the one thing a recipe cannot predict. Bone ash CaCO₃ content varies with burn temperature and combustion completeness, so the same acid dose lands at different pH — Raniro et al. (2026) applied 15% citric acid and reached pH 4.03 on meat-and-bone meal but pH 5.16 on its biochar [10].
+
+**Measure at these points:**
+
+| When | Why |
+|---|---|
+| **Immediately after mixing** (10–30 min in, once fizzing stops) | The most important reading. Tells you whether you added enough acid for THIS batch. If pH > 4, add citric acid (10–20 g at a time) now, before the reaction stalls. |
+| **At 24 h** | Confirms the reaction is holding in the target window (pH 3–4). |
+| **At 48 h** | Final check before application. If pH has drifted above 4, add acid or apply immediately — do not hold. |
+| **Weekly, only if storing** | Re-precipitation risk window (Sica et al. 2025 [25]). Hold at pH ≤ 4, or apply promptly. |
+
+**When you can skip pH monitoring:**
+
+- You are using the **budget option** AND applying the slurry **immediately** (within ~24 h) AND buffering it into compost/vermicompost where microbes take over. In this path the acid is not expected to fully dissolve P, so there is little stored soluble P to lose to re-precipitation.
+- You have **already characterized your bone ash source** (same bones, same burn method) and know from a prior batch exactly how much acid reaches pH 3–4. The first batch still needs monitoring.
+
+**Why monitoring beats a fixed acid weight:** under-acidification can leave you *worse* than doing nothing — incomplete acidification decreased extractable P versus an unacidified control by triggering apatite re-precipitation (Løes et al. 2022). The pH reading, not the recipe, tells you whether you've cleared that threshold.
 
 ### Time-P Release Relationship
 
@@ -388,7 +413,7 @@ Based on the bone char kinetics study (MDPI Soils, 2021) [26]:
 | 48 hours | ~70–90% |
 | 168 hours (7 days) | ~90–100% (approaching maximum) |
 
-> **First 24 hours** captures most of the available P. Extending to **48h–7 days** provides incremental gains.
+> **First 24 hours** captures most of the available P. The 7-day gains in the table above come from a study that **replenished fresh acid daily** (MDPI Soils 2021 [26]) — in a static batch (no replenishment, as in the farm recipe), dissolved P instead **declines after ~2 days** as pH rises and P re-precipitates (patent WO2014141021 [22]). Hold a static batch ≤48 h unless you top up acid to keep pH ≤ 4.
 
 ### Studies Supporting Citric Acid Treatment
 
@@ -664,7 +689,7 @@ This is the **most effective organic-compatible approach**, combining citric aci
 │                                                             │
 │  PHASE 2: CITRIC ACID ACTIVATION (see Method 3)             │
 │  ├── 100–150g citric acid per 1 kg bone ash                 │
-│  ├── Water at 1:2 to 1:3 ratio                              │
+│  ├── Water at 1:1 to 1:1.5 ratio                            │
 │  ├── React 30–48 hours at 20–30°C                           │
 │  ├── Monitor pH: target 3–4                                 │
 │  └── DO NOT STRAIN — keep entire slurry                     │
@@ -782,7 +807,7 @@ Phase 1 — Acid Treatment of Bone Ash (Days 1–2):
 ├── 1 kg bone ash (finely ground, <1mm)
 ├── 150–180g citric acid (increased ~25% to compensate for later biochar)
 │   └── Standard recipe is 120g; extra 30–60g for biochar buffering
-├── 2–3 L water
+├── 1.5–2 L water (~1:1.5–1:2, keeps 8.5–10% concentration)
 ├── Dissolve citric acid in water FIRST, then slowly add bone ash
 ├── React 24–48h, stirring 2–3× daily
 ├── Monitor pH target: 3–4
@@ -1013,7 +1038,7 @@ WHY THIS ORDER MATTERS:
 |---|---|---|
 | Raw bone ash (typical) | ~35% P₂O₅ | ~143 kg/ha |
 | Raw bone ash (well-calcined, 4h) | ~96% P₂O₅ | ~52 kg/ha |
-| Citric acid-treated slurry (1:2 ratio) | ~5–8% P₂O₅ (liquid + solid combined) | ~625–1,000 L slurry/ha |
+| Citric acid-treated slurry (1:1 ratio) | ~5–8% P₂O₅ (liquid + solid combined) | ~625–1,000 L slurry/ha |
 | Bone-enriched vermicompost | ~1–2% P₂O₅ | ~2,500–5,000 kg/ha |
 
 ---
