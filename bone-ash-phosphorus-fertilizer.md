@@ -777,15 +777,17 @@ The Raniro et al. (2026) study directly compared citric acid treatment of raw MB
 
 > Biochars needed **more acid** to reach the same pH because of higher Ca²⁺ content and carbonate buffering from the char structure [16]. If adding biochar, **increase citric acid by ~20–30%.**
 
-#### Effect 2: Biochar Adsorbs Dissolved P (Creates Slow-Release Reserve)
+#### Effect 2: Biochar Does NOT Capture P from the Citric-Acid Slurry (Corrected)
 
-The Zwetsloot et al. (2016) Cornell study found:
+Biochar is **not** a useful P "sponge" in this system, for three independent reasons:
 
-> *"Wood biochars reduced resin-P from bone char by 14–26%."* [39]
+1. **Pristine wood biochar has a net-negative surface charge** and repels phosphate anions — it sorbs almost no P. P sorption is driven by Ca/Mg/Fe/Al *metal* content (manure/bone/sludge biochars), not carbon surface (Musa et al. 2024, *Sustainability*; Novais et al. 2018; Takaya et al. 2016).
+2. **Citric acid actively prevents P sorption.** Citrate competes for sorption sites and chelates the Ca²⁺/Fe³⁺/Al³⁺ that would otherwise bind P — low-molecular-weight organic acids *desorb* P from biochar, not capture it (Wang et al. 2016; Souza et al. 2014; Bulmer et al. 2018–19; *Molecules* 2022).
+3. **Even if P precipitates, it forms Ca-P (hydroxyapatite)** — the *least* plant-available form — undoing the entire point of the citric-acid step.
 
-The Kopp et al. (2023) study confirmed for meat and bone char: *"Ortho-P dissolved from apatite has been shown to be re-adsorbed onto positively charged hydroxyapatite surfaces at pH > 4."* [17]
+The Zwetsloot et al. (2016) Cornell study confirms the net effect: *"Wood biochars reduced resin-P from bone char by 14–26%"* — i.e., co-adding wood biochar **reduces** plant-available P from bone char; it does not create a useful reserve. The Kopp et al. (2023) observation ("ortho-P re-adsorbs onto hydroxyapatite surfaces at pH > 4") is P re-locking onto the bone ash itself, not biochar capture [17].
 
-Biochar's high surface area can bind phosphate ions. This **isn't necessarily bad** — it creates a slow-release P reservoir rather than losing P to leaching. But it means **less immediately soluble P in the liquid fraction.**
+> **Conclusion:** keep biochar for **Effect 1 (pH/EC buffering)** and **Effect 3 (biology protection)** — NOT for P capture. Add it *after* the acid reaction (never during), and let the bone-ash solids + compost/vermicast do the actual P retention. If you genuinely want a P-capturing biochar, it must be Mg/Ca-modified and used with a *plain* phosphate solution — not citric acid.
 
 #### Effect 3: Biochar Protects Soil Biology (The Critical Win)
 
@@ -816,7 +818,7 @@ Phase 1 — Acid Treatment of Bone Ash (Days 1–2):
 Phase 2 — Biochar Integration (Day 2–3):
 ├── Add 200–500g biochar to the acid-treated slurry
 │   └── Any clean biochar works: wood, bamboo, rice husk, crop residue
-│   └── Biochar adsorbs excess dissolved P (becomes slow-release reserve)
+│   └── Biochar buffers pH/EC and protects biology (NOT a P sponge — see Effect 2)
 │   └── Provides high-surface-area habitat for microbial colonization
 ├── Stir thoroughly
 ├── Let sit another 24h (biochar equilibrates with the solution)
@@ -858,7 +860,7 @@ Final NPK Profile (approximate, per 1 kg original bone ash input):
 | **Bone ash** | P, Ca | Primary P source (slow-release after acid activation); Ca for cell walls |
 | **Citric acid** | H⁺, citrate | Dissolves bone ash P; citrate chelates Ca preventing re-precipitation; feeds soil microbes |
 | **Wood ash** | K, Ca, Mg, trace minerals | Balances pH after acid treatment; adds potassium (the nutrient bone ash completely lacks); trace minerals |
-| **Biochar** | C, surface area, microbial habitat | Buffers system pH; adsorbs P for slow release preventing leaching; protects soil biology from acid shock; sequesters carbon for centuries |
+| **Biochar** | C, surface area, microbial habitat | Buffers system pH; protects soil biology from acid/salt shock; sequesters carbon. Does **not** capture P from the citric-acid slurry (see Effect 2) |
 
 ### Safety Note
 
@@ -1004,6 +1006,35 @@ WHY THIS ORDER MATTERS:
 | Before adding worms | Compost pH + worm test | pH ≥ 6.0 + 100% survival in test |
 | Before planting + AMF inoculation | Soil pH at root zone | 5.5–7.0 (AMF functional range) |
 | After planting (monthly) | Soil pH | Monitor — should remain stable |
+
+---
+
+### Vermicast After the Acid Reaction Protects P
+
+Adding the finished slurry to vermicast is the single best way to **lock in** plant-availability, because the protection is a *chemical* property of the vermicast, not the live worm activity:
+
+1. **Humic/fulvic acids inhibit calcium-phosphate re-precipitation** — the key risk when the pH-3–4 slurry meets neutral medium. Fulvic/humic acids cut hydroxyapatite precipitation ~10–80× and stabilize amorphous Ca-P (Inskeep & Silvertooth 1988; Ge et al. 2019; Grossl & Inskeep 1991). Just 0.5–10% humic acid reduces P fixation 18–26% and raises available P 6–13% (*Agronomy* 2023).
+2. **Residual PSB + phosphatase enzymes** keep solubilizing undissolved bone ash (Parastesh et al. 2019; Andrade-Sifuentes et al. 2024).
+
+**Timing:** add vermicast **after** the acid reaction is complete (pH 3–4, P fully dissolved) — never during, since vermicast (pH ~7) would neutralize the acid and stop P solubilization.
+
+### Finished Vermicast Works Too (Simpler)
+
+You don't need a 45–60-day worm bin. Mixing the slurry into **finished (mature) vermicast** protects the P immediately, and the literature says post-stability fortification is even *better* than co-composting:
+
+> Bone meal added **post-stability** (to finished compost) was superior to co-composting — **P +223%, Ca +139%, germination index +64%** ("Nutrient quality and phytotoxicity assessment of phospho-compost…", 2019).
+
+**Trade-off:** finished vermicast protects + delivers the P you already dissolved, but does *less* ongoing solubilization of residual bone ash than active vermicomposting. If the goal is only to lock in the citric-acid P (the big payoff), finished vermicast is simpler and equally effective. Watch EC when using it with seedlings — mature vermicast is salty (keep EC < 2.0 dS/m).
+
+### Integrated Sequence & Proportions
+
+```
+1. ACID — 120–150 g citric acid per 1 kg bone ash (in 1–1.5 L water), pH 3–4, 24–48 h
+2. BIOCHAR (after acid) — 200–500 g biochar per kg bone ash (1:5 to 1:2)
+3. VERMICAST — mix into finished vermicast at ~1:5–1:10 (slurry:vermicast by volume),
+   OR into a vermicomposting bed where bone ash ≈ 5–10% and biochar ≈ 5% of dry feedstock
+   └── biochar in a worm bed: 5% optimal, 2–10% safe, >20% harms worms (Springer Biochar 2023)
+```
 
 ---
 

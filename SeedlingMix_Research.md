@@ -391,6 +391,8 @@ For: tomato, squash, brassica, peppers, okra.
 
 **Bioassay**: If you don't have meters, sow 10 fast seeds (radish/lettuce). >80% emergence = safe mix.
 
+> **Recipe C pH note (7.0):** pH 7.0 sits at the top of the target and is slightly high for seedlings (ideal 6.0–6.5). Lower it durably by raising the pine needle leaf mold fraction (35% → 40–45%). For elemental sulfur vs. citric acid, see `soil-ph.md` §4. Note: the bone ash + citric-acid slurry is *acidic* (pH 3–4) and a Ca+P source, but it's not a durable pH correction — see `bone-ash-phosphorus-fertilizer.md`.
+
 ---
 
 ## 8. Key Interactions Summary

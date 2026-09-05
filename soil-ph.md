@@ -110,7 +110,47 @@ pH measured in **water** vs. in **salt solution (KCl or CaCl₂)** differs; salt
 
 ---
 
-## 4. Sources
+## 4. Lowering Soil pH — Elemental Sulfur vs Citric Acid
+
+Two very different tools. For a buffered, OM-rich living soil (like Volcán's), the choice:
+
+| | Elemental sulfur | Citric acid (dilute) |
+|---|---|---|
+| Mechanism | Thiobacillus bacteria oxidize S⁰ → H₂SO₄ (biological) | Direct weak-acid addition |
+| Speed | Weeks–months (up to a year) | Immediate |
+| Duration | Durable (but reversible once S is used up) | Transient — microbes metabolize citrate in ~12 days, pH rebounds |
+| Best for | Beds/fields, applied 2–3+ months ahead | Quick "nudge now" in a small short-lived batch (e.g. seedling mix) |
+
+### Elemental sulfur (the durable tool)
+
+- **Rate to go 7.0 → 6.0–6.5** (silt loam, 6" depth): **1–2 lb/100 ft²** (≈50–100 g/m²); sandy −⅓, clay +½ (Purdue HO-241-W; UMass; UCANR).
+- Max ~15 lb/1000 ft² per application; **re-test in 4–6 months** before adding more.
+- **Fine/micronized sulfur** oxidizes fastest; **incorporate** it, keep warm + moist.
+- **Free-carbonate soils (pH > 7.5) resist acidification** — impractical to fight (Wisconsin XHT1151; WVU).
+- Volcán caveat: OM-rich volcanic soil is strongly buffered and cooler highland temps slow Thiobacillus — dose by **buffer-pH (lime requirement)**, not the blanket rate (see §3.2).
+
+### Citric acid (transient — not a correction)
+
+- Lowers pH immediately, but **the pH drop returns to baseline within ~12 days** as microbes mineralize the citrate (Macías-Benítez et al. 2020, *Front. Plant Sci.* 11:633; Farm Rite 2026).
+- Citrate also dissolves carbonates (a buffering reaction) and chelates Ca — its *peak* pH drop is modest, and its real strength is **P/micronutrient chelation**, not durable acidification.
+- Use it as a **one-time "water it in now" nudge** for a short-lived seedling mix — not as the primary pH fix.
+
+### The third, free option for mixes
+
+For a seedling/potting mix, **acidic organic matter — pine needle leaf mold, sphagnum peat, pine bark** — is the durable fix (Purdue HO-241-W; Wisconsin XHT1151), and it's what you already have on-farm.
+
+**Rule of thumb:** citric acid to nudge now (mix); elemental sulfur for durable correction (beds); leaf mold for the free, permanent fix in the mix itself.
+
+---
+
+## 5. Sources
+
+### Lowering soil pH (elemental sulfur vs citric acid)
+- Purdue Extension HO-241-W — "Lowering Soil pH for Horticulture Crops" (rate Table 3; sulfur mechanism).
+- UMass SPTTL_3 / UC ANR — sulfur rates per 1000 ft², 15 lb/application cap, re-test 4–6 mo.
+- Wisconsin XHT1151 — free-carbonate threshold (>7.5 impractical); peat/pine needles as acidifiers.
+- Macías-Benítez, S. et al. (2020) — "Rhizospheric Organic Acids as Biostimulants…" *Front. Plant Sci.* 11:633 (organic acids mineralized in days; pH rebound ~12 days).
+- Farm Rite USA (2026) — "Organic Acids in Agriculture: Comparing Lactic, Citric, and Gluconic Acid to Humic Acid."
 
 ### pH as master variable & organic-matter decomposition
 - Dahlgren, R.A. (2019) — "The Role of Soil pH in Plant Nutrition and Soil Remediation" — *Wiley/Applied & Environmental Soil Science*. doi:10.1155/2019/5794869.
