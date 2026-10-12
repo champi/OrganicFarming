@@ -17,8 +17,8 @@
 | Input | Amount per plant | Notes |
 |---|---|---|
 | Aged urine + ≤5 g/L Epsom | ~1.5 L total, weekly | Shake the jug; dilute 1:4–1:5; water in. Epsom at this rate does not hurt Ca. |
-| Bone ash, **lightly** acidified → vermicast | **~15 g, once** | 4-plant batch: 60 g bone ash + 4–5 g citric acid + 60–90 mL water, ≤24 h, then into ~0.5–1 L vermicast, buffer 2–3 days |
-| Potassium sulfate (SOP) | 3 × 5 g | Chloride-free; same day as urine is OK |
+| Bone ash, **lightly** acidified → vermicast | **~15 g, once** | 4-plant batch: 60 g bone ash + 4–5 g citric acid + 60–90 mL water, react ~24 h, then mix into ~0.5–1 L vermicast and **apply the same day** |
+| Potassium sulfate (SOP, 0-0-50) | 3 × 5 g (15 g/season; **60 g for all 4 plants**) | Chloride-free; same day as urine is OK. Weigh 5 g once (a scant teaspoon). |
 | Great White top-up (optional) | ~½ tsp (~2 g) | Only if you have product to spare: side band 10–15 cm from stem, 5–8 cm deep |
 | Gypsum (*yeso agrícola*) | 10–20 g, **only if** Ca symptoms persist | pH-neutral, no P |
 | Wood ash (optional) | ≤30–40 g per season | Only if pH stays <6.9; ≥3 days from urine |
@@ -27,22 +27,25 @@
 
 ## Calendar
 
+Urine on **Sundays**. Every other amendment goes ≥3 days from a urine day, except SOP, which goes *with* urine.
+
 | Date | DAS | Action (per plant) |
 |---|---|---|
-| Oct 12–13 | 26–27 | Urine 100–150 mL |
-| Oct 14 | 28 | *(Optional)* Great White top-up side band (½ tsp) |
-| Oct 17 | 31 | Start bone-ash batch (light acid, ≤24 h) |
-| Oct 18 | 32 | Urine 150 mL · mix the bone-ash batch into vermicast; buffer 2–3 days; check pH ≥6 |
-| **Oct 21–23** | 35–37 | **Bone-ash–vermicast in 2–3 pockets, 20–25 cm from the stem** (¼ of the batch per plant). Keep it away from biochar pockets. |
-| Oct 27 | 41 | Urine 150 mL |
-| ~Nov 1 (first flowers) | ~46 | Urine 200 mL + **SOP 5 g** |
-| Nov 10 | 55 | Urine 200 mL · optional ½ bone-ash dose only if P-deficient |
-| ~Nov 15 | ~60 | Urine 200 mL + **SOP 5 g** |
-| Nov 24 | 69 | Urine 200 mL |
-| ~Dec 1 (after first harvest week) | ~76 | Urine 150 mL + **SOP 5 g** |
-| Dec 8 → | 83+ | Urine 100–150 mL weekly while fruiting |
+| Mon Oct 12 | 26 | Urine 100–150 mL (aged + Epsom, shaken, diluted 1:4–1:5) |
+| Wed Oct 14 | 28 | *(Optional)* Great White top-up side band (½ tsp) |
+| Sun Oct 18 | 32 | Urine 150 mL |
+| Tue Oct 20 | 34 | Start bone-ash batch: 60 g bone ash + 4–5 g citric acid in 60–90 mL water (dissolve the acid first, add ash slowly, stir) |
+| **Wed Oct 21** | 35 | ~24 h later: **mix the slurry into ~0.5–1 L vermicast and apply right away.** Bury ¼ per plant in 2–3 pockets, 20–25 cm from the stem, 3–5 cm deep, away from biochar pockets. Water in. |
+| Sun Oct 25 | 39 | Urine 150 mL |
+| **Sun Nov 1** (≈first flowers) | 46 | Urine 200 mL + **SOP 5 g** |
+| Sun Nov 8 | 53 | Urine 200 mL |
+| Wed Nov 11 | 56 | *Only if P-deficient* (dull, dark blue-green, small leaves): ½ bone-ash dose, same method |
+| **Sun Nov 15** | 60 | Urine 200 mL + **SOP 5 g** |
+| Sun Nov 22 | 67 | Urine 200 mL |
+| **Sun Nov 29** | 74 | Urine 150 mL + **SOP 5 g** |
+| Sun Dec 6 → | 81+ | Urine 100–150 mL weekly while fruiting |
 
-Spacing rules: urine ↔ bone ash or wood ash ≥3 days apart; SOP can go with urine; no soluble P near young mycorrhizae; mulch, don't dig, water evenly (this also prevents Ca problems).
+If first flowers come earlier or later than Nov 1, move the first SOP dose to match and keep the 2-week spacing. Mulch, don't dig, water evenly.
 
 ## Log
 

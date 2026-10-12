@@ -121,7 +121,7 @@ Growth is slow until ~27 days after transplant, then 79% of the dry mass is buil
 
 **Why lower with AMF:** in squash and pumpkin, mycorrhizal colonization peaked at *moderate* P. Summer squash peaked at 54% colonization with 50 kg/ha P fertilizer (BASU trial). Pumpkin colonization peaked at **25% of the recommended P rate**. The plants also already have three P sources: struvite in the charged biochar, ~0.5–0.7 g P from the season's urine, and vermicast.
 
-**How (AMF-friendly version):** use the bone-ash guide's **budget recipe**. For each 100 g of bone ash, use 6–8 g citric acid in 100–150 mL water. React ≤24 h (P is only *partly* dissolved). Mix into finished vermicast (1:5–1:10 v/v) and let it buffer 2–3 days to pH ≥6. Bury it in 2–3 pockets **20–25 cm from the stem** (the outer edge of the root zone, where hyphae forage), 3–5 cm deep. **Apply once**, ≥4 weeks after the plant was inoculated and before ~40 DAS (timing logic in §7). Give an optional half-dose at first fruit set only if leaves show P deficiency (dull, dark blue-green, small).
+**How (AMF-friendly version):** use the bone-ash guide's **budget recipe**. For each 100 g of bone ash, use 6–8 g citric acid in 100–150 mL water. React ~24 h (P is only *partly* dissolved), then mix into finished vermicast (1:5–1:10 v/v) and **apply the same day**. Don't let it sit: dissolved P re-precipitates as pH rises, and the vermicast's humic/fulvic acids protect it best when it goes straight into the soil (bone-ash guide §8 budget option, §14). Bury it in 2–3 pockets **20–25 cm from the stem** (the outer edge of the root zone, where hyphae forage), 3–5 cm deep. **Apply once**, ≥4 weeks after the plant was inoculated and before ~40 DAS (timing logic in §7). Give an optional half-dose at first fruit set only if leaves show P deficiency (dull, dark blue-green, small).
 
 ---
 
@@ -230,7 +230,7 @@ Ca moves only in the transpiration stream (xylem), so it goes where water goes:
 | Urine + bone-ash slurry | **≥3 days apart.** Aged urine (pH 9) neutralizes the acid and re-precipitates the P; the acid dissolves the urine's struvite. |
 | Urine + wood ash | **≥3 days apart.** Ash raises pH, so ammonia is lost. |
 | Urine + SOP | Same day is fine |
-| Bone-ash slurry + roots/AMF | Never raw (pH 3). Buffer in vermicast first, and place it at the root-zone edge, not on the inoculated core. |
+| Bone-ash slurry + roots/AMF | Never raw (pH 3). Mix into vermicast first (apply the same day), and place it at the root-zone edge, not on the inoculated core. |
 | Soluble P + young mycorrhizae | Not during the first ~4 weeks after inoculation (§7). |
 | Great White + citric slurry, wood ash, or fresh urine | Not in the same spot or on the same day. Inoculum goes on moist soil near new roots. |
 | Bone ash + wood ash *during* the acid reaction | Never (stops P release). After the reaction is fine. |
@@ -297,7 +297,7 @@ Ca moves only in the transpiration stream (xylem), so it goes where water goes:
 
 1. **At sowing:** Great White on or under the seed, plus starter P (struvite-charged biochar + vermicast). *(2026 plants: Great White at sowing ✔. The vermicast + charged biochar went in later, at ~3 weeks; see below.)*
 2. **Weeks 0–4:** N only (small weekly urine). **No bone ash, no soluble P.**
-3. **Weeks 4–5 (≥4 weeks after inoculation, before ~40 DAS):** one **lightly acidified** bone-ash dose (~15 g/plant, 6–8% citric, buffered in vermicast) in pockets 20–25 cm out, where hyphae forage. AMF actively proliferate in P-enriched patches (Cui & Caldwell 1996). If the plants were **not** inoculated at sowing, use **raw** finely ground bone ash at the same spot and inoculate now.
+3. **Weeks 4–5 (≥4 weeks after inoculation, before ~40 DAS):** one **lightly acidified** bone-ash dose (~15 g/plant, 6–8% citric, ~24 h, mixed into vermicast and applied the same day) in pockets 20–25 cm out, where hyphae forage. AMF actively proliferate in P-enriched patches (Cui & Caldwell 1996). If the plants were **not** inoculated at sowing, use **raw** finely ground bone ash at the same spot and inoculate now.
 4. **From first flowers:** K (SOP) and the usual urine. Optional half bone-ash dose only on P-deficiency signs.
 5. **Next crop:** don't till. Plant into the same mycorrhizal network; residual bone ash is now fungal food.
 
