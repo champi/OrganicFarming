@@ -55,15 +55,17 @@ Bone ash composition varies with animal source, bone type, and calcination tempe
 
 | Element | Cattle Bone Ash (2h calcined) [2] | Cattle Bone Ash (4h calcined) [2] | Brazilian Commercial BA [3] | Typical Range |
 |---|---|---|---|---|
-| **Phosphorus (P)** | 34.65% | 41.75% | 15.6% | 15–42% |
-| **P₂O₅ equivalent** | 79.4% | 95.6% | 35.8% | 35–96% |
+| **Phosphorus (P)** | 34.65%* | 41.75%* | 15.6% | **13–18%** (realistic) |
+| **P₂O₅ equivalent** | (79.4%)* | (95.6%)* | 35.8% | **30–42%** (realistic) |
 | **Calcium (Ca)** | 30.28% | 36.20% | 33.07% | 30–38% |
 | **Nitrogen (N)** | 2.54% | 0.64% | ~0% | 0–2.5% |
 | **Magnesium (Mg)** | 0.46% | 0.56% | Trace | 0.4–0.6% |
 | **Sulfur (S)** | 0.23% | 0.40% | Trace | 0.2–0.4% |
 | **Potassium (K)** | 0.08% | 0.16% | Trace | 0.05–0.16% |
 
-> **Note:** The wide range in P content is due to calcination temperature. Longer/hotter calcination (4h, 800°C+) concentrates P by removing more organic matter but also increases hydroxyapatite crystallinity, reducing solubility.
+> **\* Physically impossible as stated — read with caution.** Bone ash is hydroxyapatite, Ca₅(PO₄)₃OH, and *pure* hydroxyapatite contains at most **18.5% P (42.4% P₂O₅) and 39.9% Ca**. The 34.65% / 41.75% "P" values reported by Nascimento et al. (2025) can't be total P by mass. They are most likely semi-quantitative surface (EDX) readings or mislabeled P₂O₅. For dosing, use **~13–18% P (30–42% P₂O₅)**. ~16% P is a good working value; a purchased or home-made batch tested by a lab is better.
+>
+> **Note:** The range in P content is due to calcination temperature and completeness. Longer/hotter calcination (4h, 800°C+) concentrates P by removing more organic matter but also increases hydroxyapatite crystallinity, reducing solubility.
 
 ### Trace Elements
 
@@ -1068,7 +1070,7 @@ You don't need a 45–60-day worm bin. Mixing the slurry into **finished (mature
 | Bone Ash Form | Approximate P₂O₅ Content | To Supply 50 kg P₂O₅/ha, Apply |
 |---|---|---|
 | Raw bone ash (typical) | ~35% P₂O₅ | ~143 kg/ha |
-| Raw bone ash (well-calcined, 4h) | ~96% P₂O₅ | ~52 kg/ha |
+| Raw bone ash (well-calcined, near-pure hydroxyapatite) | ~40% P₂O₅ (theoretical max 42.4%) | ~125 kg/ha |
 | Citric acid-treated slurry (1:1 ratio) | ~5–8% P₂O₅ (liquid + solid combined) | ~625–1,000 L slurry/ha |
 | Bone-enriched vermicompost | ~1–2% P₂O₅ | ~2,500–5,000 kg/ha |
 
@@ -1096,7 +1098,7 @@ You don't need a 45–60-day worm bin. Mixing the slurry into **finished (mature
 ### Bone Ash Characterization
 
 1. **Nascimento, E.M. et al. (2025)** — "Development of biofertilisers from calcined bones: production, and physicochemical and ecotoxicological analysis." *Revista Ciência Agronômica*, 56. DOI: [10.5935/1806-6690.20250046](https://doi.org/10.5935/1806-6690.20250046)
-   - Compared cattle, pig, sheep bone ash at 2h vs 4h calcination. 4h cattle bone ash: 41.75% P, 36.20% Ca. Non-toxic (Artemia salina LC₅₀ 78,098 µg/mL). All ashes suitable for acidic soils.
+   - Compared cattle, pig, sheep bone ash at 2h vs 4h calcination. 4h cattle bone ash reported as 41.75% P, 36.20% Ca (the P figure exceeds hydroxyapatite's 18.5% P maximum, so it is likely a surface/EDX value or P₂O₅; see §2 note). Non-toxic (Artemia salina LC₅₀ 78,098 µg/mL). All ashes suitable for acidic soils.
 
 2. **Mattar, G.S. et al. (2014)** — "Caracterização físico-química de cinza de osso bovino para avaliação do seu potencial uso agrícola." *Pesquisa Agropecuária Tropical*, 44(1): 65–70.
    - Brazilian cattle bone ash: 35.81% P₂O₅ total, 23.94% P₂O₅ citric acid-soluble, pH 9.94. Suitable as phosphate and calcium fertilizer.
