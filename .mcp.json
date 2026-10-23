@@ -1,0 +1,17 @@
+{
+  "mcpServers": {
+    "exa": {
+      "type": "http",
+      "url": "https://mcp.exa.ai/mcp"
+    },
+    "intentgrapher": {
+      "type": "stdio",
+      "command": "/home/lxralexandrechampion/IntentGrapher/mcp/.venv/bin/python3",
+      "args": [
+        "/home/lxralexandrechampion/IntentGrapher/mcp/server.py",
+        "--vault",
+        "/mnt/c/Users/LXRAlexandreChampion/Documents/IntentGraph"
+      ]
+    }
+  }
+}
