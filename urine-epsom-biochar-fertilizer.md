@@ -51,7 +51,8 @@ Two things were researched and one common assumption is corrected:
 | P immobilization is "a significant fertility limitation of Andisols in Central America"; P retention >85% (NZ method), 96% (isotherm) | Molina et al., *Commun. Soil Sci. Plant Anal.* (1991) |
 | Volcán/Barú soils: "volcanic origin, slightly acidic, good nutrient content, high OM"; rainfall 2,418–3,613 mm/yr; Volcán 1,300–1,500 m, 16–27 °C | MIDA (2021) |
 | Chiriquí highland volcanic soils (Caisán, San Andrés, Río Sereno): pH 5.9, **low P, low Ca, and low Mg**, medium K | Lorenzo et al., *Agron. Mesoam.* (2013) |
-| Cerro Punta soils: pH 6.0–6.9, high OM 20–60%; no significant NPK→growth correlation (fertility non-limiting, "ceiling effect") | Ohiaeri (2025) |
+| Cerro Punta soils: pH 6.0–6.9, high OM 20–60%; no NPK correlation with leaf count/height/color ("ceiling effect"); only soil K vs. potato plant count (r = 0.70). Preprint, home colorimetric kit, 10 plots/crop → weak evidence | Ohiaeri (2025) |
+| Cerro Punta farms (IDIAP lab, 5 sites): pH 5.7–6.5; **K high (210–567 mg/L), Mg high (2.5–8.4 cmol/kg)**, Ca 4.6–17.5 cmol/kg, Ca/Mg ~2, base saturation 95–99.6%. Heavy chicken-manure use (77% of farmers) | Herrera et al., *Rev. Investig. Altoandin.* (2021) |
 | Andisols from *basaltic* ash are Mg-rich (cation order Ca>Mg>Na>K); *andesitic* ash + high rainfall → base leaching, low Ca/Mg | Arifin et al., *Soil Systems* (2022) |
 
 **Reading:** two facts dominate. **(a)** P fixation is the number-one fertility problem — any strategy that protects P from allophane/Al/Fe lock-up (struvite, biochar coating, mycorrhizae) pays disproportionately. **(b)** Mg status is *variable* across the highlands: some plots are documented low-Mg (pH 5.9), but the region's typical pH 6.0–6.9 with 20–60% OM suggests base saturation is usually adequate. **Your pH 6.6 is a good sign for Mg** — the only way to settle it is a Ca/Mg/K soil test.
@@ -128,9 +129,9 @@ That ~390 mg/L is fast-release MgSO₄, not slow-release struvite — it floods 
 **The Andisol makes it worse, not better:**
 - Andisols have **low ECEC at field pH** (~8 cmolc/kg; ~⅓ of pH-8.2 CEC) — "limited ability to store and exchange nutrient cations such as Ca, Mg, and K" (USDA FS, ash-influenced soils). Low buffering → a Mg²⁺ pulse shifts solution ratios more easily.
 - Allophane/humus **sorb divalent cations (Mg²⁺/Ca²⁺) strongly** — displacing the weaker-held monovalent K⁺ (Nanzyo, *Global Environ. Res.*).
-- The Chiriquí highlands are already **low-K** (Lorenzo 2013), and K was the only nutrient correlating with any growth metric in Cerro Punta trials (Ohiaeri 2025). Excess Mg²⁺ drives K:Mg below the 0.2 threshold → *reduced K uptake*, the wrong direction on a K-scarce soil.
+- Highland K status varies: *medium* at Río Sereno/Caisán (Lorenzo 2013), *high* on manured Cerro Punta farms (Herrera 2021). On a plot that tests low or medium in K, excess Mg²⁺ drives K:Mg below the 0.2 threshold → *reduced K uptake*, the wrong direction.
 
-**Honesty check — magnitude:** the base-cation-saturation-ratio (BCSR) literature shows real soils tolerate wide Ca:Mg/K:Mg swings with **no yield effect** when sufficiency is met — e.g., a 6-year gypsum + epsom trial drove Ca:Mg far apart with zero yield change (Chaganti et al. 2021); "Mg toxicities are rare" (4R Nutrient Management 2024). So a one-off 2:1 charge won't poison the garden — it's a *wasteful tilt*: double the Epsom for only 95%→99% P capture, plus sulfate salinity, plus Mg working against K/Ca on an already low-K Andisol. **Conclusion: 1.2:1 (~4–5 g/L) is the ceiling; 2:1 is excess Mg with no upside.**
+**Honesty check — magnitude:** the base-cation-saturation-ratio (BCSR) literature shows real soils tolerate wide Ca:Mg/K:Mg swings with **no yield effect** when sufficiency is met — e.g., a 6-year gypsum + epsom trial drove Ca:Mg far apart with zero yield change (Chaganti et al. 2021); "Mg toxicities are rare" (4R Nutrient Management 2024). So a one-off 2:1 charge won't poison the garden — it's a *wasteful tilt*: double the Epsom for only 95%→99% P capture, plus sulfate salinity, plus Mg working against K/Ca (most costly if your plot tests low or medium in K). **Conclusion: 1.2:1 (~4–5 g/L) is the ceiling; 2:1 is excess Mg with no upside.**
 
 ### 4.4 Does the biochar absorb the Epsom and prevent antagonism?
 
@@ -229,6 +230,7 @@ The number appears in the cilantro recipe as "+3 g/L Epsom salt," described as a
 - MIDA (2021) "Caracterización del Sistema Productivo de café en Tierras Altas de la provincia de Chiriquí."
 - Lorenzo, E., et al. (2013) "Validación de frijol de grano rojo pequeño en Chiriquí, Panamá," *Agronomía Mesoamericana* 14(1).
 - Ohiaeri, B. (2025) "Soil Properties and Leaf Traits in Four Vegetable Crops, Cerro Punta, Panama," *Authorea/AgriRxiv*.
+- Herrera, R.S., Collantes, R.D., Caballero, M., Pitti-Caballero, J. (2021) "Caracterización de fincas hortícolas en Cerro Punta, Chiriquí, Panamá," *Revista de Investigaciones Altoandinas* 23(4) (IDIAP soil analyses, 5 sites).
 - Arifin, M., Devnita, R., Anda, M., Goenadi, D.H., Nugraha, A. (2022) "Characteristics of Andisols Developed from Andesitic and Basaltic Volcanic Ash in Different Agro-Climatic Zones," *Soil Systems* 6(4):78.
 - Nanzyo, M. (2002) "Unique Properties of Volcanic Ash Soils," *Global Environmental Research* 6(2) (allophane/humus high selectivity for divalent cations Ca²⁺/Mg²⁺).
 - McDaniel, P.A. & Wilson, M.A., USDA Forest Service RMRS-P-44 (2005) "Volcanic-ash-derived forest soils…" (ash-influenced ECEC ~8 cmolc/kg; "limited ability to store and exchange nutrient cations").
