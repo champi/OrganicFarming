@@ -619,7 +619,7 @@ The bacteria continue working in the soil.
 
 Arbuscular mycorrhizal fungi (AMF) form symbiotic relationships with ~80% of plant species. They extend the plant's root system via hyphal networks and can directly access phosphorus from bone particles.
 
-The critical study by Gerard & Tharayil (2021) [35] tested meat and bone meal (same hydroxyapatite chemistry) with different microbial combinations:
+The critical study by Jatana, Gerard & Tharayil (2021) [38] tested meat and bone meal (same hydroxyapatite chemistry) with different microbial combinations:
 
 | Treatment | P Mobilized from MBM | Plant P Uptake |
 |---|---|---|
@@ -634,7 +634,9 @@ The critical study by Gerard & Tharayil (2021) [35] tested meat and bone meal (s
 
 ### The Zwetsloot et al. (2016) Cornell Study
 
-> *"Bone char proved to be as effective as TSP (triple superphosphate) for P fertilization when maize was inoculated with AMF. Without AMF, bone char was significantly worse than TSP. With AMF, they were equal."* [37]
+> *"Bone char proved to be as effective for P fertilization as commercial TSP fertilizer in a highly P-fixing soil."* [39]
+
+Maize inoculated with AMF took up the same P from 750 °C bone char as from TSP. Without AMF (root hairs only), bone char was significantly worse than TSP.
 
 This is the most dramatic demonstration: **AMF turns bone char from an inferior fertilizer into one equal to commercial synthetic P.**
 
@@ -669,9 +671,69 @@ Option C: No-till organic management (long-term)
 
 CRITICAL: Never apply high-phosphorus soluble fertilizers
 alongside AMF — excess soluble P suppresses mycorrhizal colonization.
-Bone ash is ideal because its slow release doesn't trigger
-the plant's "I have enough P" signal that shuts down AMF symbiosis.
+Bone ash's slow release is unlikely to trigger the plant's
+"I have enough P" signal that shuts down AMF symbiosis
+(evidence in the next subsection).
 ```
+
+### Does Bone Ash Suppress AMF in the First Month? (Literature Review, Oct 2026)
+
+**Verdict: at small doses, very unlikely. It may even help.** No study has tested bone ash + vermicast + AMF in an Andisol. The closest evidence all points the same way.
+
+Bone ash is not free of soluble P: ~0.1–0.26% of its P dissolves in water and 13–23% in citric acid (§2). That is too little, too slowly, to switch the symbiosis off.
+
+**1. The plant controls the switch, and it reacts with a delay**
+- P suppresses AMF through the plant's **shoot P status**, not by acting on the fungus in the soil. Split-root petunia: high P on one half suppressed colonization on the other half. 0.5 mM phosphate in the feed halved colonization; 5–10 mM nearly abolished it [93]. Free phosphate in a P-fixing soil is usually <10 µM [104].
+- Strigolactones (root signals that attract AMF) drop under high P, but adding them back does not restore colonization [93]. Nitrogen starvation overrides P suppression [94].
+- High P blocks the fungus before it attaches to the root [95]. In already-colonized roots, suppression lags >1 week after a P pulse [93].
+- Colonization starts 3–12 days after contact (pepper, onion, cotton) [106]; arbuscules form 3–4 days after entry [107]. **Weeks 1–3 are the sensitive window.** The question is whether a *fast* P source sits in the root zone then. Bone ash is not one.
+
+**2. Slow calcium phosphates and colonization**
+
+| Study | Setup | AMF result |
+|---|---|---|
+| **Pel et al. 2018** [96] | *Plantago*, synthetic hydroxyapatite vs soluble phosphate, harvests every 3 weeks | *R. irregularis* in roots (qPCR) up to **~170× higher** in the early weeks with hydroxyapatite. Hyphae released P from apatite with only a 0.2-unit pH drop. Strongest direct sign that apatite *promotes* early fungal build-up. |
+| Zwetsloot et al. 2016 [39] | Maize, acid kaolinitic soil (pH 4.9, P sorption max 456 mg/kg), 750 °C bone char vs TSP at 43 mg P/kg, **5 weeks** | Colonization **the same** with no P, bone char or TSP. Pot pH unchanged by bone char. |
+| Graham & Timmer 1985 [97] | Citrus, peat-perlite | Rock phosphate supported normal colonization; superphosphate's early P flush suppressed it. |
+| Jatana et al. 2021 [38] | Maize, meat-and-bone meal, 40 days | High colonization with MBM + AMF; P uptake up. |
+| Nusantara et al. 2011 [98] | *Pueraria* in zeolite, bone meal 10–55 mg/pot (175 g) | Fine (<250 µm) at 25 mg: 75% vs 76% for liquid fertilizer at 6 weeks, 99% vs 98% at 12 weeks. Coarse (>500 µm) gave the lowest colonization *and* smallest plants (too little P). Spores 2–3× higher with bone meal. |
+| Chatterjee & Margenot 2023 [99] | Meta-analysis, 83 observations | Colonization under soluble P was *not* lower than under rock phosphate at pot-trial rates. Suppression needs high rates. |
+| Takács et al. 2006 [100] | Red clover, 5 rock phosphates vs SSP, up to 1,600 mg P₂O₅/kg | Colonization zero only at the highest SSP rate; arbuscules were more sensitive than colonization frequency. |
+| Treseder 2004 [101] | Meta-analysis, field | P fertilization cut AMF abundance ~32% on average. |
+
+Review consensus: slow-release P keeps tissue P below the threshold that inhibits AMF [102].
+
+**3. In Andisols the early risk runs the other way: too little P**
+- Jeju volcanic soil: rock phosphate *lowered* tomato colonization vs fused phosphate [103].
+- Trifoliate orange: ~60% colonization at 3–5 mg/kg available P, <30% below that [103]. Jeju citrus groves with >200 mg/kg available P also had <30% colonization. Both extremes hurt.
+- Andisol subsoil: soluble P gave *more* colonization than rock phosphate in cowpea and pigeon pea. A small starter P lets the plant build the symbiosis [105].
+- Chilean Andisols: partially acidulated rock phosphate + AMF gave the best P uptake, mycelium and spores [105].
+- An Andisol retains >85% of added P, so P released from the ash is grabbed quickly. That keeps solution P low, which protects the AMF and also limits how fast the seedling benefits.
+
+**4. Vermicast is the bigger P variable, and it still tends to help**
+- Olsen P in vermicompost ranges from ~25 to ~800 mg/kg depending on feedstock [108].
+- At 5–20% of the mix, vermicompost **raised** sorghum colonization, most in peat, although it raised extractable P from 14 to 714 mg/kg. Growth suffered: the fungus cost carbon the P-sufficient plant didn't need [109].
+- Mature compost reduced colonization in wheat and barley (7–23% vs 33–64% unamended) [110].
+- If something suppresses AMF early, a large volume of P-rich vermicast in the hole is a likelier cause than a few grams of ash.
+
+**5. Local alkalinity: minor**
+- Bone char raised a lab solution from pH 4 to 8.1 [111]. In soil, bulk pH rose only 0.05–0.07 units, with pH ~8 right next to particles (Morshedizad 2018, via [111]). At the Zwetsloot dose, pot pH didn't change [39].
+- Liming shifts AMF from *Acaulospora* toward *Glomus* but often raises total colonization [112]. In an acidic Andisol, slight local liming is neutral to positive (below pH 4.5, arbuscules collapse; §14).
+
+**6. Partners that help AMF dissolve the ash**
+- Hyphae-bound *Burkholderia* Ba8 released 129 mg P/L from hydroxyapatite in a lab medium [104].
+- AMF hyphae carry P-solubilizing bacteria to P patches in soil [104]. Vermicast supplies those bacteria.
+
+**Dose check.** The zucchini dose in §15 (15 g ash ≈ 2.4 g P in a 1–2 L ring) is roughly 50× Zwetsloot's per-kg rate. Only a few percent is labile in month 1, but this is where "small dose" deserves care. The ring placement (15–25 cm from the stem) helps: transplant roots barely reach it in weeks 1–3.
+
+**Open gaps:** no bone ash + vermicast + AMF + Andisol trial; no first-14-day P-release data for bone ash in Andisols; most results are short pot trials.
+
+**Practical rules for the first month**
+- Grind ash fine (<250 µm) and mix it through soil, not a pocket.
+- Inoculate AMF at the seed or roots, not in the ash ring.
+- Keep acidified slurries away from the plant for ~4 weeks.
+- Don't overload the hole with vermicast.
+- Run an Olsen P test: a bed already high in P from years of manure suppresses AMF far more than the ash.
 
 ---
 
@@ -1250,7 +1312,7 @@ These placement rules come from rock-phosphate and biowaste trials; no study has
 38. **Jatana, B.S., Kitchens, C., Ray, C., Gerard, P. & Tharayil, N. (2021)** — "Dual Inoculation With Arbuscular Mycorrhizal Fungi and Phosphorus Solubilizing Fungi Synergistically Enhances the Mobilization and Plant Uptake of Phosphorus From Meat and Bone Meal." *Frontiers in Soil Science*, 1: 757839. DOI: [10.3389/fsoil.2021.757839](https://doi.org/10.3389/fsoil.2021.757839)
     - P. bilaiae + AMF + MBM: highest tissue P uptake. P. bilaiae freed P from bone (2× more), AMF delivered it to plants. Complementary functional traits. AMF + MBM increased photosynthesis by 27% and root phosphatase activity by 40%.
 
-39. **Zwetsloot, M.J. et al. (2016)** — "Phosphorus availability from bone char in a P-fixing soil influenced by root-mycorrhizae-biochar interactions." *Plant and Soil*, 408: 95–105. DOI: [10.1007/s11104-016-2903-1](https://doi.org/10.1007/s11104-016-2903-1)
+39. **Zwetsloot, M.J. et al. (2016)** — "Phosphorus availability from bone char in a P-fixing soil influenced by root-mycorrhizae-biochar interactions." *Plant and Soil*, 408: 95–105. DOI: [10.1007/s11104-016-2905-2](https://doi.org/10.1007/s11104-016-2905-2)
     - *"Bone char proved to be as effective as TSP for P fertilization when maize was inoculated with AMF."* Without AMF, bone char was significantly worse than TSP. With AMF, they were equal.
 
 ### Organic Farming Context
@@ -1402,6 +1464,48 @@ These placement rules come from rock-phosphate and biowaste trials; no study has
 
 92. **Ghorbani, M. et al. (2026)** — "Sustainable resource management with bone char—challenges and opportunities for enhancing soil health and phosphorus stocks." *Biochar*. [Link](https://link.springer.com/article/10.1007/s42773-025-00550-3)
     - Best at 300–500 °C for nutrient release; could replace 13–32% of the global P fertilizer market.
+
+#### AMF in the first month (§11, Oct 2026)
+
+93. **Breuillin, F. et al. (2010)** — "Phosphate systemically inhibits development of arbuscular mycorrhiza in *Petunia hybrida* and represses genes involved in mycorrhizal functioning." *The Plant Journal*. DOI: [10.1111/j.1365-313x.2010.04385.x](https://doi.org/10.1111/j.1365-313x.2010.04385.x)
+
+94. **Nouri, E. et al. (2014)** — "Phosphorus and nitrogen regulate arbuscular mycorrhizal symbiosis in *Petunia hybrida*." *PLOS One*. [Link](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0090841). See also Nouri et al. (2021), GA signaling in P suppression, *Plant Cell Physiology*, DOI: [10.1093/pcp/pcab063](https://doi.org/10.1093/pcp/pcab063)
+
+95. **Balzergue, C. et al. (2011, 2013)** — Pea (*J. Exp. Bot.* 2011): high P blocks AM before hyphopodia form. *Medicago* (*Frontiers in Plant Science* 2013): "High phosphate reduces host ability to develop arbuscular mycorrhizal symbiosis without affecting root calcium spiking responses to the fungus." [PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3810610/)
+
+96. **Pel, R., Dupin, S., Schat, H., Ellers, J., Kiers, E.T. & van Straalen, N.M. (2018)** — "Growth benefits provided by different arbuscular mycorrhizal fungi to *Plantago lanceolata* depend on the form of available phosphorus." *European Journal of Soil Biology*, 88: 89–96. [Link](https://www.sciencedirect.com/science/article/abs/pii/S1164556318301353) · [PDF](https://research.vu.nl/ws/portalfiles/portal/78024369/Growth_benefits_provided_by_different_arbuscular_mycorrhizal_fungi_to_Plantago_lanceolata_depend_on_the_form_of_available_phosphorus.pdf)
+
+97. **Graham, J.H. & Timmer, L.W. (1985)** — "Rock phosphate as a source of phosphorus for vesicular-arbuscular mycorrhizal development and growth of citrus in a soilless medium." *JASHS*, 110(4): 489. DOI: [10.21273/jashs.110.4.489](https://doi.org/10.21273/jashs.110.4.489)
+
+98. **Nusantara, A.D. et al. (2011)** — "Performance of arbuscular mycorrhizal fungi and *Pueraria phaseoloides* fertilized by bone meal differing in size and dosage." *Media Peternakan*, 34(2): 126. DOI: 10.5398/medpet.2011.34.2.126. [Link](https://journal.ipb.ac.id/index.php/mediapeternakan/article/view/3380)
+
+99. **Chatterjee, N. & Margenot, A.J. (2023)** — "Crop growth is increased by arbuscular mycorrhizae for both phosphate rock and soluble phosphorus fertilizers, but fertilizer solubility primarily determines crop growth." *Biology and Fertility of Soils*. DOI: [10.1007/s00374-023-01751-3](https://doi.org/10.1007/s00374-023-01751-3)
+
+100. **Takács, T. et al. (2006)** — "Comparative effects of rock phosphates on arbuscular mycorrhizal colonization of *Trifolium pratense* L." *Communications in Soil Science and Plant Analysis*. DOI: [10.1080/00103620600832373](https://doi.org/10.1080/00103620600832373)
+
+101. **Treseder, K.K. (2004)** — "A meta-analysis of mycorrhizal responses to nitrogen, phosphorus, and atmospheric CO₂ in field studies." *New Phytologist*, 164(2): 347. [Summary](https://eco.confex.com/eco/2007/techprogram/P1283.HTM)
+
+102. **Grant, C. et al. (2005)** — "Soil and fertilizer phosphorus: effects on plant P supply and mycorrhizal development." *Canadian Journal of Plant Science*. [PDF](https://cdnsciencepub.com/doi/pdf/10.4141/P03-182)
+
+103. **Chung, J.-B. & Moon, D.-K. (1999)** — "Rock phosphate with mycorrhizae as P source for tomato plant in volcanic ash soil." [Link](http://koreascience.or.kr/article/ArticleFullRecord.jsp?cn=HGNHB8_1999_v18n3_287) · **Kang, S.-B. et al. (2000)** — trifoliate orange, P source and rate in volcanic ash soil. [Link](http://koreascience.or.kr/article/ArticleFullRecord.jsp?cn=HGNHB8_2000_v19n3_206)
+
+104. **Hyphosphere and AMF–apatite:** Taktek, S. et al. (2016), *Mycorrhiza*, DOI: [10.1007/s00572-016-0726-z](https://doi.org/10.1007/s00572-016-0726-z); Taktek et al. (2015), *Soil Biol. Biochem.*, [Link](https://www.sciencedirect.com/science/article/abs/pii/S0038071715002588); Jiang, F. et al. (2021), *New Phytologist*, DOI: [10.1111/nph.17081](https://doi.org/10.1111/nph.17081); Fiorilli/Bonfante group, GintPT (soil free Pi rarely >10 µM), [PDF](https://iris.unito.it/bitstream/2318/127411/1/1047895.pdf)
+
+105. **Andisol rock-phosphate studies:** Ahiabor, B.D.K. & Hirata, H. (2008), DOI: [10.4314/just.v27i3.33058](https://doi.org/10.4314/just.v27i3.33058); Rubio, R. et al. (2003), *Applied Soil Ecology* 23: 245, DOI: [10.1016/S0929-1393(03)00045-3](https://doi.org/10.1016/S0929-1393(03)00045-3); Borie, F. et al. (2019), *J. Soil Sci. Plant Nutr.*, DOI: [10.1007/s42729-019-00041-y](https://doi.org/10.1007/s42729-019-00041-y)
+
+106. **Afek, U. et al. (1990)** — "Mycorrhizal species, root age, and position of mycorrhizal inoculum influence colonization of cotton, onion, and pepper seedlings." *JASHS*, 115(6): 938. DOI: [10.21273/jashs.115.6.938](https://doi.org/10.21273/jashs.115.6.938)
+
+107. **Brundrett, M.C., Piché, Y. & Peterson, R.L. (1985)** — "A developmental study of the early stages in vesicular–arbuscular mycorrhiza formation." *Canadian Journal of Botany*. DOI: [10.1139/b85-021](https://doi.org/10.1139/b85-021)
+
+108. **Vermicompost Olsen P surveys (Ethiopia):** Emire, A. et al. (2024), DOI: [10.51483/ijagst.4.2.2024.47-57](https://doi.org/10.51483/ijagst.4.2.2024.47-57); Dube, B. et al. (2025), DOI: [10.11648/j.sjac.20251301.13](https://doi.org/10.11648/j.sjac.20251301.13)
+
+109. **Cavender, N.D., Atiyeh, R.M. & Knee, M. (2003)** — "Vermicompost stimulates mycorrhizal colonization of roots of *Sorghum bicolor* at the expense of plant growth." *Pedobiologia*, 47: 85–89. DOI: [10.1078/0031-4056-00172](https://doi.org/10.1078/0031-4056-00172)
+
+110. **AMF × frass, biochar and compost in wheat and barley (2025)** — *Science of the Total Environment*. [Link](https://www.sciencedirect.com/science/article/pii/S0048969725008654)
+
+111. **Biswas, P.P. et al. (2020)** — "Physico-chemical transformation of bone char for soil amendment." EGU 2020. DOI: [10.5194/egusphere-egu2020-8267](https://doi.org/10.5194/egusphere-egu2020-8267) · Morshedizad, M. et al. (2018), *SOIL*, 4: 23, [PDF](https://soil.copernicus.org/articles/4/23/2018/soil-4-23-2018.pdf)
+
+112. **Liming and AMF communities** — *Mycorrhiza* (2002), [Link](https://link.springer.com/article/10.1007/s00572-002-0185-6); long-term lime in pastures, [Link](https://research.usq.edu.au/item/q3q6z/arbuscular-mycorrhizal-fungal-diversity-in-perennial-pastures-responses-to-long-term-lime-application)
 
 ---
 
