@@ -23,7 +23,7 @@
 | Gypsum (*yeso agrícola*) | 10–20 g, **only if** Ca symptoms persist | pH-neutral, no P |
 | Wood ash (optional) | ≤30–40 g per season | Only if pH stays <6.9; ≥3 days from urine |
 
-**Bone-ash form:** Great White went in at sowing, so use **lightly acidified** bone ash (6–8% citric, ≤24 h) on ~Oct 21, in pockets separate from the biochar.
+**Bone-ash form:** Great White went in at sowing, so use **lightly acidified** bone ash (6–8% citric, ≤24 h; this primes the ash and adds root-zone citrate but dissolves <5% of its P — see bone-ash guide §8) on ~Oct 21, in pockets separate from the biochar.
 
 ## Calendar
 

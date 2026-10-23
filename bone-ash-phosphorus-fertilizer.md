@@ -6,6 +6,7 @@
 
 ## Table of Contents
 
+0. [Bottom Line: Good Amendment or Avoid?](#bottom-line-good-amendment-or-avoid-literature-review-oct-2026)
 1. [What Is Bone Ash?](#1-what-is-bone-ash)
 2. [Chemical Composition](#2-chemical-composition)
 3. [Bone Ash vs. Bone Char vs. Bone Meal](#3-bone-ash-vs-bone-char-vs-bone-meal)
@@ -23,6 +24,20 @@
 15. [Application Rates and Dosages](#15-application-rates-and-dosages)
 16. [Crop-Specific Recommendations](#16-crop-specific-recommendations)
 17. [Bibliography: All Studies and Papers](#17-bibliography-all-studies-and-papers)
+
+---
+
+## Bottom Line: Good Amendment or Avoid? (Literature Review, Oct 2026)
+
+**Don't avoid it, but don't rely on it.** Bone ash is a **clean, safe, renewable P + Ca source**, yet **the weakest P fertilizer of the bone products**, and a pH ~6.6 Andisol is close to its worst case.
+
+| Question | What the literature says |
+|---|---|
+| Is it clean? | **Yes.** Almost no Cd/U/Pb (phosphate rock carried 25 mg/kg Cd; bone ash/char below limits [6]). Bone-based fertilizers did not raise Cd or Pb in soil or wheat [91]. Bone char even immobilizes Cd [72]. Normal bone holds 400–1,200 ppm F vs 2–4% in phosphate rock. Full combustion leaves no carbon, so the PAH concern regulators raise is about bone *char*, not white ash. |
+| Is it effective? | **Poor to moderate.** Calcined bone = 54% of superphosphate yield on pasture [28]. Ranked **last** among bone products in Oxisols [58]. **No effect on beans in a P-fixing Andosol** (Nicaragua) [69]. Bone char dissolution was **not significant above soil pH 6.1** [68]; heat-treated bone helped at pH 4, not at pH 7 [57]. |
+| Better form of the same bones? | **Black char at 300–600 °C**, or bone meal. Char + AMF = TSP in a P-fixing soil [39]; 8 years of bone char raised available P 7× in acidic soils [71]. |
+| Organic status? | EU Annex II lists **bone meal only**; bone ash is not listed; bone char was **rejected** by EGTOP [74]. See §4. |
+| How to use it on the farm | Fine-ground, mixed 1:1 with vermicast, **mixed into a ring of root-zone soil** (not a pocket), with AMF, at ~2–4× crop P uptake, halved on repeat crops (§15). |
 
 ---
 
@@ -116,7 +131,7 @@ These are **different products** with different properties. Understanding the di
 ### EU Organic Regulation (2018/848)
 
 - **Bone meal** is explicitly listed as an authorized fertilizer in EU organic farming [8].
-- **Bone ash** produced by simple burning of animal bones is accepted as a natural mineral fertilizer. Brazilian organic legislation explicitly permits it [3].
+- **Bone ash is not listed** in Annex II of Reg. (EU) 2021/1165, which names only "bone meal or degelatinised bone meal". Ash from Category 2/3 animal by-products is allowed as a *conventional* fertilizer under the animal by-product rules [73], but that does not make it organic-approved. (Earlier versions of this guide said bone ash was "accepted" in the EU; that overstated it.) Brazilian organic legislation explicitly permits it [3].
 - **Bone char** was rejected by EGTOP (EU Expert Group for Technical Advice on Organic Production) for organic farming due to PAH formation during pyrolysis and because "non-pyrolysed bone meal and other permitted alternative P-fertilisers should be used in preference" [9].
 - **Sulfuric acid** is **prohibited** for fertilizer processing in EU organic agriculture [10].
 - **Citric acid** (natural, produced by fermentation) is **permitted** as it qualifies as a substance of microbial origin [10].
@@ -125,7 +140,7 @@ These are **different products** with different properties. Understanding the di
 ### USDA Organic (National Organic Program)
 
 - Natural (non-synthetic) substances are generally allowed.
-- Bone meal and bone-derived products from non-synthetic processing are permitted.
+- Bone meal and bone-derived products from non-synthetic processing are permitted. EGTOP reports that NOP treats bone char as non-synthetic [74]. Ash from *manure* burning is explicitly prohibited (§205.602); no ruling specific to bone ash was found, so ask your certifier.
 - Sulfuric acid is synthetic and **prohibited** for crop production.
 - Citric acid is **allowed** as a non-synthetic processing aid.
 
@@ -295,139 +310,103 @@ Ca₅(PO₄)₃(OH) + C₆H₈O₇ → Ca²⁺-citrate complexes (soluble) + H�
 (hydroxyapatite)   (citric acid)   (dissolved in solution)      (available P)
 ```
 
-### Exact Proportions (From Patent and Published Studies)
+### Correction: How Much Acid It Really Takes
 
-| Source | Citric Acid | Water Ratio | Bone:Solution | Time | Temp | P Recovery |
-|---|---|---|---|---|---|---|
-| Patent WO2014141021 [22] | 120–140 g/L (8.5–10% w/v) | ~1–1.4 L/kg bone | 117–126g acid / 1kg bone | 30h | RT | **80%+** |
-| Raniro et al. 2026 [10] | 12–15% w/w of feedstock | 1:1 to dry matter | — | 60 min + drying | RT | Max WEP at 15% |
-| Saleh et al. 2023 [23] | 2% w/v (standard test) | 1:100 | 1g:100ml | 1h shaking | RT | 82 g P/kg ash |
-| Robinson et al. 2023 [24] | 2% w/v (standard test) | 1:100 | 0.2g:20ml | 30 min | RT | Variable by material |
+> **Earlier versions of this section recommended 120–150 g citric acid per kg of bone ash and claimed "~80%+ of total P dissolves." That was wrong by roughly 7×.** The patent figure (WO2014141021 [15]) is for *fermented raw crushed bone* containing only **2.2–2.7% P**. Bone ash is ~16% P — about 6–7× more P (and Ca) per kg to dissolve.
 
-### Practical Recipe (Farm Scale)
+**Stoichiometry sets the ceiling.** Dissolving hydroxyapatite takes roughly **12 mol H⁺ per kg of bone ash**. At pH 3–4 each citric acid molecule gives up ~2 H⁺ usefully, so:
 
-#### Maximum Recovery
-
-```
-PER 1 KG OF BONE ASH (finely ground, <1mm):
-
-├── 120–150g citric acid powder (food grade)
-│   └── Start with 120g and test pH before adding more
-│
-├── 1–1.5 liters of water (~1:1 to 1:1.5 bone:water)
-│   └── Creates an 8.5–10% citric acid solution
-│   └── Patent WO2014141021 optimum: 8.5% = 120 g/L, 10% = 140 g/L [22]
-│
-├── Process:
-│   1. Dissolve citric acid in water FIRST
-│      └── Stir until completely dissolved
-│   2. SLOWLY add bone ash to acid solution
-│      └── IT WILL FIZZ (CO₂ release from CaCO₃ in ash)
-│      └── Add in small portions, stirring between
-│      └── Use a container 3× the final volume (foaming risk)
-│   3. Let react at room temperature (20–30°C)
-│      └── Minimum: 24 hours
-│      └── Optimal: 30–48 hours
-│      └── DO NOT exceed ~48h — patent yield DROPS after 2 days
-│           (87.4% at 2 days → 79.8% at 3 days) as P re-precipitates [22]
-│   4. Monitor pH (see schedule below)
-│   5. Stir 2–3 times per day to expose fresh surfaces
-│
-├── Result: Thick grey-white slurry (thick is expected at 1:1–1:1.5)
-│   ├── ~80%+ of total P dissolves into the liquid — patent WO2014141021 [22]
-│   ├── Some of this re-precipitates once in soil, so the immediately
-│   │   plant-available fraction is lower than the dissolved fraction
-│   └── Solid particles gain surface area + lower Ca/P ratio (slow release)
-│
-└── DO NOT STRAIN — apply the entire slurry
-    ├── The liquid gives immediate P availability
-    └── The solid provides season-long slow release
-```
-
-#### Lower Acid, Immediate Application (Budget Option)
-
-```
-PER 1 KG OF BONE ASH:
-
-├── 60–80g citric acid powder (6–8% w/w of bone ash)
-├── 1–1.5 liters water (~1:1 to 1:1.5 bone:water)
-├── React 24–48h maximum, then apply immediately
-│   └── Do NOT hold a weak-acid slurry for days — dissolved P
-│       re-precipitates once pH rises above 4 (Sica et al. 2025 [25])
-├── Stir daily
-├── Monitor pH — if it rises above 4, add more citric acid (10–20g)
-└── Result: gentler on soil life, less P dissolved than the maximum recipe, lower cost
-```
-
-#### Quick Reference (Scale-Up)
-
-| Bone Ash | Citric Acid | Water | Time | Good For |
-|---|---|---|---|---|
-| 100g | 12–15g | 100–150ml | 24–48h | Small garden, potted plants |
-| 500g | 60–75g | 0.5–0.75L | 24–48h | Raised bed treatment |
-| 1 kg | 120–150g | 1–1.5L | 24–48h | Standard batch |
-| 5 kg | 600–750g | 5–7.5L | 24–48h | Market garden prep |
-| 10 kg | 1.2–1.5 kg | 10–15L | 24–48h | Field preparation |
-
-### pH Monitoring
-
-**Required equipment:** pH test strips (range 0–6) or pH meter. A meter is unnecessary — cheap strips are sufficient.
-
-| pH Level | Status | Action |
-|---|---|---|
-| **> 7** | Alkaline — no P solubilization occurring | Add more citric acid |
-| **5–7** | Partial solubilization — slow | Add more acid, wait longer |
-| **4–5** | Moderate solubilization | Acceptable; extend time |
-| **3–4** | ✅ **OPTIMAL** — maximum P release | Maintain this range |
-| **< 2** | Excessive — may harm soil microbes | Dilute before soil application |
-
-> **Critical warning from Sica et al. (2025):** If pH rises above 4 during storage, dissolved P **re-precipitates** onto hydroxyapatite surfaces as less soluble calcium phosphates, undoing your work [25]. Monitor pH at 24h, 48h, and weekly if storing. If pH drifts up, add more acid.
-
-### When to Monitor pH
-
-pH is the one thing a recipe cannot predict. Bone ash CaCO₃ content varies with burn temperature and combustion completeness, so the same acid dose lands at different pH — Raniro et al. (2026) applied 15% citric acid and reached pH 4.03 on meat-and-bone meal but pH 5.16 on its biochar [10].
-
-**Measure at these points:**
-
-| When | Why |
+| Citric acid per kg bone ash | Max share of P that can dissolve |
 |---|---|
-| **Immediately after mixing** (10–30 min in, once fizzing stops) | The most important reading. Tells you whether you added enough acid for THIS batch. If pH > 4, add citric acid (10–20 g at a time) now, before the reaction stalls. |
-| **At 24 h** | Confirms the reaction is holding in the target window (pH 3–4). |
-| **At 48 h** | Final check before application. If pH has drifted above 4, add acid or apply immediately — do not hold. |
-| **Weekly, only if storing** | Re-precipitation risk window (Sica et al. 2025 [25]). Hold at pH ≤ 4, or apply promptly. |
+| 40–60 g (4–6%) | ~3–5% |
+| 120–150 g (12–15%) | ~10–18% |
+| 500 g | ~40–50% |
+| **1.1–1.2 kg** (≈ 1:1) | **~100% (theoretical)** |
+| 1–2 kg in dilute solution (the 2% lab test ratio, 1 g ash : 100 mL 2% CA = 2 g acid per g ash) | **~50–70% measured** [5, 7] |
 
-**When you can skip pH monitoring:**
+**Other hard limits from the literature:**
 
-- You are using the **budget option** AND applying the slurry **immediately** (within ~24 h) AND buffering it into compost/vermicompost where microbes take over. In this path the acid is not expected to fully dissolve P, so there is little stored soluble P to lose to re-precipitation.
-- You have **already characterized your bone ash source** (same bones, same burn method) and know from a prior batch exactly how much acid reaches pH 3–4. The first batch still needs monitoring.
+- **Calcium citrate solubility is only ~0.95 g/L.** In a thick slurry (1 L water per kg ash) it precipitates and coats the particles — the reaction stalls. Full dissolution needs **~10 L water per kg ash** (1–2% citric acid).
+- **Optimal pH is 2–3.** Between pH 3.25 and 4, dissolved Ca²⁺ inhibits further dissolution.
+- **Most P releases in the first 24 h; dissolved P peaks at ~2 days, then falls** as pH drifts up and P re-precipitates (patent Table XVI on bone: 83.6% at 30 h → 87.4% at 2 d → 79.8% at 3 d [15]; Sica 2025 [18]; Løes 2022 [20]).
+- **Under-acidification can be worse than none** — partial acidification decreased extractable P below the untreated control (Løes 2022 [20]).
 
-**Why monitoring beats a fixed acid weight:** under-acidification can leave you *worse* than doing nothing — incomplete acidification decreased extractable P versus an unacidified control by triggering apatite re-precipitation (Løes et al. 2022). The pH reading, not the recipe, tells you whether you've cleared that threshold.
+### What Matters More Than the Acid
 
-### Time-P Release Relationship
+1. **Burn temperature.** White ash (>700 °C, fully crystalline) is the *least* available form. Black char made at **450–700 °C**, or bone burned at ~300 °C, gives more plant-available P (Ahmed et al. 2021 [57]; dos Santos 2026 [58]; Dela Piccolla 2021 [9]). KNF says the same: black, not white [44].
+2. **Soil pH.** Bone beat triple superphosphate at soil pH 4 and had **no effect at pH 7** (Ahmed et al. 2021 [57]). At pH ~6.6 (Volcán) passive dissolution is slow.
+3. **Andisol P fixation cuts both ways.** High P retention acts as a sink that pulls the mineral into dissolving, but it also fixes any soluble P you add within days to weeks. Placement in the root zone matters more than solubility.
+4. **Soluble P ≠ uptake.** Organic-acid and bio-acidified products raised water-extractable P but **did not raise plant P uptake** in pot trials (Kopp et al. 2024 [59]; Raniro 2026 [16]). Only sulfuric/phosphoric acidulation reached superphosphate parity (de Castro 2026 [60]; Batista 2026 [61]); acidified meat-and-bone meal *placed* in the root zone gave high uptake (Sica 2024 [62]).
 
-Based on the bone char kinetics study (MDPI Soils, 2021) [26]:
+### Option A — Slow Release (Recommended Base)
 
-| Time | Cumulative P Release (% of eventually mobilized P) |
+Biology does the dissolving, at the root, where Andisol fixation can't intercept it first:
+
+- **Fine-ground ash or (better) black char**, mixed ~1:1 with vermicast, then **mixed into a ring of root-zone soil** 15–25 cm from the stem (not a concentrated pocket; see §15 placement).
+- **AMF inoculation** — mycorrhizae + bone char matched TSP in a P-fixing soil (Zwetsloot et al. 2016 [39]). AMF + P-solubilizing fungi (*Penicillium bilaiae*) act synergistically [38].
+- **P-solubilizing bacteria** if available — 450 °C bone char/ash + PSB beat single superphosphate (Saleh et al. 2026 [63]).
+- Optional **elemental sulfur** co-applied: sulfur-enriched bone char raised P recovery to 10–15% vs <3% for plain char (Zimmer et al. 2019 [64]).
+- **Citric acid optional, small:** ~0.4–0.6 g per plant. This is not meant to dissolve the ash (it dissolves <5% of the P); it matches the soil-citrate threshold (>2 mmol/kg soil ≈ 0.38 g citric acid per kg soil) above which citrate raises solution P and blocks Andisol sorption sites (Menezes-Blackburn et al. 2016 [65]). Citrate breaks down in hours to days.
+- **Keep biochar, wood ash and urine out of the bone-ash ring** — biochar lowered resin-P from bone char by 14–26% [39]; ash and aged urine (pH ~9) raise pH and re-precipitate P.
+
+### Option B — Fast Release (Rescue Dose)
+
+Citric acid **does** dissolve most of the P if you use enough of it, dilute enough. Use for P-deficiency signs (dull dark blue-green leaves, stunting) or peak demand (fruit set) — not as routine feeding.
+
+```
+PER 100 g OF BONE ASH (finely ground, <0.5 mm):
+
+├── 100–200 g citric acid (1–2 g acid per g ash)
+├── 5–10 L water (1–2% citric acid solution — must be dilute,
+│   or calcium citrate precipitates and stops the reaction)
+├── Add ash slowly to the dissolved acid (it fizzes; use a big container)
+├── Target pH 2–3. Stir a few times a day.
+├── React 24–48 h. Do NOT hold longer — dissolved P falls after ~2 days.
+├── Expect ~50–70% of the P dissolved (≈ 8–11 g P from 100 g ash)
+│   └── For scale: a zucchini plant takes up ~1 g P per season
+├── Dilute the liquid ~10× more before use, apply the same day
+├── Pour into a narrow band/pocket near active roots, away from the stem
+│   and from the AMF-inoculated core
+└── Cost: ~$0.30–0.60 per 100 g ash at $3.20/kg citric acid
+    (≈ $3–6 per kg ash, ≈ $20–40 per kg P dissolved)
+```
+
+**Caveats:**
+- In Volcán Andisol (P retention up to 83%), the fast P is a short window, not a lasting supply.
+- Not proven to beat the slow route for uptake [16, 59].
+- A pH 2–3 liquid can scorch roots and suppresses AMF; avoid within ~4 weeks of inoculation (citric acid at 5–10 mM/kg lowered AMF colonization [56]).
+- Keep ≥3 days apart from urine, wood ash and biochar applications.
+
+### Experimental (Untested on Bone Ash With Citric Acid)
+
+- **Mechanochemical co-grinding:** hydroxyapatite ground with **oxalic** acid at 1:0.9 gave 96–99% water-soluble P and chili yields 18% above TSP (Dabare et al. 2026 [66]). Grinding bone ash ~1:1 with citric acid and minimal water is a plausible analogue — jar-test water-soluble P and pH before field use.
+- **Citrate-modified hydroxyapatite** outperformed TSP in maize (Samavini et al. 2018 [67]).
+
+### Jar Test (Before Scaling Any Acid Recipe)
+
+1. Weigh 10 g ash into three jars with 0.5, 1 and 2 g citric acid, each in 0.5–1 L water.
+2. Read pH at 30 min, 24 h and 48 h with strips (0–6 range).
+3. Let settle; the jar where pH holds at 2–3 through 24 h is your ratio for that ash batch.
+4. Optional: compare the clear liquid in a cheap P (phosphate) aquarium/pool test kit.
+
+### What Changed in This Section
+
+| Old claim | Corrected |
 |---|---|
-| 2 hours | ~25–40% (rapid initial burst) |
-| 6 hours | ~40–55% |
-| 24 hours | **~52–82%** (majority released) |
-| 48 hours | ~70–90% |
-| 168 hours (7 days) | ~90–100% (approaching maximum) |
+| 120–150 g acid/kg ash dissolves ~80% of P | Dissolves ~10–18% at most; full dissolution needs ~1.1–1.2 kg/kg |
+| 1–1.5 L water per kg ash | ~10 L/kg needed; calcium citrate precipitates in thick slurries |
+| Optimal pH 3–4 | pH 2–3; Ca inhibits dissolution at 3.25–4 |
+| Patent 80%+ applies to bone ash | Patent feedstock was fermented raw bone, 2.2–2.7% P |
+| Budget 60–80 g/kg "dissolves less" | Dissolves ~5–8%; acts as a soil-citrate primer, not a solubilizer |
 
-> **First 24 hours** captures most of the available P. The 7-day gains in the table above come from a study that **replenished fresh acid daily** (MDPI Soils 2021 [26]) — in a static batch (no replenishment, as in the farm recipe), dissolved P instead **declines after ~2 days** as pH rises and P re-precipitates (patent WO2014141021 [22]). Hold a static batch ≤48 h unless you top up acid to keep pH ≤ 4.
+### Studies on Citric Acid and Bone Materials
 
-### Studies Supporting Citric Acid Treatment
-
-- **Patent WO2014141021** — *"Citric acid gave over 80% yields with both acid concentrations of 8.5% and 10%. Results show that citric acid and malic acid with concentrations of 8.5–10% (w/w) are excellent options to dissolve phosphorus from bone containing material."* [22]
-
-- **Raniro et al. (2026)** — Tested 0–15% citric acid on MBM, DSF, and their biochars. *"Citric acid and bioacidification treatments effectively increased feedstock WEP, offering a safer alternative to conventional sulfuric acid-acidulation."* At 15% CA on MBM: pH 4.03, WEP 18.7 g/kg. On MBM biochar: pH 5.16, WEP 16.8 g/kg [10].
-
-- **Kopp et al. (2023)** — Sulfuric acid acidification of meat and bone char increased P recovery from near zero to 6.5% of applied P (maize pot experiment). *"Acidification significantly increased plant growth and P uptake without affecting soil pH or heavy metal uptake."* [27]
-
-- **Saleh et al. (2023)** — Citric acid-soluble P from bone ash (BA-600): 82,040 mg P/kg. From bone char (BC-600): 67,273 mg P/kg. Bone ash released **more** citric-soluble P than bone char in standard extraction tests [23].
-
-- **Robinson & Leinweber (2023)** — Pyrolysis/incineration of bone increased citric acid-extractable P (% of total P) while decreasing water-soluble P. *"The data demonstrate scope for using pyrolysis to upgrade the P fertiliser value."* [24]
+- **Patent WO2014141021** — 8.5–10% citric/malic acid dissolved 80%+ of P from *fermented raw bone (2.2–2.7% P)* at 117–126 g acid per kg bone; yield peaked at 2 days [15].
+- **Raniro et al. (2026)** — 15% citric acid on MBM: pH 4.03, WEP 18.7 g/kg; on MBM biochar pH 5.16. WEP rose but the uptake benefit was not shown [16].
+- **Kopp et al. (2023)** — Sulfuric acid raised P recovery from meat-and-bone char to 6.5% of applied P [17].
+- **Saleh et al. (2023)** — Standard 2% citric test: BA-600 82 g P/kg, BC-600 67 g P/kg [5].
+- **Robinson & Leinweber (2023)** — Pyrolysis/incineration raise citric-extractable P while lowering water-soluble P [7].
+- **MDPI Soil Systems (2021)** — Kinetics with daily acid replenishment; in a static batch P declines after ~2 days [21].
 
 ---
 
@@ -546,6 +525,8 @@ The Wrocław University of Technology (Poland) research group has published exte
 
 This means for bone ash, you **must supply a carbon source** (molasses, sugar, compost extract) alongside the bacterial inoculum.
 
+> **Caution on the "ash" rows:** in the Wrocław papers, "ash" is **sewage-sludge ash**, not bone ash. Their bone results are for cooked poultry and fish bone, which dissolve far more easily than white calcined bone ash.
+
 ### Farm-Scale Biofertilizer Protocol
 
 ```
@@ -608,6 +589,27 @@ The bacteria continue working in the soil.
 - **Combined bacterial consortium** (*Bacillus megaterium + Pseudomonas putida*): Sojka et al. (2025) found dual consortia achieved the highest phosphate solubilization (824 mg P₂O₅/L) from mixed organic/inorganic substrates [36].
 
 - **Anaerobic fermentation pre-treatment**: Fermenting crushed bone for 3–7 days with microbial inoculants (lactic acid bacteria, silage inoculants) before acid treatment can **double** subsequent P recovery, because fermentation removes the protein matrix blocking acid access [22].
+
+### Can PSM Actually Dissolve Bone Ash? (Literature Review, Oct 2026)
+
+**In the lab, yes. In soil, the gain is small, and white ash in an Andisol is the hardest case.**
+
+| Finding | Source |
+|---|---|
+| In flasks with sugar, PSM dissolve ~10–60% of bone P (up to 85% for fish bone at low dose); P release tracks acid output and pH drop | [32, 33, 34] |
+| **Burn temperature decides it:** four *Penicillium* strains dissolved 11–39% of P from 450 °C char, but on 850 °C char only *P. bilaiae* worked (19%); the others ~2%, the same as uninoculated | [80] |
+| PSM need food: extra nutrients doubled P dissolved from bone in soil columns; soil carbon raised dissolution 34–48% and plant P uptake 29–55% | [33, 80] |
+| *P. bilaiae* alone doubled P freed from meat-and-bone meal but did **not** raise maize P; **with AMF** it gave the highest uptake | [38] |
+| 450 °C bone char/ash + *Enterobacter* beat SSP in calcareous soil | [63] |
+| Critical review: PSM mostly dissolve P for their own needs; field responses are often small or absent | [75] |
+| *P. bilaiae* across 461 US maize field trials: +1.8–3.5% yield | [76] |
+| **Andisols:** *Mortierella* failed to raise P uptake even with AMF and rock phosphate; fungal desorption of bound P was weakest in Andisols of all soil orders. A Chilean Andisol PSB trial was mixed-to-negative | [77, 78, 79] |
+
+**Takeaways:**
+- PSM are a helper to AMF, not a replacement for a P source. Always pair them with mycorrhizae.
+- Make **black char (~450–500 °C)** rather than white ash if microbes are to do the work.
+- Inoculate into vermicast or compost (carbon + ammonium), not bare soil.
+- Fungi (*P. bilaiae*, *Aspergillus niger*, *Penicillium* spp., *Mortierella*) produce stronger acids than bacteria. Great White contains PSB (*B. megaterium*, *Pseudomonas*, other *Bacillus*) at ~5×10⁵ CFU/g each, but no P-solubilizing fungi.
 
 ---
 
@@ -810,7 +812,8 @@ TRIPLE-ASH COMPLETE FERTILIZER PROTOCOL
 Phase 1 — Acid Treatment of Bone Ash (Days 1–2):
 ├── 1 kg bone ash (finely ground, <1mm)
 ├── 150–180g citric acid (increased ~25% to compensate for later biochar)
-│   └── Standard recipe is 120g; extra 30–60g for biochar buffering
+│   └── NOTE: at this dose only ~10–18% of the P dissolves — see §8 correction.
+│       This phase primes the ash; it does not fully solubilize it.
 ├── 1.5–2 L water (~1:1.5–1:2, keeps 8.5–10% concentration)
 ├── Dissolve citric acid in water FIRST, then slowly add bone ash
 ├── React 24–48h, stirring 2–3× daily
@@ -1032,6 +1035,7 @@ You don't need a 45–60-day worm bin. Mixing the slurry into **finished (mature
 
 ```
 1. ACID — 120–150 g citric acid per 1 kg bone ash (in 1–1.5 L water), pH 3–4, 24–48 h
+   └── dissolves only ~10–18% of P (see §8); full dissolution needs ~1.1–1.2 kg acid in ~10 L
 2. BIOCHAR (after acid) — 200–500 g biochar per kg bone ash (1:5 to 1:2)
 3. VERMICAST — mix into finished vermicast at ~1:5–1:10 (slurry:vermicast by volume),
    OR into a vermicomposting bed where bone ash ≈ 5–10% and biochar ≈ 5% of dry feedstock
@@ -1054,6 +1058,27 @@ You don't need a 45–60-day worm bin. Mixing the slurry into **finished (mature
 | **Pastures/forages** | 500–1,100 kg/ha | 1,250–2,750 L slurry/ha | 30–50 t vermicompost/ha |
 | **Fruit trees** (per tree) | 200–500g/tree | 0.5–1 L slurry/tree | 5–10 kg compost/tree |
 | **Soil building (fallow)** | 2,000–5,000 kg/ha | 5,000–12,500 L slurry/ha | 50–100 t vermicompost/ha |
+
+### Per-Plant Dose, Ratio and Placement (Literature Review, Oct 2026)
+
+**Dose: about 2–4× the crop's P uptake, as ash at ~16% P.** On a P-fixing Andisol some surplus is needed, but more is wasted:
+- In a six-year trial, meat-and-bone meal at 45 kg P/ha/yr matched TSP with ~36% P use. At 68–90 kg P/ha/yr, use fell to 15–21% and **189–328 kg P/ha** accumulated unused in the soil [30].
+- Bone P keeps releasing for years (5–28% in year 1, ~63% by year 2, 69–87% by year 3, Ylivainio 2008 via [30]), and residual P was best in soil below pH 6 [70]. Last season's dose is still working.
+- **Avoid "P bank-building"** (dosing well above crop removal every season): returns drop, high soil P suppresses mycorrhizae, excess P can induce zinc deficiency, and P on eroded soil feeds streams.
+- **Practical rule:** full dose on the first crop in a bed, **about half on repeat crops** in the same bed, and a soil P test (Olsen or Mehlich-3) every 1–2 years. Skip a cycle if P tests medium–high.
+- Example, zucchini: 15 g ash ≈ 2.4 g P ≈ 2.7× the ~0.9 g a plant takes up.
+
+**Ratio with vermicast: 1:1 to 1:2 (ash : vermicast) is supported.** Rock phosphate : compost at 50:50 gave the best chickpea nodulation, growth and yield among 0:100 to 100:0 [83]. The mix that maximized bacterial P dissolution was ~59% vermicompost : 35% rock phosphate : 6% sulfur [84].
+
+**Placement depends on how soluble the product is:**
+
+| Product | Placement | Why |
+|---|---|---|
+| **Raw or lightly acidified bone ash** (+ vermicast) | **Mix into a ring of root-zone soil** (e.g. 1–2 L of soil per plant, 15–25 cm from the stem, 5–10 cm deep). Not a concentrated pocket. | Insoluble Ca-phosphates dissolve faster when mixed through soil: Ca, P and OH⁻ build up around concentrated particles and stall the reaction [81, 82]. Dissolution needs soil acidity and the soil's P-sorption "sink" [68]. Bone ash is alkaline (pH ~10), so a pocket raises local pH. Placing *untreated* bone meal gave no uptake benefit [87]; low-solubility biowastes placed in a spot drew roots but did not raise uptake (Lemming 2016, via [86]). |
+| **Acidified fast-P dose** (§8 Option B) | **Narrow pocket or band near active roots** | Placement helps soluble P by limiting fixation [85]; placed acidified MBM gave high P uptake [62]. |
+| **Biochar + vermicast** | **Pockets**, mixed with the hole's soil (~5–25% biochar by volume), 10–20 cm from the stem; separate from bone ash | Root-zone hotspots of nutrient-loaded biochar gave the most consistent cabbage yield gain (+21%) [88]; spot and ring beat broadcast for cowpea [89]. Wood biochar cut bone-char P by 14–26% [39]. Fresh urine-charged biochar can create an ammonium/salt zone, as placed MBM did [86], so keep it off the stem. |
+
+These placement rules come from rock-phosphate and biowaste trials; no study has compared bone-ash pocket vs ring placement in an Andisol.
 
 ### Liquid Biofertilizer Application Rates
 
@@ -1146,7 +1171,7 @@ You don't need a 45–60-day worm bin. Mixing the slurry into **finished (mature
 ### Acid Treatment of Bone Materials
 
 15. **Patent WO2014141021 (2014)** — "Method for recovering phosphorus from organic materials." [Link](https://patents.google.com/patent/WO2014141021A1/en)
-    - Citric acid at 8.5–10% (120–140g/L) achieved 80%+ P recovery from crushed bone. Tartaric acid achieved nearly 100%. Optimal pH 2–3, time 30h at room temperature.
+    - Citric acid at 8.5–10% (120–140g/L) achieved 80%+ P recovery from *fermented raw crushed bone (2.2–2.7% P)* — not bone ash (~16% P); see §8. Tartaric acid achieved nearly 100%. Optimal pH 2–3, time 30h at room temperature.
 
 16. **Raniro, H.R. et al. (2026)** — "Impacts of (bio)acidification with citric acid or anaerobic fermentation on phosphorus recycling." *Journal of Material Cycles and Waste Management*. DOI: [10.1007/s10163-026-02629-w](https://doi.org/10.1007/s10163-026-02629-w)
     - 0–15% citric acid on MBM, DSF, and biochars. 15% CA on MBM: pH 4.03, WEP 18.7 g/kg. Biochars more resistant (needed higher acid). H₂SO₄ prohibited in EU organic farming; citric acid is the organic-compliant alternative.
@@ -1222,7 +1247,7 @@ You don't need a 45–60-day worm bin. Mixing the slurry into **finished (mature
 
 ### Mycorrhizal Integration
 
-38. **Gerard, P. & Tharayil, N. (2021)** — "Dual Inoculation With Arbuscular Mycorrhizal Fungi and Phosphorus Solubilizing Fungi Synergistically Enhances the Mobilization and Plant Uptake of Phosphorus From Meat and Bone Meal." *Frontiers in Soil Science*, 1: 757839. DOI: [10.3389/fsoil.2021.757839](https://doi.org/10.3389/fsoil.2021.757839)
+38. **Jatana, B.S., Kitchens, C., Ray, C., Gerard, P. & Tharayil, N. (2021)** — "Dual Inoculation With Arbuscular Mycorrhizal Fungi and Phosphorus Solubilizing Fungi Synergistically Enhances the Mobilization and Plant Uptake of Phosphorus From Meat and Bone Meal." *Frontiers in Soil Science*, 1: 757839. DOI: [10.3389/fsoil.2021.757839](https://doi.org/10.3389/fsoil.2021.757839)
     - P. bilaiae + AMF + MBM: highest tissue P uptake. P. bilaiae freed P from bone (2× more), AMF delivered it to plants. Complementary functional traits. AMF + MBM increased photosynthesis by 27% and root phosphatase activity by 40%.
 
 39. **Zwetsloot, M.J. et al. (2016)** — "Phosphorus availability from bone char in a P-fixing soil influenced by root-mycorrhizae-biochar interactions." *Plant and Soil*, 408: 95–105. DOI: [10.1007/s11104-016-2903-1](https://doi.org/10.1007/s11104-016-2903-1)
@@ -1284,6 +1309,100 @@ You don't need a 45–60-day worm bin. Mixing the slurry into **finished (mature
 56. **Qiu, L. et al. (2021)** — "Citric acid and AMF Inoculation Combination Assisted phytoextraction of vanadium (V) by Medicago Sativa in V Mining Contaminated Soil." *Research Square*. DOI: [10.21203/rs.3.rs-162211/v1](https://doi.org/10.21203/rs.3.rs-162211/v1)
     - Citric acid at 5–10 mM/kg significantly decreased AMF colonization but did NOT eliminate it. Combined CA + AMF still improved plant dry weight (31–73%) and P content (37–122%). The combination was more effective than either treatment alone.
 
+### Burn Temperature, Soil pH and Uptake (added 2026-10)
+
+57. **Ahmed, Nigussie & Sato (2021)** — Bone processing temperature and soil pH effects on P availability. *Soil Science and Plant Nutrition*. DOI: [10.1080/00380768.2021.1945403](https://doi.org/10.1080/00380768.2021.1945403)
+    - >700 °C combustion least available; bone beat TSP at soil pH 4, no effect at pH 7.
+
+58. **dos Santos (2026)** — *PhD Thesis*, Universidade de São Paulo. DOI: [10.11606/t.11.2026.tde-18092026-140500](https://doi.org/10.11606/t.11.2026.tde-18092026-140500)
+    - In Oxisols bone ash performed worst, bone char best.
+
+59. **Kopp, C. et al. (2024)** — *Journal of Plant Nutrition and Soil Science*. DOI: [10.1002/jpln.202300404](https://doi.org/10.1002/jpln.202300404)
+    - Acidification raised water-soluble P but not plant uptake.
+
+60. **de Castro et al. (2026)** — *Biomass and Bioenergy*. DOI: [10.1016/j.biombioe.2026.108983](https://doi.org/10.1016/j.biombioe.2026.108983)
+    - Mineral-acid acidulated bone product ≈ TSP.
+
+61. **Batista et al. (2026)** — *Biocatalysis and Agricultural Biotechnology*. DOI: [10.1016/j.bcab.2026.104274](https://doi.org/10.1016/j.bcab.2026.104274)
+    - Acidulated bone product ≈ SSP.
+
+62. **Sica, P. et al. (2024)** — "Placement and acidification of biowastes: potential strategies for..." [Link](https://researchprofiles.ku.dk/en/publications/placement-and-acidification-of-biowastes-potential-strategies-for/)
+    - Acidified MBM placed in the root zone → high wheat P uptake.
+
+63. **Saleh et al. (2026)** — *Journal of Soil Science and Plant Nutrition*. [Link](https://link.springer.com/article/10.1007/s42729-026-03424-0)
+    - 450 °C bone char/ash + P-solubilizing bacteria beat SSP.
+
+64. **Zimmer, D. et al. (2019)** — Sulfur-enriched bone char. *Agriculture*, 9(1): 21. [Link](https://www.mdpi.com/2077-0472/9/1/21)
+    - P recovery 10–15% vs <3% for plain bone char.
+
+65. **Menezes-Blackburn, D. et al. (2016)** — "Organic acids regulation of chemical–microbial phosphorus transformations in soils." [Link](https://repository.rothamsted.ac.uk/item/8v388/organic-acids-regulation-of-chemical-microbial-phosphorus-transformations-in-soils)
+    - Citrate above ~2 mmol/kg soil raises solution P.
+
+66. **Dabare et al. (2026)** — Mechanochemical activation of hydroxyapatite with oxalic acid. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12989950/)
+    - 1:0.9 co-grind → 96–99% water-soluble P; chili +18% vs TSP.
+
+67. **Samavini, R. et al. (2018)** — Citric-acid-modified hydroxyapatite nanoparticles as a P fertilizer. *Journal of Agricultural and Food Chemistry*. DOI: [10.1021/acs.jafc.7b05544](https://doi.org/10.1021/acs.jafc.7b05544)
+    - Citrate-HAP outperformed TSP in maize.
+
+### Overall Verdict, PSM and Placement (added 2026-10)
+
+68. **Warren, G.P., Robinson, J.S. & Someus, E. (2009)** — "Dissolution of phosphorus from animal bone char in 12 soils." *Nutrient Cycling in Agroecosystems*, 84: 167–178. DOI: [10.1007/s10705-008-9235-6](https://doi.org/10.1007/s10705-008-9235-6)
+    - 0–73% dissolved in 145 d; no significant dissolution above pH 6.1; dissolution rises with soil P sorption.
+
+69. **Browaldh, M. (1992)** — "Influence of organic and inorganic fertilizers on common bean grown in a P-fixing Mollic Andosol." *Biological Agriculture & Horticulture*. DOI: [10.1080/01448765.1992.9754619](https://doi.org/10.1080/01448765.1992.9754619)
+    - Nicaraguan Andosol: bone ash had no major effect; compost and chicken manure beat TSP.
+
+70. **Bøen, A. & Haraldsen, T.K. (2013)** — "Meat and bone meal and biosolids as slow-release phosphorus fertilizers." *Agricultural and Food Science*. DOI: [10.23986/afsci.7498](https://doi.org/10.23986/afsci.7498)
+    - Bone-rich MBM supplied P into year 3 only in soil below pH 6.
+
+71. **Wakweya, T. et al. (2021)** — "Long-term effects of bone char and lignocellulosic biochar-based soil amendments on phosphorus adsorption–desorption and crop yield in low-input acidic soils." *Soil Use and Management*. DOI: [10.1111/sum.12757](https://doi.org/10.1111/sum.12757)
+    - 8 years: available P 7× control; +1.7 t/ha maize.
+
+72. **Siebers, N. & Leinweber, P. (2013)** — "Bone char: a clean and renewable phosphorus fertilizer with cadmium immobilization capability." *Journal of Environmental Quality*. DOI: [10.2134/jeq2012.0363](https://doi.org/10.2134/jeq2012.0363)
+
+73. **EFSA BIOHAZ Panel (2025)** — "Effect of incineration, co-incineration and combustion on TSE hazards in category 1 animal by-products." *EFSA Journal*. DOI: [10.2903/j.efsa.2025.9435](https://doi.org/10.2903/j.efsa.2025.9435)
+
+74. **EGTOP (2022)** — Final Report on Plant Protection (VII) and Fertilisers (V). European Commission. [PDF](https://agriculture.ec.europa.eu/system/files/2022-08/egtop-report-fertilisers-v-and-ppp-vii_en_0.pdf)
+    - Bone charcoal not recommended for organic farming; bone meal preferred.
+
+75. **Raymond, N.S. et al. (2021)** — "Phosphate-solubilising microorganisms for improved crop productivity: a critical assessment." *New Phytologist*, 229: 1268–1277. DOI: [10.1111/nph.16924](https://doi.org/10.1111/nph.16924)
+
+76. **Leggett, M. et al. (2015)** — "Maize yield response to a phosphorus-solubilizing microbial inoculant in field trials." *Journal of Agricultural Science*. DOI: [10.1017/s0021859614001166](https://doi.org/10.1017/s0021859614001166)
+
+77. **Osorio, N.W. (2008)** — "Effectiveness of microbial solubilization of phosphate in enhancing plant phosphate uptake in tropical soils." *PhD thesis*, University of Hawaii. [Handle](http://hdl.handle.net/10125/20389)
+
+78. **Osorio, N.W. & Habte, M. (2013)** — "Soil phosphate desorption induced by a phosphate-solubilizing fungus." *Communications in Soil Science and Plant Analysis*. DOI: [10.1080/00103624.2013.870190](https://doi.org/10.1080/00103624.2013.870190)
+
+79. **Delfim, J. et al. (2018)** — "Phosphorus availability in wheat, in volcanic soils inoculated with phosphate-solubilizing *Bacillus thuringiensis*." *Sustainability*, 10(1): 144. DOI: [10.3390/su10010144](https://doi.org/10.3390/su10010144)
+
+80. **Ahmed Yasin, M. (Milkiyas)** — "Enhancing phosphorus solubility and bioavailability from animal bone: effects of thermochemical and biological treatments." *PhD thesis*, Soka University. [Link](https://soka.repo.nii.ac.jp/records/40750)
+
+81. **Kanabo, I.A.K. & Gilkes, R.J.** — "A comparison of mixed and band applications on the dissolution of North Carolina phosphate rock and on bicarbonate-soluble soil phosphorus." [Link](https://discovery.researcher.life/article/a-comparison-of-mixed-and-band-applications-on-the-dissolution-of-north-carolina-phosphate-rock-and-on-bicarbonate-soluble-soil-phosphorus/63dae2ed1adb3460906b103fb0e51bee)
+
+82. **FAO (2004)** — *Use of Phosphate Rocks for Sustainable Agriculture*, management practices. [Link](https://www.fao.org/4/y5053e/y5053e0a.htm)
+    - Phosphate rock should preferably be broadcast and incorporated for maximum effectiveness.
+
+83. **Ditta, A. et al. (2017)** — "Application of rock phosphate enriched composts increases nodulation, growth and yield of chickpea." *International Journal of Recycling of Organic Waste in Agriculture*. DOI: [10.1007/s40093-017-0187-1](https://doi.org/10.1007/s40093-017-0187-1)
+
+84. **Barin, M. et al. (2022)** — "Optimization of biofertilizer formulation for phosphorus solubilizing by *Pseudomonas fluorescens* Ur21." *Processes*, 10: 650. DOI: [10.3390/pr10040650](https://doi.org/10.3390/pr10040650)
+
+85. **Nkebiwe, P.M. et al. (2016)** — "Fertilizer placement to improve crop nutrient acquisition and yield: a review and meta-analysis." *Field Crops Research*. [PDF](https://www.liqui-grow.com/wp-content/uploads/2016/12/Fertlizer-Placment-To-Improve-Crop-Nutrient-Aquisition-and-Yield-A-Review-and-Meta_analysis-2016.pdf)
+
+86. **Sica, P., Müller-Stöver, D. & Magid, J. (2025)** — "Enhancing the fertilizer value of recycled phosphorus for horticulture crops through acidification and placement." *Journal of Plant Nutrition and Soil Science*. DOI: [10.1002/jpln.202300456](https://doi.org/10.1002/jpln.202300456)
+
+87. **Raniro, H.R., Magid, J. & Müller-Stöver, D.S. (2026)** — "Waste (bio)acidification and placement strategies for phosphorus recycling in maize." *Waste and Biomass Valorization*. [Link](https://link.springer.com/article/10.1007/s12649-026-03756-z)
+
+88. **Grafmüller, J. et al. (2022)** — "Root-zone amendments of biochar-based fertilizers: yield increases of white cabbage in temperate climate." *Horticulturae*, 8(4): 307. DOI: [10.3390/horticulturae8040307](https://doi.org/10.3390/horticulturae8040307)
+
+89. **Yeboah, E. et al. (2020)** — "Method of biochar application affects growth, yield and nutrient uptake of cowpea." *Open Agriculture*. DOI: [10.1515/opag-2020-0040](https://doi.org/10.1515/opag-2020-0040)
+
+90. **Talboys, P.J. et al. (2016)** — "Struvite: a slow-release fertiliser for sustainable phosphorus management?" *Plant and Soil*. [PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4923718/)
+
+91. **Jastrzębska, M. et al. (2018)** — "New phosphorus biofertilizers from renewable raw materials in the aspect of cadmium and lead contents in soil and plants." *Open Chemistry*. DOI: [10.1515/chem-2018-0004](https://doi.org/10.1515/chem-2018-0004)
+
+92. **Ghorbani, M. et al. (2026)** — "Sustainable resource management with bone char—challenges and opportunities for enhancing soil health and phosphorus stocks." *Biochar*. [Link](https://link.springer.com/article/10.1007/s42773-025-00550-3)
+    - Best at 300–500 °C for nutrient release; could replace 13–32% of the global P fertilizer market.
+
 ---
 
 ## Appendix A: Quick Decision Guide
@@ -1304,8 +1423,8 @@ You don't need a 45–60-day worm bin. Mixing the slurry into **finished (mature
 │  └── NO  → Use Method 3 (citric acid) or Method 5 (microbe) │
 │                                                             │
 │  Q: Do I need FAST phosphorus (this season)?                │
-│  ├── YES → Use citric acid treatment (Method 3)             │
-│  │         10–20% of P available within 1–2 weeks           │
+│  ├── YES → Citric acid fast-release dose (§8, Option B)     │
+│  │         1–2 g acid per g ash, dilute; ~50–70% of P       │
 │  └── NO  → Use vermicomposting (Method 2) or direct soil    │
 │            80%+ of P available over months/years            │
 │                                                             │
@@ -1351,13 +1470,14 @@ You don't need a 45–60-day worm bin. Mixing the slurry into **finished (mature
 2. **Citric acid is an irritant** — Wear gloves and eye protection. Avoid inhaling powder.
 3. **Acid + bone ash reaction produces CO₂** — Use containers with headspace (3× volume). Do NOT seal tightly during active reaction — pressure can build up.
 4. **Vinegar/acetic acid fumes** — Work in a ventilated area. Avoid breathing concentrated vapors.
-5. **BSE/TSE risk** — Use bones from healthy animals. Calcination at 600°C+ effectively eliminates prion risk. EU Category 3 material (fit for human consumption at point of slaughter) is the standard for fertilizer use.
+5. **BSE/TSE risk** — Use bones from healthy slaughter animals only, never brain or spinal cord. BSE transmissibility was lost after 600 °C+ for 20 min, but EFSA (2025) says residual prions in ash cannot be excluded with >99% certainty even under industrial incineration rules [73]. Burn hot and long. EU Category 3 material (fit for human consumption at point of slaughter) is the standard for fertilizer use.
 6. **Heavy metals** — Bone ash has very low heavy metal content compared to rock phosphate, but source from known-origin animals. Avoid bones from animals potentially exposed to lead shot or industrial contaminants.
 7. **Soil pH monitoring** — After applying acid-treated bone ash, test soil pH after 1–2 weeks. While studies show treated materials do NOT significantly acidify soil long-term, the application zone may be temporarily acidic.
 8. **Pathogens** — Properly calcined bone ash (>600°C) is sterile. Raw or low-temperature bone meal may contain pathogens — ensure proper heat treatment.
+9. **Burning emissions** — No bone-specific data were found, but open burning in general emits PAHs and dioxins (EEA guidebook). A hot, well-aired fire or a retort beats a smouldering pile. Never burn plastics or treated wood in the same fire.
 
 ---
 
-*This document was compiled from 56+ peer-reviewed studies, patents, and practical resources. All cited works are listed in the Bibliography. Last updated: July 2026.*
+*This document was compiled from 90+ peer-reviewed studies, patents, and practical resources. All cited works are listed in the Bibliography. Last updated: October 2026.*
 
 *Contributions, corrections, and additional references are welcome via pull requests.*

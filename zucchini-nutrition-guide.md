@@ -119,9 +119,11 @@ Growth is slow until ~27 days after transplant, then 79% of the dry mass is buil
 | Low (if a test shows it) | 134 kg P₂O₅/ha ≈ 5.9 g P | ~35 g |
 | High | 45 kg P₂O₅/ha | ~10 g, or skip |
 
+**Repeat crops in the same bed:** bone P keeps releasing for 2–3 years (~5–28% in year 1, ~63% by year 2, 69–87% by year 3; Ylivainio 2008 via Nogalska 2022), so use **about half the dose (~7–8 g)** on the next crop, and soil-test P (Olsen or Mehlich-3) every 1–2 years. Skip bone ash for a cycle if P tests medium–high. In a six-year trial, dosing well above crop removal (68–90 kg P/ha/yr vs 45) dropped P use from 36% to 15–21% and left 189–328 kg P/ha unused in the soil (Nogalska 2022).
+
 **Why lower with AMF:** in squash and pumpkin, mycorrhizal colonization peaked at *moderate* P. Summer squash peaked at 54% colonization with 50 kg/ha P fertilizer (BASU trial). Pumpkin colonization peaked at **25% of the recommended P rate**. The plants also already have three P sources: struvite in the charged biochar, ~0.5–0.7 g P from the season's urine, and vermicast.
 
-**How (AMF-friendly version):** use the bone-ash guide's **budget recipe**. For each 100 g of bone ash, use 6–8 g citric acid in 100–150 mL water. React ~24 h (P is only *partly* dissolved), then mix into finished vermicast (1:5–1:10 v/v) and **apply the same day**. Don't let it sit: dissolved P re-precipitates as pH rises, and the vermicast's humic/fulvic acids protect it best when it goes straight into the soil (bone-ash guide §8 budget option, §14). Bury it in 2–3 pockets **20–25 cm from the stem** (the outer edge of the root zone, where hyphae forage), 3–5 cm deep. **Apply once**, ≥4 weeks after the plant was inoculated and before ~40 DAS (timing logic in §7). Give an optional half-dose at first fruit set only if leaves show P deficiency (dull, dark blue-green, small).
+**How (AMF-friendly version):** use the bone-ash guide's **budget recipe**. For each 100 g of bone ash, use 6–8 g citric acid in 100–150 mL water. React ~24 h (P is only *partly* dissolved), then mix with about the same volume of vermicast (**1:1 to 1:2 ash:vermicast**; rock phosphate : compost at 50:50 performed best in Ditta et al. 2017) and **apply the same day**. Don't let it sit: dissolved P re-precipitates as pH rises (bone-ash guide §8, §14). **Mix it into a ring of soil** (~1–2 L of soil per plant) **15–25 cm from the stem** (the outer root zone, where hyphae forage), 5–10 cm deep. Don't bury it as a concentrated pocket: slowly dissolving calcium phosphates dissolve faster when spread through soil, because Ca and P build up around clumped particles and stall the reaction (Kanabo & Gilkes; FAO 2004), and alkaline ash in a pocket raises the local pH (bone-ash guide §15 placement). **Apply once**, ≥4 weeks after the plant was inoculated and before ~40 DAS (timing logic in §7). Give an optional half-dose at first fruit set only if leaves show P deficiency (dull, dark blue-green, small).
 
 ---
 
@@ -134,10 +136,12 @@ Growth is slow until ~27 days after transplant, then 79% of the dry mass is buil
 | Crop uptake (9.3 g K × 1.2) | **~11** |
 | UGA squash rec., medium K soil (90 lb/acre) | ~10 |
 | Urine supplies (1.5 L × ~1.6 g K₂O/L, Rich Earth) | ~2.4 |
-| Vermicast + soil (Chiriquí highlands rated *medium* K; Lorenzo 2013) | unknown, partial |
-| **Gap to cover** | **~6–8 g K₂O** |
+| Vermicast + soil (Río Sereno/Caisán rated *medium* K, Lorenzo 2013; Cerro Punta farms rated *high* K, 210–567 mg/L, Herrera et al. 2021) | unknown — could cover most of the gap |
+| **Gap to cover** | **~6–8 g K₂O if soil K is low/medium; possibly ~0 if high** |
 
-Why it matters: **urine-only pumpkins grew big vines but set less fruit**, which the authors attributed to low K or high chloride (Pradhan et al. 2009). Adding wood ash to urine fixed this in the same group's tomato trial (Pradhan et al. 2010). Also, K is the only nutrient that correlated with growth in Cerro Punta vegetable trials (Ohiaeri 2025).
+Why it matters: **urine-only pumpkins grew big vines but set less fruit**, which the authors attributed to low K or high chloride (Pradhan et al. 2009). Adding wood ash to urine fixed this in the same group's tomato trial (Pradhan et al. 2010).
+
+**Soil test first.** The Cerro Punta lab data (IDIAP; farms heavily manured with chicken manure) rated K *high* at all five sites, so SOP fills a real gap only if your plot tests low or medium in K. If it tests high, urine + vermicast may be enough and SOP becomes optional. (A Cerro Punta preprint, Ohiaeri 2025, found soil K correlated with potato plant count, r = 0.70, but it used a home colorimetric kit on 10 plots per crop, so treat it as weak evidence.)
 
 ### Options compared
 
@@ -230,7 +234,8 @@ Ca moves only in the transpiration stream (xylem), so it goes where water goes:
 | Urine + bone-ash slurry | **≥3 days apart.** Aged urine (pH 9) neutralizes the acid and re-precipitates the P; the acid dissolves the urine's struvite. |
 | Urine + wood ash | **≥3 days apart.** Ash raises pH, so ammonia is lost. |
 | Urine + SOP | Same day is fine |
-| Bone-ash slurry + roots/AMF | Never raw (pH 3). Mix into vermicast first (apply the same day), and place it at the root-zone edge, not on the inoculated core. |
+| Bone-ash slurry + roots/AMF | Never raw (pH 3). Mix into vermicast first (apply the same day), and mix it into a ring of soil at the root-zone edge, not on the inoculated core. |
+| Placement by product | **Slow bone ash + vermicast:** mixed into a soil ring (insoluble Ca-P dissolves better spread through soil). **Acidified fast-P dose:** narrow pocket near active roots (placement helps soluble P). **Charged biochar + vermicast:** pockets mixed with the hole's soil (~5–25% biochar by volume), 10–20 cm from the stem; root-zone hotspots of nutrient-loaded biochar beat soil-mixed or broadcast (Grafmüller 2022 cabbage +21%; Yeboah 2020 cowpea). Keep fresh urine-charged biochar off the stem (ammonium/salt zone, Sica 2025). Bone-ash bibliography refs 81–90. |
 | Soluble P + young mycorrhizae | Not during the first ~4 weeks after inoculation (§7). |
 | Great White + citric slurry, wood ash, or fresh urine | Not in the same spot or on the same day. Inoculum goes on moist soil near new roots. |
 | Bone ash + wood ash *during* the acid reaction | Never (stops P release). After the reaction is fine. |
@@ -279,7 +284,7 @@ Ca moves only in the transpiration stream (xylem), so it goes where water goes:
 | **A small starter P** | In very P-poor (tropical) soils, *too little* P also blocks colonization; a little available P "primes" the symbiosis (Ahiabor & Hirata; Bolan 1984) | **Already covered** by the struvite-charged biochar + vermicast at planting. Ideal. |
 | Soil P level | Colonization inhibited above **~11–31 mg/kg Olsen-P** in maize/wheat (Deng et al. 2017). Root and AMF P-foraging switches on below ~10 mg/kg (maize, PLOS One 2014). | Aim for "adequate, not high". Andisol fixation keeps solution P low anyway. A soil test would tell you where you sit. |
 | **N (urine)** | N addition cut root colonization **−11.6%** on average (meta-analysis, 94 studies) | Small weekly doses, not big pulses. N is not the enemy at your rates. |
-| **Biochar** | Raises colonization overall (meta-analysis, 85 studies), especially low-EC, low-nutrient biochar. Biochar + AMF raised maize P uptake **67% more than the two effects summed** (no-P soil). *Paraglomus* (in Great White) colonizes biochar pores. | Keep using it. Note that *wood* biochar mixed with bone char cut resin-P by 14–26% (Zwetsloot 2016), so **place bone ash and biochar in separate pockets**, not pre-mixed. |
+| **Biochar** | Raises colonization overall (meta-analysis, 85 studies), especially low-EC, low-nutrient biochar. Biochar + AMF raised maize P uptake **67% more than the two effects summed** (no-P soil). *Paraglomus* (in Great White) colonizes biochar pores. | Keep using it. Note that *wood* biochar mixed with bone char cut resin-P by 14–26% (Zwetsloot 2016), so **keep bone ash (soil ring) and biochar (pockets) in separate spots**, not pre-mixed. |
 | **Vermicast / compost** | Raises colonization overall, **but suppressed it in neutral-pH soils (6.5–7.5)** in the same meta-analysis. Your soil is 6.6. | Moderate amounts. It's your Ca/K/micronutrient and P-protection carrier, not a reason to pile it on. |
 | Citric acid | Low concentrations (~10 mM) + AMF gave the best nutrient extraction (bone-ash guide §14). A pH-3 slurry on roots kills colonization. | Only the vermicast-buffered slurry, at the root-zone edge |
 | Wood ash / pH | AMF are fine at pH 6–7. Large pH jumps disturb them. | Keep pH <7; ash only as a small K top-up |
@@ -297,7 +302,7 @@ Ca moves only in the transpiration stream (xylem), so it goes where water goes:
 
 1. **At sowing:** Great White on or under the seed, plus starter P (struvite-charged biochar + vermicast). *(2026 plants: Great White at sowing ✔. The vermicast + charged biochar went in later, at ~3 weeks; see below.)*
 2. **Weeks 0–4:** N only (small weekly urine). **No bone ash, no soluble P.**
-3. **Weeks 4–5 (≥4 weeks after inoculation, before ~40 DAS):** one **lightly acidified** bone-ash dose (~15 g/plant, 6–8% citric, ~24 h, mixed into vermicast and applied the same day) in pockets 20–25 cm out, where hyphae forage. AMF actively proliferate in P-enriched patches (Cui & Caldwell 1996). If the plants were **not** inoculated at sowing, use **raw** finely ground bone ash at the same spot and inoculate now.
+3. **Weeks 4–5 (≥4 weeks after inoculation, before ~40 DAS):** one **lightly acidified** bone-ash dose (~15 g/plant, 6–8% citric, ~24 h — a citrate primer that dissolves <5% of the P, not a solubilizer; see bone-ash guide §8; mixed ~1:1 with vermicast and applied the same day) mixed into a soil ring 15–25 cm out, where hyphae forage. AMF actively proliferate in P-enriched patches (Cui & Caldwell 1996). If the plants were **not** inoculated at sowing, use **raw** finely ground bone ash at the same spot and inoculate now.
 4. **From first flowers:** K (SOP) and the usual urine. Optional half bone-ash dose only on P-deficiency signs.
 5. **Next crop:** don't till. Plant into the same mycorrhizal network; residual bone ash is now fungal food.
 
