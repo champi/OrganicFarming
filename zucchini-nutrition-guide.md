@@ -235,7 +235,7 @@ Ca moves only in the transpiration stream (xylem), so it goes where water goes:
 | Urine + wood ash | **≥3 days apart.** Ash raises pH, so ammonia is lost. |
 | Urine + SOP | Same day is fine |
 | Bone-ash slurry + roots/AMF | Never raw (pH 3). Mix into vermicast first (apply the same day), and mix it into a ring of soil at the root-zone edge, not on the inoculated core. |
-| Placement by product | **Slow bone ash + vermicast:** mixed into a soil ring (insoluble Ca-P dissolves better spread through soil). **Acidified fast-P dose:** narrow pocket near active roots (placement helps soluble P). **Charged biochar + vermicast:** pockets mixed with the hole's soil (~5–25% biochar by volume), 10–20 cm from the stem; root-zone hotspots of nutrient-loaded biochar beat soil-mixed or broadcast (Grafmüller 2022 cabbage +21%; Yeboah 2020 cowpea). Keep fresh urine-charged biochar off the stem (ammonium/salt zone, Sica 2025). Bone-ash bibliography refs 81–90. |
+| Placement by product | **Slow bone ash + vermicast:** mixed into a soil ring (insoluble Ca-P dissolves better spread through soil). **Acidified fast-P dose:** narrow pocket near active roots (placement helps soluble P). **Charged biochar + vermicast:** pockets mixed with the hole's soil (~5–25% biochar by volume), 10–20 cm from the stem; root-zone hotspots of nutrient-loaded biochar beat soil-mixed or broadcast (Grafmüller 2022 cabbage +21%; Yeboah 2020 cowpea). Keep fresh urine-charged biochar off the stem (ammonium/salt zone, Sica 2025). Mix ratio: see *Vermicast : charged biochar ratio* below. Bone-ash bibliography refs 81–90. |
 | Soluble P + young mycorrhizae | Not during the first ~4 weeks after inoculation (§7). |
 | Great White + citric slurry, wood ash, or fresh urine | Not in the same spot or on the same day. Inoculum goes on moist soil near new roots. |
 | Bone ash + wood ash *during* the acid reaction | Never (stops P release). After the reaction is fine. |
@@ -248,6 +248,35 @@ Ca moves only in the transpiration stream (xylem), so it goes where water goes:
 | Interveinal yellowing on older leaves | Low Mg | Check K isn't excessive first |
 | Dull dark blue-green, small leaves, slow | Low P | Optional ½ bone-ash dose |
 | Cupped/crinkled young leaves with brown edges, dying tips, aborted young fruit, blossom-end rot | Ca *delivery* (uneven water, humidity, NH₄⁺/K excess) | Even watering, skip a urine week; gypsum 10–20 g only if it persists |
+
+### Vermicast : charged biochar ratio for planting pockets
+
+**No trial worldwide has tested vermicast:biochar ratios in field pockets** (literature search, Oct 2026; none on an Andisol either). The closest evidence is biochar:compost/vermicompost ratio studies in soil, plus root-zone placement trials. They agree on one thing: **biochar works best as the minor part of the mix, ~10–30% by dry weight.** Half biochar or more adds nothing or less.
+
+| Evidence | Best ratio found |
+|---|---|
+| Lebrun 2023: only study testing a full range (100/70/50/30/0% biochar in compost); ryegrass pot, pH 7.9 | **30:70 biochar:compost** (dry wt); beat compost alone, biochar alone and mineral N |
+| EL-Mogy 2024: greenhouse sweet pepper, VC:BC | Yield **100:0 (+31%) > 75:25 (+26%) > 50:50 (+23%)**; biochar lowered fruit nitrate, improved quality |
+| Echchelh 2026: lettuce under drought; Zhou 2023 meta-analysis (47 studies) | **10% biochar** in compost optimal; no gain above ~20% |
+| Single-ratio VC + BC field trials | Eggplant 3:1 VC:BC; rooftop cherry tomato 20% VC + 6% BC (~3.3:1); okra 1:1; cabbage ~1.3:1 (best profit 2:1) |
+| Schmidt 2015/2017, Nepal pits (21 trials) | ~1:14 biochar:compost, but **urine-charged**: pumpkin +85% vs uncharged biochar, +123% avg across 13 trials. Charging mattered more than the ratio |
+
+Results at similar ratios disagree across studies (Lebrun's review: 1:1 and 1:3 helped in some, 1:1.2 and 1:2 hurt in others), so treat the ratio as a range, not a number.
+
+**Weight → volume.** Studies report dry weight. Biochar (~0.25 g/cm³) is about half as dense as vermicast (~0.5 g/cm³), so:
+
+| VC:BC by volume | ≈ % biochar by dry weight |
+|---|---|
+| 1:1 | ~33% (upper limit, Lebrun optimum) |
+| **2:1** | **~20%** (meta-analysis ceiling) |
+| **3:1** | **~14%** (Echchelh, eggplant, rooftop) |
+| 4:1 | ~11% |
+
+**Practice:**
+1. Mix **2:1 to 3:1 vermicast : urine-charged biochar by volume**.
+2. **Let it cure 1–2 weeks before use.** Co-composted biochar gave ~6× lettuce growth vs ~3× for a fresh biochar + compost mix, and the fresh mix added up to less than its parts (Mikajlo 2024). Curing vermicast instead of composting is an extrapolation, not tested.
+3. Blend into the pocket's soil so biochar stays **≤10% of pocket volume**, 10–20 cm from the stem; cap with a few cm of plain soil, as in Schmidt's pits.
+4. Pockets are worth it for vermicast too: VC in the transplant hole gave **102% N-use efficiency vs 34% broadcast** in tomato (Ebrahimi 2020), though fresh yield didn't differ. Keep vermicast moderate (§7: it can suppress AMF at pH 6.5–7.5).
 
 ## 7. Mycorrhizae (Great White): When and How to Get the Most From Them
 
@@ -389,6 +418,19 @@ Ca moves only in the transpiration stream (xylem), so it goes where water goes:
 - Thiessen Martens, J. *Characterizing the Behaviour and Efficacy of Struvite Fertilizer for Organically Managed Crops in Manitoba Soils* (struvite less inhibitory to AMF than MAP). Univ. Manitoba. https://mspace.lib.umanitoba.ca/server/api/core/bitstreams/6bb2f1a8-d026-42aa-a83d-cdfe5f12efac/content
 - Schwalb, S.A., et al. (2021). *Mycorrhiza Reduces Phosphorus Uptake from Struvite in Rye.* J. Soil Sci. Plant Nutr. https://link.springer.com/content/pdf/10.1007/s42729-021-00619-5.pdf
 - Trichoderma × AMF in melon (antagonism to G. intraradices). JAST. https://jast.modares.ac.ir/article_15714_bd8dbca5cf9c8fb95b0a7c8949fedf93.pdf
+- Lebrun, M., et al. (2024). *Mixing ratio and nitrogen fertilization drive synergistic effects between biochar and compost.* Nutr. Cycl. Agroecosyst. 128:429–446. https://hal.science/hal-04440991v1/document
+- EL-Mogy, M.M., et al. (2024). *Integration of biochar with vermicompost and compost… greenhouse sweet pepper.* Agronomy 14:2603. https://www.mdpi.com/2073-4395/14/11/2603
+- Echchelh, A. & Guilayn, F. (2026). *Biochar–compost as a solution to tackle water stress and soil degradation in drylands.* Agronomy 16:444. https://doi.org/10.3390/agronomy16040444
+- Zhou, S., et al. (2023). *Biochar-amended compost as a promising soil amendment for enhancing plant productivity: a meta-analysis.* Sci. Total Environ. https://doi.org/10.1016/j.scitotenv.2023.163067
+- Mikajlo, I., et al. (2024). *Composted biochar versus compost with biochar.* Biochar. https://doi.org/10.1007/s42773-024-00379-2
+- Schmidt, H.P., et al. (2015). *Fourfold increase in pumpkin yield… urine-enhanced biochar.* Agriculture 5:723. https://www.naturefund.de/fileadmin/pdf/Pflanzenkohle/Schmidt-etal-2015_Agriculture-05-00723.pdf
+- Schmidt, H.P., et al. (2017). *Biochar-based fertilization with liquid nutrient enrichment: 21 field trials in Nepal.* Land Degrad. Dev. https://www.ithaka-institute.org/media/c/14/doc/schmidt_2017_bc-based_fertilization.pdf
+- Ebrahimi, E., et al. (2020). *Effects of vermicompost placement on nutrient use efficiency and yield of tomato.* Biol. Agric. Hortic. 36:44–52. https://doi.org/10.1080/01448765.2019.1671220
+- Ebrahimi, M., et al. (2021). *Biochar and vermicompost improve growth of eggplant under deficit irrigation.* Chem. Biol. Technol. Agric. https://link.springer.com/article/10.1186/s40538-021-00216-9
+- Islam, M.M., et al. (2026). *Vermicompost and biochar on cherry tomato in an urban rooftop garden.* Urban Agric. Reg. Food Syst. https://doi.org/10.1002/uar2.70045
+- Prasanthi, K., et al. (2026). *Okra response to combined biochar and vermicompost.* https://doi.org/10.33545/2618060x.2026.v9.i1i.4763
+- Hassan, N., et al. (2021). *Vermicompost and biochar on green cabbage.* https://doi.org/10.3329/aajbb.v6i2.56142
+- Cox, J., et al. (2021). *Biochar and compost combination… Andisol and Oxisol.* Biochar. https://doi.org/10.1007/s42773-020-00081-z
 - Great White Premium Mycorrhizae label rates. https://hydroponics.co.uk/products/great-white · https://www.drgreenthumbs.com.au/products/plant-success-great-white-mycorrhizae-150-750g
 
 ---
