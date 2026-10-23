@@ -17,13 +17,13 @@
 | Input | Amount per plant | Notes |
 |---|---|---|
 | Aged urine + ≤5 g/L Epsom | ~1.5 L total, weekly | Shake the jug; dilute 1:4–1:5; water in. Epsom at this rate does not hurt Ca. |
-| Bone ash, **lightly** acidified → vermicast | **~15 g, once** | 4-plant batch: 60 g bone ash + 4–5 g citric acid + 60–90 mL water, react ~24 h, then mix into ~0.5–1 L vermicast and **apply the same day** |
+| Bone ash, raw, fine-ground + vermicast 1:1 | **~15 g ash + ~15 g vermicast, once** | Mixed into a ring of soil 20–25 cm from the stem (see Oct 23) |
 | Potassium sulfate (SOP, 0-0-50) | 3 × 5 g (15 g/season; **60 g for all 4 plants**) | Chloride-free; same day as urine is OK. Weigh 5 g once (a scant teaspoon). |
 | Great White top-up (optional) | ~½ tsp (~2 g) | Only if you have product to spare: side band 10–15 cm from stem, 5–8 cm deep |
 | Gypsum (*yeso agrícola*) | 10–20 g, **only if** Ca symptoms persist | pH-neutral, no P |
 | Wood ash (optional) | ≤30–40 g per season | Only if pH stays <6.9; ≥3 days from urine |
 
-**Bone-ash form:** Great White went in at sowing, so use **lightly acidified** bone ash (6–8% citric, ≤24 h; this primes the ash and adds root-zone citrate but dissolves <5% of its P — see bone-ash guide §8) on ~Oct 21, in pockets separate from the biochar.
+**Bone-ash form:** the Oct 20–21 citric step was skipped, so use **raw, fine-ground** ash (flour-like, <250 µm). The AMF from Great White and their bacteria do the dissolving. Raw slow P doesn't suppress established mycorrhizae, and fine ash gave better colonization than coarse (bone-ash guide §11, "Does Bone Ash Suppress AMF in the First Month?"). Mix it through a ring of soil, not pockets: clumped calcium phosphate dissolves more slowly.
 
 ## Calendar
 
@@ -34,9 +34,9 @@ Urine on **Sundays**. Every other amendment goes ≥3 days from a urine day, exc
 | Mon Oct 12 | 26 | Urine 100–150 mL (aged + Epsom, shaken, diluted 1:4–1:5) |
 | Wed Oct 14 | 28 | *(Optional)* Great White top-up side band (½ tsp) |
 | Sun Oct 18 | 32 | Urine 150 mL |
-| Tue Oct 20 | 34 | Start bone-ash batch: 60 g bone ash + 4–5 g citric acid in 60–90 mL water (dissolve the acid first, add ash slowly, stir) |
-| **Wed Oct 21** | 35 | ~24 h later: **mix the slurry into ~0.5–1 L vermicast and apply right away.** Bury ¼ per plant in 2–3 pockets, 20–25 cm from the stem, 3–5 cm deep, away from biochar pockets. Water in. |
-| Sun Oct 25 | 39 | Urine 150 mL |
+| ~~Tue Oct 20 – Wed Oct 21~~ | 34–35 | ~~Citric-acidified bone ash~~ (skipped; replaced by Oct 23) |
+| **Fri Oct 23** (by Mon Oct 26 = 40 DAS at the latest) | 37 | **Bone ash, raw:** mix 15 g fine bone ash + ~15 g vermicast (~30 g). (1) Pull mulch back in a circle **20–25 cm from the stem** (outer root zone, where hyphae forage; keeps alkaline ash off the stem). (2) Scratch a ring trench **5–8 cm deep**, a trowel wide. (3) Sprinkle the 30 g evenly along the ring, not in one spot. (4) Stir it into the loosened soil (~1–2 L) so it's spread, not a layer. (5) Cover, re-mulch, water in. If biochar pockets or a neighbour block the circle, use a half-ring on the free side. |
+| **Mon Oct 26** | 40 | Urine 150 mL (moved from Sun Oct 25 to keep ≥3 days after bone ash) |
 | **Sun Nov 1** (≈first flowers) | 46 | Urine 200 mL + **SOP 5 g** |
 | Sun Nov 8 | 53 | Urine 200 mL |
 | Wed Nov 11 | 56 | *Only if P-deficient* (dull, dark blue-green, small leaves): ½ bone-ash dose, same method |
@@ -52,6 +52,7 @@ If first flowers come earlier or later than Nov 1, move the first SOP dose to ma
 | Date | DAS | Plant | Input given | Observations (leaves, flowers ♂/♀, fruit count, kg) |
 |---|---|---|---|---|
 | 2026-10-12 | 26 | all | | |
+| 2026-10-23 | 37 | all | Bone ash 15 g + vermicast 15 g, ring 20–25 cm | |
 |  |  |  |  |  |
 
 ## Open questions
