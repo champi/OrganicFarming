@@ -1180,6 +1180,8 @@ These placement rules come from rock-phosphate and biowaste trials; no study has
 
 ### Per-Plant Doses for the Volcán Garden (Literature Review, Oct 2026)
 
+> Combined P + K (SOP) plan for these crops: [garden-crops-bone-ash-sop-doses.md](garden-crops-bone-ash-sop-doses.md).
+
 Same method for every crop: **raw, fine-ground ash (<250 µm), mixed 1:1 by weight with vermicast, worked into a ring of soil**, not a pocket (§11, §15). Dose rule from §15: **~2–3× the crop's P uptake**, ash at ~16% P. Lower it on crops that are strongly mycorrhizal or that turn extra P into leaves instead of yield.
 
 | Crop | P uptake per plant (literature) | Mycorrhizal dependence | Bone ash per plant (+ same weight vermicast) | When | Ring |
