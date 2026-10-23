@@ -1178,6 +1178,32 @@ These placement rules come from rock-phosphate and biowaste trials; no study has
 | **Rice (paddy)** | Fine bone ash broadcast before flooding | Pre-flooding | Flooded acidic conditions enhance P release |
 | **Cover crops** (buckwheat, clover) | Untreated bone ash broadcast | At seeding | Builds soil AMF network for following crop |
 
+### Per-Plant Doses for the Volcán Garden (Literature Review, Oct 2026)
+
+Same method for every crop: **raw, fine-ground ash (<250 µm), mixed 1:1 by weight with vermicast, worked into a ring of soil**, not a pocket (§11, §15). Dose rule from §15: **~2–3× the crop's P uptake**, ash at ~16% P. Lower it on crops that are strongly mycorrhizal or that turn extra P into leaves instead of yield.
+
+| Crop | P uptake per plant (literature) | Mycorrhizal dependence | Bone ash per plant (+ same weight vermicast) | When | Ring |
+|---|---|---|---|---|---|
+| **Maize** | ~0.4–0.5 g P (≈ 30 kg P/ha ÷ 60–70k plants) [113] | High; MD 69–73% [116] | **~6 g per stalk ≈ 25 g per 4-stalk cluster** | At sowing, beside the seed, not touching it (§9 of `three-sisters-volcan.md`). If already up: **before V6 (~4 weeks)**. P before V6 sets kernel number [114]; P from V6 to silking also matters [115]. | Around the cluster, 10–15 cm out |
+| **Climbing bean** | ~0.07–0.15 g P (16.5 kg P/ha in a full stand; >70% ends up in the grain) [117] | Very high; MD 95% [116] | **~2–3 g per bean plant ≈ 10–15 g per cluster** (on top of the corn dose) | At bean sowing (corn 10–15 cm). Demand peaks at pod formation, 45–55 days after emergence [117]. | Same cluster ring |
+| **Pumpkin** (*C. moschata*) | ~1.6 g (small plants) to 8.5 g P (Tetsukabuto hybrid) [118]; 21–32 kg P/ha [119] | Colonization peaked at ~25% of the recommended P rate (`zucchini-nutrition-guide.md` §3) | **~50 g** | At sowing or within the first ~4 weeks. Uptake is slow until ~42–56 DAS, then 98% of it happens between 56 and 84 DAS (fruit set) [118]. The ash needs that lead time. | 30–40 cm from the crown |
+| **Cherry tomato** | ~2.0–2.2 g P for large hybrids at 120–150 t/ha [120]; less for cherry | Moderate; MD ~59% [116] | **~15 g** (same as zucchini) | Transplant to ~30 DAT. Fastest P uptake runs from ~30 to ~90–110 DAT [120]. | 15–20 cm from the stem |
+| **Sweet potato** | ~0.4–0.5 g P (13–16 kg P/ha at 18–20 t/ha; 0.5–1 kg P per t of roots) [121] | High; tolerates low P through AMF [122] | **~6–8 g** | At planting, in the ridge. If planted >6 weeks ago and growing well, skip it: extra P gave more jumbo roots and fewer grade-1 roots [123]. | Along the ridge, 10 cm each side |
+| **Otoe** (*Xanthosoma*) | ~1 g P (estimate: Kerala recommendation 50 kg P₂O₅/ha at ~18k plants) [124] | Reported high (one Cameroon thesis) [124] | **~15–20 g at planting, plus ~15 g at 3–4 months.** Established plant <7 months old: one 15–20 g dose now. | Cormels fill in months ~6–10 [124] | 20–30 cm from the base |
+| **Papaya** | Embrapa, medium soil P: ~70 g P₂O₅ per plant in year 1, ~60 g in year 2 [125] | Very high (strongly variety-dependent) [126] | **~50 g every 3–4 months** (≈150–200 g/yr ≈ the medium-P rate) | Planting, then through flowering and fruiting. Embrapa splits P every ~2 months [125]. | Between the trunk and half the canopy radius [125] |
+| **Lemon in a pot (flowering)** | No per-pot data. Nursery substrate rates: 0.54–1.0 g P₂O₅ per litre [125] | Very high; citrus MD ~82% [127] | **~1 g per litre of pot volume, once a year** (20 L pot ≈ 20 g) | Now is fine (flowering → fruit set). | Scratch into the top 2–3 cm, out toward the pot rim |
+
+**Why the rates are moderate:**
+- **Strongly mycorrhizal crops** (bean, papaya, citrus, sweet potato) get most of their P through the fungus. High soluble P is what switches the symbiosis off (§11).
+- **Potted citrus:** in containers with rough lemon, colonization peaked at 4–8 µg/g available P. Above 20 µg/g from superphosphate, colonization and the growth benefit disappeared. Rock phosphate kept P low but steady [127].
+- **Potting mix doesn't bind P the way an Andisol does,** so slow apatite is the right P form there. Bone ash is alkaline, though, and citrus wants pH 5.5–6.5: check the pot's pH before adding more.
+- **Repeat crops in the same bed get about half the dose** (§15).
+
+**Gaps:**
+- Otoe and potted-citrus doses are extrapolations. No bone ash trial exists for either.
+- Without a soil test, all rates assume medium soil P.
+
+
 ---
 
 ## 17. Bibliography: All Studies and Papers
@@ -1506,6 +1532,38 @@ These placement rules come from rock-phosphate and biowaste trials; no study has
 111. **Biswas, P.P. et al. (2020)** — "Physico-chemical transformation of bone char for soil amendment." EGU 2020. DOI: [10.5194/egusphere-egu2020-8267](https://doi.org/10.5194/egusphere-egu2020-8267) · Morshedizad, M. et al. (2018), *SOIL*, 4: 23, [PDF](https://soil.copernicus.org/articles/4/23/2018/soil-4-23-2018.pdf)
 
 112. **Liming and AMF communities** — *Mycorrhiza* (2002), [Link](https://link.springer.com/article/10.1007/s00572-002-0185-6); long-term lime in pastures, [Link](https://research.usq.edu.au/item/q3q6z/arbuscular-mycorrhizal-fungal-diversity-in-perennial-pastures-responses-to-long-term-lime-application)
+
+#### Per-plant doses by crop (§16, Oct 2026)
+
+113. **Fageria, N.K., Moreira, A. & dos Santos, A.B. (2013)** — "Phosphorus uptake and use efficiency in field crops." *J. Plant Nutrition*. DOI: [10.1080/01904167.2013.816728](https://doi.org/10.1080/01904167.2013.816728)
+
+114. **Barry, D.A.J. & Miller, M.H. (1989)** — "Phosphorus nutritional requirement of maize seedlings for maximum yield." *Agronomy Journal*. DOI: [10.2134/agronj1989.00021962008100010017x](https://doi.org/10.2134/agronj1989.00021962008100010017x) · Grant, C.A. et al. (2001), "The importance of early season phosphorus nutrition," DOI: [10.4141/p00-093](https://doi.org/10.4141/p00-093)
+
+115. **Ampong, K., Penn, C.J. & Camberato, J.J. (2024)** — "The timing of phosphorus availability to corn." *Agronomy*, 14: 2731. [Link](https://www.mdpi.com/2073-4395/14/11/2731)
+
+116. **Tawaraya, K. (2003)** — "Arbuscular mycorrhizal dependency of different plant species and cultivars." *Soil Sci. Plant Nutr.* DOI: [10.1080/00380768.2003.10410323](https://doi.org/10.1080/00380768.2003.10410323) (Plenchette 1983 values: bean 95%, maize 69–73%, tomato 59%)
+
+117. **Soratto, R.P. et al. (2013)** — "Nutrient extraction and exportation by common bean cultivars." *R. Bras. Ci. Solo*. DOI: [10.1590/s0100-06832013000400020](https://doi.org/10.1590/s0100-06832013000400020)
+
+118. **Vidigal, S.M. et al. (2007)** — "Crescimento e acúmulo de nutrientes pela abóbora híbrida tipo Tetsukabuto." *Horticultura Brasileira*. DOI: [10.1590/s0102-05362007000300011](https://doi.org/10.1590/s0102-05362007000300011) · Gish, J.K. (FCA/UNESP), *C. moschata* fruit P 1.4 g/plant, [PDF](https://cultivandosaber.fag.edu.br/index.php/cultivando/article/download/710/627/)
+
+119. **Swiader, J.M. (1985)** — "Seasonal growth and composition and accumulation of N-P-K in dryland and irrigated pumpkins." *J. Plant Nutrition*. DOI: [10.1080/01904168509363394](https://doi.org/10.1080/01904168509363394)
+
+120. **Moraes, C.C. et al. (2018)** — "Plant growth and nutrient accumulation in two tomato hybrids under tropical conditions." *AJCS*. [PDF](https://cropj.com/moraes_12_9_2018_1419_1425.pdf) · Almeida, L.G. et al. (2023), organic tomato, 2.3 g P/plant, DOI: [10.1590/s0102-0536-2023-e2532](https://doi.org/10.1590/s0102-0536-2023-e2532)
+
+121. **Susan John, K. (2011)** — "Soil-plant nutrition of sweet potato and minor tuber crops: a review." *J. Root Crops*, 37(2). [PDF](https://journal.isrc.in/index.php/jrc/article/download/34/31/132) · CTCRI (2025), [PDF](https://www.ctcri.org/public/publications/2025-01/2-sweet-potato.pdf) · Sweetpotato DiagNotes, [Link](https://keys.lucidcentral.org/keys/sweetpotato/key/Sweetpotato%20Diagnotes/Media/Html/TheCrop/CropManagement/SoilFertilityManagement/Fertilization.htm)
+
+122. **Vos, C., Arancon, N. & Mathews, B.** — Okinawan sweet potato nutrient management, Hawaiʻi volcanic soils. [Link](https://hilo.hawaii.edu/panr/writing.php?id=304)
+
+123. **Stoddard, S.** — Phosphorus and boron fertilizer impacts on sweetpotato (CDFA FREP 13-0266). [PDF](https://www.cdfa.ca.gov/is/ffldrs/frep/pdfs/completedprojects/13-0266-SA_Stoddard.pdf)
+
+124. **Susan John, K. & Remya Raj, R.T. (2024)** — INM in tannia (*Xanthosoma*), Kerala. *J. Root Crops*. [Link](https://journal.isrc.in/index.php/jrc/article/view/646) · INTA Costa Rica (2022), *Manual de aráceas* (cycle 9–12 months). [Link](https://platicar.go.cr/index.php/documentos-infoteca/category/4-2021?download=106%3Amanual-de-araceas&start=20) · Cameroon thesis on mycorrhizal dependence of macabo, [Link](https://dicames.online/jspui/handle/20.500.12177/5053)
+
+125. **Borges, A.L. / Oliveira & Coelho (2009)** — "Calagem e adubação para o mamoeiro," Embrapa. [PDF](https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1134673/1/cap10-livro-RecomendacaoCalagemAdubacao-AnaLuciaBorges-AINFO.pdf) · Embrapa *A cultura do mamão* (substrate 540–720 g P₂O₅/m³), [PDF](https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/256911/1/PLANTARMamuoed032009.pdf) · INCAPER (1,000 g P₂O₅/m³), [PDF](https://biblioteca.incaper.es.gov.br/digital/bitstream/item/824/1/2007-cap-01.pdf)
+
+126. **Trindade, A.V., Siqueira, J.O. & Almeida, F.P. (2001)** — "Mycorrhizal dependency of papaya commercial varieties." *Pesq. Agropec. Bras.* [Link](https://apct.sede.embrapa.br/pab/article/view/6283)
+
+127. **Graham, J.H. & Timmer, L.W. (1984)** — "VAM development and growth response of rough lemon in soil and soilless media: effect of phosphorus source." *JASHS*, 109: 118. DOI: [10.21273/jashs.109.1.118](https://doi.org/10.21273/jashs.109.1.118) · Ortas, I., "Mycorrhizas in fruit nutrition" (citrus MD 82%), [PDF](https://ibrahimortas.com.tr/__/file/ortas_chapter_24.pdf)
 
 ---
 
