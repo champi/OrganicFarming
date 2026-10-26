@@ -20,7 +20,8 @@
 | Bone ash, raw, fine-ground + vermicast 1:1 | **~15 g ash + ~15 g vermicast, once** | Mixed into a ring of soil 20–25 cm from the stem (see Oct 24) |
 | Potassium sulfate (SOP, 0-0-50) | 3 × 5 g (15 g/season; **60 g for all 4 plants**) | Chloride-free; same day as urine is OK. Weigh 5 g once (a scant teaspoon). |
 | Great White top-up (optional) | ~½ tsp (~2 g) | Only if you have product to spare: side band 10–15 cm from stem, 5–8 cm deep |
-| Gypsum (*yeso agrícola*) | 10–20 g, **only if** Ca symptoms persist | pH-neutral, no P |
+| WCA (KNF water-soluble calcium, eggshell + vinegar) | 1:1000 in water (1 mL/L); foliar to wet or ~250 mL soil drench | **Only if** Ca symptoms: blossom-end rot (fruit tip goes soft and brown), or new leaves cupped or edge-scorched. Early morning or evening, weekly, max 3×. Not on a urine day (ammonium competes with Ca uptake). Never in the same jug as SOP: Ca + sulfate makes a gypsum precipitate. |
+| Gypsum (*yeso agrícola*) | 10–20 g, **only if** Ca symptoms persist after WCA | pH-neutral, no P |
 | Wood ash (optional) | ≤30–40 g per season | Only if pH stays <6.9; ≥3 days from urine |
 
 **Bone-ash form:** the Oct 20–21 citric step was skipped, so use **raw, fine-ground** ash (flour-like, <250 µm). The AMF from Great White and their bacteria do the dissolving. Raw slow P doesn't suppress established mycorrhizae, and fine ash gave better colonization than coarse (bone-ash guide §11, "Does Bone Ash Suppress AMF in the First Month?"). Mix it through a ring of soil, not pockets: clumped calcium phosphate dissolves more slowly.
@@ -44,6 +45,8 @@ Urine on **Sundays**. Every other amendment goes ≥3 days from a urine day, exc
 | Sun Nov 22 | 67 | Urine 200 mL |
 | **Sun Nov 29** | 74 | Urine 150 mL + **SOP 5 g** |
 | Sun Dec 6 → | 81+ | Urine 100–150 mL weekly while fruiting |
+
+First small fruits that yellow and shrivel early are usually **unpollinated, not Ca-short** (common while ♂ and ♀ flowers don't yet open on the same days); don't reach for WCA for that. Ca moves with water, so even watering does more against blossom-end rot than any spray.
 
 If first flowers come earlier or later than Nov 1, move the first SOP dose to match and keep the 2-week spacing. Mulch, don't dig, water evenly.
 
