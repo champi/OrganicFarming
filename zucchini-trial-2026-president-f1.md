@@ -53,6 +53,7 @@ If first flowers come earlier or later than Nov 1, move the first SOP dose to ma
 |---|---|---|---|---|
 | 2026-10-12 | 26 | all | | |
 | 2026-10-24 | 38 | all | Bone ash 15 g + vermicast 15 g, ring 20–25 cm | |
+| 2026-10-26 | 40 | all (4/4) | | Flower buds forming on all four plants, both ♂ and ♀; small, none open yet |
 |  |  |  |  |  |
 
 ## Open questions
