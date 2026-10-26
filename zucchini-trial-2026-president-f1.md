@@ -11,6 +11,7 @@
 | Mycorrhizae | Great White **at sowing (16 Sep)** → colonization established ~mid-Oct |
 | Soil | Andisol, pH ~6.6 (no P/K/Ca test yet; assume medium) |
 | Expected first harvest | ~5–15 Nov (50–60 DAS) |
+| Harvest stage | 15–20 cm, ~200–250 g: **~6–10 days after a ♀ flower is pollinated** in Volcán's cool nights (4–7 d in warm lowlands). First flowers open ~Oct 31–Nov 2 → **first cut ~Nov 8–11**. Check daily once fruit pass 10 cm. Cut in the morning with a knife, leaving 1–2 cm of stem. Weigh each fruit for the log. |
 
 ## Per-plant inputs for the season
 
