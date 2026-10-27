@@ -20,6 +20,16 @@
 
 **Total: ~$21 from 3 shops.** Hazzard's ships both Thai varieties together. growitalian.com ships both Italian Franchi varieties together.
 
+**Stock check — Oct 27, 2026:**
+
+| # | Variety | Status |
+|---|---------|--------|
+| 1 | Thai Magic (Hazzard's) | ✅ In stock, $3.10 |
+| 2 | Thai Sweet (Hazzard's) | ✅ In stock, $2.40 |
+| 3 | Italiano Classico (growitalian) | ❌ 5 g–100 g sold out (only 500 g / $65 left). Organic listing gone. **Sub:** [Tigullio](https://www.growitalian.com/products/basil-italiano-classico-tigullio-13-7) ✅ $6.00 or [Vintage Basil from Genova](https://www.growitalian.com/products/vintage-basil-from-genova) ✅ $6.00 |
+| 4 | Bolloso Napoletano (growitalian) | ✅ 8 g in stock, $5.50 |
+| 5 | Rutgers Obsession DMR (Burpee) | ❌ Sold out (both 5,000-seed packs). Firefly Farm blocked access and BestSeedShop was down (502). **Sub:** [Rutgers Passion DMR, Harris](https://www.harrisseeds.com/products/12844-basil-rutgers-passion-dmr) ✅ $3.74 / 100 seeds |
+
 ---
 
 ## Tier 1 — Pure Best Flavor (Open-Pollinated, Seed-Saveable)
