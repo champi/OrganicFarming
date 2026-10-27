@@ -56,8 +56,10 @@ If first flowers come earlier or later than Nov 1, move the first SOP dose to ma
 | Date | DAS | Plant | Input given | Observations (leaves, flowers ♂/♀, fruit count, kg) |
 |---|---|---|---|---|
 | 2026-10-12 | 26 | all | | |
+| 2026-10-18 | 32 | all | Urine 150 mL, **fresh + white vinegar** (not aged + Epsom) | |
 | 2026-10-24 | 38 | all | Bone ash 15 g + vermicast 15 g, ring 20–25 cm | |
 | 2026-10-26 | 40 | all (4/4) | | Flower buds forming on all four plants, both ♂ and ♀; small, none open yet |
+| 2026-10-27 | 41 | all | Urine 150 mL, **fresh + white vinegar** (not aged + Epsom) | Harvest now <1 month away, inside the WHO 1-month window for unsanitized urine: wash fruit well |
 |  |  |  |  |  |
 
 ## Open questions
