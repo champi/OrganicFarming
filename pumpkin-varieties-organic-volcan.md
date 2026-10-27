@@ -6,11 +6,66 @@
 
 ## Climate Fit: Yes, With the Right Species
 
-Pumpkins need warm conditions. At Volcán's elevation (1,400m), the only viable species is **Cucurbita moschata** — tropical pumpkin, ayote, calabaza. It grows well up to 1,800m and thrives at daytime temps ≥20°C and nighttime >14°C. Volcán's daytime highs of 22–24°C and nighttime lows of 13–16°C are at the cool end of the range, but within it.
+Two species fit Volcán (1,400m), plus their interspecific hybrid:
 
-C. maxima and C. pepo (jack-o'-lantern types) are temperate-adapted and generally fail under tropical humidity.
+- **Cucurbita moschata** (tropical pumpkin, ayote, calabaza): grows up to 1,800m and wants days ≥20°C and nights >14°C (PROTA). Volcán's nights of 13–16°C sit at, or just below, its cool limit.
+- **Cucurbita maxima** (kabocha, buttercup, zapallo): the *most* cold-tolerant Cucurbita (PROTA/PlantVillage), domesticated in the Andes, grown in Colombia up to 1,750m. Japanese kabochas are a commercial export crop in Tonga at 20–25°C days and 14–19°C nights, almost exactly Volcán's range (Nishi Farm 2010). In Kenya, kabocha is the variety for 2,000–2,500m. Its weakness is foliar disease, not temperature: in Tonga, powdery mildew cut yields 40–80% (Tupouniua 2012), and Buttercup scored 5 on downy mildew vs 3.5 for the best moschatas in Virginia (9 = worst; Common Wealth 2014). **Grow pure C. maxima in the dry season only.**
+- **C. maxima × C. moschata hybrids (Tetsukabuto type):** kabocha flavor with moschata vigor and heat tolerance. Brazil's main pumpkin, at over 726,000 t/yr (ABCSEM 2013, via Embrapa). See [Best Flavor](#best-flavor--kabocha-type).
+
+None of the species does well in the *humid* tropics without help (PROTA): wet-season foliar disease is the limit for all of them.
 
 **Key constraint:** In wet season (May–Nov, 500–630mm/month, 90–94% humidity), disease pressure is extreme. Downy mildew is the #1 threat — it thrives in cool, humid conditions. Dry season (Jan–Mar, 60–90mm/month, 74–80% humidity) is the best growing window.
+
+---
+
+## Best Flavor — Kabocha Type
+
+Kabocha has the highest eating quality of any pumpkin: mature fruit reaches **Brix 15–19 and 26–31% dry matter** (NZ Agronomy Society 1992), against Brix 8–12 and 11–17% for most moschatas (Common Wealth 2014). Good eating quality starts at about 11–12% dry matter (Edmund Frost). Kabochas need 1–2 months of storage after harvest to convert starch to sugar before they taste their best.
+
+### Tetsukabuto F1 🇯🇵🇧🇷 — Best Flavor That Copes With Volcán
+C. maxima 'Delicious' × C. moschata 'Kurokawa No.2', released in Japan in 1951. In Oregon State's 2014–17 kabocha trials it "excels in EVERY CATEGORY" — yield, taste, texture, storage-rot resistance and storage life. In Brazil (as *abóbora japonesa* or *cabotiá*) it is the dominant pumpkin of the tropical Southeast and Center-West, and it gave over 19 t/ha in Embrapa's organic trial.
+
+| Trait | Detail |
+|---|---|
+| **Type** | F1 interspecific hybrid (seed does not come true) |
+| **Days** | ~100 from direct seeding |
+| **Fruit weight** | 1.5–2.5 kg |
+| **Flesh** | Yellow-orange, sweet, nutty; 12–18% total solids |
+| **Disease** | Powdery mildew: Intermediate resistance. Vine-borer resistant. |
+| **Storage** | Very long (cure ~6 weeks before eating) |
+
+**Needs a pollinator:** its male flowers are sterile. Plant 1 pollinator per 4 Tetsukabuto (Embrapa):
+- a C. maxima kabocha, sown **7 days earlier**
+- or a C. moschata, sown **15–21 days earlier**
+- or a C. pepo zucchini, sown **10–15 days later**
+- or hand-pollinate
+
+| Seed Source | Price | Notes |
+|---|---|---|
+| [Johnny's](https://www.johnnyseeds.com/vegetables/squash/winter-squash/tetsukabuto-f1-hubbard-squash-seed-3578.html) | **$6.45 / 30 seeds ($0.22/seed)** | In stock. Cheapest per seed among trusted sellers |
+| [Super Seeds](https://www.superseeds.com/products/tetsukabuto-squash) | $4.20 / 15 ($0.28) | Cheapest small pack |
+| [Seed World Garden](https://www.seedworldgarden.com/products/tetsukabuto-f1-japanese-squash-seeds-35-seeds-perfect-for-planting-and-gifting) | $7.99 / 35+ ($0.23) | |
+| [Holmes Seed](https://www.holmesseed.com/tetsukabuto-f1/) | $5.95 / ~10 | |
+| [True Leaf (Kitazawa)](https://trueleafmarket.com/products/squash-seeds-japanese-winter-tetsukabuto-hybrid) | $4.99 / 2 g (~12) | |
+
+> ⚠️ SeedsDay ($3.20/30) and Bestseedshop ($4.30/30) copy Johnny's listings and appear to ship from China — avoid.
+
+### Winter Sweet F1 🇺🇸 — Top Flavor, Dry Season Only
+Pure C. maxima gray kabocha, bred by Rob Johnston at Johnny's. Oregon State tasters rated it among the sweetest in their March 2021 tastings ("sweet like candy… complex and deeply flavored"). It stores long and doubles as the pollinator for Tetsukabuto.
+
+| Trait | Detail |
+|---|---|
+| **Type** | F1, organic |
+| **Days** | ~95 from direct seeding |
+| **Fruit weight** | 1–2.3 kg |
+| **Flesh** | Sweet, flaky, thick; best 2–5 months after harvest |
+| **Disease** | No resistance codes. Treat as downy- and powdery-mildew susceptible. |
+
+| Seed Source | Price | Notes |
+|---|---|---|
+| [Johnny's](https://www.johnnyseeds.com/vegetables/squash/winter-squash/winter-sweet-organic-f1-kabocha-squash-seed-3034G.html) | **$5.85 / 30 seeds** | Only trusted seller found |
+
+Alternatives: **Sweet Mama** (Oregon chefs' favorite; [TT Seeds](https://ttseeds.com/product/squash-sweet-mama-75-days) $6.40 / 15) and **Delica** (bulk packs only, ~$30+ at [Seedway](https://www.seedway.com/product/delica-squash-not-treated/)).
 
 ---
 
@@ -179,6 +234,8 @@ Developed by the World Vegetable Center (Taiwan) from a Bangladeshi landrace. Re
 | **Menina** | — | — | **Immune** | **Immune** | — |
 | **Nigerian Local** | — | — | **Immune** | **Immune** | — |
 | **Orange Bulldog** (C. maxima) | **Tolerant** | **Tolerant** | Good | Good | — |
+| **Tetsukabuto** (maxima × moschata) | — | **Intermediate R** | — | — | — |
+| **Winter Sweet** (C. maxima) | Susceptible (assumed) | Susceptible (assumed) | — | — | — |
 | **Baimi 2** 🇨🇳 | **High** | Moderate | **High** | **High** | — |
 | **Mat Sao 2** 🇻🇳 | — | **Resistant** | — | — | — |
 | **Duong Long 77** 🇻🇳 | — | **Resistant** | Moderate | Moderate | — |
@@ -485,7 +542,7 @@ If you want to experiment with Asian genetics, **Beimi No.2** ($13 from Chinese 
 ## Growing Strategy for Volcán
 
 ### Option A: Dry-Season Outdoor (Recommended)
-Plant **Dec–Jan**, harvest **Mar–Apr**. Best varieties: Soler, South Anna, Chinese Tropical Pumpkin. Lower humidity (74–80%), lower aphid pressure, less disease. Drip irrigation recommended. Use varieties that DON'T need virus resistance since vector pressure is low.
+Plant **Dec–Jan**, harvest **Mar–Apr**. Best varieties: Soler, South Anna, Chinese Tropical Pumpkin. **For best flavor:** Tetsukabuto + Winter Sweet as its pollinator (sow Winter Sweet 7 days first, 1 per 4 Tetsukabuto). This is the only window for pure kabocha. Lower humidity (74–80%), lower aphid pressure, less disease. Drip irrigation recommended. Use varieties that DON'T need virus resistance since vector pressure is low.
 
 ### Option B: Wet-Season Tunnel
 Plant **May–Jun**, harvest **Aug–Oct**. Only viable for 1–2 plants per 3×6m module due to space. Best varieties: **Taina Dorada** (semi-bush habit fits tunnels), **South Anna** (downy mildew resistance as insurance even under cover). **Must hand-pollinate** — 40-mesh insect net blocks bees. Tunnel provides rain protection which dramatically reduces foliar disease, but the tunnel is designed to stay cool (≤+2°C above ambient), so it won't help with temperature.
@@ -547,6 +604,14 @@ Plant **May–Jun**, harvest **Aug–Oct**. Only viable for 1–2 plants per 3×
 | Fu et al., IJMS 25(2024) | Hainan butternut squash powdery mildew resistance genes |
 | Dhillon et al. (2021) | AVPU1426 resistance to three begomoviruses |
 | Frost / SARE FS23-347 (2023–2025) | Continuation of C. moschata breeding — Bakers Branch Butternut, Korean summer squash dehybridization |
+| [Formiga et al., OSU EM 9270 (2019)](https://extension.oregonstate.edu/catalog/em-9270-kabocha-buttercup-squash-western-oregon-gardens) | Kabocha trials 2014–17; Tetsukabuto best overall |
+| [Culinary Breeding Network](https://lane-selman-9pef.squarespace.com/winter-squash-variety-info) | Chef tastings: Sweet Mama, Winter Sweet |
+| [Amaro et al., Embrapa (2014, 2018)](http://infoteca.cnptia.embrapa.br/infoteca/handle/doc/1106554) | Tetsukabuto in Brazil: organic yields, pollinator timing |
+| [NZ Agronomy Society (1992)](https://www.agronomysociety.org.nz/files/1992_5._Buttercup_squash_sensory_quality.pdf) | Kabocha Brix and dry matter vs maturity and storage |
+| [Common Wealth winter squash trial (2014)](https://projects.sare.org/media/pdf/1/0/0/1000781winter-squash-data-summary.pdf) | Brix, dry matter, DM scores for 40+ entries incl. Buttercup |
+| [Tupouniua, U. Sydney (2012)](https://ses.library.usyd.edu.au/handle/2123/14576) | Powdery mildew on kabocha in Tonga |
+| [Nishi Farm, Tonga (2010)](http://edoyasai.sakura.ne.jp/sblo_files/edoyasai/image/E38388E383B3E382ACE381AEE382ABE3839CE38381E383A32010CE3808008.Nov.2010.pdf) | Japanese kabocha export crop at 20–25 / 14–19 °C |
+| [PROTA / PlantVillage](https://plantvillage.psu.edu/topics/pumpkin/infos) | C. maxima the most cold-tolerant Cucurbita |
 
 ---
 
@@ -556,6 +621,8 @@ Plant **May–Jun**, harvest **Aug–Oct**. Only viable for 1–2 plants per 3×
 
 | Variety | Type | Why Best for Volcán | Seller | Direct Link | Price |
 |---|---|---|---|---|---|
+| **Tetsukabuto** | F1 | Best flavor that copes with Volcán: kabocha taste, PM intermediate R, Brazil's main pumpkin. Needs a pollinator. | Johnny's | [product page](https://www.johnnyseeds.com/vegetables/squash/winter-squash/tetsukabuto-f1-hubbard-squash-seed-3578.html) | $6.45 (30 seeds) |
+| **Winter Sweet** | F1 | Top kabocha flavor; dry season only; pollinator for Tetsukabuto | Johnny's | [product page](https://www.johnnyseeds.com/vegetables/squash/winter-squash/winter-sweet-organic-f1-kabocha-squash-seed-3034G.html) | $5.85 (30 seeds) |
 | **Chinese Tropical Pumpkin** | OP | Max yield + excellent DM resistance + dessert quality | Common Wealth Seed Growers | [product page](https://commonwealthseeds.com/product/chinese-tropical-pumpkin-certified-organic/) | $4.50 |
 | **South Anna Butternut** | OP | Bred for humid Southeast US, excellent DM resistance, great eating quality | Common Wealth Seed Growers | [product page](https://commonwealthseeds.com/product/south-anna-butternut-certified-organic/) | $4.50 |
 | **Seminole Pumpkin** | OP | Exceptional DM resistance — survives anything. 1 year storage. | Common Wealth Seed Growers | [product page](https://commonwealthseeds.com/product/seminole-pumpkin-certified-organic/) | $4.50 |
