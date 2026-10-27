@@ -12,6 +12,15 @@
         "--vault",
         "/mnt/c/Users/LXRAlexandreChampion/Documents/IntentGraph"
       ]
+    },
+    "chrome-devtools": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "chrome-devtools-mcp@latest",
+        "--browser-url=http://127.0.0.1:9222"
+      ]
     }
   }
 }
