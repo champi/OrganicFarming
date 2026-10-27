@@ -28,7 +28,7 @@
 | 2 | Thai Sweet (Hazzard's) | ✅ In stock, $2.40 |
 | 3 | Italiano Classico (growitalian) | ❌ 5 g–100 g sold out (only 500 g / $65 left). Organic listing gone. **Sub:** [Tigullio](https://www.growitalian.com/products/basil-italiano-classico-tigullio-13-7) ✅ $6.00 or [Vintage Basil from Genova](https://www.growitalian.com/products/vintage-basil-from-genova) ✅ $6.00 |
 | 4 | Bolloso Napoletano (growitalian) | ✅ 8 g in stock, $5.50 |
-| 5 | Rutgers Obsession DMR (Burpee) | ❌ Sold out (both 5,000-seed packs). Firefly Farm blocked access and BestSeedShop was down (502). **Sub:** [Rutgers Passion DMR, Harris](https://www.harrisseeds.com/products/12844-basil-rutgers-passion-dmr) ✅ $3.74 / 100 seeds |
+| 5 | Rutgers Obsession DMR (Burpee) | ❌ Sold out at Burpee. **In stock elsewhere:** [Etsy ezyseeds](https://www.etsy.com/listing/1198216828/basil-rutgers-obsession-seeds-non-gmo) (ships to Panama), [Kokopelli](https://kokopelli-semences.fr/en/p/rutgers-obsession-basil) €3.40, [Hazzard's](https://www.hazzardsgreenhouse.com/Merchant2/merchant.mvc?Store_Code=Hazwho&Screen=PROD&Product_Code=B7552) $11.21 / 500 seeds. See the #6 section for the full list. **Or sub:** [Rutgers Passion DMR, Harris](https://www.harrisseeds.com/products/12844-basil-rutgers-passion-dmr) ✅ $3.74 / 100 seeds |
 
 ---
 
@@ -115,11 +115,23 @@ Fusarium wilt. 26" tall, slow to bolt.
 
 **OP · US Patent No. 10,159,212 · Biologically saveable, legally restricted until ~2038**
 
-| Retailer | Price | Link |
+*Stock checked Oct 27, 2026.*
+
+| Retailer | Price / stock | Link |
 |----------|-------|------|
-| Burpee | Check site | https://www.burpee.com/herb-basil-obsession-dmr-prod600315.html |
-| Firefly Farm — Organic | $3.12–$3.50 | https://fireflyfarmandmercantile.com/products/rutgers-obsession-basil-organic |
-| BestSeedShop | $4.30 (200 seeds) | https://www.bestseedshop.com/rutgers-obsession-dmr-basil-seed/ |
+| Etsy — ezyseeds (ships to Panama) | ✅ $2.31 for 3 packs of 15+ seeds, $18.80 shipping | https://www.etsy.com/listing/1198216828/basil-rutgers-obsession-seeds-non-gmo |
+| Kokopelli (France) — Organic | ✅ €3.40 (200 seeds) | https://kokopelli-semences.fr/en/p/rutgers-obsession-basil |
+| Hazzard's (wholesale store) | ✅ Add to Cart: $11.21 (500 seeds) / $18.98 (1,000 seeds) | https://www.hazzardsgreenhouse.com/Merchant2/merchant.mvc?Store_Code=Hazwho&Screen=PROD&Product_Code=B7552 |
+| Garden Grow Supply — Organic (High Mowing stock) | ✅ Add to Cart: $0.90 sale (1/10 g) | https://www.gardengrowsupply.com/product/rutgers-obsession-dmr-basil-organic-33261/ |
+| Stokes Seeds (bulk) | ✅ $143.76 / oz | https://www.stokeseeds.com/products/obsession-dmr-untreated-basil-seed |
+| Burpee | ❌ Sold out | https://www.burpee.com/products/herb-basil-obsession-dmr-prod600315 |
+| High Mowing — Organic | ❌ Out of stock, "unlikely to be restocked" | https://www.highmowingseeds.com/organic-non-gmo-rutgers-obsession-dmr-basil.html |
+| Whitwam Organics | ❌ Sold out | https://whitwamorganics.com/products/genovese-basil-seedling-1 |
+| Golden Hour Gift Co. | ❌ Sold out | https://goldenhourgiftco.com/products/rutgers-obsession-basil-1-10-gram |
+| Sage Garden (Canada) — Organic | ❌ Sold out | https://sagegarden.ca/products/seeds-basil-rutgers-obsession-og |
+| Osborne, Seedway, Johnny's | ❌ No longer listed | — |
+| Firefly Farm — Organic | ? Site blocks access | https://fireflyfarmandmercantile.com/products/rutgers-obsession-basil-organic |
+| BestSeedShop | ? Site down (502); ships from China, 15–29 days | https://www.bestseedshop.com/rutgers-obsession-dmr-basil-seed/ |
 | KBC Specialty Seeds | Email for price | https://www.kbcspecialtyseeds.com (email info@kbcspecialtyseeds.com) |
 
 ---
