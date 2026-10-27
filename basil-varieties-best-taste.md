@@ -8,24 +8,26 @@
 
 | # | Variety | Type | Why | Shop | Price |
 |---|---------|------|-----|------|-------|
-| 1 | **Thai Magic** | Thai, sweet/mild | Sweetest Thai. "Mild, sweet flavor, hint of anise." Big 4" leaves, late bloomer. | [Hazzard's Greenhouse](https://www.hazzardsgreenhouse.com/basil-thai-magic-ocimum-basilicum.html) | $3.10 |
-| 2 | **Thai Sweet** | Thai, classic | Standard horapha for comparison. Spicy anise-clove, purple stems. | [Hazzard's Greenhouse](https://www.hazzardsgreenhouse.com/basil-thai-sweet-ocimum-basilicum.html) | $2.40 |
+| 1 | **Thai Magic** | Thai, sweet/mild | Sweetest Thai. "Mild, sweet flavor, hint of anise." Big 4" leaves, late bloomer. | [Hazzard's (Hazwho store)](https://www.hazzardsgreenhouse.com/Merchant2/merchant.mvc?Store_Code=Hazwho&Screen=PROD&Product_Code=B7652) | $10.06 (250 seeds) |
+| 2 | **Thai Sweet** | Thai, classic | Standard horapha for comparison. Spicy anise-clove, purple stems. | [Hazzard's (Hazwho store)](https://www.hazzardsgreenhouse.com/Merchant2/merchant.mvc?Store_Code=Hazwho&Screen=PROD&Product_Code=B7321) | $7.99 (1,000 seeds) |
 | 3 | **Italiano Classico** | Italian Genovese | The pesto benchmark. Franchi heirloom since 1783. 3,000 seeds/pack. | [Seeds from Italy](https://www.growitalian.com/products/basil-italiano-classico-13-2) | $5.50 |
 | 4 | **Bolloso Napoletano** | Italian large-leaf | Best for raw salads/Caprese. Hand-sized crinkled leaves, intense sweet basil flavor. | [Seeds from Italy](https://www.growitalian.com/products/basil-bolloso-napoletano-13-8) | $5.50 |
-| 5 | **Rutgers Obsession DMR** | DMR Genovese | #1 in blind taste tests against Genovese. Downy mildew resistance. | [Burpee](https://www.burpee.com/herb-basil-obsession-dmr-prod600315.html) | $4.45+ |
+| 5 | **Rutgers Obsession DMR** | DMR Genovese | #1 in blind taste tests against Genovese. Downy mildew resistance. | [Hazzard's (Hazwho store)](https://www.hazzardsgreenhouse.com/Merchant2/merchant.mvc?Store_Code=Hazwho&Screen=PROD&Product_Code=B7552) | $11.21 (500 seeds) |
 
 **All five are open-pollinated.** Thai Magic, Thai Sweet, Italiano Classico, and Napoletano are fully seed-saveable with no restrictions. Rutgers Obsession is OP but US Utility Patent No. 10,159,212 (valid through ~2038) — biologically saveable, legally restricted for commercial propagation.
 
 **Covers all use cases:** Asian cooking + pho garnish (Thai Magic, Thai Sweet) · pesto + cooked Italian (Italiano Classico) · Caprese + raw salads + wraps (Bolloso Napoletano) · disease-resistant backup with proven flavor (Rutgers Obsession).
 
-**Total: ~$21 from 3 shops.** Hazzard's ships both Thai varieties together. growitalian.com ships both Italian Franchi varieties together.
+**Total: ~$40.76 from 2 shops** (with Tigullio in place of the sold-out Italiano Classico). Hazzard's ($29.26) ships both Thai varieties + Obsession together. growitalian.com ($11.50) ships both Italian Franchi varieties together.
+
+**Hazzard's: use the Hazwho store links** (`Merchant2/merchant.mvc?Store_Code=Hazwho...`), not the `/basil-thai-*.html` retail pages.
 
 **Stock check — Oct 27, 2026:**
 
 | # | Variety | Status |
 |---|---------|--------|
-| 1 | Thai Magic (Hazzard's) | ✅ In stock, $3.10 |
-| 2 | Thai Sweet (Hazzard's) | ✅ In stock, $2.40 |
+| 1 | Thai Magic (Hazzard's) | ✅ In stock, $3.10 (20 seeds, retail page); Hazwho store $10.06 / 250 seeds |
+| 2 | Thai Sweet (Hazzard's) | ✅ In stock, $2.40 (50 seeds, retail page); Hazwho store $7.99 / 1,000 seeds |
 | 3 | Italiano Classico (growitalian) | ❌ 5 g–100 g sold out (only 500 g / $65 left). Organic listing gone. **Sub:** [Tigullio](https://www.growitalian.com/products/basil-italiano-classico-tigullio-13-7) ✅ $6.00 or [Vintage Basil from Genova](https://www.growitalian.com/products/vintage-basil-from-genova) ✅ $6.00 |
 | 4 | Bolloso Napoletano (growitalian) | ✅ 8 g in stock, $5.50 |
 | 5 | Rutgers Obsession DMR (Burpee) | ❌ Sold out at Burpee. **In stock elsewhere:** [Etsy ezyseeds](https://www.etsy.com/listing/1198216828/basil-rutgers-obsession-seeds-non-gmo) (ships to Panama), [Kokopelli](https://kokopelli-semences.fr/en/p/rutgers-obsession-basil) €3.40, [Hazzard's](https://www.hazzardsgreenhouse.com/Merchant2/merchant.mvc?Store_Code=Hazwho&Screen=PROD&Product_Code=B7552) $11.21 / 500 seeds. See the #6 section for the full list. **Or sub:** [Rutgers Passion DMR, Harris](https://www.harrisseeds.com/products/12844-basil-rutgers-passion-dmr) ✅ $3.74 / 100 seeds |
@@ -477,7 +479,7 @@ anise note rather than the sharp licorice of Siam Queen.
 
 | Retailer | Price | Link |
 |----------|-------|------|
-| Hazzard's Greenhouse | $3.10 (20 seeds) | https://www.hazzardsgreenhouse.com/basil-thai-magic-ocimum-basilicum.html |
+| Hazzard's (Hazwho store) | $10.06 (250 seeds) | https://www.hazzardsgreenhouse.com/Merchant2/merchant.mvc?Store_Code=Hazwho&Screen=PROD&Product_Code=B7652 |
 
 ---
 
