@@ -16,16 +16,29 @@ Use the Hazwho store links, not the `/basil-thai-*.html` retail pages. All three
 
 **Cart shortcut (untested):** `https://www.hazzardsgreenhouse.com/Merchant2/merchant.mvc?Store_Code=Hazwho&Screen=BASK&Action=ADPR&Product_Code=B7652&Quantity=1`. Open it once per item, changing `Product_Code`. A test from the command line got a 403 (probably bot blocking), so check it in a browser.
 
-### Johnny's Selected Seeds — ~$12.30
+### Johnny's Selected Seeds — $40.25 (cart saved Oct 28)
 
-Pumpkin for the Dec–Jan dry-season planting, so order soon. Sow Winter Sweet 7 days before Tetsukabuto, 1 Winter Sweet per 4 Tetsukabuto.
+Pumpkin is for the Dec–Jan dry-season planting, so order soon. Sow Winter Sweet 7 days before Tetsukabuto, 1 Winter Sweet per 4 Tetsukabuto.
 
-| Item | Pack | Qty | Price | Notes |
+| Item | SKU | Pack | Qty | Price | Notes |
+|---|---|---|---|---|---|
+| [Tetsukabuto F1 Hubbard Squash](https://www.johnnyseeds.com/vegetables/squash/winter-squash/tetsukabuto-f1-hubbard-squash-seed-3578.11.html) | 3578.11 | Packet (30 seeds) | 1 | $6.45 | Needs a pollinator. [pumpkin notes](pumpkin-varieties-organic-volcan.md) |
+| [Winter Sweet Organic F1 Kabocha](https://www.johnnyseeds.com/vegetables/squash/winter-squash/winter-sweet-organic-f1-kabocha-squash-seed-3034G.11.html) | 3034G.11 | Packet (30 seeds) | 1 | $5.85 | Pollinator for Tetsukabuto |
+| [Marino Organic Cilantro](https://www.johnnyseeds.com/herbs/cilantro-coriander/marino-organic-cilantro-coriander-seed-3858G.55.html) | 3858G.55 | 10,000 seeds | 1 | $11.30 | |
+| [Leisure Cilantro](https://www.johnnyseeds.com/herbs/cilantro-coriander/leisure-cilantro-coriander-seed-3409.30.html) | 3409.30 | 1/4 lb | 1 | $8.90 | |
+| [Mexicana Organic F1 Zucchini](https://www.johnnyseeds.com/vegetables/squash/summer-squash/mexicana-organic-f1-zucchini-squash-seed-4220G.11.html) | 4220G.11 | Packet | 1 | $7.75 | |
+
+Johnny's has no shareable cart link. Save items to the account wishlist. The SKUs above pin the exact pack size.
+
+### Paramount Seeds — $30.80 (cart saved Oct 28)
+
+| Item | SKU | Pack | Qty | Price |
 |---|---|---|---|---|
-| [Tetsukabuto F1](https://www.johnnyseeds.com/vegetables/squash/winter-squash/tetsukabuto-f1-hubbard-squash-seed-3578.html) | 30 seeds | 1 | $6.45 | Needs a pollinator. [pumpkin notes](pumpkin-varieties-organic-volcan.md) |
-| [Winter Sweet Organic F1](https://www.johnnyseeds.com/vegetables/squash/winter-squash/winter-sweet-organic-f1-kabocha-squash-seed-3034G.html) | 30 seeds | 1 | $5.85 | Pollinator for Tetsukabuto |
+| [Supersweet 100 Cherry Tomato](https://paramountseeds.com/products/supersweet-100-cherry-tomato?variant=42316733612256) | MSSPRSWT100 | 100 seeds | 1 | $6.40 |
+| [Cherry Bomb Tomato F1](https://paramountseeds.com/products/cherry-bomb-tomato-f1?variant=39840573030582) | MSCHRB50 | 50 seeds | 1 | $12.40 |
+| [Dunja F1 (untreated)](https://paramountseeds.com/products/dunja-f1-untreated-seed?variant=44184646975712) | EZDUNJA100 | 100 seeds | 1 | $12.00 |
 
-Johnny's has no shareable cart link. Save items to the account wishlist.
+**Cart link (Shopify), loads all three:** https://paramountseeds.com/cart/42316733612256:1,39840573030582:1,44184646975712:1
 
 ### AgroEnlace (Panama) — $6.00
 
