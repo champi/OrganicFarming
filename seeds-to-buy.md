@@ -56,6 +56,18 @@ Starting set from [Best_Okra_Varieties.md](Best_Okra_Varieties.md).
 | [Mary's Heirloom](https://www.marysheirloomseeds.com/products/louisiana-green-velvet-okra) | Emerald (Louisiana Green Velvet) | $2.00 |
 | [Reimer Seeds](https://www.reimerseeds.com/burmese-okra-seeds) | Burmese | $2.50 |
 
+### Curly parsley Lisette — Park Seed or Seedway (not decided)
+
+Lisette yielded 99.8 t/ha vs 76.8 for Moss Curled in a Polish trial. It is untreated, with no F1 label (probably open-pollinated). Decide the shop once broccoli, radish, beets etc. are picked: whichever shop also carries those wins, because the shipping is per order.
+
+| Shop | Pack | Seed price | Shipping | Total | Status (Oct 28) |
+|---|---|---|---|---|---|
+| [Park Seed](https://www.parkseed.com/products/lisette-parsley-seeds-05635) | 1,000 seeds | $14.95 | $6.95 flat, seed-only orders | $21.90 | ✅ In stock |
+| [Park Seed](https://www.parkseed.com/products/lisette-parsley-seeds-05635) | 100 seeds | $2.95 | $6.95 | $9.90 | ✅ In stock (too few to sell bunches) |
+| [Seedway](https://www.seedway.com/product/parsley-lisette-not-treated/) | 4 oz (~44,000–84,000 seeds) | $10.40 | $20.00 flat per order, any size, any US state | $30.40 (+ FL tax) | Added to cart OK |
+
+Seedway's $20 was checked at checkout for NY, FL and CA, and with 10 bags. It only pays off on a bulk order across several crops. Fallback: [Darki at Johnny's](https://www.johnnyseeds.com/herbs/parsley/) ($5.35, open-pollinated, trialed), which rides in the Johnny's box.
+
 ---
 
 ## Tithonia diversifolia (botón de oro / Mexican sunflower)
