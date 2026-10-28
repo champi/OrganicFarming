@@ -71,7 +71,7 @@ Starting set from [Best_Okra_Varieties.md](Best_Okra_Varieties.md).
 
 ### Curly parsley Lisette — Park Seed or Seedway (not decided)
 
-Lisette yielded 99.8 t/ha vs 76.8 for Moss Curled in a Polish trial. It is untreated, with no F1 label (probably open-pollinated). Decide the shop once broccoli, radish, beets etc. are picked: whichever shop also carries those wins, because the shipping is per order.
+In a Polish trial (Jadczak et al. 2019), Lisette's total yield (99.8 vs 76.8 t/ha for Champion Moss Curled) was **not** significantly higher. Its leaf-blade yield was (65 vs 46 t/ha, LSD 10). Seedway describes it as medium-curled; very tight curls dry slowly and favour Septoria. No curly variety has proven Septoria resistance; avoid Sherwood, which is rated highly susceptible. Clean or hot-water-treated seed matters more than the variety. Seedway's Lisette is untreated, with no F1 label (probably open-pollinated). Decide the shop once broccoli, radish, beets etc. are picked: whichever shop also carries those wins, because the shipping is per order.
 
 | Shop | Pack | Seed price | Shipping | Total | Status (Oct 28) |
 |---|---|---|---|---|---|
