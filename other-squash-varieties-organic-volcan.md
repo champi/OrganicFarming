@@ -94,7 +94,7 @@ Brazilian C. moschata summer squash. Green and white striped, butternut-shaped f
 | Common Wealth Seed Growers | $4.50 |
 
 #### Jin Dong Ae (Research Sample) 🇰🇷
-Korean C. moschata summer squash. Compact vines, early and heavy fruit set. Light green fruits. Rich flavor — richer than standard summer squash. Resistant to vine borers and plectosporium blight. DM resistance is moderate (not as strong as the Brazilian types). Plants wind down after 4–6 weeks. 54 days.
+Korean C. moschata summer squash. Compact vines, early and heavy fruit set. Light green fruits. Rich flavor — richer than standard summer squash (best-tasting group in SARE 2023). Resistant to vine borers and plectosporium blight. **DM resistance is poor**: it scored 5/5 (the worst) under heavy DM at Care of the Earth and was "not productive even without DM pressure". Plants wind down after 4–6 weeks. 54 days.
 
 | Product Page | Price |
 |---|---|
@@ -130,23 +130,37 @@ Beyond the Suprema/Bella F1 hybrids already covered in the pumpkin doc, several 
 OP variety from UPLB (University of the Philippines Los Baños). Large yellow-orange fruits, deeply ridged, thick flesh, 4.2–5.0kg. **Tolerant to squash virus complex.** Good for baking and cooking. 57–80 days to flowering depending on season. Yields 26–38 t/ha.
 
 #### Victoria F1 🇵🇭 (Kaneko Seeds)
-73 days. **Tolerant to mosaic virus, powdery AND downy mildew.** High yielding, easy fruit set. Compact description suggests manageable vine length.
+73 days. Mature kalabasa (3–4 kg, ridged, green with white spots), not a summer squash. **Tolerant to mosaic virus, powdery AND downy mildew** (vendor claim). High yielding, easy fruit set.
 
 #### Gloria F1 🇵🇭 (Kaneko Seeds)
 82 days. **High tolerance to virus, powdery AND downy mildew.** High yielding. Triple disease resistance in one hybrid.
 
 ---
 
-## Summary: What to Grow in Volcán (Ranked)
+## Summary: What to Grow in Volcán (Ranked — literature review, Oct 2026)
 
-| Rank | Squash | Why It's Perfect for Volcán | Availability |
-|---|---|---|---|
-| 🥇 | **Chayote** | Native to this exact climate. 500–2,000m, 80–85% humidity. Perennial. Buy at local market. | **Local market — plant the fruit** |
-| 🥈 | **C. ficifolia** | Evolved for cool humid highlands 1,000–3,000m. 2–5 year storage. Disease-resistant. | Ask IDIAP / local farmers / US seed |
-| 🥉 | **C. moschata pumpkin** | Documented in separate pumpkin-varieties doc. Soler, South Anna, Chinese Tropical. | Common Wealth Seed Growers |
-| 4 | **Mini Paulista / Menina** | C. moschata summer squash. Vine borer immune. DM resistant. | Common Wealth Seed Growers |
-| 5 | **Tatume** | Most disease-resistant C. pepo in existence. Survived what killed all others. | Widely available US seed catalogs |
-| 6 | **Tromboncino** | Italian vining C. moschata. Eat young or mature. Vine borer immune. | Widely available US seed catalogs |
+**Volcán's main Cucurbita killer is downy mildew.** DM thrives at 10–24°C with leaf-surface RH >85% (UConn IPM), which is Volcán's climate almost year-round. That makes trial-measured DM resistance the main climate criterion. Second is temperature: in Mexico, C. moschata is mostly grown below 1,000 m (optimum ~20–30°C), C. pepo above 1,000 m, and C. ficifolia above 1,300 m (Villanueva 2007, via Ríos-Santos et al.; Valdivia-Bernal et al. 2020). At 1,400 m and 16–24°C, Volcán sits at the cool edge of moschata's range and in the core range of pepo, ficifolia and chayote.
+
+Flavor scores come from the SARE FS23-347 trials (Virginia/Tennessee 2023). Care of the Earth rated flavor 1–5 with **1 = best**. Twin Oaks rated sweetness with higher = sweeter. "—" means the variety was not rated.
+
+| Rank | Squash | Climate fit for Volcán | Flavor evidence | Availability |
+|---|---|---|---|---|
+| 🥇 | **Chayote** | Native, already grown commercially at this elevation in Costa Rica. No DM problem. | Green types (virens/nigrum) taste neutral at ~5°Brix. **Albus (white/yellow) types are sweet at 7.6–8.1°Brix** (Cadena-Iñiguez, BANGESe). Look for a pale/yellow local type. | Local market |
+| 🥈 | **Menina Brasileira Precoce** | **Best DM resistance in the trials** (DM 1/5, the best score). Top yielder in the late, DM-heavy succession. Slow to start and a long vine. | COE flavor 2/5 (good). Common Wealth: "eating quality very good". | Common Wealth (sold out until winter) |
+| 🥉 | **Mini Paulista** | DM 2/5. Highest count and weight of the short-vine types under heavy DM at COE. Short vine. | COE flavor 2/5. Twin Oaks sweetness 3.5. Singled out for flavor in both trials. | Common Wealth |
+| 4 | **Chilacayote (C. ficifolia)** | Strongest temperature/elevation match of any Cucurbita (1,000–2,800 m). Stays vigorous in cool wet spells (PROSEA). DM resistance undocumented. Huge vine. | **Weak as a fresh vegetable**: young fruit is "mild/bland". Valued for *dulce de chilacayote*. Grown in Costa Rica as *chiverre*. | US seed (Greenhand $4.20) |
+| 5 | **Tatume (C. pepo)** | Pepo suits >1,000 m (Guatemalan *güicoy* is grown above 1,000 m). Most productive pepo in SARE Trial 2. Plectosporium-resistant, with good DM resistance that eventually failed. | No trial flavor data. Growers consistently say it is firmer and tastier than yellow squash. | Mary's Heirloom $2.50 |
+| 6 | **Tromboncino** | DM 2/5, by far the top yield under heavy DM at COE (52.8 lb vs 15.6 for the next best). | **Lowest flavor in both trials** (COE 4/5; Twin Oaks sweetness 2.5, the lowest). Frost/SARE: "somewhat bland". Home growers often say nutty and better than zucchini. | Fedco ~$3 |
+| 7 | **Victoria F1 / Gloria F1** (Kaneko PH) | Confirmed on pilkanekoseeds.com.ph: *mature* kalabasa (3–4 kg), not summer squash. Vendor claims PM + DM + virus tolerance. Bred for the Philippine lowlands. | None published. | Philippines only; hard to import |
+| 8 | **Rizalina** (UPLB/IPB) | Philippine DA guide: not season-specific, withstands squash virus complex and downy mildew better. A lowland variety. | None published. | Philippines only |
+| 9 | **Jin Dong Ae × Mini Paulista** | Unproven F3 that aims to combine Jin Dong Ae's flavor with Mini Paulista's DM resistance. Worth a small trial. | Unknown; the parents are the two best-flavored varieties. | Common Wealth |
+| 10 | **Jin Dong Ae** | **Worst DM score at COE (5/5, "very susceptible, not productive even without DM pressure")**. Plants wind down after 4–6 weeks. A poor fit for Volcán. | **Best flavor in the trials**: COE 2.5/5, Twin Oaks sweetness 4. "Korean summer squashes stood out for flavor". | Common Wealth (sold out) |
+
+**Best flavor ranking alone (young fruit):** Jin Dong Ae > Mini Paulista ≈ Menina > Tatume (anecdotal) > Tromboncino > albus chayote > green chayote > chilacayote.
+
+**Practical pick:** plant chayote (look for a sweet albus local type) plus Menina and/or Mini Paulista. Add the JDA × Mini Paulista cross as a small flavor trial. Tatume is the backup if moschata turns out too slow in Volcán's cool temperatures.
+
+The winter moschata pumpkins (Soler, South Anna, etc.) are ranked separately in [pumpkin-varieties-organic-volcan.md](pumpkin-varieties-organic-volcan.md).
 
 ### The Chayote Reality
 
@@ -171,6 +185,15 @@ The research literature confirms what geography already tells you: *"In the Indo
 | UPLB Philippines | Rizalina OP squash release |
 | Kaneko Seeds Philippines | Victoria F1, Gloria F1 disease-resistant hybrids |
 | Liseed.org / Long Island Seed Project | Korean moschata summer squash documentation |
+| [SARE FS23-347 COE moschata trial sheet](https://projects.sare.org/media/pdf/C/O/E/COE-Summer-Squash-Moschata-Edited.pdf) | Flavor, texture, DM scores and yields under heavy DM (2023) |
+| [SARE FS23-347 Twin Oaks moschata data](https://projects.sare.org/media/pdf/2/0/2/2023-TOS-Moschata-Summer-Squash-Data-edited-5.pdf) | Sweetness taste test, yields, foliage health (2023) |
+| [Cadena-Iñiguez et al., BANGESe passport data (Genet. Resour.)](https://www.genresj.org/index.php/grj/article/download/genresj.NYFM1739/226) | Chayote albus 7.6–8.1°Brix (sweet) vs virens/nigrum ~5°Brix (neutral) |
+| [Rivera-Ponce et al. 2024, Horticulturae 10:844](https://doi.org/10.3390/horticulturae10080844) | Sugars and postharvest behavior of 10 chayote varietal groups |
+| [Ríos-Santos et al., Agroproductividad](https://revista-agroproductividad.org/index.php/agroproductividad/en/article/download/1210/983/2231) | Mexico: moschata <1,000 m, pepo >1,000 m, ficifolia >1,300 m |
+| [Valdivia-Bernal et al. 2020, Rev. Fitotec. Mex.](https://doi.org/10.35196/rfm.2020.3.335) | Pepo and ficifolia sort to high/cool sites; moschata to low/hot sites |
+| [Purdue NewCrop, Lira-Saade "Cucurbits"](https://www.hort.purdue.edu/newcrop/1492/cucurbits.html) | Elevation ranges; Guatemalan pepo (güicoy) grown above 1,000 m |
+| [Kaneko Seeds Philippines squash catalog](https://pilkanekoseeds.com.ph/category/cucurbits/squash/) | Victoria F1 / Gloria F1 specs (mature kalabasa, 3–4 kg) |
+| [UConn IPM, Downy mildew](https://ipm-cahnr.media.uconn.edu/wp-content/uploads/sites/3216/2025/09/Downy-Mildew-and-Sentinel-Plot.pdf) | DM favored at 10–24°C with RH >85% |
 
 ---
 
@@ -181,8 +204,14 @@ The research literature confirms what geography already tells you: *"In the Indo
 | Variety | Type | Species | Why Best for Volcán | Seller | Direct Link | Price |
 |---|---|---|---|---|---|---|
 | **Chayote** | OP (plant the fruit) | Sechium edule | Native to this exact climate. Perennial. #1 pick. | Local market (Panama/Costa Rica) | Walk to any market in Chiriquí | ~$0.50/fruit |
-| **Mini Paulista** | OP | C. moschata | Strong DM resistance, vine borer immune, keeps bearing for months | Common Wealth Seed Growers | [product page](https://commonwealthseeds.com/product/mini-paulista-summer-squash-certified-organic/) | $4.50 |
 | **Menina Brasileira Precoce** | OP | C. moschata | Very strong DM resistance, vine borer + plectosporium immune | Common Wealth Seed Growers | [product page](https://commonwealthseeds.com/product/menina-brasileira-precoce-early-brazilian-girl-summer-squash-certified-organic/) | $4.50 |
+| **Mini Paulista** | OP | C. moschata | Strong DM resistance, vine borer immune, keeps bearing for months | Common Wealth Seed Growers | [product page](https://commonwealthseeds.com/product/mini-paulista-summer-squash-certified-organic/) | $4.50 |
+| **Chilacayote** | OP | C. ficifolia | Evolved for cool humid highlands 1,000–3,000m. 2–5 year fruit storage. | Planting Justice | [product page](https://plantingjustice.org/products/chilacayote-perennial-squash) | $8.00 |
+| **Chilacayote** | OP | C. ficifolia | Same | Greenhand Tool | [product page](https://www.greenhandtool.com/products/chilacayote-fig-leaf-gourd-seeds-for-easy-planting) | $4.20 |
+| **Chilacayote** | OP | C. ficifolia | Same | Carlton Carnivores | [product page](https://www.carltoncarnivores.com/product-page/chilacayote-seeds-cucurbita-ficifolia) | $6.00 |
+| **Chilacayote** | OP | C. ficifolia | Same | Grow Your Own Food Nursery | [product page](https://growyourownfoodnursery.com/products/cucurbita-ficifolia-chilacayote-alcayota-squash-seeds) | $14.97 |
+| **Chilacayote** | OP | C. ficifolia | Same (SOLD OUT) | Experimental Farm Network | [product page](https://store.experimentalfarmnetwork.org/products/renskes-chilacayote-squash-northern-adapted-fig-leaf-gourd) | $5.00 |
+| **Chilacayote** | OP | C. ficifolia | Same (SOLD OUT) | Farmacie Isolde | [product page](https://www.farmacieisolde.com/curiosities/chilacayote) | $3.75 |
 | **Tatume** | OP | C. pepo | Most disease-resistant pepo — survived when all others died in SARE trials | Common Wealth Seed Growers | [product page](https://commonwealthseeds.com/product/tatume-summer-squash-calabacita-certified-organic/) | $4.50 |
 | **Tatume** | OP | C. pepo | Same | Mary's Heirloom Seeds | [product page](https://www.marysheirloomseeds.com/products/tatume-squash) | $2.50 |
 | **Tatume** | OP | C. pepo | Same | Victory Seed Company | [product page](https://victoryseeds.com/products/tatume-summer-squash) | $3.67 |
@@ -191,11 +220,5 @@ The research literature confirms what geography already tells you: *"In the Indo
 | **Tromboncino** | OP | C. moschata | Same | Southern Exposure Seed Exchange | [product page](https://www.southernexposure.com/products/tromboncino-summer-squash/) | ~$3.50 |
 | **Tromboncino** | OP | C. moschata | Same | Nichols Garden Nursery (Amazon) | [product page](https://www.amazon.com/Tromboncino-Summer-Heirloom-Squash-Seeds/dp/B008AHF4GA) | ~$4.00 |
 | **Tromboncino** | OP | C. moschata | Same | Autumn Prairie Pumpkins | [product page](https://autumnprairiepumpkins.com/collections/seeds) | $4.99 |
-| **Jin Dong Ae F3** | OP (research) | C. moschata | Korean, early + productive, vine borer immune. 54 days. | Common Wealth Seed Growers | [product page](https://commonwealthseeds.com/product/jin-dong-ae-f3-korean-summer-squash-research-sample-certified-organic/) | $4.50 |
 | **Jin Dong Ae × Mini Paulista** | OP (research) | C. moschata | Cross combining Korean productivity + Brazilian DM resistance. 58d. | Common Wealth Seed Growers | [product page](https://commonwealthseeds.com/product/jin-dong-ae-x-mini-paulista-f3-summer-squash-certified-organic/) | $4.50 |
-| **Chilacayote** | OP | C. ficifolia | Evolved for cool humid highlands 1,000–3,000m. 2–5 year fruit storage. | Planting Justice | [product page](https://plantingjustice.org/products/chilacayote-perennial-squash) | $8.00 |
-| **Chilacayote** | OP | C. ficifolia | Same | Greenhand Tool | [product page](https://www.greenhandtool.com/products/chilacayote-fig-leaf-gourd-seeds-for-easy-planting) | $4.20 |
-| **Chilacayote** | OP | C. ficifolia | Same | Carlton Carnivores | [product page](https://www.carltoncarnivores.com/product-page/chilacayote-seeds-cucurbita-ficifolia) | $6.00 |
-| **Chilacayote** | OP | C. ficifolia | Same | Grow Your Own Food Nursery | [product page](https://growyourownfoodnursery.com/products/cucurbita-ficifolia-chilacayote-alcayota-squash-seeds) | $14.97 |
-| **Chilacayote** | OP | C. ficifolia | Same (SOLD OUT) | Experimental Farm Network | [product page](https://store.experimentalfarmnetwork.org/products/renskes-chilacayote-squash-northern-adapted-fig-leaf-gourd) | $5.00 |
-| **Chilacayote** | OP | C. ficifolia | Same (SOLD OUT) | Farmacie Isolde | [product page](https://www.farmacieisolde.com/curiosities/chilacayote) | $3.75 |
+| **Jin Dong Ae F3** | OP (research) | C. moschata | Korean, early + productive, vine borer immune. 54 days. | Common Wealth Seed Growers | [product page](https://commonwealthseeds.com/product/jin-dong-ae-f3-korean-summer-squash-research-sample-certified-organic/) | $4.50 |
