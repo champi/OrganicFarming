@@ -6,6 +6,8 @@
 
 ## 🛒 WILL BUY — 5 Varieties, 3 Shops, All OP
 
+**Order list by shop:** [seeds-to-buy.md](seeds-to-buy.md). Hazzard's items are buy-now; growitalian.com is on hold for later.
+
 | # | Variety | Type | Why | Shop | Price |
 |---|---------|------|-----|------|-------|
 | 1 | **Thai Magic** | Thai, sweet/mild | Sweetest Thai. "Mild, sweet flavor, hint of anise." Big 4" leaves, late bloomer. | [Hazzard's (Hazwho store)](https://www.hazzardsgreenhouse.com/Merchant2/merchant.mvc?Store_Code=Hazwho&Screen=PROD&Product_Code=B7652) | $10.06 (250 seeds) |

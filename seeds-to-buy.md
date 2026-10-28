@@ -1,10 +1,60 @@
 # Seeds & Cuttings to Buy
 
-Running list of seeds and planting material to buy for the Volcán garden. Basil seeds have their own list in [basil-varieties-best-taste.md](basil-varieties-best-taste.md#-will-buy--5-varieties-3-shops-all-op).
+Running list of seeds and planting material to buy for the Volcán garden, grouped by shop. Variety research lives in each crop's own file. Quantities assume family use plus a small surplus to sell.
 
-| Item | Form | Qty | Source | Price | Status |
-|---|---|---|---|---|---|
-| Tithonia diversifolia (*botón de oro*) | Cuttings (estacas) | 1 dozen | AgroEnlace, Panama | $6.00 / dozen, ships nationwide | To buy |
+## Buy now
+
+### Hazzard's (Hazwho store) — ~$29.26
+
+Use the Hazwho store links, not the `/basil-thai-*.html` retail pages. All three ship together.
+
+| Item | Code | Pack | Qty | Price | Status (Oct 27) | Notes |
+|---|---|---|---|---|---|---|
+| [Basil Thai Magic](https://www.hazzardsgreenhouse.com/Merchant2/merchant.mvc?Store_Code=Hazwho&Screen=PROD&Product_Code=B7652) | B7652 | 250 seeds | 1 | $10.06 | ✅ In stock | [basil notes](basil-varieties-best-taste.md) |
+| [Basil Thai Sweet](https://www.hazzardsgreenhouse.com/Merchant2/merchant.mvc?Store_Code=Hazwho&Screen=PROD&Product_Code=B7321) | B7321 | 1,000 seeds | 1 | $7.99 | ✅ In stock | |
+| [Basil Rutgers Obsession DMR](https://www.hazzardsgreenhouse.com/Merchant2/merchant.mvc?Store_Code=Hazwho&Screen=PROD&Product_Code=B7552) | B7552 | 500 seeds | 1 | $11.21 | ✅ In stock | Sold out at Burpee |
+
+**Cart shortcut (untested):** `https://www.hazzardsgreenhouse.com/Merchant2/merchant.mvc?Store_Code=Hazwho&Screen=BASK&Action=ADPR&Product_Code=B7652&Quantity=1`. Open it once per item, changing `Product_Code`. A test from the command line got a 403 (probably bot blocking), so check it in a browser.
+
+### Johnny's Selected Seeds — ~$12.30
+
+Pumpkin for the Dec–Jan dry-season planting, so order soon. Sow Winter Sweet 7 days before Tetsukabuto, 1 Winter Sweet per 4 Tetsukabuto.
+
+| Item | Pack | Qty | Price | Notes |
+|---|---|---|---|---|
+| [Tetsukabuto F1](https://www.johnnyseeds.com/vegetables/squash/winter-squash/tetsukabuto-f1-hubbard-squash-seed-3578.html) | 30 seeds | 1 | $6.45 | Needs a pollinator. [pumpkin notes](pumpkin-varieties-organic-volcan.md) |
+| [Winter Sweet Organic F1](https://www.johnnyseeds.com/vegetables/squash/winter-squash/winter-sweet-organic-f1-kabocha-squash-seed-3034G.html) | 30 seeds | 1 | $5.85 | Pollinator for Tetsukabuto |
+
+Johnny's has no shareable cart link. Save items to the account wishlist.
+
+### AgroEnlace (Panama) — $6.00
+
+| Item | Form | Qty | Price | Notes |
+|---|---|---|---|---|
+| [Tithonia diversifolia (*botón de oro*)](https://agroenlace.com.pa/anuncio/semillas-de-boton-de-oro/) | Cuttings (estacas) | 1 dozen | $6.00 / dozen, ships nationwide | Contact Sr. Jorge, 6044-5252. Ask cuttings vs seeds first ([details below](#tithonia-diversifolia-botón-de-oro--mexican-sunflower)) |
+
+## Maybe later
+
+### growitalian.com (Seeds from Italy) — ~$11.50
+
+Not ordering now.
+
+| Item | Pack | Qty | Price | Status (Oct 27) |
+|---|---|---|---|---|
+| [Basil Italiano Classico Tigullio](https://www.growitalian.com/products/basil-italiano-classico-tigullio-13-7) | 1 pack | 1 | $6.00 | ✅ In stock (sub for sold-out Italiano Classico) |
+| [Basil Bolloso Napoletano](https://www.growitalian.com/products/basil-bolloso-napoletano-13-8) | 8 g | 1 | $5.50 | ✅ In stock |
+
+**Cart link (Shopify), loads both:** https://www.growitalian.com/cart/49642343858481:1,49642253451569:1
+
+### Okra — ~$7.00 (not decided)
+
+Starting set from [Best_Okra_Varieties.md](Best_Okra_Varieties.md).
+
+| Shop | Item | Price |
+|---|---|---|
+| [Mary's Heirloom](https://www.marysheirloomseeds.com/products/jing-orange-okra) | Jing Orange | $2.50 |
+| [Mary's Heirloom](https://www.marysheirloomseeds.com/products/louisiana-green-velvet-okra) | Emerald (Louisiana Green Velvet) | $2.00 |
+| [Reimer Seeds](https://www.reimerseeds.com/burmese-okra-seeds) | Burmese | $2.50 |
 
 ---
 
