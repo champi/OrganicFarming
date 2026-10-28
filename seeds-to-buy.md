@@ -16,7 +16,7 @@ Use the Hazwho store links, not the `/basil-thai-*.html` retail pages. All three
 
 **Cart shortcut (untested):** `https://www.hazzardsgreenhouse.com/Merchant2/merchant.mvc?Store_Code=Hazwho&Screen=BASK&Action=ADPR&Product_Code=B7652&Quantity=1`. Open it once per item, changing `Product_Code`. A test from the command line got a 403 (probably bot blocking), so check it in a browser.
 
-### Johnny's Selected Seeds — $40.25 (cart saved Oct 28)
+### Johnny's Selected Seeds — $48.55 (cart saved Oct 28)
 
 Pumpkin is for the Dec–Jan dry-season planting, so order soon. Sow Winter Sweet 7 days before Tetsukabuto, 1 Winter Sweet per 4 Tetsukabuto.
 
@@ -27,6 +27,7 @@ Pumpkin is for the Dec–Jan dry-season planting, so order soon. Sow Winter Swee
 | [Marino Organic Cilantro](https://www.johnnyseeds.com/herbs/cilantro-coriander/marino-organic-cilantro-coriander-seed-3858G.55.html) | 3858G.55 | 10,000 seeds | 1 | $11.30 | |
 | [Leisure Cilantro](https://www.johnnyseeds.com/herbs/cilantro-coriander/leisure-cilantro-coriander-seed-3409.30.html) | 3409.30 | 1/4 lb | 1 | $8.90 | |
 | [Mexicana Organic F1 Zucchini](https://www.johnnyseeds.com/vegetables/squash/summer-squash/mexicana-organic-f1-zucchini-squash-seed-4220G.11.html) | 4220G.11 | Packet | 1 | $7.75 | |
+| [Darki Green Curly Parsley](https://www.johnnyseeds.com/herbs/parsley/leaf-parsley/darki-green-parsley-seed-3513.html) | 3513.26 | 1 oz (~16,700 seeds) | 1 | $8.30 | Open-pollinated. Grow beside Lisette if bought ([below](#curly-parsley-lisette--might-buy-shop-not-decided)). Hot-water treat seed (50 °C, 25–30 min) |
 
 Johnny's has no shareable cart link. Save items to the account wishlist. The SKUs above pin the exact pack size.
 
@@ -69,7 +70,9 @@ Starting set from [Best_Okra_Varieties.md](Best_Okra_Varieties.md).
 | [Mary's Heirloom](https://www.marysheirloomseeds.com/products/louisiana-green-velvet-okra) | Emerald (Louisiana Green Velvet) | $2.00 |
 | [Reimer Seeds](https://www.reimerseeds.com/burmese-okra-seeds) | Burmese | $2.50 |
 
-### Curly parsley Lisette — Park Seed or Seedway (not decided)
+### Curly parsley Lisette — might buy, shop not decided
+
+Not sure yet. Darki (1 oz) is already in the Johnny's cart. Lisette would be a side-by-side comparison, because the two have never been trialed against each other.
 
 In a Polish trial (Jadczak et al. 2019), Lisette's total yield (99.8 vs 76.8 t/ha for Champion Moss Curled) was **not** significantly higher. Its leaf-blade yield was (65 vs 46 t/ha, LSD 10). Seedway describes it as medium-curled; very tight curls dry slowly and favour Septoria. No curly variety has proven Septoria resistance; avoid Sherwood, which is rated highly susceptible. Clean or hot-water-treated seed matters more than the variety. Seedway's Lisette is untreated, with no F1 label (probably open-pollinated). Decide the shop once broccoli, radish, beets etc. are picked: whichever shop also carries those wins, because the shipping is per order.
 
@@ -79,7 +82,7 @@ In a Polish trial (Jadczak et al. 2019), Lisette's total yield (99.8 vs 76.8 t/h
 | [Park Seed](https://www.parkseed.com/products/lisette-parsley-seeds-05635) | 100 seeds | $2.95 | $6.95 | $9.90 | ✅ In stock (too few to sell bunches) |
 | [Seedway](https://www.seedway.com/product/parsley-lisette-not-treated/) | 4 oz (~44,000–84,000 seeds) | $10.40 | $20.00 flat per order, any size, any US state | $30.40 (+ FL tax) | Added to cart OK |
 
-Seedway's $20 was checked at checkout for NY, FL and CA, and with 10 bags. It only pays off on a bulk order across several crops. Fallback: [Darki at Johnny's](https://www.johnnyseeds.com/herbs/parsley/) ($5.35, open-pollinated, trialed), which rides in the Johnny's box.
+Seedway's $20 was checked at checkout for NY, FL and CA, and with 10 bags. It only pays off on a bulk order across several crops.
 
 ---
 
