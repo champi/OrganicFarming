@@ -1,6 +1,6 @@
 # Bone Ash (P) and SOP (K) Doses for 8 Garden Crops — Volcán Andisol
 
-> **Literature review, Oct 2026.** Per-plant amounts, timing and placement of raw bone ash (phosphorus) and potassium sulfate (SOP, potassium) for pumpkin, climbing bean, corn, papaya, potted lemon, otoe, sweet potato and cherry tomato, with mycorrhizae (AMF) taken into account. Background: [bone-ash-phosphorus-fertilizer.md](bone-ash-phosphorus-fertilizer.md) (§11 AMF, §15 dose rule, §16) and [zucchini-nutrition-guide.md](zucchini-nutrition-guide.md) (§3 P, §4 K).
+> **Literature review, Oct 2026.** Per-plant amounts, timing and placement of raw bone ash (phosphorus) and potassium sulfate (SOP, potassium) for pumpkin, climbing bean, corn, papaya, potted lemon, otoe, sweet potato, cherry tomato and strawberry, with mycorrhizae (AMF) taken into account. Background: [bone-ash-phosphorus-fertilizer.md](bone-ash-phosphorus-fertilizer.md) (§11 AMF, §15 dose rule, §16) and [zucchini-nutrition-guide.md](zucchini-nutrition-guide.md) (§3 P, §4 K).
 
 **Assumptions:** medium soil P and K (no soil test yet), plants inoculated with or growing near AMF, ash at ~16% P, SOP at 50% K₂O. Zucchini is covered in its own trial sheet: 15 g ash once, 3 × 5 g SOP.
 
@@ -18,6 +18,7 @@
 | **Otoe** | 15–20 g at planting + ~15 g at 3–4 months (established <7 months: one 15–20 g dose now) | Before the cormels fill (month ~6) | ~15 g/season: 3 × 5 g | Months 1, 3, 5 | 20–30 cm from the base |
 | **Papaya** | ~50 g every 3–4 months (~150–200 g/yr) | Planting, then through fruiting | ~20 g per month (~240 g/yr; 10 g if soil K is high) | Monthly | Trunk to halfway to the canopy edge |
 | **Lemon in a pot** | ~1 g per L of pot, once a year (20 L ≈ 20 g) | Now is fine (flowering) | ~1 g per L of pot per year (20 L: 5 g every 3 months) | From flowering into fruit set | Outer edge of the pot, water through |
+| **Strawberry** | ~5 g per plant | At planting, or at the start of a flowering flush | ~1.5 g every 4–6 wk while fruiting (~6–8 g/yr) | From first flowers | Ring ~10 cm from the crown |
 
 ### Spoon equivalents (per dose)
 
@@ -35,7 +36,21 @@ The ash and vermicast are **pre-mixed 1:1**, so doses are spoons of the mix. Cal
 | **Otoe** | 3–4 tbsp at planting + 3 tbsp at 3–4 months | 1 tsp, months 1, 3, 5 |
 | **Papaya** | 10 tbsp every 3–4 months | 4 tsp monthly |
 | **Lemon, 10 L pot** | 2 tbsp, once a year | ½ tsp every 3 months |
-| **Strawberry** (per plant) ⚠️ estimate, not literature-checked | 1 tbsp | ⅓ tsp every 3–4 wk while fruiting |
+| **Strawberry** (per plant) | 1 tbsp | ⅓ tsp every 4–6 wk while fruiting |
+
+### Application list, Nov 1 2026 (nothing but the zucchini has had ash or SOP yet)
+
+Assumptions: corn is past the 6-leaf stage (its beans are already flowering), so it gets a half ash dose; pumpkins were sown with the three sisters and are still in their main P window (56–84 days after sowing); lemon pot ~10 L. Corn and its beans share one ring per cluster.
+
+| Plants | Bone-ash mix | SOP |
+|---|---|---|
+| **2 clusters of 6 corn + 3 flowering beans** (each) | 4 tbsp corn (half dose) + 1½ tbsp beans = **5½ tbsp** | 1 tbsp corn + a generous ½ tsp beans (3 pinches) ≈ **3½ tsp** |
+| **2 pumpkins** (each) | **10 tbsp** | **2 tsp** if flowering (repeat at fruit set, +2–3 wk) |
+| **2 papayas** (each) | **10 tbsp** (repeat every 3–4 months) | **4 tsp** (repeat monthly) |
+| **Lemon, ~10 L pot** | **2 tbsp** (once a year) | **½ tsp** (repeat every 3 months) |
+| **Total** | **~53 tbsp ≈ 3⅓ cups (~530 g)** | **~20 tsp (~100 g)** |
+
+If the corn is already tasseling, give it ~2 tbsp of mix and ~1½ tsp SOP per cluster instead. Ash ≥3 days from urine and wood ash; SOP can go with urine.
 
 ---
 
@@ -142,6 +157,17 @@ The ash and vermicast are **pre-mixed 1:1**, so doses are spoons of the mix. Cal
 
 ---
 
+### Strawberry
+| | Value | Source |
+|---|---|---|
+| P uptake | 9–17 kg P/ha (Florida, Italy) ≈ **0.2–0.35 g P per plant** at ~45–55k plants/ha; up to ~1 g in long-season Mexican fields including runners | [S1, S2, S3] |
+| K uptake | 63–125 kg K/ha (FL, Italy) to 240 kg K/ha (California) ≈ **1.5–5 g K per plant**; K is the nutrient taken up most | [S1, S2, S4] |
+| Timing | Most uptake is during fruiting; 53–64% of N, P, K ends up in the fruit. Flowers' P demand exceeded what roots supplied, which suggests AMF matter | [S1, S5, S6] |
+| AMF | In a P-fixing, P-deficient soil, AMF cut the P needed for 90% of max yield from 106 to 71 kg P/ha. With AMF, P in soilless culture was cut 75% without yield loss; rock phosphate did not reduce colonization | [S7, S8, S9] |
+| Salt | Very salt- and chloride-sensitive (soil EC >2 dS/m injures). Potassium sulfate tolerated to EC ~5 dS/m. Avoid fertilizer contact with roots and crown | [S4, S10, S11] |
+| Excess K | Can induce Mg deficiency (not likely here; Mg is high) | [S11] |
+| Dose logic | Ash: 2–3× ~0.3 g P, reduced for AMF ≈ 0.7 g P ≈ 5 g ash. SOP: ~65% of ~2.5–4.5 g K uptake ≈ 3–3.5 g K₂O ≈ 6–8 g SOP/yr, split small | §2 rules |
+
 ## 4. Caveats
 
 - **Soil K may already be high.** Cerro Punta farms tested high in K (210–567 mg/L, IDIAP; urine guide). If your soil tests high, halve SOP or skip it.
@@ -185,3 +211,16 @@ The ash and vermicast are **pre-mixed 1:1**, so doses are spoons of the mix. Cal
 - **[K8]** Bayer Crop Science, Benefits of potassium for corn — [link](https://www.cropscience.bayer.us/articles/bayer/benefits-of-potassium-for-corn-production)
 - **[K9]** Nutrien eKonomics, MOP or SOP? — [link](https://nutrien-ekonomics.com/news/potassium-fertilizers-muriate-of-potash-or-sulfate-of-potash/)
 - **[K10]** Zekri & Obreza, UF/IFAS SL381 *Potassium for Citrus Trees* — [link](https://ask.ifas.ufl.edu/publication/SS583)
+
+### Strawberry
+- **[S1]** Albregts & Howard (1980), *JASHS* 105: 386 — [10.21273/jashs.105.3.386](https://doi.org/10.21273/jashs.105.3.386); Hochmuth & Hanlon, UF/IFAS CV229 — [link](https://ask.ifas.ufl.edu/publication/CV229)
+- **[S2]** Baldi et al., *Dynamics of nutrient uptake by strawberry* — [link](https://bia.unibz.it/esploro/outputs/journalArticle/Dynamics-of-nutrients-uptake-by-strawberry/991006493674401241)
+- **[S3]** Avitia-García et al. (2014), *Rev. Mex. Cienc. Agríc.* — [link](https://cienciasagricolas.inifap.gob.mx/index.php/agricolas/en/article/view/955)
+- **[S4]** CDFA FREP, *CA Fertilization Guidelines: Strawberry* — [link](https://www.cdfa.ca.gov/is/ffldrs/frep/FertilizationGuidelines/Strawberry.html)
+- **[S5]** Cockerton et al. (2020), *BMC Plant Biol.* — [link](https://link.springer.com/article/10.1186/s12870-020-02347-x)
+- **[S6]** Nutrient uptake of 'Elsanta' on substrate, *Acta Hort.* 348 — [link](https://www.actahort.org/books/348/348_58.htm)
+- **[S7]** Sharma & Adholeya (2004), *Can. J. Bot.* — [10.1139/b04-007](https://doi.org/10.1139/b04-007)
+- **[S8]** De Nardi et al. (2024), *Agronomy* 14: 355 — [link](https://www.mdpi.com/2073-4395/14/2/355)
+- **[S9]** Williams et al. (1992), *Agronomie* 12 — [PDF](https://www.agronomy-journal.org/articles/agro/pdf/1992/10/Agronomie_0249-5627_1992_12_10_ART0020.pdf)
+- **[S10]** UC ANR, *Strawberry disorders: salts* — [link](https://ucanr.edu/site/strawberry-disorders-identification-management/salts-sales)
+- **[S11]** OSU/WSU EM 9234, *Strawberry Nutrient Management Guide* — [link](https://extension.oregonstate.edu/catalog/em-9234-strawberry-nutrient-management-guide-oregon-washington)
