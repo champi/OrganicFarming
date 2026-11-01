@@ -12,12 +12,12 @@
 |---|---|---|---|---|---|
 | **Corn** | ~25 g per 4-stalk cluster (~6 g per stalk) | At sowing, beside the seed; or before the 6-leaf stage (~4 wk) | ~10 g per cluster (~2.5 g per stalk) | Once, ~4 wk (6-leaf stage) | 10–15 cm around the cluster |
 | **Climbing bean** | ~2–3 g per plant ≈ 10–15 g per cluster (on top of the corn dose) | At bean sowing | ~1 g per plant ≈ 5 g per cluster | First flowers | Same cluster ring, off the stems |
-| **Pumpkin** | ~50 g | At sowing or within the first 4 wk | ~30 g/season: 3 × 10 g | First flowers, fruit set, +2–3 wk | 30–40 cm from the crown |
+| **Pumpkin** | ~50 g | At sowing or within the first 4 wk | ~45 g/season: 3 × 15 g (raised Nov 2026, see §3b) | First flowers, fruit set, +2–3 wk | 30–40 cm from the crown |
 | **Cherry tomato** | ~15 g | Transplant to ~30 days after (DAT) | ~25–30 g/season: 5 × 5–6 g | From ~30–35 DAT (first truss), every 2–3 wk | 15–20 cm from the stem |
 | **Sweet potato** | ~6–8 g | At planting (skip if >6 wk in and growing well) | ~8–10 g/season: 2 × 4–5 g | At planting + 30–60 days after | Along the ridge |
 | **Otoe** | 15–20 g at planting + ~15 g at 3–4 months (established <7 months: one 15–20 g dose now) | Before the cormels fill (month ~6) | ~15 g/season: 3 × 5 g | Months 1, 3, 5 | 20–30 cm from the base |
 | **Papaya** | ~50 g every 3–4 months (~150–200 g/yr) | Planting, then through fruiting | ~20 g per month (~240 g/yr; 10 g if soil K is high) | Monthly | Trunk to halfway to the canopy edge |
-| **Lemon in a pot** | ~1 g per L of pot, once a year (20 L ≈ 20 g) | Now is fine (flowering) | ~1 g per L of pot per year (20 L: 5 g every 3 months) | From flowering into fruit set | Outer edge of the pot, water through |
+| **Lemon in a pot** | ~1 g per L of pot, once a year (20 L ≈ 20 g) | Now is fine (flowering) | ~2 g per L of pot per year (10 L: 5 g every 3 months; raised Nov 2026, see §3b) | From flowering into fruit set | Outer edge of the pot, water through |
 | **Strawberry** | ~5 g per plant | At planting, or at the start of a flowering flush | ~1.5 g every 4–6 wk while fruiting (~6–8 g/yr) | From first flowers | Ring ~10 cm from the crown |
 
 ### Spoon equivalents (per dose)
@@ -29,13 +29,13 @@ The ash and vermicast are **pre-mixed 1:1**, so doses are spoons of the mix. Cal
 | **Corn** (per 4-stalk cluster) | 5 tbsp | 2 tsp, once at the 6-leaf stage (~4 wk) |
 | **Corn** (per 6-stalk cluster) | 7–8 tbsp | 3 tsp (= 1 tbsp), once at the 6-leaf stage |
 | **Climbing bean** (per plant) | ½ tbsp (≈1½ tbsp per cluster) | a pinch (⅕ tsp) at first flowers |
-| **Pumpkin** | 10 tbsp | 2 tsp, 3× (first flowers, fruit set, +2–3 wk) |
+| **Pumpkin** | 10 tbsp | 3 tsp, 3× (first flowers, fruit set, +2–3 wk) |
 | **Zucchini** | 3 tbsp (given Oct 24) | 1 tsp: Nov 1, Nov 15, Nov 29 |
 | **Cherry tomato** | 3 tbsp | 1 tsp, 5× every 2–3 wk from first truss |
 | **Sweet potato** (per plant) | 1½ tbsp | 1 tsp at planting + 1 tsp 30–60 days later |
 | **Otoe** | 3–4 tbsp at planting + 3 tbsp at 3–4 months | 1 tsp, months 1, 3, 5 |
 | **Papaya** | 10 tbsp every 3–4 months | 4 tsp monthly |
-| **Lemon, 10 L pot** | 2 tbsp, once a year | ½ tsp every 3 months |
+| **Lemon, 10 L pot** | 2 tbsp, once a year | 1 tsp every 3 months |
 | **Strawberry** (per plant) | 1 tbsp | ⅓ tsp every 4–6 wk while fruiting |
 
 ### Application list, Nov 1 2026 (nothing but the zucchini has had ash or SOP yet)
@@ -46,10 +46,10 @@ Beans and corn are planted **separately**. Assumptions: corn still before the 6-
 |---|---|---|
 | **2 groups of 3 flowering beans** (each group) | **1½ tbsp** (½ tbsp per plant) | **3 pinches ≈ ⅗ tsp** (~1 g per plant), now |
 | **2 clusters of 6 corn** (each) | **7–8 tbsp** | **1 tbsp (3 tsp)**, at the 6-leaf stage |
-| **2 pumpkins** (each) | **10 tbsp** | **2 tsp** at first flowers; repeat at fruit set and +2–3 wk |
-| **2 papayas** (each) | **10 tbsp**, repeat every 3–4 months | **4 tsp**, repeat monthly |
-| **Lemon, ~10 L pot** | **2 tbsp**, once a year | **½ tsp**, repeat every 3 months |
-| **Total** | **~60 tbsp ≈ 3¾ cups (~600 g)** | **~20 tsp (~100 g)** |
+| **2 pumpkins** (each) | **10 tbsp** | **3 tsp** at first flowers; repeat at fruit set and +2–3 wk |
+| **2 papayas** (each) | **10 tbsp**, repeat every 3–4 months | **4 tsp** monthly; **6 tsp** monthly once fruiting heavily |
+| **Lemon, ~10 L pot** | **2 tbsp**, once a year | **1 tsp**, repeat every 3 months |
+| **Total** | **~60 tbsp ≈ 3¾ cups (~600 g)** | **~22 tsp (~110 g)** |
 
 If the corn is already past the 6-leaf stage, halve its ash (~4 tbsp per cluster) and give the SOP now; if tasseling, ~2 tbsp ash and 1½ tsp SOP. Ash ≥3 days from urine and wood ash; SOP can go with urine.
 
@@ -169,6 +169,25 @@ If the corn is already past the 6-leaf stage, halve its ash (~4 tbsp per cluster
 | Excess K | Can induce Mg deficiency (not likely here; Mg is high) | [S11] |
 | Dose logic | Ash: 2–3× ~0.3 g P, reduced for AMF ≈ 0.7 g P ≈ 5 g ash. SOP: ~65% of ~2.5–4.5 g K uptake ≈ 3–3.5 g K₂O ≈ 6–8 g SOP/yr, split small | §2 rules |
 
+## 3b. Literature check of the gram doses (Nov 2026)
+
+Rule used throughout: bone ash ≈ 2–3× the crop's P uptake (less with AMF); SOP ≈ 60–70% of K uptake (urine, vermicast and soil supply the rest). Vermicast's own P and K are negligible at these weights (≈0.2–0.4% P, 0.4–0.9% K dry [C9]); it is the carrier and microbe source, not the nutrient source.
+
+| Crop | Uptake per plant (literature) | Ash given → P | × uptake | SOP given → K | % of K uptake | Verdict |
+|---|---|---|---|---|---|---|
+| Climbing bean | P 0.07–0.15 g; K 0.5–1 g (bush beans, 12–18 kg P/ha in Rwanda climbing beans) [P5, C4, C5] | 2.5 g → 0.4 g P | 3–5× | 1 g → 0.4 g K | 40–80% | OK |
+| Corn | P 0.4–0.5 g; K ~1.5 g [P1, K7] | 6 g/stalk → 1 g P | 2–2.5× | 2.5 g/stalk → 1 g K | ~70% | OK |
+| Pumpkin | Tetsukabuto aerial parts at 105 days: **P 4.7 g, K 26.7 g** [C1]; K is the nutrient taken up most [P6] | 50 g → 8 g P | 1.7× | old 30 g → 12.5 g K | **47%** | **SOP low → raised to 45 g (3 × 15 g ≈ 66%)** |
+| Papaya | Year 1 aerial parts: **P 6.3 g, K 62.8 g** [C2]; Embrapa yr 1 ≈ 70 g P₂O₅, 120 g K₂O [P13]; India 250 g P₂O₅ + 300–500 g K₂O/yr for 186 t/ha [C3] | 150–200 g/yr → 24–32 g P | 4–5× | 240 g/yr → 100 g K | 160% of yr-1 uptake | OK; ×1.5 SOP once fruiting heavily |
+| Lemon, 10 L pot | Citrus nursery tree in 3.8 L: optimum **P 2.9 g, K 8 g** per plant; P had little effect [C6] | 10 g → 1.6 g P | — | old 10 g/yr → 4 g K | ~50% of a nursery tree | **SOP raised to 20 g/yr (1 tsp every 3 months)** |
+| Strawberry | P 0.2–0.35 g; K 1.5–5 g [S1–S4] | 5 g → 0.8 g P | 2–4× | 6–8 g/yr → 2.5–3.3 g K | 65–100% | OK |
+
+**Bone-ash effectiveness.** Bone char matched TSP for P uptake in AMF-inoculated maize on a P-fixing soil, but not without AMF [P-Zw, C7]. Bone meal's immediate effectiveness was ≥90% of fused phosphate, with P-use efficiency 12–14% (73–84% of the mineral source) [C8]. That low recovery is why the doses are 2–5× uptake.
+
+**Comparison with conventional recs.** Brazilian (IAC) pumpkin recs are much higher: 200–400 kg P₂O₅ and 160–320 kg K₂O/ha, with K topdress optimum ~199 kg K₂O/ha [C10, C11]. They are written for P-poor Oxisols with soluble fertilizer, no AMF; use them only as an upper bound.
+
+**Biggest unknown: soil K.** No published exchangeable-K data were found for Volcán; Cerro Punta farms tested high (210–567 mg/L, urine guide). A K test would decide whether the raised pumpkin/papaya SOP is needed or can be halved. Andisols leach K, so small splits beat single doses (split + K₂SO₄ beat single application in West Java Andisol potato) [K5, C12].
+
 ## 4. Caveats
 
 - **Soil K may already be high.** Cerro Punta farms tested high in K (210–567 mg/L, IDIAP; urine guide). If your soil tests high, halve SOP or skip it.
@@ -212,6 +231,20 @@ If the corn is already past the 6-leaf stage, halve its ash (~4 tbsp per cluster
 - **[K8]** Bayer Crop Science, Benefits of potassium for corn — [link](https://www.cropscience.bayer.us/articles/bayer/benefits-of-potassium-for-corn-production)
 - **[K9]** Nutrien eKonomics, MOP or SOP? — [link](https://nutrien-ekonomics.com/news/potassium-fertilizers-muriate-of-potash-or-sulfate-of-potash/)
 - **[K10]** Zekri & Obreza, UF/IFAS SL381 *Potassium for Citrus Trees* — [link](https://ask.ifas.ufl.edu/publication/SS583)
+
+### Literature check (§3b)
+- **[C1]** Tetsukabuto organic/mineral fertilization, Ponte Nova MG (aerial-part g/plant at 105 DAS) — [revistas.ufg.br](https://revistas.ufg.br/pat/article/view/2882); EPAMIG CT 336 — [PDF](https://livrariaepamig.com.br/wp-content/uploads/2023/02/ct-336.pdf)
+- **[C2]** Papaya nutrient uptake, first year (Brazil) — [redalyc](https://www.redalyc.org/pdf/3052/305244108013.pdf)
+- **[C3]** India papaya 250:250:500 g NPK/plant/yr — [indiascienceandtechnology.gov.in](https://www.indiascienceandtechnology.gov.in/technologies/fertilizer-dose-250-g-n-250-g-p2o5-and-500-g-k2o-plant-year-recommended-be-applied-six-equal-splits); NHB — [PDF](https://nhb.gov.in/pdf/fruits/papaya/pap006.pdf); ISHS K response — [link](https://ishs.org/ishs-article/851_54/)
+- **[C4]** Soratto et al. (2013), bean uptake — [SciELO](https://www.scielo.br/j/rbcs/a/H3hKgGnBLGMbjDCNsRZW7xq/?lang=en); Pegoraro et al. (2013) — [10.5539/jas.v5n11p34](https://doi.org/10.5539/jas.v5n11p34)
+- **[C5]** Rurangwa et al. (2020), climbing beans in Rwanda — [IITA](https://biblio1.iita.org/handle/20.500.12478/7727)
+- **[C6]** Bernardi et al., container citrus NPK — [SciELO](https://www.scielo.br/j/sa/a/TnH4Q9gN4tzrLYCLrr3FRxt/abstract/?lang=en)
+- **[C7]** Zwetsloot et al. (2016), *Plant Soil* 408: 95 — [PDF](https://www.css.cornell.edu/faculty/lehmann/PlantSoil%20408,%2095-105,%202016%20Zwetsloot.pdf)
+- **[C8]** Chung & Jeong, bone meal vs fused phosphate — [KoreaScience](https://koreascience.kr/article/JAKO201714563184729.view)
+- **[C9]** NCDA vermicompost analyses (227 samples) — [link](https://www.ncagr.gov/divisions/agronomic-services/waste-analysis/nutrient-concentrations-compost); Blouin et al. (2019) meta-analysis — [10.1007/s13593-019-0579-x](https://doi.org/10.1007/s13593-019-0579-x)
+- **[C10]** Araújo et al. (2012), *Pesq. Agropec. Trop.* 42: 469 — [10.1590/S1983-40632012000400004](https://revistas.ufg.br/pat/article/view/19564)
+- **[C11]** IAC Boletim 100 pumpkin rates as cited — [cultivandosaber](https://cultivandosaber.fag.edu.br/index.php/cultivando/article/download/710/627)
+- **[C12]** K sources and application methods for potato on West Java Andisols — [link](https://epublikasi.pertanian.go.id/berkala/ijas/article/view/494)
 
 ### Strawberry
 - **[S1]** Albregts & Howard (1980), *JASHS* 105: 386 — [10.21273/jashs.105.3.386](https://doi.org/10.21273/jashs.105.3.386); Hochmuth & Hanlon, UF/IFAS CV229 — [link](https://ask.ifas.ufl.edu/publication/CV229)
