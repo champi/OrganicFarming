@@ -19,7 +19,7 @@
 |---|---|---|
 | Aged urine + ≤5 g/L Epsom | ~1.5 L total, weekly | Shake the jug; dilute 1:4–1:5; water in. Epsom at this rate does not hurt Ca. |
 | Bone ash, raw, fine-ground + vermicast 1:1 | **~15 g ash + ~15 g vermicast, once** | Mixed into a ring of soil 20–25 cm from the stem (see Oct 24) |
-| Potassium sulfate (SOP, 0-0-50) | 3 × 5 g (15 g/season; **60 g for all 4 plants**) | Chloride-free; same day as urine is OK. Weigh 5 g once (a scant teaspoon). |
+| Potassium sulfate (SOP, 0-0-50) | 3 × 5 g (15 g/season; **60 g for all 4 plants**) | Chloride-free; same day as urine is OK. Weigh 5 g once (a scant teaspoon). Pull mulch back, scatter on the soil in a ring 15–25 cm from the stem (not touching stem or leaves), replace mulch, water in with the urine or ~1 L water. |
 | Great White top-up (optional) | ~½ tsp (~2 g) | Only if you have product to spare: side band 10–15 cm from stem, 5–8 cm deep |
 | WCA (KNF water-soluble calcium, eggshell + vinegar) | 1:1000 in water (1 mL/L); foliar to wet or ~250 mL soil drench | **Only if** Ca symptoms: blossom-end rot (fruit tip goes soft and brown), or new leaves cupped or edge-scorched. Early morning or evening, weekly, max 3×. Not on a urine day (ammonium competes with Ca uptake). Never in the same jug as SOP: Ca + sulfate makes a gypsum precipitate. |
 | Gypsum (*yeso agrícola*) | 10–20 g, **only if** Ca symptoms persist after WCA | pH-neutral, no P |
