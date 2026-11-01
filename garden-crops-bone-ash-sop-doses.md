@@ -50,7 +50,8 @@ Bone-ash mix = fine ash + vermicast 1:1 by weight, pre-mixed (1 tbsp ≈ 10 g). 
 | **2 pumpkins** (each) | **100 g (10 tbsp)** | **15 g (3 tsp)** at first flowers | SOP at fruit set and +2–3 wk (45 g/season) |
 | **2 papayas** (each) | **100 g (10 tbsp)** | **20 g (4 tsp)** | ash every 3–4 months; SOP monthly, 30 g once fruiting heavily |
 | **Lemon, ~10 L pot** | **20 g (2 tbsp)** | **5 g (1 tsp)** | ash yearly; SOP every 3 months |
-| **Total today** | **~600 g (~60 tbsp ≈ 3¾ cups)** | **~130 g (~26 tsp)** | |
+| **Strawberry** (each plant) | **10 g (1 tbsp)**, ring ~10 cm from the crown | **1.5 g (⅓ tsp)** if flowering or fruiting | SOP every 4–6 wk while fruiting; ash at each new flush/planting |
+| **Total today** (without strawberries) | **~600 g (~60 tbsp ≈ 3¾ cups)** | **~130 g (~26 tsp)** | |
 
 Ash ≥3 days from urine and wood ash, so don't put ash on the zucchini beds today. SOP can go with urine.
 
