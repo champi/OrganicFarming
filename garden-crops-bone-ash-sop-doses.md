@@ -40,17 +40,18 @@ The ash and vermicast are **pre-mixed 1:1**, so doses are spoons of the mix. Cal
 
 ### Application list, Nov 1 2026 (nothing but the zucchini has had ash or SOP yet)
 
-Assumptions: corn is past the 6-leaf stage (its beans are already flowering), so it gets a half ash dose; pumpkins were sown with the three sisters and are still in their main P window (56–84 days after sowing); lemon pot ~10 L. Corn and its beans share one ring per cluster.
+Beans and corn are planted **separately**. Assumptions: corn still before the 6-leaf stage (full dose); pumpkins still within ~8 weeks of sowing (main P window 56–84 days after sowing); lemon pot ~10 L.
 
 | Plants | Bone-ash mix | SOP |
 |---|---|---|
-| **2 clusters of 6 corn + 3 flowering beans** (each) | 4 tbsp corn (half dose) + 1½ tbsp beans = **5½ tbsp** | 1 tbsp corn + a generous ½ tsp beans (3 pinches) ≈ **3½ tsp** |
-| **2 pumpkins** (each) | **10 tbsp** | **2 tsp** if flowering (repeat at fruit set, +2–3 wk) |
-| **2 papayas** (each) | **10 tbsp** (repeat every 3–4 months) | **4 tsp** (repeat monthly) |
-| **Lemon, ~10 L pot** | **2 tbsp** (once a year) | **½ tsp** (repeat every 3 months) |
-| **Total** | **~53 tbsp ≈ 3⅓ cups (~530 g)** | **~20 tsp (~100 g)** |
+| **2 groups of 3 flowering beans** (each group) | **1½ tbsp** (½ tbsp per plant) | **3 pinches ≈ ⅗ tsp** (~1 g per plant), now |
+| **2 clusters of 6 corn** (each) | **7–8 tbsp** | **1 tbsp (3 tsp)**, at the 6-leaf stage |
+| **2 pumpkins** (each) | **10 tbsp** | **2 tsp** at first flowers; repeat at fruit set and +2–3 wk |
+| **2 papayas** (each) | **10 tbsp**, repeat every 3–4 months | **4 tsp**, repeat monthly |
+| **Lemon, ~10 L pot** | **2 tbsp**, once a year | **½ tsp**, repeat every 3 months |
+| **Total** | **~60 tbsp ≈ 3¾ cups (~600 g)** | **~20 tsp (~100 g)** |
 
-If the corn is already tasseling, give it ~2 tbsp of mix and ~1½ tsp SOP per cluster instead. Ash ≥3 days from urine and wood ash; SOP can go with urine.
+If the corn is already past the 6-leaf stage, halve its ash (~4 tbsp per cluster) and give the SOP now; if tasseling, ~2 tbsp ash and 1½ tsp SOP. Ash ≥3 days from urine and wood ash; SOP can go with urine.
 
 ---
 
