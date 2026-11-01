@@ -38,20 +38,21 @@ The ash and vermicast are **pre-mixed 1:1**, so doses are spoons of the mix. Cal
 | **Lemon, 10 L pot** | 2 tbsp, once a year | 1 tsp every 3 months |
 | **Strawberry** (per plant) | 1 tbsp | ⅓ tsp every 4–6 wk while fruiting |
 
-### Application list, Nov 1 2026 (nothing but the zucchini has had ash or SOP yet)
+### Application list, Nov 1 2026 (latest doses)
 
-Beans and corn are planted **separately**. Assumptions: corn still before the 6-leaf stage (full dose); pumpkins still within ~8 weeks of sowing (main P window 56–84 days after sowing); lemon pot ~10 L.
+Bone-ash mix = fine ash + vermicast 1:1 by weight, pre-mixed (1 tbsp ≈ 10 g). SOP 1 tsp ≈ 5 g. Beans and corn are planted **separately**. Assumptions: corn before the 6-leaf stage; pumpkins within ~8 weeks of sowing; lemon pot ~10 L.
 
-| Plants | Bone-ash mix | SOP |
-|---|---|---|
-| **2 groups of 3 flowering beans** (each group) | **1½ tbsp** (½ tbsp per plant) | **3 pinches ≈ ⅗ tsp** (~1 g per plant), now |
-| **2 clusters of 6 corn** (each) | **7–8 tbsp** | **1 tbsp (3 tsp)**, at the 6-leaf stage |
-| **2 pumpkins** (each) | **10 tbsp** | **3 tsp** at first flowers; repeat at fruit set and +2–3 wk |
-| **2 papayas** (each) | **10 tbsp**, repeat every 3–4 months | **4 tsp** monthly; **6 tsp** monthly once fruiting heavily |
-| **Lemon, ~10 L pot** | **2 tbsp**, once a year | **1 tsp**, repeat every 3 months |
-| **Total** | **~60 tbsp ≈ 3¾ cups (~600 g)** | **~22 tsp (~110 g)** |
+| Plants | Bone-ash mix | SOP | Repeat |
+|---|---|---|---|
+| **4 zucchini** (each) | — (3 tbsp / 30 g given Oct 24) | **5 g (1 tsp)** + urine 200 mL, today | SOP Nov 15, Nov 29; urine weekly |
+| **2 groups of 3 flowering beans** (each group) | **15 g (1½ tbsp)** | **3 g (⅗ tsp)**, now | none |
+| **2 clusters of 6 corn** (each) | **75 g (7–8 tbsp)**; ~40 g if past 6-leaf | **15 g (1 tbsp)** at the 6-leaf stage | none |
+| **2 pumpkins** (each) | **100 g (10 tbsp)** | **15 g (3 tsp)** at first flowers | SOP at fruit set and +2–3 wk (45 g/season) |
+| **2 papayas** (each) | **100 g (10 tbsp)** | **20 g (4 tsp)** | ash every 3–4 months; SOP monthly, 30 g once fruiting heavily |
+| **Lemon, ~10 L pot** | **20 g (2 tbsp)** | **5 g (1 tsp)** | ash yearly; SOP every 3 months |
+| **Total today** | **~600 g (~60 tbsp ≈ 3¾ cups)** | **~130 g (~26 tsp)** | |
 
-If the corn is already past the 6-leaf stage, halve its ash (~4 tbsp per cluster) and give the SOP now; if tasseling, ~2 tbsp ash and 1½ tsp SOP. Ash ≥3 days from urine and wood ash; SOP can go with urine.
+Ash ≥3 days from urine and wood ash, so don't put ash on the zucchini beds today. SOP can go with urine.
 
 ---
 
