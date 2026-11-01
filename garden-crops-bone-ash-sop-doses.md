@@ -26,6 +26,7 @@ The ash and vermicast are **pre-mixed 1:1**, so doses are spoons of the mix. Cal
 | Crop | Bone-ash mix per dose | SOP per dose |
 |---|---|---|
 | **Corn** (per 4-stalk cluster) | 5 tbsp | 2 tsp, once at the 6-leaf stage (~4 wk) |
+| **Corn** (per 6-stalk cluster) | 7–8 tbsp | 3 tsp (= 1 tbsp), once at the 6-leaf stage |
 | **Climbing bean** (per plant) | ½ tbsp (≈1½ tbsp per cluster) | a pinch (⅕ tsp) at first flowers |
 | **Pumpkin** | 10 tbsp | 2 tsp, 3× (first flowers, fruit set, +2–3 wk) |
 | **Zucchini** | 3 tbsp (given Oct 24) | 1 tsp: Nov 1, Nov 15, Nov 29 |
