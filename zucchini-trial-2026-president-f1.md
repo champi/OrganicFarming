@@ -60,7 +60,7 @@ If first flowers come earlier or later than Nov 1, move the first SOP dose to ma
 | 2026-10-24 | 38 | all | Bone ash 15 g + vermicast 15 g, ring 20–25 cm | |
 | 2026-10-26 | 40 | all (4/4) | | Flower buds forming on all four plants, both ♂ and ♀; small, none open yet |
 | 2026-10-27 | 41 | all | Urine 150 mL, **fresh + white vinegar** (not aged + Epsom) | Harvest now <1 month away, inside the WHO 1-month window for unsanitized urine: wash fruit well |
-| 2026-10-30 | 44 | 2 of 4 | | First flower opening on 2 plants (♂/♀ not recorded); other 2 not yet open |
+| 2026-10-30 | 44 | 2 of 4 | | First flower opening on 2 plants, both **♂**; other 2 not yet open. ♀ buds seen since Oct 26 → expect first ♀ open ~Nov 3–8, first cut **~Nov 10–18** (likeliest Nov 12–15) |
 |  |  |  |  |  |
 
 ## Open questions
