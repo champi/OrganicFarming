@@ -21,18 +21,20 @@
 
 ### Spoon equivalents (per dose)
 
-Approximate, from typical bulk densities: **1 level tbsp ≈ 12 g fine bone ash ≈ 7 g moist vermicast; 1 level tsp ≈ 5–6 g SOP.** Weigh one level spoonful of each once to check; dry or coarse material changes this. Zucchini for comparison: 15 g ash + 15 g vermicast ≈ 3 tbsp mix; SOP 5 g ≈ a scant tsp.
+The ash and vermicast are **pre-mixed 1:1**, so doses are spoons of the mix. Calibration from the zucchini dose (15 g ash + 15 g vermicast = 3 tbsp): **1 level tbsp of mix ≈ 10 g (≈ 5 g ash). SOP: 1 level tsp ≈ 5 g.** Same list as given on Oct 24.
 
-| Crop | Bone ash | + Vermicast | ≈ Mix total | SOP per dose |
-|---|---|---|---|---|
-| **Corn** (per 4-stalk cluster) | ~2 tbsp (25 g) | ~3½ tbsp | ~5–6 tbsp (⅓ cup) | ~2 tsp (10 g), once |
-| **Climbing bean** (per cluster) | ~1 tbsp (10–15 g) | ~2 tbsp | ~3 tbsp | ~1 scant tsp (5 g), once |
-| **Pumpkin** | ~4 tbsp (50 g) | ~7 tbsp | ~11 tbsp (⅔ cup) | ~2 tsp (10 g), 3× |
-| **Cherry tomato** | ~1¼ tbsp (15 g) | ~2 tbsp | ~3 tbsp | ~1 tsp (5–6 g), 5× |
-| **Sweet potato** | ~½ tbsp (6–8 g) | ~1 tbsp | ~1½ tbsp | ~¾–1 tsp (4–5 g), 2× |
-| **Otoe** | ~1½ tbsp (15–20 g); later ~1¼ tbsp (15 g) | ~2–3 tbsp | ~3–4 tbsp | ~1 scant tsp (5 g), 3× |
-| **Papaya** (every 3–4 months) | ~4 tbsp (50 g) | ~7 tbsp | ~11 tbsp (⅔ cup) | ~1 tbsp (20 g), monthly |
-| **Lemon, 20 L pot** (yearly) | ~1½ tbsp (20 g) | ~3 tbsp | ~4–5 tbsp | ~1 scant tsp (5 g), every 3 months |
+| Crop | Bone-ash mix per dose | SOP per dose |
+|---|---|---|
+| **Corn** (per 4-stalk cluster) | 5 tbsp | 2 tsp, once at the 6-leaf stage (~4 wk) |
+| **Climbing bean** (per plant) | ½ tbsp (≈1½ tbsp per cluster) | a pinch (⅕ tsp) at first flowers |
+| **Pumpkin** | 10 tbsp | 2 tsp, 3× (first flowers, fruit set, +2–3 wk) |
+| **Zucchini** | 3 tbsp (given Oct 24) | 1 tsp: Nov 1, Nov 15, Nov 29 |
+| **Cherry tomato** | 3 tbsp | 1 tsp, 5× every 2–3 wk from first truss |
+| **Sweet potato** (per plant) | 1½ tbsp | 1 tsp at planting + 1 tsp 30–60 days later |
+| **Otoe** | 3–4 tbsp at planting + 3 tbsp at 3–4 months | 1 tsp, months 1, 3, 5 |
+| **Papaya** | 10 tbsp every 3–4 months | 4 tsp monthly |
+| **Lemon, 10 L pot** | 2 tbsp, once a year | ½ tsp every 3 months |
+| **Strawberry** (per plant) ⚠️ estimate, not literature-checked | 1 tbsp | ⅓ tsp every 3–4 wk while fruiting |
 
 ---
 
