@@ -19,6 +19,21 @@
 | **Papaya** | ~50 g every 3–4 months (~150–200 g/yr) | Planting, then through fruiting | ~20 g per month (~240 g/yr; 10 g if soil K is high) | Monthly | Trunk to halfway to the canopy edge |
 | **Lemon in a pot** | ~1 g per L of pot, once a year (20 L ≈ 20 g) | Now is fine (flowering) | ~1 g per L of pot per year (20 L: 5 g every 3 months) | From flowering into fruit set | Outer edge of the pot, water through |
 
+### Spoon equivalents (per dose)
+
+Approximate, from typical bulk densities: **1 level tbsp ≈ 12 g fine bone ash ≈ 7 g moist vermicast; 1 level tsp ≈ 5–6 g SOP.** Weigh one level spoonful of each once to check; dry or coarse material changes this. Zucchini for comparison: 15 g ash + 15 g vermicast ≈ 3 tbsp mix; SOP 5 g ≈ a scant tsp.
+
+| Crop | Bone ash | + Vermicast | ≈ Mix total | SOP per dose |
+|---|---|---|---|---|
+| **Corn** (per 4-stalk cluster) | ~2 tbsp (25 g) | ~3½ tbsp | ~5–6 tbsp (⅓ cup) | ~2 tsp (10 g), once |
+| **Climbing bean** (per cluster) | ~1 tbsp (10–15 g) | ~2 tbsp | ~3 tbsp | ~1 scant tsp (5 g), once |
+| **Pumpkin** | ~4 tbsp (50 g) | ~7 tbsp | ~11 tbsp (⅔ cup) | ~2 tsp (10 g), 3× |
+| **Cherry tomato** | ~1¼ tbsp (15 g) | ~2 tbsp | ~3 tbsp | ~1 tsp (5–6 g), 5× |
+| **Sweet potato** | ~½ tbsp (6–8 g) | ~1 tbsp | ~1½ tbsp | ~¾–1 tsp (4–5 g), 2× |
+| **Otoe** | ~1½ tbsp (15–20 g); later ~1¼ tbsp (15 g) | ~2–3 tbsp | ~3–4 tbsp | ~1 scant tsp (5 g), 3× |
+| **Papaya** (every 3–4 months) | ~4 tbsp (50 g) | ~7 tbsp | ~11 tbsp (⅔ cup) | ~1 tbsp (20 g), monthly |
+| **Lemon, 20 L pot** (yearly) | ~1½ tbsp (20 g) | ~3 tbsp | ~4–5 tbsp | ~1 scant tsp (5 g), every 3 months |
+
 ---
 
 ## 2. Method
