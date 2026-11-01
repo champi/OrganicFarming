@@ -182,7 +182,7 @@ Rule used throughout: bone ash ≈ 2–3× the crop's P uptake (less with AMF); 
 | Lemon, 10 L pot | Citrus nursery tree in 3.8 L: optimum **P 2.9 g, K 8 g** per plant; P had little effect [C6] | 10 g → 1.6 g P | — | old 10 g/yr → 4 g K | ~50% of a nursery tree | **SOP raised to 20 g/yr (1 tsp every 3 months)** |
 | Strawberry | P 0.2–0.35 g; K 1.5–5 g [S1–S4] | 5 g → 0.8 g P | 2–4× | 6–8 g/yr → 2.5–3.3 g K | 65–100% | OK |
 
-**Bone-ash effectiveness.** Bone char matched TSP for P uptake in AMF-inoculated maize on a P-fixing soil, but not without AMF [P-Zw, C7]. Bone meal's immediate effectiveness was ≥90% of fused phosphate, with P-use efficiency 12–14% (73–84% of the mineral source) [C8]. That low recovery is why the doses are 2–5× uptake.
+**Bone-ash effectiveness.** Bone char matched TSP for P uptake in AMF-inoculated maize on a P-fixing soil, but not without AMF [C7]. Bone meal's immediate effectiveness was ≥90% of fused phosphate, with P-use efficiency 12–14% (73–84% of the mineral source) [C8]. That low recovery is why the doses are 2–5× uptake.
 
 **Comparison with conventional recs.** Brazilian (IAC) pumpkin recs are much higher: 200–400 kg P₂O₅ and 160–320 kg K₂O/ha, with K topdress optimum ~199 kg K₂O/ha [C10, C11]. They are written for P-poor Oxisols with soluble fertilizer, no AMF; use them only as an upper bound.
 
