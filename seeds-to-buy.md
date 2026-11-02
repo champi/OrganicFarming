@@ -70,6 +70,16 @@ Starting set from [Best_Okra_Varieties.md](Best_Okra_Varieties.md).
 | [Mary's Heirloom](https://www.marysheirloomseeds.com/products/louisiana-green-velvet-okra) | Emerald (Louisiana Green Velvet) | $2.00 |
 | [Reimer Seeds](https://www.reimerseeds.com/burmese-okra-seeds) | Burmese | $2.50 |
 
+### Sandía, tomate, tomatillo — variety and shop not decided
+
+To research with `/seed`. Pick shops already on this list (Johnny's, Paramount) where possible, to share shipping.
+
+| Crop | Notes |
+|---|---|
+| Sandía (watermelon) | Direct-seed rather than transplant ([zucchini notes](zucchini-establishment-spacing-tunnel-volcan.md)) |
+| Tomate (slicing/salad) | Cherry tomatoes are already in the Paramount cart ([cherry notes](cherry-tomato-varieties-organic-volcan.md)) |
+| Tomatillo | Not self-fertile: buy enough for at least 2 plants |
+
 ### Curly parsley Lisette — might buy, shop not decided
 
 Not sure yet. Darki (1 oz) is already in the Johnny's cart. Lisette would be a side-by-side comparison, because the two have never been trialed against each other.
