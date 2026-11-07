@@ -5,6 +5,8 @@ description: Worldwide search for the best-tasting varieties of a crop (competit
 
 # Tastiest seed for Volcán (protected growing allowed)
 
+**Depth rule:** research must be **wide, deep and extensive**. Run many searches (aim for 40+ queries across Exa and the web) in many languages, and fetch full pages. Keep searching until new sources stop adding candidates or evidence. Don't stop at the first good answer.
+
 The crop (and any constraints) is whatever the user typed after `/tasty-seed`. **Taste comes first.** Climate fit is a filter, not the ranking factor. A variety that needs a tunnel is fine. Run **A. taste research**, then **B. growability in Volcán**, then **C. seller and price research**.
 
 ## Context (don't re-ask)
@@ -32,7 +34,12 @@ Search worldwide and in several languages (English, Spanish, French, Italian, Ge
    - Brix, sugar/acid ratio and volatile profiles (e.g. Klee lab at the University of Florida for tomato and strawberry).
    - **Check the statistics:** see the rigor rules in `/seed`.
 3. **Chefs and breeders:** Row 7, Culinary Breeding Network (Variety Showcase), Michelin and farm-to-table chef picks, and breeder notes.
-4. **Grower consensus:** forums (Tomatoville, GardenWeb/Houzz, Reddit, OpenAg) and seed-company tasting notes. Label all of this as **anecdote or claim**, not data.
+4. **Grower anecdotes worldwide (search hard):**
+   - Forums: Tomatoville, GardenWeb/Houzz, Reddit (r/gardening, r/tomatoes, r/vegetablegardening, country subs), OpenAg.
+   - Non-English forums: e.g. forum.gardenia.pl, Ogrodowisko, Mein schöner Garten, Hortus Focus, Forum Orto, Jardinage Forum, Infojardín, 2ch/Yahoo Chiebukuro.
+   - Blogs, YouTube taste tests, Facebook groups, and trial reports from tropical or highland growers (Costa Rica, Colombia, Kenya, Hawaii).
+   - **Seed-store product reviews:** customer reviews and star ratings on Baker Creek, Johnny's, Territorial, Tomatofest and similar shops, plus Trustpilot and Garden Watchdog. Pull out what reviewers say about taste and how the plant grew in humid or warm climates.
+   - Tally recurring praise and complaints across sources. Label all of this as **anecdote or claim**, not data.
 5. **Regional legends:** origin-protected or cult varieties (DOP/PDO, heirlooms from Italy, France, Japan, Mexico and elsewhere).
 
 For each variety, state **why** it tastes better (sugar, acid, aroma, texture, an abundance of a key volatile) and where that claim comes from.
