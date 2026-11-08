@@ -61,7 +61,7 @@ If first flowers come earlier or later than Nov 1, move the first SOP dose to ma
 | 2026-10-26 | 40 | all (4/4) | | Flower buds forming on all four plants, both ♂ and ♀; small, none open yet |
 | 2026-10-27 | 41 | all | Urine 150 mL, **fresh + white vinegar** (not aged + Epsom) | Harvest now <1 month away, inside the WHO 1-month window for unsanitized urine: wash fruit well |
 | 2026-10-30 | 44 | 2 of 4 | | First flower opening on 2 plants, both **♂**; other 2 not yet open. ♀ buds seen since Oct 26 → expect first ♀ open ~Nov 3–8, first cut **~Nov 10–18** (likeliest Nov 12–15) |
-| 2026-11-08 | 53 | all | Due: urine 200 mL (**aged only**, harvest underway) | 3 fruits growing: 2 × ~17 cm, 1 × ~21 cm (ready to cut). Hand-pollinated 3 new ♀ flowers today → cut ~Nov 14–18 |
+| 2026-11-08 | 53 | all | Due: urine 200 mL (**aged only**, harvest underway) | 3 fruits growing: 2 × ~17 cm, 1 × ~21 cm but still thin (biggest plant; wait for ~3.5–4 cm thick). Hand-pollinated 3 new ♀ flowers today → cut ~Nov 14–18 |
 |  |  |  |  |  |
 
 ## Open questions
