@@ -80,6 +80,14 @@ To research with `/seed`. Pick shops already on this list (Johnny's, Paramount) 
 | Tomate (slicing/salad) | Cherry tomatoes are already in the Paramount cart ([cherry notes](cherry-tomato-varieties-organic-volcan.md)) |
 | Tomatillo | Not self-fertile: buy enough for at least 2 plants |
 
+### Hierba buena (spearmint, *Mentha spicata*) — buy as a plant or cuttings, not seed
+
+Mint does not come true from seed: seedlings vary in flavor, and the plants sold in Panama as hierba buena may be hybrids. Buy one healthy potted plant or a few stem cuttings with good flavor locally (vivero, market, or a neighbour). Taste a leaf first. Cuttings root in water or moist soil in 1–2 weeks. It spreads by runners, so grow it in a pot or a bed with edging.
+
+| Source | Form | Qty | Price | Notes |
+|---|---|---|---|---|
+| Local vivero / market / neighbour | Potted plant or cuttings | 1–3 | ~$1–3 (guess) | Pick the plant you like the taste of |
+
 ### Curly parsley Lisette — might buy, shop not decided
 
 Not sure yet. Darki (1 oz) is already in the Johnny's cart. Lisette would be a side-by-side comparison, because the two have never been trialed against each other.
