@@ -88,6 +88,10 @@ Mint does not come true from seed: seedlings vary in flavor, and the plants sold
 |---|---|---|---|---|
 | Local vivero / market / neighbour | Potted plant or cuttings | 1–3 | ~$1–3 (guess) | Pick the plant you like the taste of |
 
+**TODO: find a good-tasting one** (no local plant has tasted good so far):
+- [ ] **Mojito mint** (*Mentha × villosa*, Cuban hierba buena). It's sterile, so it only comes from cuttings and "Mojito seed" sold online is fake. Ask Cuban or Dominican restaurants or families, and plant shops in David or Boquete ("hierba buena cubana"). Try rooting fresh grocery-store bunches in water.
+- [ ] **Moroccan-type spearmint from seed** (fallback). Buy plain *M. spicata* seed: [Strictly Medicinal](https://strictlymedicinalseeds.com/?p=15374), organic, $5.14 for 100 ([True Leaf](https://www.trueleafmarket.com/products/spearmint-seeds) is $2.79, not organic). Grow 20–50 seedlings, taste each one, keep the best 1–2 and propagate them from cuttings.
+
 ### Curly parsley Lisette — might buy, shop not decided
 
 Not sure yet. Darki (1 oz) is already in the Johnny's cart. Lisette would be a side-by-side comparison, because the two have never been trialed against each other.
