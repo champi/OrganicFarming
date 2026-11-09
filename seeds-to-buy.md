@@ -70,7 +70,7 @@ Starting set from [Best_Okra_Varieties.md](Best_Okra_Varieties.md).
 | [Mary's Heirloom](https://www.marysheirloomseeds.com/products/louisiana-green-velvet-okra) | Emerald (Louisiana Green Velvet) | $2.00 |
 | [Reimer Seeds](https://www.reimerseeds.com/burmese-okra-seeds) | Burmese | $2.50 |
 
-### Sandía, tomate, tomatillo — variety and shop not decided
+### Sandía, tomate, tomatillo, estragón — variety and shop not decided
 
 To research with `/seed`. Pick shops already on this list (Johnny's, Paramount) where possible, to share shipping.
 
@@ -79,6 +79,7 @@ To research with `/seed`. Pick shops already on this list (Johnny's, Paramount) 
 | Sandía (watermelon) | Direct-seed rather than transplant ([zucchini notes](zucchini-establishment-spacing-tunnel-volcan.md)) |
 | Tomate (slicing/salad) | Cherry tomatoes are already in the Paramount cart ([cherry notes](cherry-tomato-varieties-organic-volcan.md)) |
 | Tomatillo | Not self-fertile: buy enough for at least 2 plants |
+| Estragón (tarragon) | Grow **Mexican tarragon** (*Tagetes lucida*, pericón/hierbanís) from seed. It's native to the highlands and tastes close to French tarragon. French tarragon is sterile (plants only) and likely to rot in Volcán's humidity. "Tarragon seed" is Russian tarragon, which has little flavor. Seed is sold at Strictly Medicinal and Baker Creek (price and stock not checked) |
 
 ### Hierba buena (spearmint, *Mentha spicata*) — buy as a plant or cuttings, not seed
 
