@@ -63,6 +63,7 @@ If first flowers come earlier or later than Nov 1, move the first SOP dose to ma
 | 2026-10-31 | 45 | 2 of 4 | | First flower opening on 2 plants, both **♂** (first ♂ opened Oct 31, not Oct 30); other 2 not yet open. ♀ buds seen since Oct 26 → expect first ♀ open ~Nov 3–8, first cut **~Nov 10–18** (likeliest Nov 12–15) |
 | ~2026-11-02 to 04 | 47–49 | 3 of 4 (1 each) | | First ♀ flowers open ~Nov 2 (47 DAS); hand-pollinated 3 (~Nov 2–4) |
 | 2026-11-08 | 53 | all | Urine ~200–250 mL aged, diluted ~1:5 | 4th plant: a wild cat played with it and knocked off all its ♀ flowers and baby fruit; plant survived, but growing tip and main stem a little damaged. 3 fruits growing (1 per plant): 2 × ~17 cm, 1 × ~21 cm but still thin (biggest plant; wait for ~3.5–4 cm thick). Fruit reached 17–21 cm **~4–6 days** after pollination, at or just ahead of the 6–10 d expected. Hand-pollinated 3 new ♀ flowers today → cut ~Nov 13–15 |
+| 2026-11-09 | 54 | 3 of 4 (1 each) | | **First harvest: 3 fruits, ~975 g total.** 2 × 21 cm (~275 g each), 1 × 28 cm (425 g); all 4.5–5 cm thick. ~5–7 days after pollination. Above the 200–250 g target: cut a little earlier (~18–20 cm, ~4 cm thick) for best texture |
 |  |  |  |  |  |
 
 ## Open questions
