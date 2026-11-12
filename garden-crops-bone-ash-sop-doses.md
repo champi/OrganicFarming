@@ -84,9 +84,11 @@ Sown in 4 lines of clusters (corn ~7 weeks old, beans ~2–3 weeks old): 2 per l
 | Vermicast | **15 g** | **120 g** |
 | Seeds | **3 per hole**, thin to the strongest | 24 |
 | Great White (AMF) + bentonite | **1 : 3.6** by weight, dusted into the hole with the seeds | |
+| Biochar, dry, urine-charged (~200 mL urine) | **50 g** | **400 g** |
 | SOP | **None at sowing** | |
 
 - **Hole:** ~40 × 20 cm, ~5 cm deep. Stir the bone ash and vermicast through the soil of the whole hole, sow the 3 seeds 2–3 cm deep in the middle, and dust the Great White/bentonite mix in with the seeds.
+- **Biochar:** 1 pocket ~20 cm from the seed on the side opposite the bone ash, stirred into the pocket's soil and covered; never in the bone-ash hole.
 - **Still to do:** SOP 45 g per plant over the season: 15 g at first flowers, 15 g at fruit set, 15 g 2–3 weeks later, in a ring 30–40 cm from the crown.
 
 ---
