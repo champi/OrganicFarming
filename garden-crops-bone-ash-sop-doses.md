@@ -55,6 +55,25 @@ Bone-ash mix = fine ash + vermicast 1:1 by weight, pre-mixed (1 tbsp ≈ 10 g). 
 
 Ash ≥3 days from urine and wood ash, so don't put ash on the zucchini beds today. SOP can go with urine.
 
+### Corn clusters, Nov 12 2026 (applied today, 514 clusters)
+
+Corn at ~6-leaf stage; beans not yet sown (sowing ~Nov 12). Stock on hand: 8.5 kg vermicast, 30 kg dry biochar.
+
+| Input | Per cluster | Total (514 clusters) | Where |
+|---|---|---|---|
+| Bone ash | **37 g** | **19.0 kg** | Pre-mixed, 2 uphill holes |
+| Vermicast | **16 g** | **8.2 kg** | Pre-mixed, 2 uphill holes |
+| SOP (corn dose) | **9 g** | **4.6 kg** | Pre-mixed, 2 uphill holes |
+| **Mix total** | **62 g** | **31.9 kg** | |
+| Biochar, dry | **50–55 g** | **25.7–28.3 kg** | 2 downhill pockets, kept apart from the bone ash |
+| Urine to charge the biochar (1:1 by volume) | ~200–220 mL | ~103–113 L | Soaked into the biochar before use |
+
+- **Uphill:** 2 holes, 15 cm from the stalks, ~8 cm wide × 5 cm deep; half the mix in each, stirred into the soil, covered.
+- **Downhill:** 2 pockets, 15 cm from the stalks, ~10 cm wide × ≤10 cm deep; half the charged biochar in each, stirred into the soil, covered with a few cm of plain soil.
+- Replace the mulch.
+- The 37 g bone ash also covers the beans, so they need no extra ash at sowing.
+- **Still to do:** 5 g SOP per cluster (2.6 kg total) at bean first flowers, ~6–8 weeks after sowing.
+
 ---
 
 ## 2. Method
