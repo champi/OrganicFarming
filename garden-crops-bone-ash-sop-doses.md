@@ -74,6 +74,23 @@ Corn at ~6-leaf stage; beans not yet sown (sowing ~Nov 12). Stock on hand: 8.5 k
 - The 37 g bone ash also covers the beans, so they need no extra ash at sowing.
 - **Still to do:** 5 g SOP per cluster (2.6 kg total) at bean first flowers, ~6–8 weeks after sowing.
 
+### Pumpkins, Nov 12 2026 (sown today, 8 plants)
+
+Sown in 4 lines of clusters (corn ~7 weeks old, beans ~2–3 weeks old): 2 per line, one midway between the middle clusters (~50 cm from each), one ~0.5–1 m past the end of the line. The end spots get the most light; move a middle one to the block's edge if it is too shaded.
+
+| Input | Per pumpkin | Total (8) |
+|---|---|---|
+| Bone ash | **60 g** (≈2× P uptake) | **480 g** |
+| Vermicast | **15 g** | **120 g** |
+| Seeds | **3 per hole**, thin to the strongest | 24 |
+| Great White (AMF) + bentonite | **1 : 3.6** by weight, dusted into the hole with the seeds | |
+| Biochar, dry, urine-charged | Whatever is left after the clusters (~200 g each at 55 g/cluster) | |
+| SOP | **None at sowing** | |
+
+- **Hole:** ~40 × 20 cm, ~5 cm deep. Stir the bone ash and vermicast through the soil of the whole hole, sow the 3 seeds 2–3 cm deep in the middle, and dust the Great White/bentonite mix in with the seeds.
+- **Biochar:** 1–2 pockets ~20 cm from the seed on the opposite side, never in the bone-ash hole.
+- **Still to do:** SOP 45 g per plant over the season: 15 g at first flowers, 15 g at fruit set, 15 g 2–3 weeks later, in a ring 30–40 cm from the crown.
+
 ---
 
 ## 2. Method
