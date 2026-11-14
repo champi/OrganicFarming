@@ -6,6 +6,7 @@ Guides, protocols, and scientific references for organic farming practices.
 
 | Document | Description |
 |---|---|
+| [GOALS.md](GOALS.md) | Farm data goals ranked by priority (core planting/harvest log, inputs, continuous harvest, variety trials, sales, pests, input effectiveness, soil, weather, family supply; future: profit, own seed, traceability, certification), with status and data each needs. |
 | [bone-ash-phosphorus-fertilizer.md](bone-ash-phosphorus-fertilizer.md) | Comprehensive guide to using bone ash as phosphorus fertilizer in organic farming. Covers 7 methods (direct soil, vermicomposting, citric acid, vinegar/KNF, microbial solubilization, mycorrhizal integration, and a complete hybrid protocol) with 46+ peer-reviewed references. |
 | [volcan-garden-bed-slope-design.md](volcan-garden-bed-slope-design.md) | Garden bed design on Volcán's Andisol slopes: bed shape, orientation relative to slope, drainage channels (swales, grassed waterways, diversions), and erosion control while keeping drainage. Includes a Three Sisters mound assessment for low-slope land, with AMF/P management for maize on Andisols. |
 | [three-sisters-volcan.md](three-sisters-volcan.md) | Three Sisters (corn, beans, squash) for Volcán's slopes: direct-seed, no-mound, no-bed method — corn in clusters of 4 at ~1 m spacing in a block (research-optimal ~4–5 plants/m², not a 30 cm grid), machete chop-and-drop site prep, planting sequence/timing, AMF seed coating, and Andisol P management. |
