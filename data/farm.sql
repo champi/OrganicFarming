@@ -50,6 +50,10 @@ INSERT INTO "applications" VALUES(35,'2026-11-12',15,NULL,12,50.0,'g','per_plant
 INSERT INTO "applications" VALUES(36,'2026-11-12',15,NULL,13,60.0,'g','per_plant','mixed into planting soil with vermicast');
 INSERT INTO "applications" VALUES(37,'2026-11-12',15,NULL,14,15.0,'g','per_plant','mixed into planting soil with bone ash');
 INSERT INTO "applications" VALUES(38,'2026-11-12',15,NULL,1,NULL,NULL,NULL,'seeds powdered with the 1:3.6 mix');
+INSERT INTO "applications" VALUES(39,'2026-11-13',7,NULL,12,50.0,'g','per_cluster','downhill pit; about half of the 434 clusters (rest to continue)');
+INSERT INTO "applications" VALUES(40,'2026-11-13',7,NULL,13,37.0,'g','per_cluster','uphill, mixed with vermicast + SOP; about half of the 434 clusters (rest to continue)');
+INSERT INTO "applications" VALUES(41,'2026-11-13',7,NULL,14,15.0,'g','per_cluster','uphill, mixed with bone ash + SOP; about half of the 434 clusters (rest to continue)');
+INSERT INTO "applications" VALUES(42,'2026-11-13',7,NULL,10,9.0,'g','per_cluster','uphill, mixed with bone ash + vermicast; about half of the 434 clusters (rest to continue)');
 CREATE TABLE beds (                       -- where things grow
   id        INTEGER PRIMARY KEY,
   name      TEXT NOT NULL UNIQUE,         -- e.g. 'Raised bed baru 2', 'Entrance mounds row 1-4'
@@ -187,7 +191,7 @@ INSERT INTO "plantings" VALUES(1,1,1,1,NULL,NULL,'2026-08-29',NULL,NULL,NULL,NUL
 INSERT INTO "plantings" VALUES(2,2,NULL,2,NULL,NULL,'2026-09-01',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'xlsx row "otoe camote papa"',NULL);
 INSERT INTO "plantings" VALUES(3,3,NULL,2,NULL,NULL,'2026-09-01',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'xlsx row "otoe camote papa"',NULL);
 INSERT INTO "plantings" VALUES(4,4,NULL,2,NULL,NULL,'2026-09-01',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'xlsx row "otoe camote papa"',NULL);
-INSERT INTO "plantings" VALUES(5,5,2,3,NULL,NULL,'2026-09-04',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Great White:bentonite powder:seed 1:34.75',NULL);
+INSERT INTO "plantings" VALUES(5,5,2,3,NULL,NULL,'2026-09-04',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'about 8-9 clusters per row (rows 1-4)',NULL);
 INSERT INTO "plantings" VALUES(6,6,NULL,2,NULL,'transplant','2026-09-20',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'xlsx: "tomate cherry transplant"; 2026-09-20 recorded as sowing date',NULL);
 INSERT INTO "plantings" VALUES(7,5,2,4,NULL,NULL,'2026-10-01',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'clusters, avg 4 plants each (1-6)',434);
 INSERT INTO "plantings" VALUES(8,5,2,5,NULL,NULL,'2026-10-02',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'clusters, avg 4 plants each (1-6)',80);
