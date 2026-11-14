@@ -1,5 +1,7 @@
 -- DRAFT schema for goals 1–10 in GOALS.md. Not applied.
 -- Once approved it becomes data/migrations/001_core.sql and is applied with `bin/farm migrate`.
+-- Principle: only what's needed to identify a record is required; everything else is optional
+-- and can be filled in later. New columns/tables are added by later migrations.
 -- Rules (CLAUDE.md): STRICT tables, INTEGER PRIMARY KEY, ISO dates checked with date().
 
 -- ── Reference tables ────────────────────────────────────────────────
@@ -7,7 +9,7 @@
 CREATE TABLE beds (                       -- where things grow
   id        INTEGER PRIMARY KEY,
   name      TEXT NOT NULL UNIQUE,         -- e.g. 'Raised bed baru 2', 'Entrance mounds row 1-4'
-  kind      TEXT NOT NULL CHECK (kind IN ('raised_bed','mound_row','field','tunnel','pot','other')),
+  kind      TEXT CHECK (kind IN ('raised_bed','mound_row','field','tunnel','pot','other')),
   area_m2   REAL CHECK (area_m2 > 0),
   notes     TEXT
 ) STRICT;
@@ -32,7 +34,7 @@ CREATE TABLE varieties (
 CREATE TABLE inputs (                     -- things applied: biochar mix, bone ash, Great White …
   id      INTEGER PRIMARY KEY,
   name    TEXT NOT NULL UNIQUE,
-  kind    TEXT NOT NULL CHECK (kind IN ('fertilizer','amendment','inoculant','biocontrol','mulch','water','other')),
+  kind    TEXT CHECK (kind IN ('fertilizer','amendment','inoculant','biocontrol','mulch','water','other')),
   recipe  TEXT,                           -- e.g. 'Great White : bentonite 1:3.6'
   notes   TEXT
 ) STRICT;
@@ -40,8 +42,8 @@ CREATE TABLE inputs (                     -- things applied: biochar mix, bone a
 CREATE TABLE trials (                     -- goals 4 and 7
   id          INTEGER PRIMARY KEY,
   name        TEXT NOT NULL UNIQUE,
-  question    TEXT NOT NULL,              -- 'Which zucchini yields most per m² in the wet season?'
-  design      TEXT NOT NULL CHECK (design IN ('observation','replicated','tricot','paired_control')),
+  question    TEXT,              -- 'Which zucchini yields most per m² in the wet season?'
+  design      TEXT CHECK (design IN ('observation','replicated','tricot','paired_control')),
   start_date  TEXT CHECK (start_date IS date(start_date)),
   notes       TEXT
 ) STRICT;
@@ -50,11 +52,12 @@ CREATE TABLE trials (                     -- goals 4 and 7
 
 CREATE TABLE plantings (
   id              INTEGER PRIMARY KEY,
-  variety_id      INTEGER NOT NULL REFERENCES varieties(id),
+  crop_id         INTEGER NOT NULL REFERENCES crops(id),
+  variety_id      INTEGER REFERENCES varieties(id),   -- optional: variety may be unknown
   bed_id          INTEGER REFERENCES beds(id),
   location_detail TEXT,                   -- free text if finer than the bed
   method          TEXT CHECK (method IN ('direct_seed','transplant','cutting','tuber','sucker')),
-  sow_date        TEXT NOT NULL CHECK (sow_date IS date(sow_date)),
+  sow_date        TEXT CHECK (sow_date IS date(sow_date)),
   transplant_date TEXT CHECK (transplant_date IS date(transplant_date) AND transplant_date >= sow_date),
   n_plants        INTEGER CHECK (n_plants > 0),
   area_m2         REAL CHECK (area_m2 > 0),  -- needed for yield per m²
@@ -89,7 +92,7 @@ CREATE TABLE applications (
   basis       TEXT CHECK (basis IN ('per_plant','per_cluster','per_m2','total')),
   notes       TEXT,
   CHECK (planting_id IS NOT NULL OR bed_id IS NOT NULL),
-  CHECK (quantity IS NULL OR (unit IS NOT NULL AND basis IS NOT NULL))
+  CHECK (quantity IS NULL OR unit IS NOT NULL)
 ) STRICT;
 
 -- ── Goal 4: taste / quality scores (also tricot ranks) ──────────────
@@ -189,8 +192,6 @@ CREATE INDEX plantings_variety     ON plantings(variety_id);
 CREATE VIEW planting_summary AS
 SELECT p.id AS planting_id, c.name AS crop, v.name AS variety, b.name AS bed,
        p.sow_date,
-       CASE WHEN CAST(strftime('%m', p.sow_date) AS INTEGER) IN (12,1,2,3,4)
-            THEN 'dry' ELSE 'wet' END AS sow_season,           -- Volcán: dry Dec–Apr
        MIN(h.date) AS first_harvest, MAX(h.date) AS last_harvest,
        CAST(julianday(MIN(h.date)) - julianday(p.sow_date) AS INTEGER) AS days_to_first_harvest,
        v.packet_days_to_maturity,
@@ -200,8 +201,8 @@ SELECT p.id AS planting_id, c.name AS crop, v.name AS variety, b.name AS bed,
        ROUND(SUM(h.weight_kg) / p.n_plants, 3) AS kg_per_plant,
        p.trial_id, p.treatment, p.replicate
 FROM plantings p
-JOIN varieties v ON v.id = p.variety_id
-JOIN crops c     ON c.id = v.crop_id
+JOIN crops c     ON c.id = p.crop_id
+LEFT JOIN varieties v ON v.id = p.variety_id
 LEFT JOIN beds b ON b.id = p.bed_id
 LEFT JOIN harvests h ON h.planting_id = p.id
 GROUP BY p.id;
