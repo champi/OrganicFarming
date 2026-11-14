@@ -38,6 +38,18 @@ INSERT INTO "applications" VALUES(23,'2026-11-14',13,NULL,10,15.0,'g','per_plant
 INSERT INTO "applications" VALUES(24,'2026-11-14',13,NULL,8,300.0,'mL','per_plant',NULL);
 INSERT INTO "applications" VALUES(25,'2026-11-14',14,NULL,10,7.0,'g','total','whole bed');
 INSERT INTO "applications" VALUES(26,'2026-11-14',14,NULL,8,250.0,'mL','total','whole bed');
+INSERT INTO "applications" VALUES(27,'2026-11-12',5,NULL,12,50.0,'g','per_cluster','downhill pit');
+INSERT INTO "applications" VALUES(28,'2026-11-12',8,NULL,12,50.0,'g','per_cluster','downhill pit');
+INSERT INTO "applications" VALUES(29,'2026-11-12',5,NULL,13,37.0,'g','per_cluster','uphill, mixed with vermicast + SOP');
+INSERT INTO "applications" VALUES(30,'2026-11-12',8,NULL,13,37.0,'g','per_cluster','uphill, mixed with vermicast + SOP');
+INSERT INTO "applications" VALUES(31,'2026-11-12',5,NULL,14,15.0,'g','per_cluster','uphill, mixed with bone ash + SOP');
+INSERT INTO "applications" VALUES(32,'2026-11-12',8,NULL,14,15.0,'g','per_cluster','uphill, mixed with bone ash + SOP');
+INSERT INTO "applications" VALUES(33,'2026-11-12',5,NULL,10,9.0,'g','per_cluster','uphill, mixed with bone ash + vermicast');
+INSERT INTO "applications" VALUES(34,'2026-11-12',8,NULL,10,9.0,'g','per_cluster','uphill, mixed with bone ash + vermicast');
+INSERT INTO "applications" VALUES(35,'2026-11-12',15,NULL,12,50.0,'g','per_plant','in a pit');
+INSERT INTO "applications" VALUES(36,'2026-11-12',15,NULL,13,60.0,'g','per_plant','mixed into planting soil with vermicast');
+INSERT INTO "applications" VALUES(37,'2026-11-12',15,NULL,14,15.0,'g','per_plant','mixed into planting soil with bone ash');
+INSERT INTO "applications" VALUES(38,'2026-11-12',15,NULL,1,NULL,NULL,NULL,'seeds powdered with the 1:3.6 mix');
 CREATE TABLE beds (                       -- where things grow
   id        INTEGER PRIMARY KEY,
   name      TEXT NOT NULL UNIQUE,         -- e.g. 'Raised bed baru 2', 'Entrance mounds row 1-4'
@@ -130,6 +142,9 @@ INSERT INTO "inputs" VALUES(8,'Urine','fertilizer','type not recorded',NULL);
 INSERT INTO "inputs" VALUES(9,'Bone ash + vermicast 1:1','fertilizer','raw fine-ground bone ash : vermicast 1:1 by weight',NULL);
 INSERT INTO "inputs" VALUES(10,'Potassium sulfate (SOP)','fertilizer','0-0-50',NULL);
 INSERT INTO "inputs" VALUES(11,'Seedling mix','amendment','All sieved: 35% pine needle leaf mold (neighbour pine forest, contains natural biochar), 35% native soil (entrance mounds line 7, near waterway channel), 20% vermicast, 10% urine-charged biochar',NULL);
+INSERT INTO "inputs" VALUES(12,'Biochar','amendment',NULL,NULL);
+INSERT INTO "inputs" VALUES(13,'Bone ash','fertilizer',NULL,NULL);
+INSERT INTO "inputs" VALUES(14,'Vermicast','amendment',NULL,NULL);
 CREATE TABLE observations (
   id            INTEGER PRIMARY KEY,
   date          TEXT NOT NULL CHECK (date IS date(date)),
@@ -174,14 +189,15 @@ INSERT INTO "plantings" VALUES(3,3,NULL,2,NULL,NULL,'2026-09-01',NULL,NULL,NULL,
 INSERT INTO "plantings" VALUES(4,4,NULL,2,NULL,NULL,'2026-09-01',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'xlsx row "otoe camote papa"',NULL);
 INSERT INTO "plantings" VALUES(5,5,2,3,NULL,NULL,'2026-09-04',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Great White:bentonite powder:seed 1:34.75',NULL);
 INSERT INTO "plantings" VALUES(6,6,NULL,2,NULL,'transplant','2026-09-20',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'xlsx: "tomate cherry transplant"; 2026-09-20 recorded as sowing date',NULL);
-INSERT INTO "plantings" VALUES(7,5,2,4,NULL,NULL,'2026-10-01',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'xlsx "Nb plants" = 434 (dose log counts these as clusters)',NULL);
-INSERT INTO "plantings" VALUES(8,5,2,5,NULL,NULL,'2026-10-02',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'xlsx "Nb plants" = 80 (dose log counts these as clusters)',NULL);
+INSERT INTO "plantings" VALUES(7,5,2,4,NULL,NULL,'2026-10-01',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'clusters, avg 4 plants each (1-6)',434);
+INSERT INTO "plantings" VALUES(8,5,2,5,NULL,NULL,'2026-10-02',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'clusters, avg 4 plants each (1-6)',80);
 INSERT INTO "plantings" VALUES(9,7,NULL,3,NULL,NULL,'2026-10-12',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'xlsx row "Frijol Lima + Frijol Conejo"',NULL);
 INSERT INTO "plantings" VALUES(10,8,3,3,NULL,NULL,'2026-10-12',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'xlsx row "Frijol Lima + Frijol Conejo"',NULL);
 INSERT INTO "plantings" VALUES(11,9,4,6,NULL,NULL,'2026-10-12',NULL,9,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "plantings" VALUES(12,9,4,7,NULL,'direct_seed','2026-09-16',NULL,4,NULL,NULL,NULL,NULL,NULL,'Trial: zucchini-trial-2026-president-f1.md; ~1 m2 per plant',NULL);
 INSERT INTO "plantings" VALUES(13,10,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Rented house; sow date not recorded (garden-input-log-2026.md)',NULL);
 INSERT INTO "plantings" VALUES(14,3,NULL,8,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'4-6 plants, with strawberries',NULL);
+INSERT INTO "plantings" VALUES(15,10,NULL,3,NULL,'direct_seed','2026-11-12',NULL,8,NULL,NULL,NULL,NULL,NULL,'about one pumpkin every 4 corn clusters',NULL);
 CREATE TABLE schema_migrations (
     name TEXT PRIMARY KEY,
     sha256 TEXT NOT NULL,
