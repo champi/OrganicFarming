@@ -417,6 +417,35 @@ class PreCommitHook(RepoTest):
         r = git(self.repo.root, "commit", "-am", "docs", check=False)
         self.assertEqual(r.returncode, 0, r.stderr)
 
+    def _fake_suite(self, passing):
+        tests = self.repo.root / "tools" / "tests"
+        tests.mkdir(parents=True, exist_ok=True)
+        (tests / "test_fake.py").write_text(
+            "import os, unittest\n"
+            "class T(unittest.TestCase):\n"
+            "    def test_git_env_is_scrubbed(self):\n"
+            "        self.assertFalse([k for k in os.environ if k.startswith('GIT_')])\n"
+            f"    def test_x(self):\n        self.assertTrue({passing})\n")
+        git(self.repo.root, "add", "tools/tests/test_fake.py")
+
+    def test_code_commit_is_blocked_when_tests_fail(self):
+        self._fake_suite(passing=False)
+        r = git(self.repo.root, "commit", "-m", "break", check=False)
+        self.assertNotEqual(r.returncode, 0)
+        self.assertIn("tests failed", (r.stdout + r.stderr).lower())
+
+    def test_code_commit_runs_tests_with_git_env_scrubbed_and_passes(self):
+        self._fake_suite(passing=True)
+        r = git(self.repo.root, "commit", "-m", "ok", check=False)
+        self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
+
+    def test_docs_commit_does_not_run_tests(self):
+        self._fake_suite(passing=False)
+        git(self.repo.root, "reset", "-q")          # unstage the failing suite
+        (self.repo.root / "README.md").write_text("docs\n")
+        r = git(self.repo.root, "commit", "-qam", "docs", check=False)
+        self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
+
     def test_tool_commits_pass_the_hook(self):
         r = self.repo.farm("exec", "-m", "A", "INSERT INTO bed VALUES (1, 'A');")
         self.assertOk(r)

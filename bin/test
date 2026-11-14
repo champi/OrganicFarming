@@ -1,0 +1,47 @@
+#!/usr/bin/env python3
+"""Run the farm database tests locally.
+
+  bin/test                 system Python (what the git pre-commit check runs)
+  bin/test --all-pythons   also Python 3.13 and 3.14 via uv, to catch upgrade breakage
+"""
+import os
+import shutil
+import subprocess
+import sys
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[1]
+TESTS = ROOT / "tools" / "tests"
+EXTRA_PYTHONS = ["3.13", "3.14"]
+
+
+def clean_env():
+    # Inside a git hook, GIT_INDEX_FILE/GIT_DIR point at this repo; the tests' throwaway
+    # repos must not inherit them or they would act on the real index.
+    return {k: v for k, v in os.environ.items() if not k.startswith("GIT_")}
+
+
+def run(cmd, label):
+    print(f"== {label}", flush=True)
+    r = subprocess.run(cmd + ["-m", "unittest", "discover", "-p", "test_*.py"],
+                       cwd=TESTS, env=clean_env())
+    return r.returncode == 0
+
+
+def main():
+    if not TESTS.is_dir():
+        print("bin/test: no tools/tests directory; nothing to run")
+        return 0
+    ok = run([sys.executable], f"Python {sys.version.split()[0]}")
+    if "--all-pythons" in sys.argv[1:]:
+        uv = shutil.which("uv")
+        if not uv:
+            print("bin/test: uv not found; skipping other Python versions", file=sys.stderr)
+        for version in EXTRA_PYTHONS if uv else []:
+            ok = run([uv, "run", "-q", "--no-project", "--python", version, "python"],
+                     f"Python {version} (uv)") and ok
+    print("bin/test: all tests passed" if ok else "bin/test: TESTS FAILED")
+    return 0 if ok else 1
+
+
+sys.exit(main())

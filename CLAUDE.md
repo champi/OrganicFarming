@@ -18,6 +18,6 @@ Rules:
 - Never edit an applied migration. Write a new one with a higher number. Tables must be `STRICT` with an `INTEGER PRIMARY KEY`. No virtual tables.
 - Exit code 3 means the change was saved and committed but not pushed (offline, or the remote has a conflicting change). Nothing is lost: the Stop hook retries the push, and safe rebases happen automatically.
 - If the guard blocks a command that only *mentions* `farm.sql` (e.g. in a commit message or heredoc), rephrase it or use the Edit/Write tools on the file you actually mean.
-- After changing `tools/farmdb`, run the tests: `cd tools/tests && python3 -m unittest discover -p 'test_*.py'`. GitHub Actions also runs them on Python 3.12–3.14.
+- Tests run locally only (no GitHub Actions). `bin/test` runs them, and the git pre-commit check runs them automatically for any commit touching `tools/`, `bin/`, `.githooks/` or `.claude/hooks`. After a Python or OS upgrade, run `bin/test --all-pythons` (uses `uv` for 3.13 and 3.14).
 
 What the data is for: [GOALS.md](GOALS.md).
