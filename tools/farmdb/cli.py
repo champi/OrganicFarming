@@ -20,6 +20,7 @@ from . import db, gitops, migrations as mig, store
 from .errors import FarmError
 
 PUSH_FAILED = 3
+MAX_ROWS = 500
 _READ_ACTIONS = {sqlite3.SQLITE_READ, sqlite3.SQLITE_SELECT, sqlite3.SQLITE_FUNCTION,
                  sqlite3.SQLITE_RECURSIVE}
 
@@ -48,11 +49,29 @@ def _verify(text, files):
     found = db.check(conn) + mig.problems(conn, files)
     if found:
         raise FarmError("refusing to save, result has problems: " + "; ".join(found))
+    if db.dump(conn) != text:
+        raise FarmError("refusing to save: the text does not reload to an identical database")
+
+
+def worktree_problems(root):
+    """Problems with the data as it is on disk now (used after a rebase)."""
+    try:
+        conn = db.load(store.read_sql(root))
+    except FarmError as e:
+        return [str(e)]
+    return db.check(conn) + mig.problems(conn, store.read_migrations(root))
+
+
+def push_with_sync(root):
+    return gitops.sync_push(root, lambda: worktree_problems(root))
 
 
 def _save_commit_push(root, old_text, new_text, extra_paths, message):
     path = Path(root) / store.SQL_REL
     existed = path.exists()
+    warning = gitops.ensure_hooks(root)
+    if warning:
+        print(warning, file=sys.stderr)
     store.atomic_write(path, new_text)
     try:
         sha = gitops.commit(root, [store.SQL_REL, *extra_paths], message)
@@ -63,7 +82,7 @@ def _save_commit_push(root, old_text, new_text, extra_paths, message):
             path.unlink(missing_ok=True)
         raise
     print(f"saved and committed {sha[:10]}")
-    ok, output = gitops.push(root)
+    ok, output = push_with_sync(root)
     if not ok:
         print(f"warning: committed locally but git push failed:\n{output}", file=sys.stderr)
         return PUSH_FAILED
@@ -132,8 +151,12 @@ def cmd_query(root, args):
     out = csv.writer(sys.stdout, lineterminator="\n")
     if cursor.description:
         out.writerow([d[0] for d in cursor.description])
-    for row in rows:
+    shown = rows if args.all else rows[:MAX_ROWS]
+    for row in shown:
         out.writerow(["" if v is None else v.hex() if isinstance(v, bytes) else v for v in row])
+    if len(shown) < len(rows):
+        print(f"note: showing {len(shown)} of {len(rows)} rows; narrow the query (WHERE, "
+              "LIMIT, GROUP BY) or pass --all", file=sys.stderr)
     return 0
 
 
@@ -147,12 +170,16 @@ def cmd_check(root, args):
                 files[name] = gitops.show_staged(root, rel) or ""
     else:
         text, files = store.read_sql(root), store.read_migrations(root)
+    deleted = args.staged and gitops.show_staged(root, store.SQL_REL) is None \
+        and gitops.head_has(root, store.SQL_REL)
     try:
         conn = db.load(text)
     except FarmError as e:
         found = [str(e)]
     else:
         found = db.check(conn) + mig.problems(conn, files)
+        if deleted:
+            found.insert(0, f"{store.SQL_REL} would be deleted; farm data must never be removed")
         for name in mig.pending(conn, files):
             print(f"note: migration {name} is not applied yet (bin/farm migrate)")
     for problem in found:
@@ -168,6 +195,7 @@ def build_parser():
                                 formatter_class=argparse.RawDescriptionHelpFormatter)
     sub = p.add_subparsers(dest="command", required=True)
     q = sub.add_parser("query", help="read-only SQL, prints CSV")
+    q.add_argument("--all", action="store_true", help=f"print all rows (default: first {MAX_ROWS})")
     q.add_argument("sql", help="SQL text, or - to read stdin")
     e = sub.add_parser("exec", help="change data: validate, save, commit, push")
     e.add_argument("-m", "--message", required=True, help="commit message")

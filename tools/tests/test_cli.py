@@ -202,6 +202,93 @@ class Exec(RepoTest):
         self.assertEqual(self.repo.remote_head(), self.repo.local_head())
 
 
+class RemoteAhead(RepoTest):
+    """Another session or machine pushed first (this happens with forked sessions)."""
+
+    def setUp(self):
+        super().setUp()
+        self.migrated()
+        self.assertOk(self.repo.farm("exec", "-m", "bed", "INSERT INTO bed VALUES (1, 'A');"))
+        self.other = self.repo.tmp / "other"
+        subprocess.run(["git", "clone", "-q", str(self.repo.remote), str(self.other)], check=True)
+
+    def other_farm(self, *args):
+        import os
+        return subprocess.run([sys.executable, str(self.other / "bin" / "farm"), *args],
+                              cwd=self.other, capture_output=True, text=True,
+                              env={**os.environ, "GIT_AUTHOR_NAME": "o",
+                                   "GIT_AUTHOR_EMAIL": "o@example.com", "GIT_COMMITTER_NAME": "o",
+                                   "GIT_COMMITTER_EMAIL": "o@example.com"})
+
+    def other_push_readme(self):
+        (self.other / "README.md").write_text("changed elsewhere\n")
+        git(self.other, "commit", "-qam", "docs elsewhere")
+        git(self.other, "push", "-q")
+
+    def rebase_in_progress(self):
+        gitdir = self.repo.root / ".git"
+        return (gitdir / "rebase-merge").exists() or (gitdir / "rebase-apply").exists()
+
+    def test_unrelated_remote_commit_is_rebased_onto_and_pushed(self):
+        self.other_push_readme()
+        r = self.repo.farm("exec", "-m", "B", "INSERT INTO bed VALUES (2, 'B');")
+        self.assertOk(r)
+        self.assertEqual(self.repo.remote_head(), self.repo.local_head())
+        self.assertEqual((self.repo.root / "README.md").read_text(), "changed elsewhere\n")
+        self.assertIn("'B'", self.repo.sql_path.read_text())
+
+    def test_conflicting_remote_data_is_not_merged_and_local_commit_is_kept(self):
+        self.assertOk(self.other_farm("exec", "-m", "X", "INSERT INTO bed VALUES (2, 'X');"))
+        r = self.repo.farm("exec", "-m", "Y", "INSERT INTO bed VALUES (2, 'Y');")
+        self.assertOk(r, 3)
+        self.assertFalse(self.rebase_in_progress())
+        self.assertEqual(self.repo.head_message(), "Y")
+        self.assertEqual(git(self.repo.root, "status", "--porcelain",
+                             "--untracked-files=no").stdout, "")
+        self.assertIn("'Y'", self.repo.sql_path.read_text())
+
+    def test_clean_text_merge_that_breaks_the_data_is_undone(self):
+        # Remote deletes bed 1 while we add a planting on bed 1: git merges the text
+        # cleanly, but the result has a dangling foreign key.
+        self.assertOk(self.other_farm("exec", "-m", "del", "DELETE FROM bed WHERE id = 1;"))
+        r = self.repo.farm("exec", "-m", "plant", "INSERT INTO planting VALUES (1, 1, 'corn', 4);")
+        self.assertOk(r, 3)
+        self.assertIn("check", r.stderr.lower())
+        self.assertEqual(self.repo.head_message(), "plant")
+        self.assertFalse(self.rebase_in_progress())
+        self.assertIn("'A'", self.repo.sql_path.read_text())  # our pre-rebase state is back
+
+    def test_no_rebase_when_other_tracked_files_have_uncommitted_edits(self):
+        self.other_push_readme()
+        (self.repo.root / "README.md").write_text("my unsaved edit\n")
+        r = self.repo.farm("exec", "-m", "B", "INSERT INTO bed VALUES (2, 'B');")
+        self.assertOk(r, 3)
+        self.assertEqual((self.repo.root / "README.md").read_text(), "my unsaved edit\n")
+        self.assertFalse(self.rebase_in_progress())
+
+
+class Hardening(RepoTest):
+    def test_git_hooks_are_enabled_automatically(self):
+        self.migrated()
+        self.assertEqual(git(self.repo.root, "config", "core.hooksPath").stdout.strip(),
+                         ".githooks")
+
+    def test_custom_hooks_path_is_not_overridden(self):
+        git(self.repo.root, "config", "core.hooksPath", "elsewhere")
+        self.repo.add_migration("001_init.sql", SCHEMA)
+        r = self.repo.farm("migrate")
+        self.assertOk(r)
+        self.assertIn("hooksPath", r.stderr)
+        self.assertEqual(git(self.repo.root, "config", "core.hooksPath").stdout.strip(),
+                         "elsewhere")
+
+    def test_saved_text_must_reload_identically(self):
+        from farmdb import cli
+        from farmdb.errors import FarmError
+        with self.assertRaises(FarmError):
+            cli._verify("CREATE TABLE a (id INTEGER PRIMARY KEY) STRICT;\n", {})
+
+
 class Query(RepoTest):
     def setUp(self):
         super().setUp()
@@ -232,6 +319,16 @@ class Query(RepoTest):
     def test_multiple_statements_are_refused(self):
         r = self.repo.farm("query", "SELECT 1; SELECT 2;")
         self.assertOk(r, 1)
+
+    def test_large_results_are_capped_unless_all_is_given(self):
+        rows = ",".join(f"({i}, 'b{i}')" for i in range(10, 610))
+        self.assertOk(self.repo.farm("exec", "-m", "many", f"INSERT INTO bed VALUES {rows};"))
+        r = self.repo.farm("query", "SELECT id FROM bed")
+        self.assertOk(r)
+        self.assertEqual(len(r.stdout.splitlines()), 1 + 500)
+        self.assertIn("--all", r.stderr)
+        r = self.repo.farm("query", "--all", "SELECT id FROM bed")
+        self.assertEqual(len(r.stdout.splitlines()), 1 + 602)
 
     def test_query_works_without_any_data_file(self):
         repo = TempRepo(with_remote=False)
@@ -308,6 +405,12 @@ class PreCommitHook(RepoTest):
         mpath.write_text(mpath.read_text() + "-- edited\n")
         r = git(self.repo.root, "commit", "-am", "edit migration", check=False)
         self.assertNotEqual(r.returncode, 0)
+
+    def test_deleting_the_data_file_is_blocked(self):
+        git(self.repo.root, "rm", "-q", "data/farm.sql")
+        r = git(self.repo.root, "commit", "-m", "oops", check=False)
+        self.assertNotEqual(r.returncode, 0)
+        self.assertIn("deleted", (r.stdout + r.stderr).lower())
 
     def test_unrelated_commits_are_not_affected(self):
         (self.repo.root / "README.md").write_text("changed\n")

@@ -49,6 +49,13 @@ class BashGuard(unittest.TestCase):
                   "git checkout -- data/farm.sql"]:
             self.assertAllowed(c)
 
+    def test_allows_git_operations_that_only_use_committed_content(self):
+        # Their result is validated by the pre-commit check and the Stop hook.
+        for c in ["git add data/farm.sql", "git commit -m 'Explain the farm.sql format'",
+                  "git revert --no-edit abc123", "git stash push data/farm.sql",
+                  "git -C /repo commit -m 'farm.sql notes'"]:
+            self.assertAllowed(c)
+
     def test_blocks_direct_writes(self):
         for c in ["echo x >> data/farm.sql", "cat new.sql > data/farm.sql",
                   "printf 'x' >| data/farm.sql", "sed -i 's/a/b/' data/farm.sql",
@@ -61,7 +68,8 @@ class BashGuard(unittest.TestCase):
                   "cd data && echo x >> farm.sql", "ls; echo x > data/farm.sql",
                   "git checkout HEAD~3 -- data/farm.sql",
                   "git restore --source=HEAD~2 data/farm.sql",
-                  "git add data/farm.sql", "sort -o data/farm.sql data/farm.sql",
+                  "git rm data/farm.sql", "git apply fix.patch data/farm.sql",
+                  "sort -o data/farm.sql data/farm.sql",
                   "grep x data/farm.sql > data/farm.sql",
                   "cat README.md\nrm data/farm.sql",
                   "ls\ncp /tmp/x data/farm.sql"]:
@@ -181,12 +189,36 @@ class StopCheck(unittest.TestCase):
         self.assertEqual(result.code, 0)
         self.assertIn("push", json.loads(result.stdout)["systemMessage"].lower())
 
+    def test_waits_for_a_write_in_progress_instead_of_misreporting_it(self):
+        import multiprocessing
+        self.migrate()
+        ready = multiprocessing.Event()
+        p = multiprocessing.Process(target=_slow_writer, args=(self.root, ready))
+        p.start()
+        ready.wait(10)          # writer holds the lock and the file is now dirty
+        result = self.stop()    # must wait for the lock, then see a clean, committed state
+        p.join(10)
+        self.assertEqual(result.code, 0, result.stderr)
+
     def test_pending_migration_is_mentioned_not_blocking(self):
         self.migrate()
         self.repo.add_migration("002_more.sql", "CREATE TABLE m (id INTEGER PRIMARY KEY) STRICT;")
         result = self.stop()
         self.assertEqual(result.code, 0)
         self.assertIn("002_more.sql", json.loads(result.stdout)["systemMessage"])
+
+
+def _slow_writer(root, ready):
+    import time
+    from pathlib import Path
+    from farmdb import gitops, store
+    with store.lock(gitops.lock_path(root)):
+        path = Path(root) / store.SQL_REL
+        path.write_text(path.read_text().replace(
+            "COMMIT;", "INSERT INTO \"bed\" VALUES(1,'A');\nCOMMIT;"))
+        ready.set()
+        time.sleep(1.0)
+        git(root, "commit", "-qam", "slow write")
 
 
 class HookScripts(unittest.TestCase):

@@ -125,7 +125,7 @@ class Atomicity(unittest.TestCase):
 
     def test_transaction_control_and_pragmas_are_rejected(self):
         for sql in ["COMMIT;", "BEGIN; CREATE TABLE t (id INTEGER PRIMARY KEY) STRICT; COMMIT;",
-                    "PRAGMA foreign_keys = OFF;", "SAVEPOINT s;",
+                    "PRAGMA foreign_keys = OFF;", "SAVEPOINT s;", "ANALYZE;",
                     "ATTACH DATABASE ':memory:' AS other;"]:
             with self.subTest(sql=sql):
                 self.assertRejectedWithoutChange(db.load(""), {"001_x.sql": sql})

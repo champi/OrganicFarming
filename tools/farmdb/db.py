@@ -45,7 +45,72 @@ def load(sql_text):
 
 
 def dump(conn):
-    return "\n".join(conn.iterdump()) + "\n"
+    """Deterministic SQL text of the whole database.
+
+    Written here instead of Connection.iterdump(): iterdump formats values with
+    SQLite's quote(), whose float output changed between SQLite versions, which
+    would rewrite every REAL line in git whenever the system SQLite is upgraded.
+    """
+    out = ["BEGIN TRANSACTION;"]
+    tables = conn.execute(
+        "SELECT name, sql FROM sqlite_master WHERE type = 'table' AND sql NOT NULL "
+        "AND name NOT LIKE 'sqlite\\_%' ESCAPE '\\' ORDER BY name").fetchall()
+    for name, sql in tables:
+        out.append(sql + ";")
+        out.extend(_table_rows(conn, name))
+    if conn.execute("SELECT 1 FROM sqlite_master WHERE name = 'sqlite_sequence'").fetchone():
+        out.append('DELETE FROM "sqlite_sequence";')
+        for name, seq in conn.execute("SELECT name, seq FROM sqlite_sequence ORDER BY name"):
+            out.append(f'INSERT INTO "sqlite_sequence" VALUES({_literal(name)},{_literal(seq)});')
+    # Creation order (rowid) keeps dependencies such as views built on views valid.
+    for (sql,) in conn.execute("SELECT sql FROM sqlite_master WHERE type IN "
+                               "('index', 'trigger', 'view') AND sql NOT NULL ORDER BY rowid"):
+        out.append(sql + ";")
+    out.append("COMMIT;")
+    return "\n".join(out) + "\n"
+
+
+def _table_rows(conn, table):
+    q = _quote_ident(table)
+    cols = [r for r in conn.execute(f"PRAGMA table_xinfo({q})")]
+    stored = [r[1] for r in cols if r[6] == 0]  # hidden != 0: generated/virtual columns
+    col_list = "" if len(stored) == len(cols) else "(" + ",".join(map(_quote_ident, stored)) + ")"
+    without_rowid = conn.execute(
+        "SELECT wr FROM pragma_table_list WHERE schema = 'main' AND name = ?", (table,)).fetchone()[0]
+    if without_rowid:
+        pk = sorted((r[5], r[1]) for r in cols if r[5] > 0)
+        order = ",".join(_quote_ident(c) for _, c in pk)
+    else:
+        order = "rowid"
+    select = ",".join(map(_quote_ident, stored))
+    for row in conn.execute(f"SELECT {select} FROM {q} ORDER BY {order}"):
+        yield f"INSERT INTO {q}{col_list} VALUES({','.join(_literal(v) for v in row)});"
+
+
+def _quote_ident(name):
+    return '"' + name.replace('"', '""') + '"'
+
+
+def _literal(value):
+    if value is None:
+        return "NULL"
+    if isinstance(value, bool):
+        return str(int(value))
+    if isinstance(value, int):
+        return str(value)
+    if isinstance(value, float):
+        if value != value:
+            return "NULL"  # SQLite stores NaN as NULL anyway
+        if value in (float("inf"), float("-inf")):
+            return "9e999" if value > 0 else "-9e999"
+        return repr(value)  # shortest text that round-trips exactly; stable across versions
+    if isinstance(value, bytes):
+        return "X'" + value.hex().upper() + "'"
+    if isinstance(value, str):
+        if "\x00" in value:
+            raise FarmError("text values containing NUL characters cannot be saved")
+        return "'" + value.replace("'", "''") + "'"
+    raise FarmError(f"cannot save value of type {type(value).__name__}")
 
 
 def schema_signature(conn):
@@ -63,6 +128,9 @@ def check(conn):
         problems.append(f"foreign key violation: {table} row {rowid} "
                         f"references a missing row in {parent}")
     for _, name, kind, _, without_rowid, strict in conn.execute("PRAGMA main.table_list"):
+        if kind == "virtual":
+            problems.append(f"table {name} is a virtual table; these are not supported")
+            continue
         if kind != "table" or name.startswith("sqlite_"):
             continue
         if not strict:

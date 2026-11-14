@@ -19,7 +19,7 @@
           {
             "type": "command",
             "command": "python3 \"$CLAUDE_PROJECT_DIR/.claude/hooks/farm_stop.py\"",
-            "timeout": 120
+            "timeout": 240
           }
         ]
       }

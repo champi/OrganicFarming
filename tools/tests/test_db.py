@@ -88,6 +88,60 @@ class LoadDumpRoundTrip(unittest.TestCase):
         conn.execute("INSERT INTO a_child VALUES (1, 1)")
         self.assertRoundTrips(conn)
 
+    def test_value_formatting_is_fixed_and_independent_of_sqlite_version(self):
+        # SQLite's quote() changed float formatting between 3.45 and 3.53; the dump
+        # must not change when the system SQLite does.
+        conn = db.load("CREATE TABLE m (id INTEGER PRIMARY KEY, r REAL, t TEXT, b BLOB, n TEXT) STRICT;")
+        conn.execute("INSERT INTO m VALUES (1, ?, ?, ?, NULL)", (1 / 3, "O'Neil", b"\x00\xff"))
+        conn.execute("INSERT INTO m VALUES (2, 6.0, '', x'', 'x')")
+        lines = db.dump(conn).splitlines()
+        self.assertIn("INSERT INTO \"m\" VALUES(1,0.3333333333333333,'O''Neil',X'00FF',NULL);", lines)
+        self.assertIn("INSERT INTO \"m\" VALUES(2,6.0,'',X'','x');", lines)
+
+    def test_infinite_reals_round_trip(self):
+        conn = db.load("CREATE TABLE m (id INTEGER PRIMARY KEY, v REAL) STRICT;")
+        conn.executemany("INSERT INTO m(v) VALUES (?)", [(float("inf"),), (float("-inf"),)])
+        reloaded = db.load(self.assertRoundTrips(conn))
+        self.assertEqual([r[0] for r in reloaded.execute("SELECT v FROM m ORDER BY id")],
+                         [float("inf"), float("-inf")])
+
+    def test_nul_character_in_text_is_refused_not_truncated(self):
+        conn = db.load("CREATE TABLE m (id INTEGER PRIMARY KEY, t TEXT) STRICT;")
+        conn.execute("INSERT INTO m VALUES (1, ?)", ("a\x00b",))
+        with self.assertRaises(FarmError):
+            db.dump(conn)
+
+    def test_rows_are_dumped_in_key_order(self):
+        conn = db.load("CREATE TABLE a (id INTEGER PRIMARY KEY, n TEXT) STRICT;"
+                       "CREATE TABLE kv (k TEXT PRIMARY KEY, v TEXT) STRICT, WITHOUT ROWID;")
+        conn.executemany("INSERT INTO a VALUES (?, 'x')", [(3,), (1,), (2,)])
+        conn.executemany("INSERT INTO kv VALUES (?, 'v')", [("c",), ("a",), ("b",)])
+        text = db.dump(conn)
+        self.assertLess(text.index("VALUES(1,"), text.index("VALUES(2,"))
+        self.assertLess(text.index("VALUES(2,"), text.index("VALUES(3,"))
+        self.assertLess(text.index("VALUES('a'"), text.index("VALUES('b'"))
+
+    def test_row_order_follows_the_key_even_when_it_is_not_the_first_column(self):
+        conn = db.load("CREATE TABLE p (name TEXT, id INTEGER PRIMARY KEY) STRICT;")
+        conn.executemany("INSERT INTO p VALUES (?, ?)", [("zucchini", 1), ("apple", 2)])
+        text = db.dump(conn)
+        self.assertLess(text.index("'zucchini'"), text.index("'apple'"))
+
+    def test_generated_columns_are_not_dumped_as_values(self):
+        conn = db.load("CREATE TABLE p (id INTEGER PRIMARY KEY, kg REAL, "
+                       "g REAL GENERATED ALWAYS AS (kg * 1000) VIRTUAL) STRICT;")
+        conn.execute("INSERT INTO p(id, kg) VALUES (1, 2.5)")
+        reloaded = db.load(self.assertRoundTrips(conn))
+        self.assertEqual(reloaded.execute("SELECT g FROM p").fetchone()[0], 2500.0)
+
+    def test_views_built_on_views_reload(self):
+        conn = db.load("CREATE TABLE t (id INTEGER PRIMARY KEY) STRICT;"
+                       "CREATE VIEW zz_base AS SELECT id FROM t;"
+                       "CREATE VIEW aa_top AS SELECT id FROM zz_base;")
+        conn.execute("INSERT INTO t VALUES (1)")
+        reloaded = db.load(self.assertRoundTrips(conn))
+        self.assertEqual(reloaded.execute("SELECT id FROM aa_top").fetchone()[0], 1)
+
     def test_dump_ends_with_newline(self):
         self.assertTrue(db.dump(fresh()).endswith("\n"))
 
@@ -129,6 +183,10 @@ class Check(unittest.TestCase):
     def test_without_rowid_table_is_accepted(self):
         conn = db.load("CREATE TABLE kv (k TEXT PRIMARY KEY, v TEXT) STRICT, WITHOUT ROWID;")
         self.assertEqual(db.check(conn), [])
+
+    def test_virtual_table_is_reported(self):
+        problems = db.check(db.load("CREATE VIRTUAL TABLE f USING fts5(body);"))
+        self.assertTrue(any("f" in p and "virtual" in p for p in problems), problems)
 
     def test_text_primary_key_on_rowid_table_is_reported(self):
         # TEXT PRIMARY KEY on a rowid table still has a hidden, renumberable rowid.

@@ -13,6 +13,7 @@ from .errors import FarmError
 NAME_RE = re.compile(r"(\d{3,})_[a-z0-9]+(?:_[a-z0-9]+)*\.sql")
 
 _DENIED = {sqlite3.SQLITE_TRANSACTION, sqlite3.SQLITE_SAVEPOINT, sqlite3.SQLITE_PRAGMA,
+           sqlite3.SQLITE_ANALYZE,
            sqlite3.SQLITE_ATTACH, sqlite3.SQLITE_DETACH}
 _WRITES = {sqlite3.SQLITE_INSERT, sqlite3.SQLITE_UPDATE, sqlite3.SQLITE_DELETE}
 

@@ -25,6 +25,10 @@ READ_ONLY = {"cat", "head", "tail", "less", "more", "wc", "grep", "egrep", "fgre
              "diff", "cmp", "stat", "file", "ls", "sha256sum", "md5sum", "nl", "cut"}
 GIT_READ_ONLY = {"log", "diff", "show", "status", "blame", "ls-files", "grep", "rev-list",
                  "cat-file", "shortlog"}
+# These only move content between git's own committed states; whatever they produce is
+# checked by the pre-commit hook and the Stop hook. (Restoring an *old* version over the
+# current data, git apply, git rm etc. stay blocked.)
+GIT_FROM_HISTORY = {"add", "commit", "revert", "stash"}
 _ENV_ASSIGN = re.compile(r"[A-Za-z_][A-Za-z0-9_]*=.*")
 
 GUARD_MESSAGE = ("Blocked by the farm guard: data/farm.sql may only be changed through "
@@ -144,7 +148,7 @@ def _git_allowed(args):
     if i >= len(args):
         return False
     sub, rest = args[i], args[i + 1:]
-    if sub in GIT_READ_ONLY:
+    if sub in GIT_READ_ONLY or sub in GIT_FROM_HISTORY:
         return True
     if sub == "restore":
         return not any(a.startswith(("--source", "-s")) for a in rest)
@@ -156,6 +160,19 @@ def _git_allowed(args):
 # ---------------------------------------------------------------- Stop check
 
 def stop(event, root):
+    if not (Path(root) / "data").exists():
+        return StopResult(0, "", "")
+    try:
+        # Wait for any bin/farm write in progress, so its brief "written but not yet
+        # committed" moment is not mistaken for an outside edit.
+        with store.lock(gitops.lock_path(root), timeout=60):
+            return _stop_checks(event, root)
+    except FarmError as e:
+        return StopResult(0, json.dumps({"systemMessage": f"Farm data: {e}"}), "")
+
+
+def _stop_checks(event, root):
+    from .cli import push_with_sync
     blocks, notes = [], []
     sql_path = Path(root) / store.SQL_REL
     try:
@@ -178,7 +195,7 @@ def stop(event, root):
         if waiting:
             notes.append("migration(s) written but not applied yet: " + ", ".join(waiting))
         if not blocks and gitops.unpushed(root):
-            ok, output = gitops.push(root)
+            ok, output = push_with_sync(root)
             if not ok:
                 notes.append(f"farm data is committed but not pushed (git push failed: {output})")
     except Exception as e:  # never trap the session because the check itself broke
