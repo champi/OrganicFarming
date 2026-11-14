@@ -165,29 +165,30 @@ CREATE TABLE plantings (
   treatment       TEXT,                   -- 'control', 'biochar', or variety label in a variety trial
   replicate       INTEGER CHECK (replicate > 0),
   ended_date      TEXT CHECK (ended_date IS date(ended_date) AND ended_date >= sow_date),
-  notes           TEXT,
+  notes           TEXT, n_clusters INTEGER CHECK (n_clusters > 0),
   CHECK (trial_id IS NOT NULL OR (treatment IS NULL AND replicate IS NULL))
 ) STRICT;
-INSERT INTO "plantings" VALUES(1,1,1,1,NULL,NULL,'2026-08-29',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
-INSERT INTO "plantings" VALUES(2,2,NULL,2,NULL,NULL,'2026-09-01',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'xlsx row "otoe camote papa"');
-INSERT INTO "plantings" VALUES(3,3,NULL,2,NULL,NULL,'2026-09-01',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'xlsx row "otoe camote papa"');
-INSERT INTO "plantings" VALUES(4,4,NULL,2,NULL,NULL,'2026-09-01',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'xlsx row "otoe camote papa"');
-INSERT INTO "plantings" VALUES(5,5,2,3,NULL,NULL,'2026-09-04',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Great White:bentonite powder:seed 1:34.75');
-INSERT INTO "plantings" VALUES(6,6,NULL,2,NULL,'transplant','2026-09-20',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'xlsx: "tomate cherry transplant"; 2026-09-20 recorded as sowing date');
-INSERT INTO "plantings" VALUES(7,5,2,4,NULL,NULL,'2026-10-01',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'xlsx "Nb plants" = 434 (dose log counts these as clusters)');
-INSERT INTO "plantings" VALUES(8,5,2,5,NULL,NULL,'2026-10-02',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'xlsx "Nb plants" = 80 (dose log counts these as clusters)');
-INSERT INTO "plantings" VALUES(9,7,NULL,3,NULL,NULL,'2026-10-12',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'xlsx row "Frijol Lima + Frijol Conejo"');
-INSERT INTO "plantings" VALUES(10,8,3,3,NULL,NULL,'2026-10-12',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'xlsx row "Frijol Lima + Frijol Conejo"');
-INSERT INTO "plantings" VALUES(11,9,4,6,NULL,NULL,'2026-10-12',NULL,9,NULL,NULL,NULL,NULL,NULL,NULL);
-INSERT INTO "plantings" VALUES(12,9,4,7,NULL,'direct_seed','2026-09-16',NULL,4,NULL,NULL,NULL,NULL,NULL,'Trial: zucchini-trial-2026-president-f1.md; ~1 m2 per plant');
-INSERT INTO "plantings" VALUES(13,10,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Rented house; sow date not recorded (garden-input-log-2026.md)');
-INSERT INTO "plantings" VALUES(14,3,NULL,8,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'4-6 plants, with strawberries');
+INSERT INTO "plantings" VALUES(1,1,1,1,NULL,NULL,'2026-08-29',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
+INSERT INTO "plantings" VALUES(2,2,NULL,2,NULL,NULL,'2026-09-01',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'xlsx row "otoe camote papa"',NULL);
+INSERT INTO "plantings" VALUES(3,3,NULL,2,NULL,NULL,'2026-09-01',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'xlsx row "otoe camote papa"',NULL);
+INSERT INTO "plantings" VALUES(4,4,NULL,2,NULL,NULL,'2026-09-01',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'xlsx row "otoe camote papa"',NULL);
+INSERT INTO "plantings" VALUES(5,5,2,3,NULL,NULL,'2026-09-04',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Great White:bentonite powder:seed 1:34.75',NULL);
+INSERT INTO "plantings" VALUES(6,6,NULL,2,NULL,'transplant','2026-09-20',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'xlsx: "tomate cherry transplant"; 2026-09-20 recorded as sowing date',NULL);
+INSERT INTO "plantings" VALUES(7,5,2,4,NULL,NULL,'2026-10-01',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'xlsx "Nb plants" = 434 (dose log counts these as clusters)',NULL);
+INSERT INTO "plantings" VALUES(8,5,2,5,NULL,NULL,'2026-10-02',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'xlsx "Nb plants" = 80 (dose log counts these as clusters)',NULL);
+INSERT INTO "plantings" VALUES(9,7,NULL,3,NULL,NULL,'2026-10-12',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'xlsx row "Frijol Lima + Frijol Conejo"',NULL);
+INSERT INTO "plantings" VALUES(10,8,3,3,NULL,NULL,'2026-10-12',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'xlsx row "Frijol Lima + Frijol Conejo"',NULL);
+INSERT INTO "plantings" VALUES(11,9,4,6,NULL,NULL,'2026-10-12',NULL,9,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
+INSERT INTO "plantings" VALUES(12,9,4,7,NULL,'direct_seed','2026-09-16',NULL,4,NULL,NULL,NULL,NULL,NULL,'Trial: zucchini-trial-2026-president-f1.md; ~1 m2 per plant',NULL);
+INSERT INTO "plantings" VALUES(13,10,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Rented house; sow date not recorded (garden-input-log-2026.md)',NULL);
+INSERT INTO "plantings" VALUES(14,3,NULL,8,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'4-6 plants, with strawberries',NULL);
 CREATE TABLE schema_migrations (
     name TEXT PRIMARY KEY,
     sha256 TEXT NOT NULL,
     applied_at TEXT NOT NULL
 ) STRICT, WITHOUT ROWID;
 INSERT INTO "schema_migrations" VALUES('001_core.sql','9d8300e24963eb257c95f677af22a546bc6d6b1b400720458175bea17669a1f0','2026-11-14T18:47:32Z');
+INSERT INTO "schema_migrations" VALUES('002_planting_clusters.sql','5b42068a9e290f9c9ef7edbbaca7191f7e97fe482debd96b7e1a637e4483afd0','2026-11-14T19:19:50Z');
 CREATE TABLE soil_tests (
   id              INTEGER PRIMARY KEY,
   date            TEXT NOT NULL CHECK (date IS date(date)),
