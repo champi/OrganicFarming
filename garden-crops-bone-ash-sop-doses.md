@@ -15,7 +15,7 @@
 | **Pumpkin** | ~50 g | At sowing or within the first 4 wk | ~45 g/season: 3 × 15 g (raised Nov 2026, see §3b) | First flowers, fruit set, +2–3 wk | 30–40 cm from the crown |
 | **Cherry tomato** | ~15 g | Transplant to ~30 days after (DAT) | ~25–30 g/season: 5 × 5–6 g | From ~30–35 DAT (first truss), every 2–3 wk | 15–20 cm from the stem |
 | **Sweet potato** | ~6–8 g | At planting (skip if >6 wk in and growing well) | ~8–10 g/season: 2 × 4–5 g | At planting + 30–60 days after | Along the ridge |
-| **Otoe** | 15–20 g at planting + ~15 g at 3–4 months (established <7 months: one 15–20 g dose now) | Before the cormels fill (month ~6) | ~15 g/season: 3 × 5 g | Months 1, 3, 5 | 20–30 cm from the base |
+| **Otoe** | 15–20 g at planting + ~15 g at 3–4 months (established <7 months: one 15–20 g dose now) | Before the cormels fill (month ~6) | ~20 g/season: 4 × 5 g (see [otoe guide](otoe-nutrition-per-plant-volcan.md)) | Months 1, 3, 5, 7 | 20–30 cm from the base |
 | **Papaya** | ~50 g every 3–4 months (~150–200 g/yr) | Planting, then through fruiting | ~20 g per month (~240 g/yr; 10 g if soil K is high) | Monthly | Trunk to halfway to the canopy edge |
 | **Lemon in a pot** | ~1 g per L of pot, once a year (20 L ≈ 20 g) | Now is fine (flowering) | ~2 g per L of pot per year (10 L: 5 g every 3 months; raised Nov 2026, see §3b) | From flowering into fruit set | Outer edge of the pot, water through |
 | **Strawberry** | ~5 g per plant | At planting, or at the start of a flowering flush | ~1.5 g every 4–6 wk while fruiting (~6–8 g/yr) | From first flowers | Ring ~10 cm from the crown |
@@ -33,7 +33,7 @@ The ash and vermicast are **pre-mixed 1:1**, so doses are spoons of the mix. Cal
 | **Zucchini** | 3 tbsp (given Oct 24) | 1 tsp: Nov 1, Nov 15, Nov 29 |
 | **Cherry tomato** | 3 tbsp | 1 tsp, 5× every 2–3 wk from first truss |
 | **Sweet potato** (per plant) | 1½ tbsp | 1 tsp at planting + 1 tsp 30–60 days later |
-| **Otoe** | 3–4 tbsp at planting + 3 tbsp at 3–4 months | 1 tsp, months 1, 3, 5 |
+| **Otoe** | 3–4 tbsp at planting + 3 tbsp at 3–4 months | 1 tsp, months 1, 3, 5, 7 |
 | **Papaya** | 10 tbsp every 3–4 months | 4 tsp monthly |
 | **Lemon, 10 L pot** | 2 tbsp, once a year | 1 tsp every 3 months |
 | **Strawberry** (per plant) | 1 tbsp | ⅓ tsp every 4–6 wk while fruiting |
