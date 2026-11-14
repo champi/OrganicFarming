@@ -15,6 +15,9 @@ NAME_RE = re.compile(r"(\d{3,})_[a-z0-9]+(?:_[a-z0-9]+)*\.sql")
 _DENIED = {sqlite3.SQLITE_TRANSACTION, sqlite3.SQLITE_SAVEPOINT, sqlite3.SQLITE_PRAGMA,
            sqlite3.SQLITE_ANALYZE,
            sqlite3.SQLITE_ATTACH, sqlite3.SQLITE_DETACH}
+# Pragmas that only read. SQLite issues quick_check internally when a column is added
+# to a STRICT table, so denying every pragma would make ADD COLUMN impossible.
+_READ_ONLY_PRAGMAS = {"quick_check", "integrity_check"}
 _WRITES = {sqlite3.SQLITE_INSERT, sqlite3.SQLITE_UPDATE, sqlite3.SQLITE_DELETE}
 
 _CREATE_TABLE = """CREATE TABLE IF NOT EXISTS schema_migrations (
@@ -88,6 +91,8 @@ def apply_pending(conn, files, now):
 
     def authorizer(action, arg1, arg2, dbname, source):
         actions[0] += 1
+        if action == sqlite3.SQLITE_PRAGMA and (arg1 or "").lower() in _READ_ONLY_PRAGMAS:
+            return sqlite3.SQLITE_OK  # ALTER TABLE ADD COLUMN runs quick_check itself
         if action in _DENIED:
             return sqlite3.SQLITE_DENY
         if action in _WRITES and source is None and (arg1 or "").lower() == "schema_migrations":

@@ -9,6 +9,8 @@ Exit codes: 0 ok, 1 refused/failed (nothing changed), 2 usage error,
             3 saved and committed but the push failed.
 """
 import argparse
+import base64
+import binascii
 import csv
 import os
 import sqlite3
@@ -20,6 +22,10 @@ from . import db, gitops, migrations as mig, store
 from .errors import FarmError
 
 PUSH_FAILED = 3
+# Commit-message lines that record what a commit did, so it can be redone on top of
+# a remote that moved on (see replay_local). Base64 because git tidies whitespace.
+EXEC_RECORD = "Farm-Exec: "
+MIGRATE_RECORD = "Farm-Migrate: "
 MAX_ROWS = 500
 _READ_ACTIONS = {sqlite3.SQLITE_READ, sqlite3.SQLITE_SELECT, sqlite3.SQLITE_FUNCTION,
                  sqlite3.SQLITE_RECURSIVE}
@@ -63,31 +69,122 @@ def worktree_problems(root):
 
 
 def push_with_sync(root):
-    return gitops.sync_push(root, lambda: worktree_problems(root))
+    return gitops.sync_push(root, lambda: worktree_problems(root),
+                            lambda before: replay_local(root, before))
 
 
-def _save_commit_push(root, old_text, new_text, extra_paths, message):
+def _save_commit(root, old_text, new_text, extra_paths, message=None, reuse=None):
+    """Write the new text and commit it; on a failed commit, put the old text back."""
     path = Path(root) / store.SQL_REL
     existed = path.exists()
-    warning = gitops.ensure_hooks(root)
-    if warning:
-        print(warning, file=sys.stderr)
     store.atomic_write(path, new_text)
     try:
-        sha = gitops.commit(root, [store.SQL_REL, *extra_paths], message)
+        return gitops.commit(root, [store.SQL_REL, *extra_paths], message, reuse=reuse)
     except FarmError:
         if existed:
             store.atomic_write(path, old_text)
         else:
             path.unlink(missing_ok=True)
         raise
+
+
+def _save_commit_push(root, old_text, new_text, extra_paths, message):
+    warning = gitops.ensure_hooks(root)
+    if warning:
+        print(warning, file=sys.stderr)
+    sha = _save_commit(root, old_text, new_text, extra_paths, message)
     print(f"saved and committed {sha[:10]}")
     ok, output = push_with_sync(root)
     if not ok:
         print(f"warning: committed locally but git push failed:\n{output}", file=sys.stderr)
         return PUSH_FAILED
+    if output:
+        print(output)
     print("pushed")
     return 0
+
+
+def _exec_change(root, sql):
+    """(old text, new text) after running a data write; new text is None if nothing changed."""
+    text, files = store.read_sql(root), store.read_migrations(root)
+    conn = db.load(text)
+    found = db.check(conn) + mig.problems(conn, files)
+    if found:
+        raise FarmError("the saved database has problems; fix them first: " + "; ".join(found))
+    waiting = mig.pending(conn, files)
+    if waiting:
+        raise FarmError("apply pending migrations first (bin/farm migrate): " + ", ".join(waiting))
+    db.execute_write(conn, sql)
+    new_text = db.dump(conn)
+    if new_text == text:
+        return text, None
+    _verify(new_text, files)
+    return text, new_text
+
+
+def _migrate_change(root):
+    """(old text, new text, names applied); names is empty if nothing was pending."""
+    text, files = store.read_sql(root), store.read_migrations(root)
+    conn = db.load(text)
+    found = db.check(conn)
+    if found:
+        raise FarmError("the saved database has problems; fix them first: " + "; ".join(found))
+    applied = mig.apply_pending(conn, files, _now())
+    if not applied:
+        return text, None, []
+    new_text = db.dump(conn)
+    _verify(new_text, files)
+    return text, new_text, applied
+
+
+def _replay_record(message, paths, parents):
+    """('exec', sql) or ('migrate', [names]) for a commit made by this tool, else None."""
+    if parents != 1:
+        return None
+    for line in message.splitlines():
+        if line.startswith(EXEC_RECORD) and paths == [store.SQL_REL]:
+            try:
+                return "exec", base64.b64decode(line[len(EXEC_RECORD):], validate=True).decode()
+            except (binascii.Error, UnicodeDecodeError):
+                return None
+        if line.startswith(MIGRATE_RECORD):
+            names = line[len(MIGRATE_RECORD):].split()
+            expected = [store.SQL_REL] + [f"{store.MIGRATIONS_REL}/{n}" for n in names]
+            if names and sorted(paths) == sorted(expected):
+                return "migrate", names
+    return None
+
+
+def replay_local(root, before):
+    """Redo the local commits (up to `before`) on top of the fetched upstream by re-running
+    the SQL or migrations each one recorded. All or nothing: on any failure HEAD goes
+    back to `before`. Returns (ok, message). The caller holds the farm lock."""
+    records = []
+    for sha in gitops.local_commits(root, before):
+        record = _replay_record(*gitops.commit_info(root, sha))
+        if record is None:
+            return False, (f"commit {sha[:10]} was not made by bin/farm exec or migrate, so "
+                           "it is not redone automatically; resolve by hand (git pull --rebase)")
+        records.append((sha, record))
+    try:
+        gitops.reset_hard(root, "@{upstream}")
+        for sha, (kind, payload) in records:
+            if kind == "exec":
+                text, new_text = _exec_change(root, payload)
+                if new_text is not None:
+                    _save_commit(root, text, new_text, [], reuse=sha)
+                continue
+            rels = [f"{store.MIGRATIONS_REL}/{n}" for n in payload]
+            gitops.checkout_paths(root, sha, rels)
+            text, new_text, applied = _migrate_change(root)
+            if sorted(applied) != sorted(payload):
+                raise FarmError(f"replaying {sha[:10]} would apply {applied or 'nothing'} "
+                                f"instead of {payload}")
+            _save_commit(root, text, new_text, rels, reuse=sha)
+    except FarmError as e:
+        gitops.reset_hard(root, before)
+        return False, str(e)
+    return True, (f"replayed {len(records)} local change(s) on top of the newer remote data")
 
 
 def cmd_exec(root, args):
@@ -97,42 +194,27 @@ def cmd_exec(root, args):
     sql = _sql_arg(args.sql)
     with store.lock(gitops.lock_path(root)):
         _refuse_if_edited_outside(root)
-        text, files = store.read_sql(root), store.read_migrations(root)
-        conn = db.load(text)
-        found = db.check(conn) + mig.problems(conn, files)
-        if found:
-            raise FarmError("the saved database has problems; fix them first: " + "; ".join(found))
-        waiting = mig.pending(conn, files)
-        if waiting:
-            raise FarmError("apply pending migrations first (bin/farm migrate): "
-                            + ", ".join(waiting))
-        db.execute_write(conn, sql)
-        new_text = db.dump(conn)
-        if new_text == text:
+        text, new_text = _exec_change(root, sql)
+        if new_text is None:
             print("no changes; nothing committed")
             return 0
-        _verify(new_text, files)
-        return _save_commit_push(root, text, new_text, [], message)
+        record = base64.b64encode(sql.encode("utf-8")).decode("ascii")
+        return _save_commit_push(root, text, new_text, [],
+                                 f"{message}\n\n{EXEC_RECORD}{record}")
 
 
 def cmd_migrate(root, args):
     with store.lock(gitops.lock_path(root)):
         _refuse_if_edited_outside(root)
-        text, files = store.read_sql(root), store.read_migrations(root)
-        conn = db.load(text)
-        found = db.check(conn)
-        if found:
-            raise FarmError("the saved database has problems; fix them first: " + "; ".join(found))
-        applied = mig.apply_pending(conn, files, _now())
+        text, new_text, applied = _migrate_change(root)
         if not applied:
             print("nothing to apply")
             return 0
-        new_text = db.dump(conn)
-        _verify(new_text, files)
         message = (args.message or "").strip() or "Apply migration " + ", ".join(applied)
         print("applied: " + ", ".join(applied))
         return _save_commit_push(root, text, new_text,
-                                 [f"{store.MIGRATIONS_REL}/{n}" for n in applied], message)
+                                 [f"{store.MIGRATIONS_REL}/{n}" for n in applied],
+                                 f"{message}\n\n{MIGRATE_RECORD}{' '.join(applied)}")
 
 
 def cmd_query(root, args):

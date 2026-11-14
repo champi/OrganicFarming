@@ -4,6 +4,7 @@ The canonical data is a SQL text dump. Every operation loads it into an in-memor
 SQLite database, works there, and (for writes) dumps it back. Nothing is written
 to disk here; see store.py.
 """
+import re
 import sqlite3
 
 from .errors import FarmError
@@ -31,7 +32,12 @@ def load(sql_text):
     conn = sqlite3.connect(":memory:", isolation_level=None)
     conn.execute("PRAGMA foreign_keys = OFF")  # dump order is by table name, not dependency
     try:
-        conn.executescript(sql_text)
+        for statement in split_statements(sql_text):
+            parsed = _parse_row_insert(statement)
+            if parsed:
+                conn.execute(*parsed)
+            elif statement.strip():
+                conn.execute(statement)
     except sqlite3.Error as e:
         conn.close()
         raise FarmError(f"could not load database text: {e}") from e
@@ -85,6 +91,44 @@ def _table_rows(conn, table):
     select = ",".join(map(_quote_ident, stored))
     for row in conn.execute(f"SELECT {select} FROM {q} ORDER BY {order}"):
         yield f"INSERT INTO {q}{col_list} VALUES({','.join(_literal(v) for v in row)});"
+
+
+# One row exactly as dump() writes it. Such rows are loaded with bound parameters
+# parsed by Python, because SQLite before 3.52 converts some 17-digit decimals to a
+# float one bit off; Python's float() is exact. Anything else runs as plain SQL.
+_ROW_INSERT = re.compile(r'INSERT INTO ("(?:[^"]|"")+")(\((?:"(?:[^"]|"")*",?)+\))? VALUES\(')
+_VALUE = re.compile(r"NULL|X'(?P<hex>[0-9A-F]*)'|'(?P<text>(?:[^']|'')*)'"
+                    r"|(?P<num>-?\d+(?P<frac>\.\d+)?(?P<exp>e[+-]?\d+)?)")
+
+
+def _parse_row_insert(statement):
+    """(sql, params) for a dump-format row INSERT, or None if it is anything else."""
+    text = statement.strip()
+    m = _ROW_INSERT.match(text)
+    if not m or not text.endswith(");"):
+        return None
+    values, pos, end = [], m.end(), len(text) - 2
+    while True:
+        v = _VALUE.match(text, pos)
+        if not v:
+            return None
+        if v.group("hex") is not None:
+            values.append(bytes.fromhex(v.group("hex")))
+        elif v.group("text") is not None:
+            values.append(v.group("text").replace("''", "'"))
+        elif v.group("num") is not None:
+            num = v.group("num")
+            values.append(float(num) if v.group("frac") or v.group("exp") else int(num))
+        else:
+            values.append(None)
+        pos = v.end()
+        if pos == end:
+            break
+        if text[pos] != ",":
+            return None
+        pos += 1
+    placeholders = ",".join("?" * len(values))
+    return f"INSERT INTO {m.group(1)}{m.group(2) or ''} VALUES({placeholders})", values
 
 
 def _quote_ident(name):

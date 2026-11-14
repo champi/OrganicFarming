@@ -63,7 +63,11 @@ class TempRepo:
                                    "GIT_COMMITTER_EMAIL": "t@example.com"})
 
     def head_message(self):
-        return git(self.root, "log", "-1", "--format=%B").stdout.strip()
+        """Subject line of HEAD (the body holds the machine-readable replay record)."""
+        return git(self.root, "log", "-1", "--format=%s").stdout.strip()
+
+    def head_body(self):
+        return git(self.root, "log", "-1", "--format=%B").stdout
 
     def commit_count(self):
         return int(git(self.root, "rev-list", "--count", "HEAD").stdout)

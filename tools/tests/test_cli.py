@@ -258,6 +258,77 @@ class RemoteAhead(RepoTest):
         self.assertFalse(self.rebase_in_progress())
         self.assertIn("'A'", self.repo.sql_path.read_text())  # our pre-rebase state is back
 
+    def test_same_table_appends_from_two_machines_are_replayed_not_lost(self):
+        # Both sides append to the same table: the text conflicts, so our change is
+        # re-run on top of the remote and gets the next free id.
+        self.assertOk(self.other_farm("exec", "-m", "X", "INSERT INTO bed(name) VALUES ('X');"))
+        r = self.repo.farm("exec", "-m", "Y", "INSERT INTO bed(name) VALUES ('Y');")
+        self.assertOk(r)
+        self.assertIn("replayed", r.stdout)
+        self.assertEqual(self.repo.remote_head(), self.repo.local_head())
+        self.assertEqual(self.repo.head_message(), "Y")
+        self.assertEqual(git(self.repo.root, "log", "-1", "--format=%an").stdout.strip(), "t")
+        text = self.repo.sql_path.read_text()
+        self.assertIn("VALUES(2,'X')", text)
+        self.assertIn("VALUES(3,'Y')", text)
+        self.assertOk(self.repo.farm("check"))
+        self.assertFalse(self.rebase_in_progress())
+
+    def test_several_unpushed_commits_are_all_replayed_in_order(self):
+        good_url = git(self.repo.root, "remote", "get-url", "origin").stdout.strip()
+        git(self.repo.root, "remote", "set-url", "origin", str(self.repo.tmp / "missing.git"))
+        self.assertOk(self.repo.farm("exec", "-m", "Y1", "INSERT INTO bed(name) VALUES ('Y1');"), 3)
+        self.assertOk(self.repo.farm("exec", "-m", "Y2", "INSERT INTO planting(bed_id, crop) "
+                                     "SELECT id, 'corn' FROM bed WHERE name = 'Y1';"), 3)
+        git(self.repo.root, "remote", "set-url", "origin", good_url)
+        self.assertOk(self.other_farm("exec", "-m", "X", "INSERT INTO bed(name) VALUES ('X');"))
+        r = self.repo.farm("exec", "-m", "Y3", "INSERT INTO bed(name) VALUES ('Y3');")
+        self.assertOk(r)
+        log = git(self.repo.root, "log", "-4", "--format=%s").stdout.split()
+        self.assertEqual(log, ["Y3", "Y2", "Y1", "X"])
+        self.assertEqual(self.repo.remote_head(), self.repo.local_head())
+        rows = self.repo.farm("query", "SELECT b.name FROM planting p JOIN bed b ON b.id = p.bed_id")
+        self.assertEqual(rows.stdout.split(), ["name", "Y1"])
+
+    def test_migration_is_replayed_on_top_of_remote_data(self):
+        self.assertOk(self.other_farm("exec", "-m", "X", "INSERT INTO bed(name) VALUES ('X');"))
+        # The migration also adds a row, so its dump conflicts with the remote append.
+        self.repo.add_migration("002_notes.sql", "ALTER TABLE bed ADD COLUMN notes TEXT;\n"
+                                "INSERT INTO bed(name) VALUES ('M');")
+        r = self.repo.farm("migrate")
+        self.assertOk(r)
+        self.assertIn("replayed", r.stdout)
+        self.assertIn("VALUES(3,'M',NULL)", self.repo.sql_path.read_text())
+        self.assertEqual(self.repo.remote_head(), self.repo.local_head())
+        self.assertIn("'X'", self.repo.sql_path.read_text())
+        self.assertIn("notes", self.repo.sql_path.read_text())
+        self.assertOk(self.repo.farm("check"))
+
+    def test_replay_that_breaks_a_rule_keeps_local_commits_and_exits_3(self):
+        self.assertOk(self.other_farm("exec", "-m", "X", "INSERT INTO bed VALUES (2, 'X');"))
+        before = self.repo.local_head()
+        r = self.repo.farm("exec", "-m", "Y", "INSERT INTO bed VALUES (2, 'Y');")
+        self.assertOk(r, 3)
+        self.assertIn("UNIQUE", r.stderr)
+        self.assertEqual(git(self.repo.root, "rev-parse", "HEAD~1").stdout.strip(), before)
+        self.assertEqual(self.repo.head_message(), "Y")
+
+    def test_commits_not_made_by_the_tool_are_never_replayed(self):
+        # A hand-made revert has no replay record, so nothing is re-run automatically.
+        self.assertOk(self.repo.farm("exec", "-m", "B", "INSERT INTO bed(name) VALUES ('B');"))
+        git(self.repo.root, "revert", "--no-edit", "HEAD")
+        self.assertOk(self.other_farm("exec", "-m", "X", "INSERT INTO bed(name) VALUES ('X');"))
+        r = self.repo.farm("exec", "-m", "Y", "INSERT INTO bed(name) VALUES ('Y');")
+        self.assertOk(r, 3)
+        self.assertIn("not made by bin/farm", r.stderr)
+        self.assertEqual(self.repo.head_message(), "Y")
+        self.assertFalse(self.rebase_in_progress())
+
+    def test_exec_commit_records_its_sql_for_replay(self):
+        sql = "INSERT INTO bed(name) VALUES ('multi\n\nline  ');"
+        self.assertOk(self.repo.farm("exec", "-m", "B", sql))
+        self.assertIn("Farm-Exec: ", self.repo.head_body())
+
     def test_no_rebase_when_other_tracked_files_have_uncommitted_edits(self):
         self.other_push_readme()
         (self.repo.root / "README.md").write_text("my unsaved edit\n")

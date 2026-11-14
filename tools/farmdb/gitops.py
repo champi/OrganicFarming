@@ -49,12 +49,14 @@ def is_dirty(root, rel):
     return bool(r.stdout.strip())
 
 
-def commit(root, rels, message):
-    """Commit exactly these paths (other staged changes are left alone). Returns the sha."""
+def commit(root, rels, message=None, reuse=None):
+    """Commit exactly these paths (other staged changes are left alone). Returns the sha.
+    With reuse=<sha>, take that commit's message and author (used when replaying)."""
     r = run(root, "add", "--", *rels)
     if r.returncode != 0:
         raise FarmError(f"git add failed: {r.stderr.strip()}")
-    r = run(root, "commit", "-q", "-m", message, "--", *rels)
+    how = ["-C", reuse] if reuse else ["-m", message]
+    r = run(root, "commit", "-q", *how, "--", *rels)
     if r.returncode != 0:
         run(root, "reset", "-q", "--", *rels)  # don't leave the refused content staged
         raise FarmError(f"git commit failed:\n{(r.stdout + r.stderr).strip()}")
@@ -73,10 +75,13 @@ def tracked_changes(root):
     return run(root, "status", "--porcelain", "--untracked-files=no").stdout.strip()
 
 
-def sync_push(root, validate):
+def sync_push(root, validate, replay=None):
     """Push; if the remote moved on, rebase onto it when that is safe, re-validate the
-    result with validate() -> list of problems, and push again. On any doubt, leave the
-    local commits exactly as they were and report. Returns (ok, message)."""
+    result with validate() -> list of problems, and push again. If the text does not
+    merge (or merges into bad data), replay(before) may redo the local commits on top
+    of the remote instead; it returns (ok, message) and must leave HEAD at `before`
+    when it fails. On any doubt, leave the local commits exactly as they were and
+    report. Returns (ok, message)."""
     ok, output = push(root)
     if ok or not _rejected_because_behind(output):
         return ok, output
@@ -89,14 +94,57 @@ def sync_push(root, validate):
     if not ok:
         run(root, "rebase", "--abort")
         run(root, "reset", "-q", "--hard", before)
-        return False, ("The remote has changes that conflict with the local farm data commit; "
-                       f"nothing was merged. Resolve by hand (git pull --rebase).\n{pulled}")
-    problems = validate()
-    if problems:
+        failure = ("The remote has changes that conflict with the local farm data commit; "
+                   f"nothing was merged. Resolve by hand (git pull --rebase).\n{pulled}")
+    else:
+        problems = validate()
+        if not problems:
+            return push(root)
         run(root, "reset", "-q", "--hard", before)
-        return False, ("Rebasing onto the remote produced data that fails the check, so it was "
-                       "undone and nothing was pushed: " + "; ".join(problems))
-    return push(root)
+        failure = ("Rebasing onto the remote produced data that fails the check, so it was "
+                   "undone and nothing was pushed: " + "; ".join(problems))
+    if replay is None or not upstream_ahead(root):
+        return False, failure
+    replayed, why = replay(before)
+    if not replayed:
+        return False, f"{failure}\nReplaying the local changes on top of the remote failed: {why}"
+    ok, output = push(root)
+    return ok, output if not ok else why
+
+
+def upstream_ahead(root):
+    """True if the (already fetched) upstream has commits HEAD lacks."""
+    r = run(root, "rev-list", "--count", "HEAD..@{upstream}")
+    return r.returncode == 0 and int(r.stdout.strip() or 0) > 0
+
+
+def local_commits(root, tip):
+    """Commits in tip that its upstream lacks, oldest first."""
+    r = run(root, "rev-list", "--reverse", "--topo-order", f"@{{upstream}}..{tip}")
+    if r.returncode != 0:
+        raise FarmError(f"git rev-list failed: {r.stderr.strip()}")
+    return r.stdout.split()
+
+
+def commit_info(root, sha):
+    """(message, changed paths, number of parents) of one commit."""
+    message = run(root, "log", "-1", "--format=%B", sha).stdout
+    paths = run(root, "diff-tree", "--no-commit-id", "--name-only", "-r", "--root",
+                sha).stdout.split()
+    parents = len(run(root, "log", "-1", "--format=%P", sha).stdout.split())
+    return message, paths, parents
+
+
+def reset_hard(root, ref):
+    r = run(root, "reset", "-q", "--hard", ref)
+    if r.returncode != 0:
+        raise FarmError(f"git reset failed: {r.stderr.strip()}")
+
+
+def checkout_paths(root, sha, rels):
+    r = run(root, "checkout", sha, "--", *rels)
+    if r.returncode != 0:
+        raise FarmError(f"git checkout failed: {r.stderr.strip()}")
 
 
 def show_staged(root, rel):

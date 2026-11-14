@@ -16,7 +16,8 @@ Rules:
 - Log only what the user stated. Never invent values; use NULL for anything unknown.
 - Dates are ISO `YYYY-MM-DD`; in schemas, enforce this with `CHECK (d IS date(d))`. Quantities go in a number column, units in their own column.
 - Never edit an applied migration. Write a new one with a higher number. Tables must be `STRICT` with an `INTEGER PRIMARY KEY`. No virtual tables.
-- Exit code 3 means the change was saved and committed but not pushed (offline, or the remote has a conflicting change). Nothing is lost: the Stop hook retries the push, and safe rebases happen automatically.
+- Exit code 3 means the change was saved and committed but not pushed (offline, or the remote has a conflicting change). Nothing is lost: the Stop hook retries the push. If the remote moved on, local changes are rebased, or else replayed (their recorded SQL is re-run on top of the remote). A replay that would break a rule is left for a human to resolve.
+- So replays stay correct, don't hard-code ids for new rows (`INSERT INTO bed(name) VALUES ('A1')`, not `VALUES (7, 'A1')`), and point to rows by a subquery on a natural key (`(SELECT id FROM bed WHERE name = 'A1')`).
 - If the guard blocks a command that only *mentions* `farm.sql` (e.g. in a commit message or heredoc), rephrase it or use the Edit/Write tools on the file you actually mean.
 - Tests run locally only (no GitHub Actions). `bin/test` runs them, and the git pre-commit check runs them automatically for any commit touching `tools/`, `bin/`, `.githooks/` or `.claude/hooks`. After a Python or OS upgrade, run `bin/test --all-pythons` (uses `uv` for 3.13 and 3.14).
 

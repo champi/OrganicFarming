@@ -123,9 +123,19 @@ class Atomicity(unittest.TestCase):
         self.assertEqual(db.check(conn), [])
         self.assertEqual(conn.execute("SELECT count(*) FROM planting").fetchone()[0], 1)
 
+    def test_add_column_to_strict_table_is_allowed(self):
+        # SQLite runs an internal PRAGMA quick_check for this; it must not be blocked.
+        conn = db.load("")
+        mig.apply_pending(conn, M1, NOW)
+        conn.execute("INSERT INTO bed(name) VALUES ('A')")
+        mig.apply_pending(conn, {**M1, "002_notes.sql":
+                                 "ALTER TABLE bed ADD COLUMN notes TEXT;"}, NOW)
+        self.assertEqual(conn.execute("SELECT name, notes FROM bed").fetchall(), [("A", None)])
+
     def test_transaction_control_and_pragmas_are_rejected(self):
         for sql in ["COMMIT;", "BEGIN; CREATE TABLE t (id INTEGER PRIMARY KEY) STRICT; COMMIT;",
-                    "PRAGMA foreign_keys = OFF;", "SAVEPOINT s;", "ANALYZE;",
+                    "PRAGMA foreign_keys = OFF;", "PRAGMA writable_schema = ON;",
+                    "SAVEPOINT s;", "ANALYZE;",
                     "ATTACH DATABASE ':memory:' AS other;"]:
             with self.subTest(sql=sql):
                 self.assertRejectedWithoutChange(db.load(""), {"001_x.sql": sql})

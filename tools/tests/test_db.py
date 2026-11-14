@@ -145,6 +145,49 @@ class LoadDumpRoundTrip(unittest.TestCase):
     def test_dump_ends_with_newline(self):
         self.assertTrue(db.dump(fresh()).endswith("\n"))
 
+    def test_computed_reals_reload_exactly(self):
+        # SQLite before 3.52 parses some 17-digit decimals one bit off, so the dump
+        # must not depend on SQLite's text-to-float conversion.
+        conn = db.load("CREATE TABLE m (id INTEGER PRIMARY KEY, v REAL) STRICT;")
+        conn.execute("INSERT INTO m(v) VALUES (201.7 * 0.45359237)")
+        conn.executemany("INSERT INTO m(v) VALUES (?)",
+                         [(4.717335738064366e-308,), (5.452420396569384e+125,),
+                          (-4.805255000273626e-52,), (5e-324,), (1.7976931348623157e308,)])
+        want = [r[0] for r in conn.execute("SELECT v FROM m ORDER BY id")]
+        reloaded = db.load(self.assertRoundTrips(conn))
+        self.assertEqual([r[0] for r in reloaded.execute("SELECT v FROM m ORDER BY id")], want)
+
+    def test_random_reals_reload_exactly(self):
+        import random
+        import struct
+        rng = random.Random(1)
+        values = []
+        while len(values) < 3000:
+            f = struct.unpack("d", struct.pack("Q", rng.getrandbits(64)))[0]
+            if f == f:
+                values.append(f)
+        conn = db.load("CREATE TABLE m (id INTEGER PRIMARY KEY, v REAL) STRICT;")
+        conn.executemany("INSERT INTO m(v) VALUES (?)", [(v,) for v in values])
+        reloaded = db.load(self.assertRoundTrips(conn))
+        got = [r[0] for r in reloaded.execute("SELECT v FROM m ORDER BY id")]
+        self.assertEqual([struct.pack("d", v) for v in got],
+                         [struct.pack("d", v) for v in values])
+
+    def test_types_in_any_columns_survive(self):
+        conn = db.load("CREATE TABLE a (id INTEGER PRIMARY KEY, v ANY) STRICT;")
+        values = [5, 5.0, "5", b"5", None, -0.0, 2 ** 63 - 1, -2 ** 63, "it's"]
+        conn.executemany("INSERT INTO a(v) VALUES (?)", [(v,) for v in values])
+        reloaded = db.load(self.assertRoundTrips(conn))
+        got = list(reloaded.execute("SELECT typeof(v), v FROM a ORDER BY id"))
+        self.assertEqual(got, list(conn.execute("SELECT typeof(v), v FROM a ORDER BY id")))
+
+    def test_hand_written_statements_still_load(self):
+        conn = db.load("CREATE TABLE t (id INTEGER PRIMARY KEY, v REAL, n TEXT) STRICT;\n"
+                       "INSERT INTO t VALUES (1, 1.5 * 2, 'a');\n"
+                       "INSERT INTO t(id, n) VALUES(2,'b'),(3,'c');\n")
+        self.assertEqual(list(conn.execute("SELECT * FROM t ORDER BY id")),
+                         [(1, 3.0, "a"), (2, None, "b"), (3, None, "c")])
+
     def test_load_rejects_garbage(self):
         with self.assertRaises(FarmError):
             db.load("THIS IS NOT SQL;")
