@@ -66,6 +66,7 @@ If first flowers come earlier or later than Nov 1, move the first SOP dose to ma
 | 2026-11-08 | 53 | all | Urine ~200–250 mL aged, diluted ~1:5 | 4th plant: a wild cat played with it and knocked off all its ♀ flowers and baby fruit; plant survived, but growing tip and main stem a little damaged. 3 fruits growing (1 per plant): 2 × ~17 cm, 1 × ~21 cm but still thin (biggest plant; wait for ~3.5–4 cm thick). Fruit reached 17–21 cm **4 days** after pollination (Nov 4), faster than the 6–10 d expected. Hand-pollinated 3 new ♀ flowers today → cut ~Nov 12–13 (4–5 d, per first batch) |
 | 2026-11-09 | 54 | 3 of 4 (1 each) | | **First harvest: 3 fruits, ~975 g total.** 2 × 21 cm (~275 g each), 1 × 28 cm (425 g); all 4.5–5 cm thick. **5 days** after pollination (Nov 4). Above the 200–250 g target: cut a little earlier (~18–20 cm, ~4 cm thick) for best texture |
 | 2026-11-13 | 58 | 3 of 4 | | **Harvest: 3 fruits, 771 g total.** Cat-damaged plant (#4) now opens only ♂ flowers; those are used to hand-pollinate the other 3 plants, which currently have only ♀ flowers |
+| 2026-11-14 | 59 | | SOP + urine (fresh); amounts not recorded | |
 |  |  |  |  |  |
 
 ## Open questions
