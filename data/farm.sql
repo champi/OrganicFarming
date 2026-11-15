@@ -169,6 +169,8 @@ INSERT INTO "observations" VALUES(4,'2026-11-04',12,NULL,'phenology','hand-polli
 INSERT INTO "observations" VALUES(5,'2026-11-08',12,NULL,'other','cat damage to plant 4',NULL,25.0,NULL,'female flowers and baby fruit knocked off; tip and main stem slightly damaged. Hand-pollinated 3 new female flowers');
 INSERT INTO "observations" VALUES(6,'2026-11-13',12,NULL,'phenology','plant 4 opens only male flowers',NULL,NULL,NULL,'used to hand-pollinate the other 3, which have only female flowers');
 INSERT INTO "observations" VALUES(7,'2026-11-14',13,NULL,'phenology','first male flowers opening',NULL,NULL,NULL,NULL);
+INSERT INTO "observations" VALUES(8,'2026-11-14',12,NULL,'phenology','plant 4 opened a male flower',NULL,NULL,NULL,'cat-damaged plant');
+INSERT INTO "observations" VALUES(9,'2026-11-15',12,NULL,'phenology','plants 1-3: 5th female flower opened; still only female flowers',NULL,NULL,NULL,'each currently on its 3rd fruit. Plant 4 opened no male flower today');
 CREATE TABLE plantings (
   id              INTEGER PRIMARY KEY,
   crop_id         INTEGER NOT NULL REFERENCES crops(id),
