@@ -6,6 +6,7 @@ Guides, protocols, and scientific references for organic farming practices.
 
 | Document | Description |
 |---|---|
+| [farm-rules-to-remember.md](farm-rules-to-remember.md) | Lessons to always apply, checked before buying seeds or planning plantings. First rule: pair every female-heavy squash or zucchini (e.g. President F1) with a male-heavy pollen variety of the same species. |
 | [GOALS.md](GOALS.md) | Farm data goals ranked by priority (core planting/harvest log, inputs, continuous harvest, variety trials, sales, pests, input effectiveness, soil, weather, family supply; future: profit, own seed, traceability, certification), with status and data each needs. |
 | [bone-ash-phosphorus-fertilizer.md](bone-ash-phosphorus-fertilizer.md) | Comprehensive guide to using bone ash as phosphorus fertilizer in organic farming. Covers 7 methods (direct soil, vermicomposting, citric acid, vinegar/KNF, microbial solubilization, mycorrhizal integration, and a complete hybrid protocol) with 46+ peer-reviewed references. |
 | [volcan-garden-bed-slope-design.md](volcan-garden-bed-slope-design.md) | Garden bed design on Volcán's Andisol slopes: bed shape, orientation relative to slope, drainage channels (swales, grassed waterways, diversions), and erosion control while keeping drainage. Includes a Three Sisters mound assessment for low-slope land, with AMF/P management for maize on Andisols. |

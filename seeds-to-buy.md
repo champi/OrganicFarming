@@ -2,6 +2,10 @@
 
 Running list of seeds and planting material to buy for the Volcán garden, grouped by shop. Variety research lives in each crop's own file. Quantities assume family use plus a small surplus to sell.
 
+> **Before every order, check [farm-rules-to-remember.md](farm-rules-to-remember.md).** Most important: **pair every female-heavy squash or zucchini** (winter-greenhouse, "short day / cold set" or parthenocarpic hybrids such as President F1) **with a male-heavy variety of the same species** as a pollen source. Buy about 1 pollen plant per 4–5 main plants and sow it about 1 week earlier. In Nov 2026, President F1 made almost only female flowers in Volcán.
+>
+> **Zucchini TODO:** we don't know yet whether Mexicana F1 (Johnny's cart) or President F1 makes enough male flowers in Volcán's cool season. Before the next zucchini sowing, choose and add a male-heavy *C. pepo* pollen variety (research with `/seed`).
+
 ## Buy now
 
 ### Hazzard's (Hazwho store) — ~$29.26
