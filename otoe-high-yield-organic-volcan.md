@@ -86,7 +86,7 @@
 - **Deep tillage to 30 cm + pit planting** gave the highest cormel number and yield. Pits beat mounds in Kerala (Jayapal 2020). CARDI instead advises **ridges** (45 cm high, 90 cm base) on the contour, and not mounds, for drainage. Both reject plain mounds. On a wet slope, the ridge or a raised bed is the safer choice.
 - **Earthing-up raises marketable cormels.** Two earthings-up gave +70% commercial cormels in mangarito (*X. mafaffa*) (Heredia Zárate, Brazil). Kerala earths up at 2, 4 and 6 months.
 - **Density:** 2.78 plants/m² (≈60 × 60 cm) gave +50.6% marketable cormels, and 1.78/m² +19.3%, vs 1.23/m² (Hotsonyame & Ahiekpor, Ghana). Per-plant cormel weight fell at high density but cormel size didn't. Used elsewhere: PR 1 × 0.7 m, Kerala 0.75 × 0.75 m, CTCRI 0.9 × 0.9 m, MIDA 1.0 × 0.45 m.
-  - **For Volcán:** ~0.75 × 0.75 m (1.8/m²) balances yield against airflow in the wet.
+  - **For Volcán:** ~0.75 × 0.75 m (1.8/m²) balances yield against airflow in the wet. 1 × 1 m is also fine: it gives more per plant and less per m². Per-plant yields and spacing trials: [otoe-yield-per-plant-spacing.md](otoe-yield-per-plant-spacing.md).
 - **Rice husk or coir pith 500 g/plant** as a soil conditioner raised yield, lowered bulk density and raised porosity (Jayapal 2020). Yield correlated negatively with bulk density.
 
 ---
