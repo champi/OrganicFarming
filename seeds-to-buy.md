@@ -85,6 +85,22 @@ To research with `/seed`. Pick shops already on this list (Johnny's, Paramount) 
 | Tomatillo | Not self-fertile: buy enough for at least 2 plants |
 | Estragón (tarragon) | Grow **Mexican tarragon** (*Tagetes lucida*, pericón/hierbanís) from seed. It's native to the highlands and tastes close to French tarragon. French tarragon is sterile (plants only) and likely to rot in Volcán's humidity. "Tarragon seed" is Russian tarragon, which has little flavor. Seed is sold at Strictly Medicinal and Baker Creek (price and stock not checked) |
 
+### Bok choy and other Asian vegetables — variety and shop not decided
+
+To research with `/seed` or `/tasty-seed`. Most are quick, cool-loving brassicas that should suit Volcán; check bolting and heat tolerance. Pick shops already on this list where possible.
+
+| Crop | Notes |
+|---|---|
+| Bok choy / pak choi | Main pick. Baby and full-size types |
+| Choy sum, gai lan (Chinese broccoli) | Flowering-stem brassicas |
+| Napa cabbage (Chinese cabbage) | |
+| Tatsoi, mizuna, komatsuna | Fast salad/stir-fry greens |
+| Shungiku (edible chrysanthemum) | |
+| Shiso / perilla | |
+| Garlic chives (nira) | Perennial |
+| Daikon | |
+| Yardlong bean, edamame | Warm-season |
+
 ### Hierba buena (spearmint, *Mentha spicata*) — buy as a plant or cuttings, not seed
 
 Mint does not come true from seed: seedlings vary in flavor, and the plants sold in Panama as hierba buena may be hybrids. Buy one healthy potted plant or a few stem cuttings with good flavor locally (vivero, market, or a neighbour). Taste a leaf first. Cuttings root in water or moist soil in 1–2 weeks. It spreads by runners, so grow it in a pot or a bed with edging.
