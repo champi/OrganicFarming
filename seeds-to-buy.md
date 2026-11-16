@@ -8,6 +8,10 @@ Running list of seeds and planting material to buy for the Volcán garden, group
 
 ## Buy now
 
+### Otoe planting material (local, no shop)
+
+~330 pieces for 150 m² at 1 × 0.5 m, for late Apr–May planting. Try MIDA Potrerillos *cepas* first, then a grower or Merca David. See [otoe-planting-material-sources-chiriqui.md](otoe-planting-material-sources-chiriqui.md).
+
 ### Hazzard's (Hazwho store) — ~$29.26
 
 Use the Hazwho store links, not the `/basil-thai-*.html` retail pages. All three ship together.
