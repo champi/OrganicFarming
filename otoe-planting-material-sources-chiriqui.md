@@ -14,7 +14,7 @@
 
 | # | Source | What you get | Cost | Notes |
 |---|---|---|---|---|
-| 1 | **MIDA Potrerillos seed validation center** (Potrerillos Arriba, Dolega, finca 170) | Otoe *cepas* for small farmers and family gardens | Probably free or nominal (not stated) | Ask at the MIDA Volcán or Bugaba agency first: they can refer you. MIDA switchboard printed as "507-06900 / 507-0606" (verify). Confirmed 2024 and Nov 2025 |
+| 1 | **MIDA Potrerillos seed validation center** (Potrerillos Arriba, Dolega, finca 170) | Otoe *cepas* for small farmers and family gardens | Probably free or nominal (not stated) | Ask at the MIDA Volcán or Bugaba agency first: they can refer you. MIDA switchboard printed as "507-06900 / 507-0606" (verify). Confirmed 2024 and Nov 2025. **2026-11-17: Franklin Concepción confirmed they have San Andrés seed. Arrange the date and quantity with him** |
 | 2 | **Local otoe growers** (Chiriquí: Alanje, Bugaba, San Carlos/Sabana Bonita/Guacá in David, Dolega) | Mother corms right after harvest, possibly cormels | Cheap: corms are a by-product | Ask MIDA extension, sellers at Merca David, or Ngäbe workers who grow it at home. Look at their field for *mal seco* first |
 | 3 | **Merca David** (wholesale until 3 pm, producers' trucks until 8 am) | Cormels to plant whole (pick small 50–80 g ones) | ~$1–1.50/lb now → 17–25 kg ≈ **$40–80** | Ask the grower-sellers for *cepas* too. Almost all Panama otoe is the San Andrés clone (lila) |
 | 4 | **Supermarkets** (Super Barú $6.39/kg, Jumbo, El Fuerte) | Cormels | 17–25 kg ≈ $110–160 at Super Barú | Most expensive. Fine for a first test of 10–20 plants |
