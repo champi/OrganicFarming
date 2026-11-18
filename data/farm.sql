@@ -54,7 +54,7 @@ INSERT INTO "applications" VALUES(39,'2026-11-13',7,NULL,12,50.0,'g','per_cluste
 INSERT INTO "applications" VALUES(40,'2026-11-13',7,NULL,13,37.0,'g','per_cluster','uphill, mixed with vermicast + SOP; about half of the 434 clusters (rest to continue)');
 INSERT INTO "applications" VALUES(41,'2026-11-13',7,NULL,14,15.0,'g','per_cluster','uphill, mixed with bone ash + SOP; about half of the 434 clusters (rest to continue)');
 INSERT INTO "applications" VALUES(42,'2026-11-13',7,NULL,10,9.0,'g','per_cluster','uphill, mixed with bone ash + vermicast; about half of the 434 clusters (rest to continue)');
-INSERT INTO "applications" VALUES(43,'2026-11-16',11,NULL,8,NULL,NULL,NULL,NULL);
+INSERT INTO "applications" VALUES(43,'2026-11-16',11,NULL,7,NULL,NULL,NULL,'diluted 1:5 with water');
 INSERT INTO "applications" VALUES(44,'2026-11-16',16,NULL,2,1.0,'handful','per_plant','at sowing, in planting hole');
 INSERT INTO "applications" VALUES(45,'2026-11-16',16,NULL,1,NULL,NULL,NULL,'at sowing');
 CREATE TABLE beds (                       -- where things grow
