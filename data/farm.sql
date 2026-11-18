@@ -208,7 +208,7 @@ INSERT INTO "plantings" VALUES(12,9,4,7,NULL,'direct_seed','2026-09-16',NULL,4,N
 INSERT INTO "plantings" VALUES(13,10,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Rented house; sow date not recorded (garden-input-log-2026.md)',NULL);
 INSERT INTO "plantings" VALUES(14,3,NULL,8,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'4-6 plants, with strawberries',NULL);
 INSERT INTO "plantings" VALUES(15,10,NULL,3,NULL,'direct_seed','2026-11-12',NULL,8,NULL,NULL,NULL,NULL,NULL,'about one pumpkin every 4 corn clusters',NULL);
-INSERT INTO "plantings" VALUES(16,9,NULL,6,NULL,'direct_seed','2026-11-16',NULL,8,NULL,NULL,NULL,NULL,NULL,'second sowing next to the 2026-10-12 planting; same amendments',NULL);
+INSERT INTO "plantings" VALUES(16,9,4,6,NULL,'direct_seed','2026-11-16',NULL,8,NULL,NULL,NULL,NULL,NULL,'second sowing next to the 2026-10-12 planting; same amendments',NULL);
 CREATE TABLE schema_migrations (
     name TEXT PRIMARY KEY,
     sha256 TEXT NOT NULL,
