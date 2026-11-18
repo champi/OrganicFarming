@@ -21,7 +21,7 @@ INSERT INTO "applications" VALUES(6,'2026-10-12',10,NULL,1,NULL,NULL,NULL,'at so
 INSERT INTO "applications" VALUES(7,'2026-10-12',11,NULL,1,NULL,NULL,NULL,'at sowing');
 INSERT INTO "applications" VALUES(8,'2026-10-12',9,NULL,2,NULL,NULL,NULL,'at sowing');
 INSERT INTO "applications" VALUES(9,'2026-10-12',10,NULL,2,NULL,NULL,NULL,'at sowing');
-INSERT INTO "applications" VALUES(10,'2026-10-12',11,NULL,2,NULL,NULL,NULL,'at sowing');
+INSERT INTO "applications" VALUES(10,'2026-10-12',11,NULL,2,1.0,'handful','per_plant','at sowing, in planting hole');
 INSERT INTO "applications" VALUES(11,'2026-10-12',1,NULL,2,NULL,NULL,NULL,NULL);
 INSERT INTO "applications" VALUES(12,'2026-10-09',5,NULL,3,NULL,NULL,NULL,NULL);
 INSERT INTO "applications" VALUES(13,'2026-09-16',12,NULL,1,NULL,NULL,NULL,'at sowing');
@@ -54,6 +54,9 @@ INSERT INTO "applications" VALUES(39,'2026-11-13',7,NULL,12,50.0,'g','per_cluste
 INSERT INTO "applications" VALUES(40,'2026-11-13',7,NULL,13,37.0,'g','per_cluster','uphill, mixed with vermicast + SOP; about half of the 434 clusters (rest to continue)');
 INSERT INTO "applications" VALUES(41,'2026-11-13',7,NULL,14,15.0,'g','per_cluster','uphill, mixed with bone ash + SOP; about half of the 434 clusters (rest to continue)');
 INSERT INTO "applications" VALUES(42,'2026-11-13',7,NULL,10,9.0,'g','per_cluster','uphill, mixed with bone ash + vermicast; about half of the 434 clusters (rest to continue)');
+INSERT INTO "applications" VALUES(43,'2026-11-16',11,NULL,8,NULL,NULL,NULL,NULL);
+INSERT INTO "applications" VALUES(44,'2026-11-16',16,NULL,2,1.0,'handful','per_plant','at sowing, in planting hole');
+INSERT INTO "applications" VALUES(45,'2026-11-16',16,NULL,1,NULL,NULL,NULL,'at sowing');
 CREATE TABLE beds (                       -- where things grow
   id        INTEGER PRIMARY KEY,
   name      TEXT NOT NULL UNIQUE,         -- e.g. 'Raised bed baru 2', 'Entrance mounds row 1-4'
@@ -171,6 +174,7 @@ INSERT INTO "observations" VALUES(6,'2026-11-13',12,NULL,'phenology','plant 4 op
 INSERT INTO "observations" VALUES(7,'2026-11-14',13,NULL,'phenology','first male flowers opening',NULL,NULL,NULL,NULL);
 INSERT INTO "observations" VALUES(8,'2026-11-14',12,NULL,'phenology','plant 4 opened a male flower',NULL,NULL,NULL,'cat-damaged plant');
 INSERT INTO "observations" VALUES(9,'2026-11-15',12,NULL,'phenology','plants 1-3: 5th female flower opened; still only female flowers',NULL,NULL,NULL,'each currently on its 3rd fruit. Plant 4 opened no male flower today');
+INSERT INTO "observations" VALUES(10,'2026-11-18',11,NULL,'phenology','emergence: 7 of 9 came up',NULL,NULL,NULL,'one of the 7 still tiny compared to the others; date reported, not date counted');
 CREATE TABLE plantings (
   id              INTEGER PRIMARY KEY,
   crop_id         INTEGER NOT NULL REFERENCES crops(id),
@@ -204,6 +208,7 @@ INSERT INTO "plantings" VALUES(12,9,4,7,NULL,'direct_seed','2026-09-16',NULL,4,N
 INSERT INTO "plantings" VALUES(13,10,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Rented house; sow date not recorded (garden-input-log-2026.md)',NULL);
 INSERT INTO "plantings" VALUES(14,3,NULL,8,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'4-6 plants, with strawberries',NULL);
 INSERT INTO "plantings" VALUES(15,10,NULL,3,NULL,'direct_seed','2026-11-12',NULL,8,NULL,NULL,NULL,NULL,NULL,'about one pumpkin every 4 corn clusters',NULL);
+INSERT INTO "plantings" VALUES(16,9,NULL,6,NULL,'direct_seed','2026-11-16',NULL,8,NULL,NULL,NULL,NULL,NULL,'second sowing next to the 2026-10-12 planting; same amendments',NULL);
 CREATE TABLE schema_migrations (
     name TEXT PRIMARY KEY,
     sha256 TEXT NOT NULL,
