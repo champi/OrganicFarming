@@ -131,6 +131,7 @@ CREATE TABLE harvests (
 ) STRICT;
 INSERT INTO "harvests" VALUES(1,'2026-11-09',12,0.975,3,'2 x 21 cm (~275 g), 1 x 28 cm (425 g); 5 days after pollination');
 INSERT INTO "harvests" VALUES(2,'2026-11-13',12,0.771,3,NULL);
+INSERT INTO "harvests" VALUES(3,'2026-11-19',12,0.235,2,'from the biggest of the 4 plants; picked because they had stopped growing; both rather small');
 CREATE TABLE inputs (                     -- things applied: biochar mix, bone ash, Great White …
   id      INTEGER PRIMARY KEY,
   name    TEXT NOT NULL UNIQUE,
