@@ -178,6 +178,8 @@ INSERT INTO "observations" VALUES(9,'2026-11-15',12,NULL,'phenology','plants 1-3
 INSERT INTO "observations" VALUES(10,'2026-11-18',11,NULL,'phenology','emergence: 7 of 9 came up',NULL,NULL,NULL,'one of the 7 still tiny compared to the others; date reported, not date counted');
 INSERT INTO "observations" VALUES(11,'2026-11-18',12,NULL,'phenology','fruit from Nov 13 pollination growing much slower',NULL,NULL,NULL,'only 2 fruits on the plant');
 INSERT INTO "observations" VALUES(12,'2026-11-18',12,NULL,'disease','powdery mildew',NULL,NULL,NULL,'on some unopened male flower buds');
+INSERT INTO "observations" VALUES(13,'2026-11-18',12,NULL,'phenology','hand-pollinated 1 female flower',NULL,NULL,NULL,'male flower used did not seem healthy');
+INSERT INTO "observations" VALUES(14,'2026-11-19',12,NULL,'phenology','hand-pollinated 2 female flowers',NULL,NULL,NULL,'on two other plants; healthy male flower used');
 CREATE TABLE plantings (
   id              INTEGER PRIMARY KEY,
   crop_id         INTEGER NOT NULL REFERENCES crops(id),
