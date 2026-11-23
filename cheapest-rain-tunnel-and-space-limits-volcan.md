@@ -17,7 +17,7 @@
    - Plastic comes from a 6 m-wide roll.
    - Hoops sit on ½–⅝″ rebar about 90 cm long, driven 60 cm deep, every 1.2–1.5 m.
    - Ropes go over the plastic between hoops (the "caterpillar" tie-down). The bottom 50–60 cm of each side stays open.
-   - Rough cost: about **$7.5–9/m² covered**, or $10–12/m² of bed. These are estimates; get quotes.
+   - Rough cost: about **$6–9/m² covered**, or $8–11/m² of bed. These are estimates; get quotes.
    - Leaf-only beds can use a low single-bed tunnel instead: about 1 m tall, about $6/m².
 5. **Volcán timing: the rain and the wind come in different months.** The windiest months (Dec–Mar, 9–12 km/h average, cold-front gusts near 100 km/h) are the dry months, with 4–78 mm of rain a month. **Take the plastic off from about January to March.** That avoids most wind damage and adds about a third to the film's life.
 
