@@ -4,6 +4,8 @@
 
 ## Recommendation for Volcán
 
+> If the goal is maximum output per m² (fewest, narrowest paths), see [market-garden-space-maximizing-stones-sifting-volcan.md](market-garden-space-maximizing-stones-sifting-volcan.md): 1.0–1.2 m beds with 30 cm paths.
+
 | Item | Choice | Why |
 |---|---|---|
 | Bed top width | **75 cm** | World market-garden standard. Hoops, netting, broadforks, seeders and rakes are made for it. You can step over it and reach the middle without bending far. |
