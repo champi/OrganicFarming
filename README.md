@@ -27,6 +27,7 @@ Guides, protocols, and scientific references for organic farming practices.
 | [cilantro-spacing-pine-needle-mulch.md](cilantro-spacing-pine-needle-mulch.md) | Cilantro transplant spacing (6–8 in for leaves, ~12 in rows) and pine-needle mulch: the acidity myth debunked, why pine straw is ideal for cilantro (cool soil delays the 75°F bolt trigger), and the documented leaf-burn phenomenon (radiant heat from glossy mulch surfaces + wet-mulch contact) with prevention steps. |
 
 | [banana-planting-suckers-spacing-volcan.md](banana-planting-suckers-spacing-volcan.md) | Banana/plantain planting in Volcán: how to tell a sword sucker (*hijo de espada*) from a water sucker, ideal sucker size (1–2 kg, 0.5–1.5 m), spacing (3 × 3 m tall / 2.5 × 2.5 m dwarf), and why a 40 × 40 × 40 cm hole is enough on Andisols; paring and boiling-water cleaning. |
+| [broilers-pastured-revenue-volcan.md](broilers-pastured-revenue-volcan.md) | Organic/pastured broilers for high revenue on little land: ranked revenue levers (direct sales, parting out, offal, broth, mortality, feed, trees), land per bird, Volcán climate vs broiler needs (lowland heat vs highland ascites at 1,400 m, mitigation), strain choice, Panama organic/slaughter rules and verified pasture-chicken prices. |
 
 ---
 
