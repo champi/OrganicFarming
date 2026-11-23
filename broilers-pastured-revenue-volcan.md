@@ -53,6 +53,20 @@ Status: research only, no decision. Own synthesis flagged **[own]**.
 | vs. daily-moved tractor (Bassler) | — | 800-1,000 m² | — |
 - Certified "orgánico" in Panama → 4 m² (fixed) or 2.5 m² (mobile) outdoor/bird is the floor. Uncertified ("sin medicamentos", organic feed) → USDA-level 0.2 + 0.2 m²/bird is the smallest documented organic standard.
 
+### 200 m² at USDA space — revenue estimate **[own]** (2026-11-23)
+Assumptions: 0.19 m² house + 0.19 m² yard = 0.37 m²/bird; 15 % of 200 m² for brooder/feed/aisles → 170 m² → **~460 birds placed/batch**; brooding off-site 3 wk; 10 % mortality → 414 sold; price $8/kg carcass (Panama Naturals $8.10, Boquete Meats $7.78, verified 2026-11-23).
+| | Cornish Cross | Slow-growing |
+|---|---|---|
+| Weeks in house + cleanout | ~5 + 2 → 7 batches/yr | ~8 + 2 → 5 batches/yr |
+| Carcass | 2.3 kg (NY study 5 lb) | 1.9 kg |
+| Revenue/bird | ~$18 | ~$15 |
+| Birds sold/yr | ~2,900 (~56/wk) | ~2,070 (~40/wk) |
+| **Gross revenue/yr** | **~$53,000** | **~$31,500** |
+| Feed/bird, conventional price (INEC B/.25/100 lb ≈ $0.55/kg) | 6.5 kg ≈ $3.60 | 6.0 kg ≈ $3.30 |
+- Organic feed price in Panama: not found. Chick, processing, packaging, labour costs in Panama: not found.
+- Limits before space: (1) market: ~40-56 birds/wk at premium price in Volcán/Boquete unproven; (2) legal slaughter (open question); (3) manure: 460 birds on 200 m² ≫ 580/ha N cap → litter must be composted and exported to trees/garden; (4) 0.19 m²/bird yard cannot keep vegetation (USDA wants ≥ 75 % soil + cover) → yard = dirt/litter run.
+- Same 200 m² under Panama organic fixed house (0.14 + 2 × 4 m² alternating yards) ≈ 21 birds/batch.
+
 ### "No medicine" — what the rules and evidence say
 - Panama Art. 46: vaccines allowed; no systematic preventive medication; Art. 45: sick birds must be treated (bird loses organic status). → "no routine medicine", not "never treat".
 - Organic: anticoccidial drugs banned; only live coccidiosis vaccine (Cervantes & McDougald 2023). Small low-density flocks often manage without (NCAT).
