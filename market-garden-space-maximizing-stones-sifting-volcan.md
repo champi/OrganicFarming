@@ -141,7 +141,39 @@ The 1–1.3 cm mesh is a practical choice: the ½ in mesh is what growers report
   - Firm the row lightly after sowing.
   - Transplanted crops need no fine tilth at all.
 
-## 5. Recommended Volcán layout for the most food per m²
+## 5. Paths, wheelbarrows and bed sides
+
+**Block layout**
+- Narrow 30 cm paths between beds are for feet, kneeling and crates. One wide 60–80 cm wheelbarrow lane runs only along the bed ends of each block of 8–12 beds.
+- Park the wheelbarrow in the lane and carry loads the last few metres. With 10 m beds and a lane at each end, nothing is more than 5 m from a lane. Fortier, Cuba's organopónicos and the French microfarms use this layout.
+
+**Wheelbarrows in 30 cm paths**
+- The wheel (about 8–10 cm wide) fits a 30 cm path. The tray and handles of a typical wheelbarrow are about 60–70 cm wide, so they stick out over the beds. These are typical sizes, not sourced figures.
+  - Empty beds or low crops: you can push a wheelbarrow down the path, for example to spread compost when preparing beds.
+  - Tall or bushy crops (tomato, kale, beans, zucchini): the barrow breaks plants, and your feet step on the bed edges.
+- Inside narrow paths, use crates (about 33 cm wide; Crickmore sized his paths to 13-inch crates), buckets, or a narrow 30–40 cm garden trolley.
+
+**No wooden bed sides**
+- Boards take up 3–5 cm on each side of every bed. Without them, crop roots grow into the mulched path soil (Dowding).
+- Rotting wood harbours slugs and woodlice, which is worse in humid Volcán. Dowding strongly advises against boards in tunnels.
+- Instead, the bed is a mound 10–15 cm high with sloping edges. The condition: paths must stay weed-free, or grass creeps into the bed.
+
+## 6. Best layout summary (most food per m²)
+
+- **Beds:** 1.0–1.2 m wide (1.2–1.3 m in the tunnel), 10 m long, all the same size. Mounded 10–15 cm high, no wooden sides, stakes at the corners, on the contour on slopes.
+- **Paths:** 30 cm, mulched with wood chips or cardboard (not clover or grass). One 60–80 cm wheelbarrow lane per block of 8–12 beds.
+- **Result:** 77–80 % of the land is growing area, against 62.5 % for 75 cm beds with 45 cm paths.
+- **Soil:** about 30 cm loose (wire-flag test; broadfork once only if you hit a hard layer). Screen stones from root and bulb beds only. Never sift whole beds; make a fine seedbed only for direct sowing. Spread 5–10 cm of low-nitrogen compost at the start, then 2–5 cm a year.
+- **Production levers, in order:**
+  1. Rain cover or tunnel (+50–170 %) — see [rain-covers-bed-shelters-volcan.md](rain-covers-bed-shelters-volcan.md)
+  2. Never leave a bed empty (transplants, multisowing)
+  3. Intercropping and relay planting (40–80 % more from the same land)
+  4. Trellising (+25–100 %)
+  5. Offset (triangle) spacing at the dense end, eased in humid spells
+  6. Fast crops (salad mix, radish, rocket, cilantro)
+- The layout adds up to about 28 % more growing area. Levers 1–3 can roughly double the harvest from the same ground.
+
+## 7. Recommended Volcán layout for the most food per m²
 
 1. **Beds:** 1.2 m (tunnel 1.2–1.3 m) or 1.0 m, with **30 cm mulched paths**, no wooden sides, and corner stakes. 77–81 % of the land is in beds.
 2. **Blocks:** 8–12 beds, 10 m long or longer. One 60–80 cm wheelbarrow lane per block.
