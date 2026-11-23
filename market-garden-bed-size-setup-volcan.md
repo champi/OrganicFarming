@@ -110,7 +110,18 @@
 **How to test (moist soil, 2–3 days after rain)**
 - **Wire flag:** push a stiff wire straight down. If it goes 30 cm easily, the soil is fine. If it stops at 10–30 cm, that is a hard layer.
 - **Spade (VESS):** dig out a block of soil and look for platy layers, sharp-edged clods, or roots turning sideways (AHDB; SRUC).
-- Watch for buried pumice stones. IDIAP warns that Volcán's flat land has many small pumice stones that deform bulbs and roots. Rake them out of carrot and onion beds.
+- Watch for buried pumice stones (see below).
+
+**Pumice stones in Volcán's soil**
+- **Source.** The IDIAP onion manual for Tierras Altas (1994) says: *"Como ejemplo de suelos pedregosos tenemos los suelos planos del llano de Volcán, en los que la gran cantidad de pequeñas piedras pómez hace imposible el desarrollo normal de los bulbos y las raíces. Estos suelos requieren de la eliminación gradual de las piedras para que sean altamente productivos, labor que llevaría varios años."* In English: Volcán's flat land has so many small pumice stones that bulbs and roots cannot grow normally, and clearing them takes several years.
+- **Why they are there.** The Volcán plain sits on Barú's huge debris-avalanche and lahar deposits. The Barriles deposit is about 9,000 years old and covers about 990 km²; the Caisán deposit is about 43,500 years old or more (Sherrod et al., USGS 2007; MTU studies). Volcanic gravel and pumice in the soil is normal here.
+- **What they harm.** Only crops whose eaten part is underground. A carrot, onion or radish that hits a stone grows around it, so it forks, stubs or comes out misshapen (UC IPM; U. Maryland Extension). Stones and clods also increased carrot crown rot (AUSVEG). Pumice is otherwise harmless: porous, light and inert, and it helps drainage.
+- **What to do.**
+  - **Root and bulb beds** (carrot, onion, radish, beet, garlic): remove stones bigger than about 1 cm from the top 20–25 cm. Sieve the soil through a 1–2 cm mesh, or rake stones out after broadforking. The harrow tines on Bec Hellouin's Campagnole broadfork exist to lift stones. Keep these crops on the beds with the fewest stones.
+  - **Leaf and fruit crops** (lettuce, kale, squash, tomato, beans): don't bother, beyond pulling stones larger than a fist.
+  - **No-dig beds:** the 5–10 cm compost layer on top gives seedlings a stone-free start. Pick out stones each time a crop is pulled; the bed gets cleaner every year, as IDIAP says.
+  - **Use what you remove:** pile it for path filler or drainage trenches, or screen out the fine pumice for seedling mix and container drainage.
+- **Check your plot.** The IDIAP note is about the flat land of the Llano de Volcán. Dig 3–4 spade holes and count the stones before deciding how much clearing a bed needs.
 
 ## 4. First-time preparation, step by step
 
