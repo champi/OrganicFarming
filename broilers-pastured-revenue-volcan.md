@@ -31,6 +31,35 @@ Status: research only, no decision. Own synthesis flagged **[own]**.
 - Disagreement: Hawaii model says 1,000 birds/acre/yr = only 8 % pasture N need; Bassler N budget is ~10× higher per bird. Check with soil test before stacking batches.
 - **[own]** 0.25 acre free for birds ≈ 250-300 birds/yr N-limited if manure stays; more if day-range bedding is exported to trees.
 
+## Low-space option: house + small yard, organic feed, no routine medicine (owner request 2026-11-23)
+### Legal minimum space per bird
+| Rule | House (indoor) | Outdoor | Source |
+|---|---|---|---|
+| **Panama organic, fixed house** | ≤ 10 birds/m², ≤ 20 kg/m² (text says "mínimo", EU original = max 21 kg) | **4 m²/bird** | DE 121/2015 Anexo 6 |
+| **Panama organic, mobile house** | ≤ 16 birds/m², ≤ 30 kg/m² | **2.5 m²/bird** | DE 121/2015 Anexo 6 |
+| EU organic (current) | same as Panama; mobile ≤ 150 m² floor; ≤ 4,800 birds/compartment; pop-holes 4 m/100 m² | 4 m² fixed | Reg. 2020/464 Art. 15 + Annex I Part IV |
+| USDA organic (from 2025/2029) | ≤ 5 lb/ft² or ≥ 2 ft² (0.19 m²)/bird | ≥ 2 ft² (0.19 m²)/bird, ≥ 75 % soil + vegetation; tractors count as outdoor | 7 CFR 205.241(b)(10), (c)(6) |
+| Panama nitrogen cap | 580 broilers/ha (170 kg N/ha/yr) | — | DE 121/2015 Anexo 6, Art. 63; = EU 889/2008 Annex IV |
+- Panama Art. 77: poultry free-moving, outdoor access when climate allows, no cages. Art. 23: no confinement-only organic. Art. 81: empty house + rest outdoor area between batches → ≥ 2 yards used alternately **[own]**.
+- At 2.5-3 kg live, the kg cap binds: fixed house ≈ 7-8 birds/m² (0.13-0.15 m²/bird); mobile ≈ 10-12 birds/m² (0.09 m²/bird).
+- 580/ha cap: EU guidance computes it from N excreted (INAO 2022); **[own]** read as average places present → ~230 places on 0.4 ha; manure exported to other organic land under a written agreement can extend it in EU (889/2008 Art. 3(3)); Panama equivalent not found.
+
+### Worked example, 100 birds/batch **[own]**
+| Standard | House | Yard (per batch) | 2 alternating yards |
+|---|---|---|---|
+| Panama organic, fixed house | 13-15 m² | 400 m² | 800 m² |
+| Panama organic, mobile house | 9-10 m² | 250 m² | 500 m² |
+| USDA organic | 19 m² | 19 m² | 38 m² |
+| vs. daily-moved tractor (Bassler) | — | 800-1,000 m² | — |
+- Certified "orgánico" in Panama → 4 m² (fixed) or 2.5 m² (mobile) outdoor/bird is the floor. Uncertified ("sin medicamentos", organic feed) → USDA-level 0.2 + 0.2 m²/bird is the smallest documented organic standard.
+
+### "No medicine" — what the rules and evidence say
+- Panama Art. 46: vaccines allowed; no systematic preventive medication; Art. 45: sick birds must be treated (bird loses organic status). → "no routine medicine", not "never treat".
+- Organic: anticoccidial drugs banned; only live coccidiosis vaccine (Cervantes & McDougald 2023). Small low-density flocks often manage without (NCAT).
+- Coccidiosis risk rises with density and wet litter; target litter ~25 % moisture, 10-15 cm deep; feeders never empty; brood separately ≤ 3 wk; ≥ 1 ft² (0.09 m²)/chick in brooder (NCAT, Merck Coccivac guide).
+- Volcán RH 90-94 % May-Nov → wet litter = main risk in a small house **[own]**: roof overhang, raised dry floor, open-sided ventilation, deep litter.
+- Mortality tracks humidity/temperature/litter more than density within 30-46 kg/m² (Dawkins 2004, 2.7 M birds); organic densities (20-30 kg/m²) are below that range.
+
 ## Volcán-specific risks
 ### Climate vs broiler needs (2nd pass 2026-11-23; supersedes 1st-pass "15-25 %" figure)
 | | Volcán | David (lowland) | Broiler target |
