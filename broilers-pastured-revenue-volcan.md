@@ -67,6 +67,35 @@ Assumptions: 0.19 m² house + 0.19 m² yard = 0.37 m²/bird; 15 % of 200 m² for
 - Limits before space: (1) market: ~40-56 birds/wk at premium price in Volcán/Boquete unproven; (2) legal slaughter (open question); (3) manure: 460 birds on 200 m² ≫ 580/ha N cap → litter must be composted and exported to trees/garden; (4) 0.19 m²/bird yard cannot keep vegetation (USDA wants ≥ 75 % soil + cover) → yard = dirt/litter run.
 - Same 200 m² under Panama organic fixed house (0.14 + 2 × 4 m² alternating yards) ≈ 21 birds/batch.
 
+### 200 m² — profit estimate **[own]** (2026-11-23), per bird sold, before owner labour
+Inputs found:
+| Input | Value | Source |
+|---|---|---|
+| Conventional broiler feed (engorde), Panama | B/.25.80/quintal = $0.57/kg (Dec 2025) | INEC precios pagados 2025, Cuadro 1 |
+| Broiler chick, Panama | B/.0.84 each (2025) | INEC 2025 |
+| Organic broiler grower, USA retail (no Panama source found) | $26.44 / 50 lb = $1.17/kg, before shipping/import | shopkoffi.com Code 210 |
+| Organic vs conventional grain, USA | corn 2.9×, soy 2.1× (Nov 2026) | USDA-AMS via non-gmoreport.com |
+| Bags, ice, propane | ~$0.70/bird | NC State AG-886 budget |
+| Bedding | ~$0.30/bird | NC State AG-886 |
+| Marketing | 8 % of gross | NC State AG-886 |
+| Experienced labour | ~10 min/bird | CIAS Wisconsin |
+- Organic feed landed in Volcán assumed $1.20-1.70/kg. Capital (house, brooder, freezer) assumed ~$1/bird. Slaughter assumed on-farm (legal status open). Slow-chick price assumed $1.10.
+
+| Per bird sold | Cornish Cross, organic feed | CC, conventional feed | Slow-growing, organic feed |
+|---|---|---|---|
+| Revenue | $18.40 | $18.40 | $15.20 |
+| Feed | 6.8 kg → $8.20-11.60 | $3.90 | 7.0 kg → $8.40-11.90 |
+| Chick (÷ 0.9 survival) | $0.93 | $0.93 | $1.20 |
+| Bedding, brooding, bags/ice/gas | $1.20 | $1.20 | $1.20 |
+| Marketing 8 % | $1.47 | $1.47 | $1.22 |
+| Capital | $1.00 | $1.00 | $1.00 |
+| **Margin** | **$2.00-5.60** | **$9.90** | **−$1.30 to +$2.20** |
+| × birds/yr | 2,900 → **$5,800-16,200** | 2,900 → **$28,700** | 2,070 → **−$2,700 to +$4,600** |
+| Owner labour 10 min/bird | ~480 h → $12-34/h | ~$60/h | ~345 h → ≤ $13/h |
+- Feed price decides everything: organic feed takes 45-65 % of revenue. Without a Panama organic feed source the organic version is not buildable.
+- NY 36-farm reality check: budgets overstate; real farms netted +$1.26/bird before labour, −$13 with labour (LNE22-435). Beginners take up to 1 h/bird → CC organic ≈ $2-6/h.
+- Not counted: unsold product, freezer power, transport, licences/permits, losses to predators above 10 %.
+
 ### "No medicine" — what the rules and evidence say
 - Panama Art. 46: vaccines allowed; no systematic preventive medication; Art. 45: sick birds must be treated (bird loses organic status). → "no routine medicine", not "never treat".
 - Organic: anticoccidial drugs banned; only live coccidiosis vaccine (Cervantes & McDougald 2023). Small low-density flocks often manage without (NCAT).
