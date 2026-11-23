@@ -109,6 +109,72 @@
 - Check for a hard layer down to **60 cm**. Loosen deeper once only if you find one.
 - After that, don't dig. Feed the surface and keep roots growing.
 
+### 3b. More evidence on digging depth (added 23 Nov 2026, about 25 more searches)
+
+**Global meta-analyses of deep loosening**
+- **Average gain is small and depends on the site:**
+  - Deep tillage averaged +6 % yield across 1,530 comparisons, but about 40 % of cases lost yield.
+  - Where a root-restricting (usually compacted) layer existed, the response was 20 % higher.
+  - The gain was larger in dry spells. Soils over 70 % silt had more losses (Schneider et al.).
+- **Depth curve** (Huang et al. 2023; 1,109 cereal observations from 202 studies):
+  - The yield gain peaked at a tillage depth of about 35 cm (+8.8 %) and fell to about 0 at 50 cm.
+  - The suggested optimum is about 40 cm in humid climates.
+  - **In soils lighter than 1.4 g/cm³, yield fell when loosening went deeper than 35 cm.** Volcán's Andisol is about 0.6–0.9 g/cm³.
+- **Subsoiling on small farms:** +8–10 % on average. No-till alone averaged −6 % (*Land* 2022 meta-analysis).
+- **The effect wears off:** deep loosening lasted no more than about 17 months on Argentine no-till soils. One-off loosening has to be followed by roots, organic matter and no trampling.
+
+**Do vegetables need deep loose soil?** Maximum rooting depth (FAO-56, Table 22):
+
+| Depth | Crops |
+|---|---|
+| 0.2–0.3 m | Strawberry |
+| 0.3–0.5 m | Lettuce, spinach, radish, celery, garlic |
+| 0.3–0.6 m | Onion |
+| 0.4–0.6 m | Broccoli, potato |
+| 0.4–0.7 m | Cauliflower |
+| 0.5–0.7 m | Green beans |
+| 0.5–0.8 m | Cabbage |
+| 0.5–1.0 m | Carrot, pepper |
+| 0.6–1.0 m | Zucchini, beet |
+| 0.7–1.2 m | Eggplant, cucumber |
+| 0.7–1.5 m | Tomato |
+| 1.0–1.5 m | Winter squash |
+
+- Roots go below any dug layer anyway, through cracks, old root channels and earthworm burrows. In compact subsoils, roots grow mostly along these biopores (Kautz 2014 review).
+- Forage-radish root channels let the next crop's roots through a plow pan (Williams & Weil 2004).
+- **What matters is no hard layer in the top 30–40 cm, not 60 cm of dug soil.**
+
+**Double digging (60 cm): the evidence is weak**
+- Ecology Action's "4–6× yield" claims come from its own unreplicated comparisons, including one on raw C-horizon subsoil. In those, close spacing and compost changed at the same time as digging depth.
+- Controlled trials:
+  - Holt & Smith 1998: no gain on fertile soil.
+  - Kenya (Mbugwa 2006): a small, borderline gain that grew in the second season (p < 0.10).
+  - Practical Farmers of Iowa 2021: a gain on compacted soil in a drought.
+  - Dowding, 10 years of dig vs no-dig: no significant overall difference. The individual crop differences that were significant all favoured no-dig.
+- **Labour:** 6.5–11 h per 9.3 m² (100 ft²) the first time (Jeavons). Later about 2 h, or 20 min with a U-bar. Wikipedia gives 2–4 h per 10 m².
+- **Cost and side effects:** double-dug beds lost more Mg from the topsoil (Kenya). Turning the soil also moves topsoil carbon down.
+
+**Andisol cautions**
+- **Air space runs out quickly when compacted.** In a Chilean Andisol, air pore functions became critical once bulk density rose above **0.80 g/cm³**. Air capacity fell from 22 % to 11%, and penetration resistance rose from 0.5 to 1.5 MPa (Dörner et al. 2022). Generic compaction thresholds do not apply to Andosols. So trampling and wet working matter more than missing depth.
+- **Thixotropy:** wet Andisol suddenly turns to liquid under pressure. Digging or walking on it wet smears and seals it (Perret & Dorel 1999; WRB).
+- **Irreversible drying:** dried Andisol collapses into a powdery "pseudo-sand" that loses water-holding capacity and erodes. Tilling extends this damage through the whole depth you work (Perret & Dorel 1999). Dig as little and as shallow as possible, and keep the soil covered.
+- **Subsoiling can backfire:** on a Kenyan Vitric Andosol, subsoiling plus minimum tillage **cut infiltration by 25 %**, although it tripled infiltration under conventional tillage (Ngetich 2008).
+- **Japan's 60 cm work is a soil-sickness fix:** Nagano lettuce growers turned the soil to 60 cm with a backhoe to cure continuous-cropping disease and salt build-up. The buried topsoil had to be replaced with compost, P and lime, and the soil was fumigated (Higuchi, JARQ 1988). It is not a way to gain yield on healthy soil.
+- **Shallow tillage was enough:** reduced tillage matched full tillage for Chinese cabbage on volcanic soil (JIRCAS).
+
+**Root crops (carrot, beet, radish, parsnip)**
+- Compaction cut carrot yield by 13–32 % and caused short, blunt and forked roots. A layer of 1.46 g/cm³ cut marketable weight by 32 % (Olymbios & Schwabe 1977; Riley 2014 review; Pietola 1995).
+- **Soil that is too loose also hurts.** Carrots on 1.02 g/cm³ soil yielded less than on 1.31 g/cm³, because fine roots need soil contact (Olymbios & Schwabe 1977; Pietola & Smucker 1998). Firm the seed row after sowing.
+- Carrot yield tracked the depth at which the soil became hard (White 1978). Raised beds gave +10.6 % on clay loam (Rohwer 2021).
+- **Rule:** for root and bulb beds, aim for 30 cm loose and stone-free. Nothing deeper is needed.
+
+**Updated rule for Volcán (unchanged in substance)**
+1. Test first with a wire flag or spade, to 60 cm.
+2. No hard layer (typical of undisturbed Andisol): don't dig. Use the cardboard and compost method; roots will use the existing pores.
+3. Hard layer found (old pasture, a path, a plow pan): broadfork once to **25–35 cm**, when moist, not wet. Don't go deeper than about 35–40 cm; on light soils deeper loosening lost yield in the meta-analysis. Follow with deep-rooted crops or a radish cover crop and never step on the bed.
+4. Root and bulb beds: 30 cm loose plus stones removed (see the pumice section).
+5. Never double dig as routine. Its 60 cm effort has not shown gains on soil without a compaction problem.
+
 **How to test (moist soil, 2–3 days after rain)**
 - **Wire flag:** push a stiff wire straight down. If it goes 30 cm easily, the soil is fine. If it stops at 10–30 cm, that is a hard layer.
 - **Spade (VESS):** dig out a block of soil and look for platy layers, sharp-edged clods, or roots turning sideways (AHDB; SRUC).
@@ -186,5 +252,19 @@
 | Lowland subtropical summer tomato | Midmore et al. | 1997 | 40 vs 20 cm beds: no yield gain | [doi](https://doi.org/10.1017/s0014479797000070) |
 | Edge effects in carrot beds | Benjamin & Sutherland | 1992 | Outer-row carrots 1.5–2× heavier | [doi](https://doi.org/10.1017/s0021859600071549) |
 | Ergonomics of manual harvest (Sweden) | Pinzke & Lavesson | 2018 | Deep bends about 3,000 N lumbar load | [doi](https://doi.org/10.26444/aaem/93334) |
+| The effect of deep tillage on crop yield: what do we really know? | Schneider et al. | 2017 | +6 % average; 40 % of cases negative; +20 % more where a root-restricting layer exists | [AGRIS](https://agris.fao.org/search/en/providers/125098/records/67a0c7da20478411b027237e) |
+| Effect of deep-tillage depths on crop yield: global meta-analysis | Huang, Islam, Jiang, *Plant Soil Environ.* | 2023 | Gain peaks at about 35 cm; humid about 40 cm; below 1.4 g/cm³, deeper than 35 cm cuts yield | [PDF](https://www.agriculturejournals.cz/pdfs/pse/2023/03/02.pdf) |
+| Soil compaction measures in mechanized and smallholder agriculture: meta-analysis | *Land* 11(5):645 | 2022 | Subsoiling +8–10 %, no-till −6 % | [MDPI](https://www.mdpi.com/2073-445X/11/5/645) |
+| Compaction alleviation by deep non-inversion tillage, Pampas | Peralta et al. | 2021 | Effect lasts at most about 17 months | [PDF](https://aws.agroconsultasonline.com.ar/ticket.html/1-s2.0-S0167198721000921-main.pdf?evento_id=60117&op=d&ticket_id=25755) |
+| FAO-56, Table 22 | Allen et al., FAO | 1998 | Maximum rooting depth by crop | [FAO](https://www.fao.org/4/X0490e/x0490e0e.htm) |
+| Short-term compaction effects on an Andisol | Dörner et al., *Soil Tillage Res.* 221 | 2022 | Aeration critical above 0.80 g/cm³ | [UKY](https://scholars.uky.edu/en/publications/short-term-effects-of-compaction-on-soil-mechanical-properties-an/) |
+| Land use, fertility and Andisol behaviour | Perret & Dorel, *Soil Use Manag.* | 1999 | Thixotropy; tilling spreads irreversible drying through the worked depth | [doi](https://doi.org/10.1111/j.1475-2743.1999.tb00080.x) |
+| Tillage and subsoiling on a Vitric Andosol, Kenya | Ngetich et al., *J. Trop. Agric.* | 2008 | Subsoiling plus minimum till: infiltration −25 % | [JTA](https://jtropag.kau.in/index.php/ojs2/article/view/182) |
+| Soil-turning tillage in continuously cropped vegetable fields | Higuchi et al., JARQ 22(1) | 1988 | 60 cm soil-turning cures soil sickness; needs compost, P and lime | [PDF](https://www.jircas.go.jp/sites/default/files/publication/jarq/22-1-028-033_0.pdf) |
+| Research on subsoil biopores in organically managed soils | Kautz, *Renew. Agric. Food Syst.* | 2014 | Roots follow biopores through compact subsoil | [Cambridge](https://www.cambridge.org/core/journals/renewable-agriculture-and-food-systems/article/research-on-subsoil-biopores-and-their-functions-in-organically-managed-soils-a-review/A72F0E0E7B86FE904A5EC5EE37F6D6C9) |
+| Cover crop root channels and compaction | Williams & Weil | 2004 | Forage radish channels let soybean roots through a plow pan | [RG](https://www.researchgate.net/publication/240789602_Crop_Cover_Root_Channels_May_Alleviate_Soil_Compaction_Effects_on_Soybean_Crop) |
+| Root development in potato and carrot: compaction | Riley et al. | 2014 | Carrot −13 to −32 % on compacted soil; too-loose soil also lowers yield | [T&F](https://www.tandfonline.com/doi/full/10.1080/09064710.2014.977942) |
+| How to Grow More Vegetables (8th ed.) | Jeavons, Ecology Action | 2012 | Double dig 6.5–11 h per 100 ft² the first time | [PDF](https://crpf.mha.gov.in/Upload/MediaGallery/how-to-grow-more-vegetables.pdf) |
+| Dig / no-dig trial | C. Dowding (analysis by T. Olivier) | 2013–2022 | No significant overall difference; significant crop differences all favoured no-dig | [Dowding](https://courses.charlesdowding.co.uk/no-dig-trial-2019-2022-current-year-at-top/) |
 | Assessing soil compaction | Rutgers / UMass / AHDB VESS | — | Wire flag past 30 cm = fine; spade block scoring | [Rutgers](https://extension.rutgers.edu/fs1313) |
 | 76" wire support hoops | Johnny's | — | Hoop about 66 cm wide × 40–45 cm tall | [Johnny's](https://www.johnnyseeds.com/tools-supplies/row-covers-and-accessories/supports-anchors/76%22-wire-support-hoops-100-count-7213.html) |
