@@ -12,7 +12,7 @@ Lessons we always want to apply, learned on the farm or from research. Check thi
 
 **How to apply:**
 - Pollen must come from the **same species**. Zucchini (*Cucurbita pepo*) is pollinated only by *C. pepo* (other zucchini, pattypan, acorn, most pumpkins sold as *pepo*), not by *C. moschata* or *C. maxima*.
-- Ratio: about **1 male-heavy plant per 4–5 female-heavy plants**. One male flower pollinates at least 5 females.
+- Ratio: about **1 male-heavy plant per 4–5 female-heavy plants**. One male flower can pollinate 5 or more females, but each then gets less pollen. Less pollen means fewer seeds, and the fruit stays small with a pointed tip. When males are scarce, hand-pollinate with **1 fresh male per 1–2 females**, before 9–10 am, until every stigma lobe is visibly yellow ([zucchini-pollination-fruit-shape.md](zucchini-pollination-fruit-shape.md)).
 - Sow the pollen partner **about 1 week before** the main variety, so its male flowers are open when the first females open.
 - Prefer an open-pollinated or older variety for the pollen plant. Older, open-pollinated summer squash usually start with male flowers, and many modern hybrids start with females.
 - Before buying, read the seller or breeder sheet for words such as "winter greenhouse", "short day", "cold set", "parthenocarpic" or "fruit set without bees". Any of these means the variety needs a pollen partner.
