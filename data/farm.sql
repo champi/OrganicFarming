@@ -132,6 +132,9 @@ CREATE TABLE harvests (
 INSERT INTO "harvests" VALUES(1,'2026-11-09',12,0.975,3,'2 x 21 cm (~275 g), 1 x 28 cm (425 g); 5 days after pollination');
 INSERT INTO "harvests" VALUES(2,'2026-11-13',12,0.771,3,NULL);
 INSERT INTO "harvests" VALUES(3,'2026-11-19',12,0.235,2,'from the biggest of the 4 plants; picked because they had stopped growing; both rather small');
+INSERT INTO "harvests" VALUES(4,'2026-11-25',12,0.24,6,'mini zucchinis, about 40 g each; poor pollination; harvest date not stated, logged as date reported');
+INSERT INTO "harvests" VALUES(5,'2026-11-23',12,0.15,1,'looked about half pollinated; date approximate ("about 2 days ago")');
+INSERT INTO "harvests" VALUES(6,'2026-11-25',12,0.26,1,'looks good');
 CREATE TABLE inputs (                     -- things applied: biochar mix, bone ash, Great White …
   id      INTEGER PRIMARY KEY,
   name    TEXT NOT NULL UNIQUE,
@@ -180,6 +183,7 @@ INSERT INTO "observations" VALUES(11,'2026-11-18',12,NULL,'phenology','fruit fro
 INSERT INTO "observations" VALUES(12,'2026-11-18',12,NULL,'disease','powdery mildew',NULL,NULL,NULL,'on some unopened male flower buds');
 INSERT INTO "observations" VALUES(13,'2026-11-18',12,NULL,'phenology','hand-pollinated 1 female flower',NULL,NULL,NULL,'male flower used did not seem healthy');
 INSERT INTO "observations" VALUES(14,'2026-11-19',12,NULL,'phenology','hand-pollinated 2 female flowers',NULL,NULL,NULL,'on two other plants; healthy male flower used');
+INSERT INTO "observations" VALUES(15,'2026-11-25',12,NULL,'phenology','poor pollination seems to be the cause of small fruits',NULL,NULL,NULL,'6 mini fruits ~40 g each; one ~150 g fruit looked half pollinated');
 CREATE TABLE plantings (
   id              INTEGER PRIMARY KEY,
   crop_id         INTEGER NOT NULL REFERENCES crops(id),
